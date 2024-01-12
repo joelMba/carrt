@@ -1,0 +1,272 @@
+Boiler,Fan,Water,Leak,criticalLevel,workType,responseTime,processingDuration,resolutionDuration,start,done,planned,end,requested,Class
+False,True,False,False,1,corrective,]16-24],]2-4],]24-48],True,True,True,True,True,Caisson ventil manch
+True,False,False,False,1,corrective,0,]0-1],]0-1],True,True,False,True,False,Dépannage P2_Chauffage individuel
+True,False,False,False,1,corrective,]16-24],]0-1],]16-24],True,True,True,True,True,Dépannage P2_Chauffage individuel
+True,False,False,False,1,corrective,]48-72],]0-1],]48-72],True,True,True,True,True,Remplacement pièce P3
+True,False,False,False,1,corrective,]24-48],]2-4],]24-48],True,True,True,True,True,Dépannage P2_Chauffage individuel
+True,False,False,False,1,preventive,0,0,0,False,False,False,False,False,VP P2_Chauffage indivuduel
+True,False,True,True,1,corrective,]48-72],]0-1],]48-72],True,True,True,True,True,Chaudière sur devis
+True,False,False,True,1,corrective,]48-72],]2-4],]72--[,True,True,True,True,True,Dépannage P2_Chauffage individuel
+True,False,False,False,1,corrective,]24-48],]0-1],]24-48],True,True,True,True,True,Dépannage P2_Chauffage individuel
+False,True,False,False,1,preventive,0,0,0,False,False,False,False,False,VP Nett reseau et bouche
+False,True,False,False,5,corrective,]4-16],]0-1],]4-16],True,True,True,True,True,Dépannage_VMC Gaz
+False,True,False,False,5,corrective,]2-4],]1-2],]4-16],True,True,True,True,True,Dépannage_VMC Gaz
+True,False,False,False,1,corrective,]48-72],]1-2],]48-72],True,True,True,True,True,Remplacement pièce P3
+False,False,False,False,1,corrective,]72--[,]0-1],]72--[,True,True,True,True,True,Bouche hydro_SDB
+False,True,False,False,1,preventive,0,]4-16],]4-16],True,True,False,True,False,VP Caisson gaz
+False,False,False,False,1,preventive,0,0,0,False,False,False,False,False,VP Nett reseau et bouche
+False,True,False,False,1,corrective,]48-72],]2-4],]48-72],True,True,True,True,True,Dépannage_VMC Gaz
+True,False,False,True,5,corrective,0,0,0,False,False,True,False,True,Dépannage P2_Chauffage individuel
+True,False,True,True,5,corrective,]48-72],]1-2],]48-72],True,True,True,True,True,Dépannage P2_Chauffage individuel
+True,False,False,True,1,corrective,]2-4],]1-2],]4-16],True,True,True,True,True,Remplacement pièce P3
+True,False,True,True,1,preventive,0,]1-2],]1-2],True,True,False,True,False,VP P2_Chauffage indivuduel
+True,False,False,False,1,corrective,]4-16],]0-1],]16-24],True,True,True,True,True,Dépannage P2_Chauffage individuel
+True,False,False,False,1,corrective,]24-48],]0-1],]24-48],True,True,True,True,True,Chaudière sur devis
+True,False,False,False,1,corrective,]48-72],]4-16],]48-72],True,True,True,True,True,Dépannage P2_Chauffage individuel
+True,False,False,True,1,corrective,]2-4],]0-1],]2-4],True,True,True,True,True,Dépannage P2_Chauffage individuel
+False,True,False,False,1,corrective,]16-24],]1-2],]16-24],True,True,True,True,True,Dépannage_VMC Gaz
+False,False,False,False,1,preventive,0,0,0,False,False,False,False,False,VP Nett reseau et bouche
+True,False,False,False,1,corrective,]1-2],]2-4],]2-4],True,True,True,True,True,Dépannage P2_Chauffage individuel
+True,False,False,False,1,corrective,]72--[,]1-2],]72--[,True,True,True,True,True,Dépannage P2_Chauffage individuel
+True,False,False,False,1,corrective,]1-2],]1-2],]2-4],True,True,True,True,True,Dépannage P2_Chauffage individuel
+False,False,False,False,1,preventive,0,]0-1],]0-1],True,True,False,True,False,Visite d'entretien annuelle - Ent. Dispositif Sécurité Collectif
+False,False,False,False,1,corrective,0,0,0,False,False,True,False,True,Bouche auto_SDB
+False,False,False,True,1,preventive,0,]0-1],]0-1],True,True,False,True,False,Ramonage P2_Chaudière individuel
+False,True,False,False,1,corrective,]1-2],]2-4],]4-16],True,True,True,True,True,Dépannage_VMC Gaz
+True,False,False,False,1,corrective,]24-48],]0-1],]24-48],True,True,True,True,True,Remplacement pièce P3
+True,False,False,False,1,corrective,0,]0-1],]0-1],True,True,False,True,False,Dépannage P2_Chauffage individuel
+True,False,True,True,5,corrective,]16-24],]0-1],]16-24],True,True,True,True,True,Dépannage P2_Chauffage individuel
+False,True,False,False,1,preventive,0,]1-2],]1-2],True,True,False,True,False,VP Caisson san.
+False,True,False,False,5,corrective,]1-2],]2-4],]4-16],True,True,True,True,True,Dépannage_VMC Gaz
+False,True,False,False,1,corrective,]0-1],]1-2],]2-4],True,True,True,True,True,Dépannage_VMC Gaz
+True,False,False,False,1,corrective,]48-72],]0-1],]48-72],True,True,True,True,True,Dépannage P2_Chauffage individuel
+True,False,False,False,1,corrective,]0-1],]0-1],]0-1],True,True,True,True,True,Dépannage P2_Chauffage individuel
+True,False,True,False,5,corrective,]2-4],]0-1],]2-4],True,True,True,True,True,Dépannage P2_Chauffage individuel
+True,False,False,False,1,corrective,]1-2],]1-2],]2-4],True,True,True,True,True,Remplacement pièce P3
+False,True,False,False,1,preventive,0,]1-2],]1-2],True,True,False,True,False,VP Caisson san.
+False,False,False,False,1,preventive,0,0,0,False,False,False,False,False,Visite d'entretien annuelle - Ent. Dispositif Sécurité Collectif
+True,False,False,True,5,corrective,0,0,0,False,False,True,False,True,Dépannage P2_Chauffage individuel
+False,False,False,False,1,corrective,0,]0-1],]0-1],True,True,True,True,True,Bouche auto_Cuisine
+True,False,False,False,1,corrective,]16-24],]1-2],]16-24],True,True,True,True,True,Dépannage P2_Chauffage individuel
+True,False,False,False,1,corrective,]16-24],]2-4],]24-48],True,True,True,True,True,Dépannage P2_Chauffage individuel
+True,False,True,True,5,corrective,]4-16],]0-1],]4-16],True,True,True,True,True,Dépannage P2_Chauffage individuel
+True,False,True,True,5,corrective,]24-48],]0-1],]24-48],True,True,True,True,True,Dépannage P2_Chauffage individuel
+True,False,False,True,1,corrective,]48-72],]2-4],]72--[,True,True,True,True,True,Dépannage P2_Chauffage individuel
+True,False,False,False,1,corrective,]24-48],]0-1],]24-48],True,True,True,True,True,Dépannage P2_Chauffage individuel
+True,False,True,True,5,corrective,]72--[,]0-1],]72--[,True,True,True,True,True,Dépannage P2_Chauffage individuel
+False,True,False,False,1,corrective,]0-1],]2-4],]2-4],True,True,True,True,True,Entretien VMC caissons coll gaz
+False,False,False,False,1,corrective,0,]0-1],]0-1],True,True,True,True,True,Bouche auto_Cuisine
+True,False,False,False,1,corrective,]72--[,]1-2],]72--[,True,True,True,True,True,Remplacement pièce P3
+True,False,False,False,1,corrective,0,0,0,False,False,True,False,True,Dépannage P2_Chauffage individuel
+False,True,False,False,1,corrective,0,0,0,False,False,True,False,True,Bouche auto_Cuisine
+True,False,True,False,1,corrective,]16-24],]4-16],]24-48],True,True,True,True,True,Dépannage P2_Chauffage individuel
+True,False,False,False,1,corrective,]16-24],]1-2],]16-24],True,True,True,True,True,Dépannage P2_Chauffage individuel
+True,False,False,False,1,corrective,]72--[,]1-2],]72--[,True,True,True,True,True,Dépannage P2_Chauffage individuel
+True,False,False,False,1,corrective,]72--[,]0-1],]72--[,True,True,True,True,True,Dépannage P2_Chauffage individuel
+True,False,False,False,1,corrective,0,0,0,False,False,False,False,False,Dépannage P2_Chauffage individuel
+False,True,False,False,1,corrective,]16-24],]2-4],]24-48],True,True,True,True,True,Dépannage_VMC Gaz
+False,True,False,False,1,corrective,0,]4-16],]4-16],True,True,True,True,True,Dépannage_VMC Gaz
+True,False,False,False,1,corrective,]24-48],]0-1],]24-48],True,True,True,True,True,Dépannage P2_Chauffage individuel
+False,True,False,False,1,corrective,]2-4],]4-16],]4-16],True,True,True,True,True,Dépannage_VMC Gaz
+False,True,False,False,1,corrective,0,]1-2],]1-2],True,True,True,True,True,Dépannage_VMC Gaz
+True,False,False,False,1,corrective,]24-48],]0-1],]48-72],True,True,True,True,True,Dépannage P2_Chauffage individuel
+False,True,False,False,1,preventive,0,]0-1],]0-1],True,True,False,True,False,VP Caisson gaz
+True,False,False,False,1,corrective,]16-24],]0-1],]24-48],True,True,True,True,True,Dépannage P2_Chauffage individuel
+True,False,False,False,1,corrective,]16-24],]2-4],]16-24],True,True,True,True,True,Dépannage P2_Chauffage individuel
+True,False,False,False,1,corrective,]48-72],]4-16],]72--[,True,True,True,True,True,Dépannage P2_Chauffage individuel
+True,False,False,True,1,corrective,0,]2-4],]2-4],True,True,True,True,True,Dépannage P2_Chauffage individuel
+True,False,False,False,1,corrective,]16-24],]2-4],]24-48],True,True,True,True,True,Remplacement pièce P3
+False,True,False,False,1,corrective,]0-1],]2-4],]2-4],True,True,True,True,True,Dépannage_VMC Gaz
+True,False,False,False,1,corrective,]16-24],]0-1],]16-24],True,True,True,True,True,Chaudière sur devis
+True,True,False,False,1,corrective,]72--[,]2-4],]72--[,True,True,True,True,True,Dépannage P2_Chauffage individuel
+False,False,False,False,1,preventive,0,]0-1],]0-1],True,True,False,True,False,Visite d'entretien annuelle - Ent. Dispositif Sécurité Collectif
+False,True,False,False,1,corrective,0,]0-1],]0-1],True,True,True,True,True,Bouche auto_SDB
+True,False,False,False,1,preventive,0,0,0,False,False,False,False,False,VP P2_Chauffage indivuduel
+True,False,False,False,1,corrective,]48-72],]0-1],]72--[,True,True,True,True,True,Remplacement pièce P3
+True,False,False,False,1,corrective,]4-16],]4-16],]16-24],True,True,True,True,True,Dépannage P2_Chauffage individuel
+False,True,False,False,1,corrective,]16-24],]0-1],]16-24],True,True,True,True,True,Caisson ventil manch
+False,False,False,False,1,preventive,0,0,0,False,False,False,False,False,Ramonage P2_Chaudière individuel
+True,False,False,False,1,corrective,]24-48],]4-16],]48-72],True,True,True,True,True,Dépannage P2_Chauffage individuel
+True,False,False,False,1,corrective,]0-1],]0-1],]1-2],True,True,True,True,True,Remplacement pièce P3
+True,False,False,False,1,corrective,]1-2],]1-2],]2-4],True,True,True,True,True,Dépannage P2_Chauffage individuel
+True,False,False,False,1,corrective,]48-72],]2-4],]48-72],True,True,True,True,True,Dépannage P2_Chauffage individuel
+True,False,False,False,1,corrective,0,0,0,False,False,True,False,True,Remplacement pièce P3
+True,False,False,False,1,corrective,]1-2],]0-1],]1-2],True,True,True,True,True,Dépannage P2_Chauffage individuel
+True,False,False,False,1,corrective,0,0,0,False,False,True,False,True,Remplacement pièce P3
+True,False,False,False,1,corrective,]72--[,]4-16],]72--[,True,True,True,True,True,Dépannage P2_Chauffage individuel
+False,True,False,False,1,corrective,]24-48],]0-1],]24-48],True,True,True,True,True,Dépannage_VMC Gaz
+True,False,False,False,1,corrective,]1-2],]0-1],]2-4],True,True,True,True,True,Dépannage P2_Chauffage individuel
+False,True,False,False,1,corrective,]16-24],]0-1],]24-48],True,True,True,True,True,Dépannage_VMC Gaz
+True,False,False,False,1,corrective,]24-48],]4-16],]24-48],True,True,True,True,True,Dépannage P2_Chauffage individuel
+True,False,False,False,1,corrective,]72--[,]1-2],]72--[,True,True,True,True,True,Remplacement pièce P3
+False,True,False,False,1,corrective,]1-2],]0-1],]1-2],True,True,True,True,True,Dépannage_VMC Gaz
+True,False,False,False,1,corrective,]16-24],]1-2],]24-48],True,True,True,True,True,Remplacement pièce P3
+False,True,False,False,5,corrective,]2-4],]0-1],]4-16],True,True,True,True,True,Dépannage_VMC Gaz
+True,False,False,False,1,corrective,]16-24],]1-2],]16-24],True,True,True,True,True,Remplacement pièce P3
+True,False,False,True,5,corrective,]48-72],]0-1],]48-72],True,True,True,True,True,Dépannage P2_Chauffage individuel
+True,False,False,False,1,corrective,]48-72],]4-16],]72--[,True,True,True,True,True,Dépannage P2_Chauffage individuel
+True,False,False,False,1,corrective,]24-48],]4-16],]48-72],True,True,True,True,True,Dépannage P2_Chauffage individuel
+True,False,True,False,1,corrective,]48-72],]0-1],]48-72],True,True,True,True,True,Dépannage P2_Chauffage individuel
+True,False,False,False,1,preventive,0,0,0,False,False,False,False,False,VP P2_Chauffage indivuduel
+True,False,True,False,5,corrective,]2-4],]0-1],]2-4],True,True,True,True,True,Dépannage P2_Chauffage individuel
+True,False,False,False,1,corrective,]24-48],]1-2],]24-48],True,True,True,True,True,Dépannage P2_Chauffage individuel
+True,False,False,False,1,corrective,]16-24],]1-2],]24-48],True,True,True,True,True,Dépannage P2_Chauffage individuel
+True,False,True,False,1,corrective,0,]2-4],]2-4],True,True,False,True,False,Dépannage P2_Chauffage individuel
+False,False,False,False,1,corrective,]72--[,]1-2],]72--[,True,True,True,True,True,Bouche auto_Cuisine
+True,True,False,False,1,corrective,]24-48],]1-2],]48-72],True,True,True,True,True,Dépannage P2_Chauffage individuel
+False,True,False,False,1,preventive,0,0,0,False,False,False,False,False,VP Nett reseau et bouche
+True,False,False,False,1,corrective,]1-2],]0-1],]1-2],True,True,True,True,True,Dépannage P2_Chauffage individuel
+False,False,False,False,1,preventive,0,0,0,False,False,False,False,False,Visite d'entretien annuelle - Ent. Dispositif Sécurité Collectif
+True,False,False,False,1,corrective,]16-24],]0-1],]24-48],True,True,True,True,True,Remplacement pièce P3
+False,True,False,False,1,corrective,]72--[,]0-1],]72--[,True,True,True,True,True,Bouche auto_SDB
+False,True,False,False,1,preventive,0,]1-2],]1-2],True,True,False,True,False,VP Caisson gaz
+True,False,False,False,1,corrective,]0-1],]4-16],]4-16],True,True,True,True,True,Dépannage P2_Chauffage individuel
+True,False,False,False,1,corrective,]4-16],]2-4],]16-24],True,True,True,True,True,Dépannage P2_Chauffage individuel
+True,False,False,False,1,corrective,]24-48],]1-2],]24-48],True,True,True,True,True,Dépannage P2_Chauffage individuel
+False,False,False,False,1,corrective,]72--[,]0-1],]72--[,True,True,True,True,True,Bouche hydro_SDB
+True,False,False,False,1,corrective,0,]1-2],]1-2],True,True,True,True,True,Dépannage P2_Chauffage individuel
+False,False,False,False,1,corrective,]72--[,]0-1],]72--[,True,True,True,True,True,Bouche auto_Cuisine
+False,False,False,False,1,corrective,]24-48],]1-2],]24-48],True,True,True,True,True,Bouche auto_Cuisine
+True,False,False,False,1,corrective,]48-72],]0-1],]48-72],True,True,True,True,True,Remplacement pièce P3
+True,False,False,False,1,corrective,]48-72],]0-1],]48-72],True,True,False,True,True,Dépannage P2_Chauffage individuel
+True,False,False,False,1,corrective,]1-2],]0-1],]2-4],True,True,True,True,True,Remplacement pièce P3
+False,True,False,False,1,corrective,]48-72],]1-2],]72--[,True,True,True,True,True,Dépannage_VMC Gaz
+False,False,False,False,1,corrective,]72--[,]2-4],]72--[,True,True,True,True,True,Bouche auto_Cuisine
+False,True,False,False,1,corrective,]2-4],]1-2],]2-4],True,True,True,True,True,Entretien VMC caissons coll gaz
+True,False,False,False,1,corrective,]16-24],]4-16],]16-24],True,True,True,True,True,Dépannage P2_Chauffage individuel
+False,True,False,False,1,corrective,0,]0-1],]0-1],True,True,True,True,True,Entretien VMC caissons coll gaz
+False,True,False,False,1,corrective,]24-48],]0-1],]24-48],True,True,True,True,True,Bouche auto_Cuisine
+False,True,False,False,5,corrective,]2-4],]0-1],]2-4],True,True,True,True,True,Dépannage_VMC Gaz
+False,True,False,False,1,corrective,]2-4],]2-4],]4-16],True,True,True,True,True,Dépannage_VMC Gaz
+True,False,False,False,1,corrective,]4-16],]1-2],]4-16],True,True,True,True,True,Dépannage P2_Chauffage individuel
+True,False,False,False,1,corrective,]0-1],]0-1],]0-1],True,True,True,True,True,Remplacement pièce P3
+True,False,True,True,5,corrective,]16-24],]1-2],]16-24],True,True,True,True,True,Dépannage P2_Chauffage individuel
+True,False,False,False,1,corrective,]24-48],]1-2],]24-48],True,True,True,True,True,Remplacement pièce P3
+True,False,True,False,5,corrective,]16-24],]0-1],]24-48],True,True,True,True,True,Dépannage P2_Chauffage individuel
+False,True,False,False,1,preventive,0,0,0,False,False,False,False,False,VP Caisson san.
+True,False,False,False,1,corrective,]2-4],]0-1],]2-4],True,True,True,True,True,Remplacement pièce P3
+True,False,False,False,1,corrective,]24-48],]4-16],]24-48],True,True,True,True,True,Dépannage P2_Chauffage individuel
+False,False,False,False,1,corrective,]72--[,]0-1],]72--[,True,True,True,True,True,Bouche hydro_SDB
+True,False,False,False,1,corrective,]48-72],]2-4],]72--[,True,True,True,True,True,Remplacement pièce P3
+True,False,False,False,1,corrective,]0-1],]4-16],]4-16],True,True,True,True,True,Dépannage P2_Chauffage individuel
+True,False,False,False,1,corrective,]16-24],]4-16],]16-24],True,True,True,True,True,Dépannage P2_Chauffage individuel
+True,False,False,True,1,corrective,]2-4],]0-1],]2-4],True,True,True,True,True,Dépannage P2_Chauffage individuel
+False,False,False,False,1,corrective,0,]0-1],]0-1],True,True,True,True,True,Bouche auto_Cuisine
+True,False,False,False,1,corrective,]16-24],]2-4],]16-24],True,True,True,True,True,Dépannage P2_Chauffage individuel
+False,False,False,False,1,preventive,0,0,0,False,False,False,False,False,Visite d'entretien annuelle - Ent. Dispositif Sécurité Collectif
+True,False,True,True,1,preventive,0,]1-2],]1-2],True,True,False,True,False,Visite d'entretien annuelle - Ent. Dispositif Sécurité Collectif
+False,True,False,False,1,corrective,]4-16],]0-1],]4-16],True,True,True,True,True,Dépannage_VMC Gaz
+False,False,False,False,1,corrective,]72--[,]0-1],]72--[,True,True,True,True,True,Bouche auto_Cuisine
+True,False,False,False,1,corrective,]1-2],]2-4],]2-4],True,True,True,True,True,Dépannage P2_Chauffage individuel
+True,False,False,True,1,corrective,]4-16],]0-1],]4-16],True,True,True,True,True,Dépannage P2_Chauffage individuel
+True,False,False,False,1,corrective,]48-72],]0-1],]48-72],True,True,True,True,True,Dépannage P2_Chauffage individuel
+True,False,False,False,1,corrective,]72--[,]2-4],]72--[,True,True,True,True,True,Dépannage P2_Chauffage individuel
+False,True,False,False,1,corrective,]16-24],]1-2],]24-48],True,True,True,True,True,Bouche auto_Cuisine
+True,False,False,False,1,preventive,0,]0-1],]0-1],True,True,False,True,False,VP P2_Chauffage indivuduel
+True,False,False,False,1,corrective,]72--[,]2-4],]72--[,True,True,True,True,True,Remplacement pièce P3
+True,False,False,False,1,corrective,]16-24],]4-16],]24-48],True,True,True,True,True,Dépannage P2_Chauffage individuel
+True,False,False,True,1,corrective,]4-16],]0-1],]4-16],True,True,True,True,True,Dépannage P2_Chauffage individuel
+False,True,False,False,1,preventive,0,]0-1],]0-1],True,True,False,True,False,VP Nett reseau et bouche
+False,True,False,False,1,preventive,0,]0-1],]0-1],True,True,False,True,False,VP Nett reseau et bouche
+False,True,False,False,1,corrective,]1-2],]4-16],]4-16],True,True,True,True,True,Dépannage_VMC Gaz
+True,False,True,True,5,corrective,]24-48],]0-1],]24-48],True,True,True,True,True,Dépannage P2_Chauffage individuel
+True,False,False,False,1,corrective,0,0,0,False,False,False,False,False,Dépannage P2_Chauffage individuel
+True,False,False,False,1,corrective,]72--[,]0-1],]72--[,True,True,True,True,True,Dépannage P2_Chauffage individuel
+True,False,False,False,1,corrective,]4-16],]0-1],]4-16],True,True,True,True,True,Remplacement pièce P3
+False,False,False,False,1,corrective,0,0,0,False,False,True,False,True,Bouche auto_SDB
+False,True,False,False,5,corrective,]0-1],]0-1],]0-1],True,True,True,True,True,Dépannage_VMC Gaz
+True,False,True,False,1,corrective,]16-24],]4-16],]24-48],True,True,True,True,True,Dépannage P2_Chauffage individuel
+False,True,False,False,1,corrective,]72--[,]2-4],]72--[,True,True,True,True,True,Dépannage_VMC Gaz
+True,False,False,False,1,corrective,]1-2],]4-16],]4-16],True,True,True,True,True,Dépannage P2_Chauffage individuel
+True,False,True,True,1,preventive,0,]1-2],]1-2],True,True,False,True,False,Visite d'entretien annuelle - Ent. Dispositif Sécurité Collectif
+True,False,False,False,1,corrective,]72--[,]0-1],]72--[,True,True,True,True,True,Dépannage P2_Chauffage individuel
+True,False,False,False,1,corrective,0,0,0,False,False,True,False,True,Dépannage P2_Chauffage individuel
+True,False,False,False,1,corrective,]16-24],]0-1],]24-48],True,True,True,True,True,Dépannage P2_Chauffage individuel
+True,False,False,False,1,corrective,]24-48],]0-1],]24-48],True,True,False,True,True,Remplacement pièce P3
+True,False,False,False,1,preventive,0,0,0,False,False,False,False,False,VP P2_Chauffage indivuduel
+True,False,False,False,1,corrective,]4-16],]0-1],]16-24],True,True,True,True,True,Dépannage P2_Chauffage individuel
+True,False,False,False,1,corrective,]16-24],]1-2],]24-48],True,True,True,True,True,Dépannage P2_Chauffage individuel
+True,False,False,False,1,preventive,0,]0-1],]0-1],True,True,False,True,False,VP P2_Chauffage indivuduel
+True,False,True,True,5,corrective,]72--[,]1-2],]72--[,True,True,True,True,True,Dépannage P2_Chauffage individuel
+False,True,False,False,1,corrective,]0-1],]0-1],]0-1],True,True,True,True,True,Dépannage_VMC Gaz
+True,False,True,True,1,preventive,0,]1-2],]1-2],True,True,False,True,False,VP P2_Chauffage indivuduel
+True,False,False,False,1,corrective,]72--[,]0-1],]72--[,True,True,True,True,True,Remplacement pièce P3
+False,False,False,False,1,preventive,0,0,0,False,False,False,False,False,Ramonage P2_Chaudière individuel
+True,False,False,False,1,corrective,]2-4],]0-1],]4-16],True,True,True,True,True,Dépannage P2_Chauffage individuel
+False,True,False,False,1,corrective,]24-48],]1-2],]24-48],True,True,True,True,True,Caisson ventil manch
+True,False,False,True,5,corrective,]1-2],]0-1],]2-4],True,True,True,True,True,Dépannage P2_Chauffage individuel
+True,False,False,False,1,corrective,]16-24],]2-4],]24-48],True,True,True,True,True,Dépannage P2_Chauffage individuel
+True,False,False,False,1,corrective,0,0,0,False,False,True,False,True,Remplacement pièce P3
+True,False,False,False,1,corrective,]48-72],]1-2],]48-72],True,True,True,True,True,Dépannage P2_Chauffage individuel
+True,True,True,True,1,preventive,0,]1-2],]1-2],True,True,False,True,False,VP Nett reseau et bouche
+True,False,False,True,5,corrective,]1-2],]1-2],]2-4],True,True,True,True,True,Dépannage P2_Chauffage individuel
+True,False,False,False,1,corrective,]0-1],]1-2],]1-2],True,True,True,True,True,Dépannage P2_Chauffage individuel
+True,False,False,False,1,corrective,]48-72],]1-2],]72--[,True,True,True,True,True,Dépannage P2_Chauffage individuel
+True,False,False,False,1,corrective,]1-2],]0-1],]2-4],True,True,True,True,True,Remplacement pièce P3
+True,False,False,False,1,corrective,0,]1-2],]1-2],True,True,False,True,False,Dépannage P2_Chauffage individuel
+False,True,False,False,1,corrective,]1-2],]1-2],]2-4],True,True,True,True,True,Dépannage_VMC Gaz
+True,False,False,False,1,corrective,]16-24],]0-1],]16-24],True,True,True,True,True,Dépannage P2_Chauffage individuel
+True,True,False,False,1,corrective,]72--[,]2-4],]72--[,True,True,True,True,True,Dépannage P2_Chauffage individuel
+False,True,False,False,5,corrective,]1-2],]1-2],]2-4],True,True,True,True,True,Dépannage_VMC Gaz
+True,False,False,False,1,corrective,]24-48],]0-1],]24-48],True,True,True,True,True,Dépannage P2_Chauffage individuel
+True,False,False,False,1,corrective,]0-1],]0-1],]0-1],True,True,True,True,True,Dépannage P2_Chauffage individuel
+True,False,False,False,1,corrective,0,]1-2],]1-2],True,True,False,True,False,Dépannage P2_Chauffage individuel
+True,False,False,False,1,corrective,]24-48],]2-4],]24-48],True,True,True,True,True,Dépannage P2_Chauffage individuel
+True,False,True,True,1,corrective,]16-24],]0-1],]16-24],True,True,True,True,True,Remplacement pièce P3
+False,False,False,False,1,corrective,0,]0-1],]0-1],True,True,True,True,True,Bouche auto_Cuisine
+False,False,False,False,1,corrective,]24-48],]0-1],]24-48],True,True,True,True,True,Bouche hydro_SDB
+False,False,False,False,1,corrective,]24-48],]0-1],]24-48],True,True,True,True,True,Bouche auto_SDB
+True,False,False,False,1,corrective,]0-1],]2-4],]2-4],True,True,True,True,True,Dépannage P2_Chauffage individuel
+False,True,False,False,1,preventive,0,]2-4],]2-4],True,True,False,True,False,VP Caisson gaz
+False,True,False,False,1,corrective,]4-16],]1-2],]4-16],True,True,True,True,True,Entretien VMC caissons coll gaz
+True,False,False,False,1,corrective,]24-48],]0-1],]24-48],True,True,True,True,True,Remplacement pièce P3
+False,True,False,False,1,corrective,0,0,0,False,False,True,False,True,Dépannage_VMC Gaz
+False,True,False,False,1,preventive,0,0,0,False,False,False,False,False,VP Caisson gaz
+True,False,False,False,1,corrective,0,]0-1],]0-1],True,True,False,True,False,Chaudière sur devis
+True,False,False,False,1,corrective,]48-72],]2-4],]48-72],True,True,True,True,True,Dépannage P2_Chauffage individuel
+True,False,False,False,1,corrective,0,]0-1],]0-1],True,True,True,True,True,Dépannage P2_Chauffage individuel
+False,True,False,False,1,corrective,]72--[,]4-16],]72--[,True,True,True,True,True,Caisson ventil manch
+True,False,False,False,1,corrective,]16-24],]4-16],]24-48],True,True,True,True,True,Chaudière sur devis
+True,False,False,False,1,corrective,]24-48],]0-1],]48-72],True,True,True,True,True,Remplacement pièce P3
+True,False,False,False,1,corrective,]72--[,]1-2],]72--[,True,True,True,True,True,Dépannage P2_Chauffage individuel
+True,False,False,False,1,corrective,]4-16],]1-2],]4-16],True,True,True,True,True,Dépannage P2_Chauffage individuel
+True,False,False,False,1,corrective,]48-72],]0-1],]72--[,True,True,True,True,True,Dépannage P2_Chauffage individuel
+False,True,False,False,1,corrective,]72--[,]0-1],]72--[,True,True,True,True,True,Dépannage_VMC Gaz
+False,True,False,False,1,corrective,]4-16],]2-4],]4-16],True,True,True,True,True,Dépannage_VMC Gaz
+False,False,False,False,1,corrective,]72--[,]0-1],]72--[,True,True,True,True,True,Bouche auto_Cuisine
+True,False,False,False,1,corrective,0,0,0,False,False,True,False,True,Dépannage P2_Chauffage individuel
+False,False,False,False,1,corrective,]48-72],]0-1],]48-72],True,True,True,True,True,Bouche auto_Cuisine
+True,False,False,False,1,corrective,]0-1],]1-2],]1-2],True,True,True,True,True,Remplacement pièce P3
+True,False,False,False,1,corrective,]72--[,]0-1],]72--[,True,True,True,True,True,Dépannage P2_Chauffage individuel
+False,False,False,False,1,preventive,0,0,0,False,False,False,False,False,Visite d'entretien annuelle - Ent. Dispositif Sécurité Collectif
+False,True,False,False,5,corrective,]2-4],]1-2],]2-4],True,True,True,True,True,Dépannage_VMC Gaz
+False,False,False,False,1,preventive,0,0,0,False,False,False,False,False,Ramonage P2_Chaudière individuel
+True,False,False,False,1,corrective,0,0,0,False,False,True,False,True,Dépannage P2_Chauffage individuel
+True,False,False,False,1,corrective,0,]1-2],]1-2],True,True,True,True,True,Remplacement pièce P3
+True,False,False,False,1,corrective,]48-72],]1-2],]48-72],True,True,True,True,True,Dépannage P2_Chauffage individuel
+True,False,False,False,1,corrective,0,0,0,False,False,True,False,True,Chaudière sur devis
+True,False,False,False,1,corrective,]16-24],]2-4],]16-24],True,True,False,True,True,Dépannage P2_Chauffage individuel
+True,False,False,False,1,corrective,]72--[,]0-1],]72--[,True,True,True,True,True,Dépannage P2_Chauffage individuel
+True,False,True,False,5,corrective,]16-24],]0-1],]24-48],True,True,True,True,True,Dépannage P2_Chauffage individuel
+True,True,False,False,1,corrective,]24-48],]1-2],]48-72],True,True,True,True,True,Dépannage P2_Chauffage individuel
+True,True,True,False,1,preventive,0,]2-4],]2-4],True,True,False,True,False,VP Nett reseau et bouche
+True,False,False,False,1,corrective,]72--[,]0-1],]72--[,True,True,True,True,True,Remplacement pièce P3
+False,True,False,False,1,preventive,0,]0-1],]0-1],True,True,False,True,False,VP Caisson san.
+True,False,False,False,1,corrective,]24-48],]0-1],]48-72],True,True,True,True,True,Dépannage P2_Chauffage individuel
+True,False,False,False,1,corrective,]16-24],]4-16],]24-48],True,True,True,True,True,Dépannage P2_Chauffage individuel
+True,True,True,True,1,preventive,0,]1-2],]1-2],True,True,False,True,False,VP Nett reseau et bouche
+True,False,False,False,1,corrective,]0-1],]0-1],]1-2],True,True,True,True,True,Dépannage P2_Chauffage individuel
+True,False,False,True,5,corrective,]48-72],]0-1],]48-72],True,True,True,True,True,Dépannage P2_Chauffage individuel
+True,False,False,False,1,corrective,]2-4],]2-4],]4-16],True,True,True,True,True,Dépannage P2_Chauffage individuel
+False,True,False,False,1,corrective,]24-48],]1-2],]48-72],True,True,True,True,True,Dépannage_VMC Gaz
+True,False,False,False,1,corrective,0,]0-1],]0-1],True,True,True,True,True,Dépannage P2_Chauffage individuel
+False,True,False,False,1,corrective,0,]2-4],]2-4],True,True,False,True,False,Dépannage_VMC Gaz
+True,False,True,True,5,corrective,]72--[,]0-1],]72--[,True,True,True,True,True,Dépannage P2_Chauffage individuel
+True,False,True,False,1,corrective,]2-4],]1-2],]2-4],True,True,True,True,True,Dépannage P2_Chauffage individuel
+False,True,False,False,1,corrective,0,]1-2],]1-2],True,True,False,True,False,Dépannage_VMC Gaz
+False,True,False,False,1,corrective,]24-48],]1-2],]24-48],True,True,True,True,True,Dépannage_VMC Gaz
+True,False,False,False,1,corrective,]48-72],]0-1],]72--[,True,True,True,True,True,Remplacement pièce P3
+False,False,False,False,1,corrective,]72--[,]0-1],]72--[,True,True,True,True,True,Bouche auto_Cuisine
+True,False,False,False,1,corrective,]48-72],]0-1],]72--[,True,True,True,True,True,Dépannage P2_Chauffage individuel
+True,False,False,False,1,corrective,0,0,0,False,False,True,False,True,Dépannage P2_Chauffage individuel
+True,False,False,False,1,corrective,]1-2],]0-1],]2-4],True,True,True,True,True,Dépannage P2_Chauffage individuel

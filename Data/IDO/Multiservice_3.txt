@@ -1,0 +1,102 @@
+Water,Leak,criticalLevel,workType,responseTime,processingDuration,resolutionDuration,done,replanned,occupant_absent,temporary_repair,canceled,Class
+False,True,1,corrective,]4-16],]0-1],]4-16],True,False,False,False,False,Panne Robinetterie
+False,False,-1,corrective,]24-48],]0-1],]24-48],False,False,False,True,False,Panne chauff ind
+False,False,1,corrective,]24-48],]0-1],]48-72],True,False,False,False,False,Panne Robinetterie
+True,True,-1,corrective,]72--[,]0-1],]72--[,True,False,False,False,False,Panne Production ECS
+False,False,5,corrective,]72--[,]1-2],]72--[,True,False,False,False,False,Panne Robinetterie
+True,True,-1,corrective,]2-4],]1-2],]4-16],False,False,False,True,False,Panne chauff ind
+True,False,-1,corrective,]24-48],]0-1],]24-48],False,False,False,True,False,Panne Robinetterie
+False,False,-1,corrective,]4-16],]0-1],]4-16],True,False,False,False,False,Panne chauff ind
+False,False,-1,corrective,]72--[,]0-1],]72--[,False,False,False,True,False,Panne Robinetterie
+False,False,-1,corrective,]72--[,]0-1],]72--[,False,True,True,False,False,Panne Robinetterie
+False,False,-1,corrective,]72--[,]4-16],]72--[,False,False,False,True,False,Panne Robinetterie
+True,False,-1,corrective,]4-16],]1-2],]4-16],True,False,False,False,False,Panne Robinetterie
+False,False,-1,corrective,]2-4],]0-1],]2-4],False,False,False,True,False,Panne Robinetterie
+False,False,-1,corrective,]72--[,]0-1],]72--[,False,False,True,False,False,Panne Robinetterie
+False,False,5,corrective,]72--[,]0-1],]72--[,True,False,False,False,False,Panne Robinetterie
+False,False,1,corrective,]72--[,]0-1],]72--[,True,False,False,True,False,Panne VMC sanitaire
+False,False,-1,corrective,]72--[,]1-2],]72--[,True,False,False,False,True,Panne Robinetterie
+False,False,-1,corrective,]24-48],]0-1],]24-48],False,False,True,False,False,Panne Robinetterie
+False,False,5,corrective,]72--[,]2-4],]72--[,True,False,False,False,False,Panne Robinetterie
+False,False,-1,corrective,]24-48],]4-16],]48-72],True,False,False,False,False,Panne Robinetterie
+False,False,-1,corrective,]16-24],]0-1],]16-24],False,False,True,False,False,Panne Robinetterie
+True,False,-1,corrective,]72--[,]0-1],]72--[,False,False,False,True,False,Panne chauff ind
+False,False,-1,corrective,]24-48],]0-1],]24-48],True,False,False,False,False,Panne chauff ind
+False,False,-1,corrective,]1-2],]0-1],]1-2],True,False,False,False,False,Panne Robinetterie
+False,False,1,corrective,]72--[,]0-1],]72--[,True,False,True,False,False,Panne Robinetterie
+False,False,-1,corrective,]72--[,]0-1],]72--[,True,False,False,True,False,Panne Robinetterie
+False,False,-1,corrective,]48-72],]0-1],]72--[,False,False,False,True,False,Panne chauff ind
+True,False,-1,corrective,]72--[,]0-1],]72--[,False,True,False,True,False,Panne Robinetterie
+False,True,5,corrective,]4-16],]0-1],]4-16],True,False,False,False,False,Panne Robinetterie
+False,False,1,corrective,]24-48],]0-1],]24-48],True,False,False,False,False,Panne Robinetterie
+False,True,-1,corrective,]16-24],]0-1],]16-24],False,False,False,True,False,Panne chauff ind
+False,False,-1,corrective,]48-72],]1-2],]48-72],True,False,False,False,False,Panne Production ECS
+False,False,-1,corrective,]72--[,]0-1],]72--[,False,False,True,False,False,Panne Production ECS
+False,False,-1,corrective,]24-48],]1-2],]24-48],True,False,False,False,False,Panne Robinetterie
+False,False,-1,corrective,]48-72],]0-1],]48-72],True,False,False,False,False,Panne Robinetterie
+False,False,-1,corrective,]24-48],]0-1],]24-48],True,False,False,False,False,Panne Robinetterie
+False,False,-1,corrective,]72--[,]0-1],]72--[,True,False,False,False,True,Panne Robinetterie
+False,False,5,corrective,]24-48],]0-1],]24-48],True,False,False,False,False,Panne Robinetterie
+False,False,-1,corrective,]16-24],]1-2],]16-24],False,False,False,True,False,Panne chauff ind
+False,False,-1,corrective,]4-16],]2-4],]4-16],True,False,False,False,False,Panne Robinetterie
+False,False,5,corrective,]72--[,]4-16],]72--[,False,False,False,True,True,Panne Robinetterie
+False,False,-1,corrective,]4-16],]4-16],]16-24],True,False,False,False,False,Panne Robinetterie
+True,True,5,corrective,]72--[,]1-2],]72--[,True,False,False,True,False,Panne Robinetterie
+True,False,1,corrective,]72--[,]0-1],]72--[,True,False,False,True,False,Panne Robinetterie
+False,False,5,corrective,]16-24],]0-1],]16-24],True,False,False,False,False,Panne Robinetterie
+False,False,-1,corrective,]72--[,]0-1],]72--[,True,False,False,False,False,Panne VMC sanitaire
+False,False,1,corrective,]72--[,]0-1],]72--[,True,False,False,False,False,Panne VMC sanitaire
+False,False,-1,corrective,]72--[,]1-2],]72--[,True,False,False,False,False,Panne chauff ind
+False,False,-1,corrective,]2-4],]0-1],]4-16],True,False,False,False,False,Panne Robinetterie
+False,False,1,corrective,]16-24],]0-1],]16-24],True,False,False,True,False,Panne Robinetterie
+False,False,5,corrective,]1-2],]0-1],]1-2],False,False,False,True,False,Panne Robinetterie
+False,False,-1,corrective,]48-72],]1-2],]48-72],False,False,False,True,False,Panne Robinetterie
+True,True,1,corrective,]48-72],]0-1],]48-72],True,False,False,False,False,Panne Robinetterie
+False,False,-1,corrective,]16-24],]0-1],]16-24],True,False,False,False,False,Panne chauff ind
+False,False,5,corrective,]72--[,]0-1],]72--[,True,True,False,True,False,Panne Robinetterie
+False,False,-1,corrective,]72--[,]2-4],]72--[,False,False,False,True,False,Panne Robinetterie
+False,False,-1,corrective,]48-72],]0-1],]48-72],False,False,True,False,False,Panne Robinetterie
+False,False,-1,corrective,]72--[,]4-16],]72--[,True,False,False,False,False,Panne Robinetterie
+False,False,-1,corrective,]72--[,]0-1],]72--[,False,False,False,True,False,Panne VMC sanitaire
+False,False,-1,corrective,]2-4],]0-1],]4-16],False,False,False,True,False,Panne Robinetterie
+False,False,-1,corrective,]24-48],]0-1],]24-48],True,False,False,True,False,Panne Robinetterie
+False,False,-1,corrective,]72--[,]0-1],]72--[,True,False,False,True,False,Panne chauff ind
+True,False,5,corrective,]72--[,]0-1],]72--[,True,False,False,True,False,Panne Robinetterie
+False,False,-1,corrective,]16-24],]0-1],]16-24],True,False,False,False,False,Panne Production ECS
+False,False,-1,corrective,]4-16],]0-1],]4-16],True,False,False,False,False,Panne Robinetterie
+False,False,-1,corrective,]1-2],]1-2],]2-4],True,False,False,False,False,Panne Robinetterie
+False,False,1,corrective,]48-72],]0-1],]48-72],True,False,False,True,False,Panne VMC sanitaire
+False,False,-1,corrective,]24-48],]0-1],]48-72],True,False,False,False,False,Panne Robinetterie
+True,False,1,corrective,]72--[,]4-16],]72--[,False,False,False,True,False,Panne Robinetterie
+True,True,-1,corrective,]24-48],]1-2],]24-48],True,False,False,False,False,Panne chauff ind
+False,False,-1,corrective,]24-48],]1-2],]24-48],False,False,False,True,False,Panne Robinetterie
+True,False,-1,corrective,]48-72],]0-1],]48-72],False,False,False,True,False,Panne Robinetterie
+False,False,-1,corrective,]0-1],]4-16],]4-16],False,False,False,True,False,Panne Robinetterie
+True,False,1,corrective,]2-4],]0-1],]2-4],True,False,False,False,False,Panne Robinetterie
+False,False,-1,corrective,]72--[,]4-16],]72--[,False,False,True,False,False,Panne Robinetterie
+False,False,1,corrective,]48-72],]1-2],]72--[,True,False,False,False,False,Panne Robinetterie
+False,False,-1,corrective,]24-48],]0-1],]24-48],True,True,False,False,False,Panne Robinetterie
+False,False,1,corrective,]72--[,]2-4],]72--[,True,False,False,False,False,Panne Robinetterie
+False,False,1,corrective,]24-48],]0-1],]24-48],True,False,False,True,False,Panne Robinetterie
+False,False,-1,corrective,]4-16],]1-2],]4-16],True,False,False,False,False,Panne chauff ind
+False,False,1,corrective,]72--[,]16-24],]72--[,True,False,False,False,False,Panne Robinetterie
+False,False,1,corrective,]72--[,]1-2],]72--[,True,False,False,False,False,Panne Robinetterie
+True,False,-1,corrective,]16-24],]0-1],]16-24],True,False,False,False,False,Panne Robinetterie
+False,True,-1,corrective,]72--[,]1-2],]72--[,True,False,False,True,False,Panne chauff ind
+True,False,-1,corrective,]48-72],]0-1],]48-72],True,False,False,False,False,Panne Production ECS
+True,False,5,corrective,]2-4],]0-1],]2-4],True,False,False,False,False,Panne Robinetterie
+False,False,-1,corrective,]72--[,]1-2],]72--[,True,False,False,True,False,Panne Robinetterie
+False,False,-1,corrective,]72--[,]2-4],]72--[,False,False,False,True,False,Panne Production ECS
+False,False,-1,corrective,]72--[,]1-2],]72--[,True,False,False,False,False,Panne Robinetterie
+False,True,1,corrective,]16-24],]0-1],]16-24],True,False,False,False,False,Panne Robinetterie
+False,False,-1,corrective,]72--[,]1-2],]72--[,False,False,False,True,False,Panne Robinetterie
+True,True,-1,corrective,]1-2],]1-2],]2-4],False,False,False,True,False,Panne chauff ind
+True,False,1,corrective,]72--[,]0-1],]72--[,True,False,False,False,False,Panne Robinetterie
+False,False,-1,corrective,]2-4],]2-4],]4-16],True,False,False,False,False,Panne Robinetterie
+False,False,5,corrective,]48-72],]0-1],]48-72],True,False,False,False,False,Panne Robinetterie
+False,False,-1,corrective,]72--[,]1-2],]72--[,False,False,False,True,False,Panne chauff ind
+False,False,-1,corrective,0,]1-2],]1-2],True,False,False,False,False,Panne chauff ind
+False,False,-1,corrective,]24-48],]0-1],]24-48],True,False,False,True,False,Panne chauff ind
+False,True,5,corrective,0,]16-24],]16-24],True,False,False,False,False,Panne Robinetterie
+False,False,-1,corrective,]72--[,]0-1],]72--[,True,False,False,False,False,Panne Robinetterie
+False,False,-1,corrective,]72--[,]0-1],]72--[,True,False,False,False,False,Panne chauff ind

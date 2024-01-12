@@ -1,0 +1,229 @@
+Fan,Leak,criticalLevel,workType,responseTime,processingDuration,resolutionDuration,done,planned,client_planned,partial_repair,Class
+False,False,1,corrective,]48-72],]1-2],]48-72],True,True,False,False,Dépannage Chauffage individuel
+False,False,1,corrective,]0-1],]2-4],]2-4],True,True,False,False,Bouche ventilation
+False,False,1,corrective,]24-48],]0-1],]48-72],False,True,False,True,Dépannage Chauffage individuel
+False,False,1,corrective,]2-4],]2-4],]4-16],False,False,True,True,Dépannage Chauffage individuel
+False,False,1,corrective,]72--[,]0-1],]72--[,False,True,False,True,Dépannage Chauffage individuel
+False,False,0,corrective,0,0,0,False,False,False,False,Dépannage Chauffage individuel
+False,False,-1,preventive,]4-16],]0-1],]4-16],True,True,False,False,Visite périodique
+False,True,1,corrective,]72--[,]0-1],]72--[,True,True,False,False,Dépannage Chauffage individuel
+False,False,1,corrective,]2-4],]1-2],]2-4],True,True,False,False,Bouche ventilation
+False,False,1,corrective,]2-4],]0-1],]4-16],True,True,False,False,Dépannage Chauffage individuel
+False,False,0,preventive,0,0,0,False,False,False,False,Hors Périmètre
+False,False,1,corrective,]2-4],]0-1],]4-16],False,False,True,True,Dépannage Chauffage individuel
+True,True,1,corrective,0,]1-2],]1-2],False,True,False,True,Dépannage Chauffage individuel
+False,False,-1,preventive,]0-1],]0-1],]1-2],True,False,True,False,Visite périodique
+True,False,1,corrective,]72--[,]2-4],]72--[,True,True,False,False,Bouche ventilation
+False,False,1,corrective,0,]0-1],]0-1],True,True,False,False,Dépannage Chauffage individuel
+True,False,1,corrective,]48-72],]0-1],]48-72],True,True,False,False,Bouche ventilation
+False,False,1,corrective,]2-4],]0-1],]4-16],False,True,False,True,Dépannage Chauffage individuel
+False,False,1,corrective,]1-2],]1-2],]2-4],False,True,False,True,Dépannage Chauffage individuel
+False,False,1,corrective,]2-4],]1-2],]2-4],True,False,True,False,Dépannage Chauffage individuel
+True,False,1,corrective,]4-16],]0-1],]4-16],False,True,False,True,Dépannage_VMC Gaz ou sanitaire
+False,False,-1,preventive,]72--[,]0-1],]72--[,True,False,True,False,Visite périodique
+False,False,1,corrective,]4-16],]2-4],]4-16],True,False,True,False,Dépannage Chauffage individuel
+True,False,1,corrective,]1-2],]4-16],]4-16],True,True,False,False,Dépannage_VMC Gaz ou sanitaire
+False,False,0,corrective,0,0,0,False,False,False,False,Remplacement Chaudière ou caisson
+False,False,1,corrective,]16-24],]0-1],]16-24],True,False,True,False,Dépannage Chauffage individuel
+False,False,-1,preventive,]1-2],]1-2],]2-4],True,False,True,False,Visite périodique
+False,False,1,corrective,]2-4],]1-2],]4-16],False,False,True,True,Dépannage Chauffage individuel
+False,False,1,corrective,]48-72],]1-2],]48-72],False,True,False,True,Dépannage Chauffage individuel
+True,False,1,corrective,]4-16],]1-2],]4-16],True,False,True,False,Bouche ventilation
+False,False,-1,preventive,]72--[,]0-1],]72--[,True,True,True,False,Visite périodique
+True,False,1,corrective,]24-48],]0-1],]24-48],True,True,False,False,Bouche ventilation
+False,False,-1,corrective,]72--[,]2-4],]72--[,True,True,False,False,Remplacement Chaudière ou caisson
+False,False,-1,preventive,]0-1],]1-2],]2-4],True,True,False,False,Visite périodique
+False,False,-1,preventive,]48-72],]0-1],]48-72],True,False,True,False,Visite périodique
+False,False,-1,preventive,]1-2],]0-1],]1-2],True,False,True,False,Visite périodique
+False,False,1,corrective,]72--[,]4-16],]72--[,True,True,False,False,Dépannage Chauffage individuel
+False,False,1,corrective,]48-72],]1-2],]72--[,False,False,True,True,Dépannage Chauffage individuel
+False,False,1,corrective,]24-48],]0-1],]24-48],False,True,False,True,Dépannage Chauffage individuel
+False,False,-1,preventive,]0-1],]1-2],]1-2],True,False,True,False,Visite périodique
+False,False,1,corrective,0,]0-1],]0-1],True,False,True,False,Dépannage Chauffage individuel
+False,False,1,corrective,]1-2],]1-2],]2-4],False,False,True,True,Dépannage Chauffage individuel
+False,False,1,corrective,]0-1],]0-1],]1-2],True,False,True,False,Dépannage Chauffage individuel
+False,False,1,corrective,0,]0-1],]0-1],False,True,False,True,Dépannage Chauffage individuel
+False,False,-1,corrective,]2-4],]0-1],]4-16],True,True,False,False,Remplacement Chaudière ou caisson
+False,False,-1,preventive,]72--[,]2-4],]72--[,True,False,True,False,Visite périodique
+False,False,-1,corrective,]4-16],]2-4],]4-16],True,True,False,False,Remplacement Chaudière ou caisson
+True,False,1,corrective,]2-4],]4-16],]4-16],True,True,False,False,Bouche ventilation
+False,False,1,corrective,]1-2],]0-1],]2-4],True,False,True,False,Dépannage Chauffage individuel
+False,True,-1,corrective,]1-2],]1-2],]2-4],True,True,False,False,Remplacement Chaudière ou caisson
+False,False,1,corrective,]16-24],]1-2],]16-24],True,False,True,False,Dépannage Chauffage individuel
+False,False,-1,corrective,]2-4],]4-16],]4-16],False,True,False,True,Remplacement Chaudière ou caisson
+False,False,-1,preventive,]1-2],]0-1],]2-4],True,False,True,False,Visite périodique
+False,False,-1,corrective,]1-2],]4-16],]4-16],True,True,False,False,Remplacement Chaudière ou caisson
+False,False,-1,preventive,]4-16],]1-2],]4-16],True,True,False,False,Visite périodique
+False,False,-1,corrective,]4-16],]0-1],]4-16],False,True,False,True,Remplacement Chaudière ou caisson
+False,False,-1,corrective,0,]1-2],]1-2],True,True,False,False,Remplacement Chaudière ou caisson
+False,False,-1,preventive,]1-2],]0-1],]1-2],False,True,False,True,Visite périodique
+False,False,1,corrective,]2-4],]0-1],]2-4],False,True,False,True,Dépannage Chauffage individuel
+False,False,1,corrective,]24-48],]0-1],]24-48],True,False,True,False,Dépannage Chauffage individuel
+True,False,1,corrective,]4-16],]2-4],]4-16],True,True,False,False,Bouche ventilation
+False,False,-1,preventive,]4-16],]2-4],]4-16],True,True,False,False,Visite périodique
+False,False,-1,preventive,]24-48],]2-4],]24-48],True,True,False,False,Visite périodique
+False,False,0,preventive,0,0,0,False,False,False,False,Visite périodique
+False,False,1,corrective,]72--[,]2-4],]72--[,True,True,False,False,Dépannage Chauffage individuel
+False,False,1,corrective,0,]1-2],]1-2],True,True,False,False,Bouche ventilation
+False,False,1,corrective,]2-4],]0-1],]2-4],False,False,True,True,Dépannage Chauffage individuel
+False,False,-1,corrective,]0-1],]0-1],]1-2],True,True,False,False,Remplacement Chaudière ou caisson
+True,False,1,corrective,]1-2],]1-2],]2-4],True,True,False,False,Bouche ventilation
+False,False,1,corrective,]48-72],]0-1],]48-72],False,True,True,True,Dépannage Chauffage individuel
+False,False,-1,preventive,]48-72],]0-1],]48-72],True,True,False,False,Visite périodique
+True,False,1,corrective,]2-4],]0-1],]2-4],False,True,False,True,Bouche ventilation
+False,False,1,corrective,]2-4],]0-1],]4-16],True,False,True,False,Dépannage Chauffage individuel
+False,False,1,corrective,]1-2],]0-1],]1-2],True,True,False,False,Dépannage Chauffage individuel
+False,False,1,corrective,0,]1-2],]1-2],True,True,False,False,Dépannage Chauffage individuel
+False,False,1,corrective,]2-4],]2-4],]4-16],True,False,True,False,Dépannage Chauffage individuel
+False,False,1,corrective,]4-16],]0-1],]4-16],False,True,False,True,Dépannage Chauffage individuel
+False,False,-1,preventive,]72--[,]0-1],]72--[,False,True,False,True,Visite périodique
+False,False,1,corrective,]72--[,]0-1],]72--[,True,True,False,False,Bouche ventilation
+False,False,1,corrective,]24-48],]0-1],]48-72],True,False,True,False,Dépannage Chauffage individuel
+False,False,1,corrective,]4-16],]1-2],]4-16],False,True,False,True,Dépannage Chauffage individuel
+False,False,1,corrective,]48-72],]0-1],]48-72],True,False,True,False,Dépannage Chauffage individuel
+False,False,1,corrective,]1-2],]0-1],]2-4],True,True,False,False,Dépannage Chauffage individuel
+True,False,1,corrective,]1-2],]0-1],]2-4],True,True,False,False,Dépannage_VMC Gaz ou sanitaire
+False,False,-1,preventive,]72--[,]0-1],]72--[,True,True,False,False,Visite périodique
+False,False,-1,corrective,]2-4],]0-1],]2-4],True,True,False,False,Remplacement Chaudière ou caisson
+False,False,1,corrective,]4-16],]0-1],]4-16],False,True,True,True,Dépannage Chauffage individuel
+False,False,1,corrective,]16-24],]0-1],]16-24],False,True,False,True,Dépannage Chauffage individuel
+False,False,1,corrective,]4-16],]1-2],]4-16],True,True,False,False,Dépannage Chauffage individuel
+False,False,-1,preventive,]1-2],]1-2],]2-4],True,True,False,False,Visite périodique
+False,False,1,corrective,]0-1],]1-2],]2-4],True,True,False,False,Dépannage Chauffage individuel
+True,False,1,corrective,]4-16],]4-16],]4-16],True,True,False,False,Bouche ventilation
+False,False,-1,corrective,]72--[,]4-16],]72--[,True,True,False,False,Remplacement Chaudière ou caisson
+False,False,-1,preventive,]2-4],]1-2],]2-4],True,True,False,False,Visite périodique
+False,False,1,corrective,]4-16],]0-1],]4-16],True,True,False,False,Dépannage Chauffage individuel
+True,False,1,corrective,]72--[,]0-1],]72--[,True,True,False,False,Dépannage_VMC Gaz ou sanitaire
+False,False,1,corrective,]1-2],]0-1],]2-4],False,False,True,True,Dépannage Chauffage individuel
+True,False,1,corrective,]0-1],]1-2],]1-2],True,True,False,False,Bouche ventilation
+False,False,-1,corrective,]4-16],]0-1],]4-16],True,True,False,False,Remplacement Chaudière ou caisson
+False,False,0,preventive,0,0,0,False,False,False,False,Visite périodique
+False,False,-1,preventive,]2-4],]2-4],]4-16],True,True,False,False,Visite périodique
+False,False,1,corrective,]2-4],]1-2],]2-4],False,False,True,True,Dépannage Chauffage individuel
+False,True,1,corrective,]0-1],]0-1],]0-1],True,False,True,False,Dépannage Chauffage individuel
+False,False,1,corrective,]1-2],]0-1],]1-2],False,True,False,True,Dépannage Chauffage individuel
+False,False,1,corrective,]0-1],]4-16],]4-16],True,True,False,False,Dépannage Chauffage individuel
+False,False,1,corrective,]4-16],]0-1],]4-16],True,True,True,False,Dépannage Chauffage individuel
+False,False,-1,preventive,]1-2],]1-2],]2-4],False,False,True,True,Hors Périmètre
+False,False,1,corrective,]1-2],]2-4],]4-16],False,True,False,True,Dépannage Chauffage individuel
+False,False,1,corrective,]1-2],]2-4],]2-4],True,True,False,False,Dépannage Chauffage individuel
+False,False,1,preventive,]48-72],]0-1],]48-72],True,False,True,False,Visite périodique
+True,False,1,corrective,]2-4],]0-1],]2-4],False,True,False,True,Dépannage_VMC Gaz ou sanitaire
+False,False,1,corrective,]1-2],]0-1],]1-2],False,False,True,True,Dépannage Chauffage individuel
+False,False,-1,corrective,]2-4],]1-2],]2-4],True,True,False,False,Remplacement Chaudière ou caisson
+False,False,1,corrective,]2-4],]1-2],]4-16],False,True,False,True,Dépannage Chauffage individuel
+False,False,1,corrective,]48-72],]1-2],]48-72],True,False,True,False,Dépannage Chauffage individuel
+True,False,0,corrective,0,0,0,False,False,False,False,Dépannage_VMC Gaz ou sanitaire
+False,False,1,corrective,]4-16],]1-2],]4-16],False,False,True,True,Dépannage Chauffage individuel
+False,False,1,corrective,]24-48],]0-1],]24-48],False,False,True,True,Dépannage Chauffage individuel
+False,False,1,corrective,]0-1],]1-2],]1-2],True,True,False,False,Dépannage Chauffage individuel
+False,False,1,corrective,]2-4],]1-2],]2-4],False,True,False,True,Dépannage Chauffage individuel
+True,False,0,corrective,0,0,0,False,False,False,False,Bouche ventilation
+False,False,1,corrective,]0-1],]0-1],]1-2],False,True,False,True,Dépannage Chauffage individuel
+False,False,1,corrective,]48-72],]2-4],]48-72],True,False,True,False,Dépannage Chauffage individuel
+False,False,-1,corrective,]72--[,]0-1],]72--[,True,True,False,False,Remplacement Chaudière ou caisson
+False,False,1,corrective,]48-72],]0-1],]48-72],False,False,True,True,Dépannage Chauffage individuel
+False,False,-1,corrective,]16-24],]0-1],]16-24],True,True,False,False,Remplacement Chaudière ou caisson
+False,False,1,corrective,]48-72],]0-1],]48-72],True,True,False,False,Dépannage Chauffage individuel
+False,False,1,corrective,]4-16],]0-1],]4-16],True,False,True,False,Dépannage Chauffage individuel
+False,False,1,corrective,]72--[,]0-1],]72--[,True,False,True,False,Dépannage Chauffage individuel
+False,False,1,corrective,]0-1],]1-2],]2-4],False,False,True,True,Dépannage Chauffage individuel
+True,False,1,corrective,]4-16],]1-2],]4-16],True,True,False,False,Dépannage_VMC Gaz ou sanitaire
+False,False,-1,corrective,]2-4],]2-4],]4-16],True,True,False,False,Remplacement Chaudière ou caisson
+False,False,1,corrective,]4-16],]2-4],]4-16],True,True,False,False,Dépannage_VMC Gaz ou sanitaire
+False,False,-1,preventive,]72--[,]1-2],]72--[,True,True,False,False,Visite périodique
+False,False,1,corrective,]4-16],]0-1],]4-16],False,True,False,True,Bouche ventilation
+False,True,-1,corrective,]1-2],]0-1],]1-2],True,True,False,False,Remplacement Chaudière ou caisson
+False,True,1,corrective,]24-48],]0-1],]24-48],True,True,False,False,Dépannage Chauffage individuel
+False,False,-1,preventive,0,]0-1],]0-1],True,True,False,False,Visite périodique
+False,False,-1,preventive,]0-1],]2-4],]2-4],True,True,False,False,Visite périodique
+False,False,-1,preventive,]0-1],]0-1],]0-1],True,True,False,False,Visite périodique
+False,False,-1,preventive,]0-1],]0-1],]1-2],True,True,False,False,Visite périodique
+True,False,0,corrective,0,0,0,False,False,False,False,Bouche ventilation
+False,False,1,corrective,]4-16],]1-2],]4-16],True,False,True,False,Dépannage Chauffage individuel
+False,False,-1,preventive,]2-4],]0-1],]4-16],False,True,False,True,Visite périodique
+False,False,-1,preventive,]72--[,]2-4],]72--[,True,True,False,False,Visite périodique
+False,False,1,corrective,]16-24],]0-1],]16-24],False,False,True,True,Dépannage Chauffage individuel
+False,False,-1,preventive,]2-4],]0-1],]4-16],True,True,False,False,Visite périodique
+True,False,1,corrective,]48-72],]0-1],]48-72],False,True,False,True,Bouche ventilation
+False,False,1,corrective,]1-2],]1-2],]2-4],True,False,True,False,Dépannage Chauffage individuel
+True,False,1,corrective,]0-1],]1-2],]2-4],True,True,False,False,Dépannage_VMC Gaz ou sanitaire
+False,False,-1,preventive,]2-4],]1-2],]4-16],True,True,False,False,Visite périodique
+False,False,-1,preventive,]2-4],]0-1],]4-16],False,False,True,True,Visite périodique
+False,False,-1,preventive,0,]1-2],]1-2],False,True,False,True,Visite périodique
+False,False,1,corrective,]72--[,]1-2],]72--[,True,True,True,False,Dépannage Chauffage individuel
+True,False,1,corrective,]0-1],]2-4],]2-4],True,True,False,False,Dépannage_VMC Gaz ou sanitaire
+False,False,-1,corrective,]0-1],]1-2],]1-2],True,True,False,False,Remplacement Chaudière ou caisson
+False,False,1,corrective,]1-2],]0-1],]1-2],True,False,True,False,Dépannage Chauffage individuel
+False,False,1,corrective,]4-16],]1-2],]4-16],True,True,False,False,Remplacement Chaudière ou caisson
+False,True,-1,corrective,]16-24],]1-2],]24-48],True,True,False,False,Remplacement Chaudière ou caisson
+False,False,-1,preventive,]1-2],]1-2],]2-4],True,True,False,False,Hors Périmètre
+False,False,1,corrective,0,]2-4],]2-4],False,True,False,True,Dépannage Chauffage individuel
+False,False,1,corrective,]2-4],]4-16],]4-16],True,True,False,False,Dépannage Chauffage individuel
+True,False,1,corrective,]1-2],]1-2],]2-4],False,True,False,True,Bouche ventilation
+False,False,-1,corrective,]2-4],]4-16],]4-16],True,True,False,False,Remplacement Chaudière ou caisson
+False,False,1,corrective,]2-4],]1-2],]4-16],True,True,False,False,Bouche ventilation
+True,False,1,corrective,]4-16],]1-2],]4-16],True,True,False,False,Bouche ventilation
+False,False,1,corrective,]72--[,]0-1],]72--[,False,False,True,True,Dépannage Chauffage individuel
+False,False,1,corrective,]24-48],]0-1],]24-48],True,True,False,False,Remplacement Chaudière ou caisson
+True,False,1,corrective,]0-1],]2-4],]2-4],True,False,True,False,Bouche ventilation
+False,False,1,corrective,]1-2],]4-16],]4-16],True,True,False,False,Bouche ventilation
+False,False,1,corrective,]1-2],]2-4],]4-16],True,True,False,False,Dépannage Chauffage individuel
+False,True,1,corrective,]2-4],]0-1],]2-4],True,False,True,False,Dépannage Chauffage individuel
+False,False,1,corrective,]0-1],]0-1],]1-2],False,False,True,True,Dépannage Chauffage individuel
+False,False,1,corrective,]2-4],]2-4],]4-16],True,True,False,False,Dépannage Chauffage individuel
+True,False,1,corrective,]16-24],]0-1],]16-24],True,True,False,False,Bouche ventilation
+False,False,-1,preventive,]72--[,]1-2],]72--[,False,True,False,True,Visite périodique
+False,False,-1,preventive,]2-4],]0-1],]2-4],True,False,True,False,Visite périodique
+True,False,1,corrective,]2-4],]0-1],]2-4],True,True,False,False,Bouche ventilation
+False,False,-1,corrective,]4-16],]1-2],]4-16],True,True,False,False,Remplacement Chaudière ou caisson
+False,False,-1,preventive,]1-2],]0-1],]2-4],True,True,False,False,Visite périodique
+False,False,1,corrective,]72--[,]1-2],]72--[,False,False,True,True,Dépannage Chauffage individuel
+False,False,1,corrective,]0-1],]0-1],]0-1],False,False,True,True,Dépannage Chauffage individuel
+False,False,1,corrective,]48-72],]0-1],]72--[,True,False,True,False,Dépannage Chauffage individuel
+False,False,1,corrective,]0-1],]0-1],]0-1],False,True,False,True,Dépannage Chauffage individuel
+False,False,1,corrective,]2-4],]1-2],]4-16],True,True,False,False,Dépannage Chauffage individuel
+False,False,1,corrective,]72--[,]1-2],]72--[,True,False,True,False,Dépannage Chauffage individuel
+True,False,1,corrective,]16-24],]1-2],]16-24],True,True,False,False,Bouche ventilation
+False,False,-1,corrective,]2-4],]1-2],]4-16],True,True,False,False,Remplacement Chaudière ou caisson
+False,False,-1,preventive,]2-4],]0-1],]2-4],True,True,False,False,Visite périodique
+True,False,1,corrective,]0-1],]1-2],]2-4],True,True,False,False,Bouche ventilation
+False,False,1,corrective,]0-1],]0-1],]1-2],True,True,True,False,Dépannage Chauffage individuel
+False,False,1,corrective,]4-16],]0-1],]4-16],False,False,True,True,Dépannage Chauffage individuel
+False,False,1,corrective,]0-1],]1-2],]2-4],True,False,True,False,Dépannage Chauffage individuel
+False,False,0,corrective,0,0,0,False,False,False,False,Dépannage Chauffage individuel
+False,False,-1,preventive,]72--[,]2-4],]72--[,False,True,False,True,Visite périodique
+False,False,-1,preventive,]24-48],]0-1],]24-48],True,True,False,False,Visite périodique
+False,False,-1,preventive,]2-4],]1-2],]2-4],True,False,True,False,Visite périodique
+False,False,-1,corrective,]2-4],]1-2],]4-16],False,True,False,True,Remplacement Chaudière ou caisson
+False,False,1,corrective,]2-4],]0-1],]2-4],True,True,False,False,Dépannage Chauffage individuel
+False,False,1,corrective,]16-24],]0-1],]16-24],True,True,False,False,Dépannage Chauffage individuel
+False,False,1,corrective,]24-48],]0-1],]24-48],True,True,True,False,Dépannage Chauffage individuel
+False,False,1,corrective,]1-2],]1-2],]2-4],True,True,False,False,Dépannage Chauffage individuel
+False,True,1,corrective,]0-1],]1-2],]2-4],False,True,False,True,Dépannage Chauffage individuel
+False,True,1,corrective,]72--[,]1-2],]72--[,True,True,False,False,Dépannage Chauffage individuel
+False,False,-1,corrective,]0-1],]2-4],]2-4],True,True,False,False,Remplacement Chaudière ou caisson
+False,False,1,corrective,]0-1],]0-1],]1-2],True,True,False,False,Dépannage Chauffage individuel
+False,False,-1,corrective,]72--[,]0-1],]72--[,False,True,False,True,Remplacement Chaudière ou caisson
+False,False,1,corrective,]72--[,]0-1],]72--[,True,True,True,False,Dépannage Chauffage individuel
+False,False,1,corrective,]2-4],]1-2],]4-16],True,False,True,False,Dépannage Chauffage individuel
+False,False,-1,preventive,]0-1],]0-1],]1-2],False,True,False,True,Visite périodique
+False,False,1,corrective,]1-2],]0-1],]2-4],False,True,False,True,Dépannage Chauffage individuel
+False,False,-1,preventive,]4-16],]0-1],]4-16],True,False,True,False,Visite périodique
+False,False,-1,preventive,]16-24],]0-1],]24-48],True,True,False,False,Visite périodique
+False,False,1,corrective,0,]1-2],]1-2],True,False,True,False,Dépannage Chauffage individuel
+False,False,1,corrective,]0-1],]1-2],]1-2],False,False,True,True,Dépannage Chauffage individuel
+False,False,-1,preventive,]1-2],]0-1],]1-2],True,True,False,False,Visite périodique
+True,False,1,corrective,]1-2],]0-1],]2-4],True,True,False,False,Bouche ventilation
+False,False,1,corrective,]0-1],]0-1],]0-1],True,True,False,False,Dépannage Chauffage individuel
+False,False,-1,preventive,]0-1],]0-1],]0-1],True,False,True,False,Visite périodique
+False,False,1,corrective,]0-1],]2-4],]2-4],True,True,False,False,Dépannage Chauffage individuel
+False,False,-1,preventive,]24-48],]0-1],]24-48],False,False,True,True,Visite périodique
+False,False,1,corrective,]24-48],]1-2],]24-48],True,False,True,False,Dépannage Chauffage individuel
+False,False,1,corrective,]0-1],]1-2],]1-2],True,False,True,False,Dépannage Chauffage individuel
+False,False,1,corrective,]4-16],]2-4],]4-16],True,True,False,False,Dépannage Chauffage individuel
+False,False,1,corrective,]4-16],]4-16],]4-16],True,True,False,False,Dépannage Chauffage individuel
+False,False,1,corrective,]0-1],]1-2],]1-2],False,True,False,True,Dépannage Chauffage individuel
+False,False,1,corrective,]4-16],]0-1],]4-16],True,True,False,False,Bouche ventilation
+False,False,1,corrective,]0-1],]2-4],]2-4],True,False,True,False,Dépannage Chauffage individuel

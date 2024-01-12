@@ -1,0 +1,219 @@
+criticalLevel,workType,responseTime,processingDuration,resolutionDuration,planned,occupant_absent,requested,canceled,Class
+5,corrective,]24-48],]0-1],]24-48],True,False,True,True,Panne chauff ind
+5,corrective,]24-48],]0-1],]24-48],True,False,True,False,Panne Robinetterie
+5,corrective,]24-48],]1-2],]24-48],True,False,True,True,Panne chauff ind
+1,corrective,]2-4],]0-1],]2-4],True,False,True,True,Panne Production ECS
+1,preventive,0,]0-1],]0-1],False,False,False,False,Visite entretien ventilation coll
+1,corrective,]48-72],]0-1],]48-72],True,False,True,False,Panne Robinetterie
+1,corrective,]16-24],]0-1],]16-24],True,False,True,True,Panne Robinetterie
+5,corrective,]2-4],]0-1],]4-16],True,False,True,True,Panne Production ECS
+3,corrective,]72--[,]0-1],]72--[,True,True,True,True,Panne chauff ind
+1,corrective,]72--[,]0-1],]72--[,True,False,True,True,Panne Electrique
+1,corrective,]72--[,]1-2],]72--[,True,False,True,False,Panne VMC sanitaire
+5,corrective,]72--[,]1-2],]72--[,True,False,True,False,Panne chauff ind
+3,corrective,]24-48],]0-1],]48-72],True,False,True,True,Panne chauff ind
+5,corrective,]24-48],]0-1],]24-48],True,False,True,False,Panne Production ECS
+1,corrective,]72--[,]0-1],]72--[,True,False,True,False,Panne Robinetterie
+1,corrective,]0-1],]0-1],]1-2],True,False,True,False,Panne Robinetterie
+1,corrective,0,]0-1],]0-1],False,False,False,False,Panne chauff ind
+1,corrective,0,]0-1],]0-1],True,False,True,False,Panne chauff ind
+1,corrective,0,0,0,True,True,True,False,Panne chauff ind
+1,corrective,]2-4],]1-2],]2-4],True,False,True,False,Panne chauff ind
+1,preventive,0,]2-4],]2-4],False,False,False,False,Visite entretien chaudière
+1,corrective,]16-24],]0-1],]16-24],True,False,True,False,Panne chauff ind
+1,preventive,0,]1-2],]1-2],False,False,False,False,Visite entretien ECS
+3,corrective,]72--[,]0-1],]72--[,True,False,True,False,Entretien pompes à chaleur
+3,corrective,]4-16],]0-1],]4-16],True,False,True,False,Panne chauff ind
+1,corrective,]72--[,]0-1],]72--[,True,False,True,True,Panne VMC sanitaire
+1,corrective,]72--[,]0-1],]72--[,True,False,True,False,Panne VMC sanitaire
+3,corrective,0,0,0,True,True,True,True,Panne Robinetterie
+1,corrective,]72--[,]1-2],]72--[,True,False,True,False,Panne chauff ind
+1,corrective,]72--[,]0-1],]72--[,False,False,True,False,Panne chauff ind
+1,corrective,]72--[,]0-1],]72--[,True,False,True,True,Panne Production ECS
+1,corrective,0,]0-1],]0-1],True,False,True,False,Panne Robinetterie
+1,corrective,]0-1],]1-2],]1-2],True,False,True,False,Panne Robinetterie
+1,corrective,]72--[,0,]72--[,True,True,True,False,Panne chauff ind
+1,corrective,]16-24],]0-1],]16-24],True,False,True,False,Panne Robinetterie
+1,preventive,0,0,0,False,True,False,False,Visite entretien chaudière
+1,preventive,0,]1-2],]1-2],False,False,False,False,Visite entretien ventilation coll
+1,corrective,]48-72],]0-1],]72--[,True,False,True,False,Panne chauff ind
+5,corrective,]4-16],]0-1],]4-16],True,False,True,True,Panne Production ECS
+1,corrective,]1-2],]1-2],]2-4],True,False,True,False,Panne chauff ind
+1,corrective,]16-24],]0-1],]16-24],True,False,True,True,Panne Solaire Thermique autres interventions
+1,preventive,0,]1-2],]1-2],False,False,False,False,Visite entretien chaudière
+3,corrective,]16-24],]0-1],]16-24],True,False,True,False,Panne chauff ind
+1,corrective,]72--[,]1-2],]72--[,True,False,True,True,Panne chauff ind
+1,corrective,]72--[,]4-16],]72--[,True,False,True,True,Panne chauff ind
+1,corrective,]72--[,]0-1],]72--[,True,True,True,False,Panne chauff ind
+5,corrective,]16-24],]0-1],]16-24],True,False,True,False,Panne chauff ind
+1,corrective,]72--[,]1-2],]72--[,True,False,True,False,Panne Robinetterie
+1,corrective,]72--[,]2-4],]72--[,True,False,True,False,Panne Robinetterie
+1,corrective,]72--[,]1-2],]72--[,True,False,True,False,Panne Production ECS
+1,preventive,0,0,0,False,True,False,False,Visite entretien convecteur
+1,corrective,]2-4],]0-1],]2-4],True,False,True,False,Panne Robinetterie
+1,corrective,0,]0-1],]0-1],False,False,False,False,Panne Electrique
+1,corrective,]24-48],]0-1],]24-48],True,False,True,True,Panne Production ECS
+1,corrective,]24-48],]0-1],]24-48],True,False,True,False,Panne chauff ind
+5,corrective,]16-24],]0-1],]24-48],True,False,True,True,Panne chauff ind
+1,preventive,0,]1-2],]1-2],False,False,False,False,Visite entretien ventilation ind
+1,corrective,0,0,0,True,True,True,False,Panne VMC sanitaire
+5,corrective,]48-72],]0-1],]48-72],True,False,True,True,Panne chauff ind
+1,corrective,]1-2],]0-1],]1-2],True,False,True,False,Panne chauff ind
+1,corrective,]16-24],]0-1],]16-24],True,False,True,False,Panne VMC sanitaire
+1,corrective,]0-1],]0-1],]0-1],True,False,True,True,Panne Robinetterie
+1,preventive,0,0,0,False,True,False,False,Visite entretien robinetterie
+1,corrective,]48-72],]0-1],]48-72],True,False,True,False,Panne chauff ind
+3,corrective,]72--[,]0-1],]72--[,True,False,True,True,Panne Electrique
+1,corrective,]72--[,]1-2],]72--[,True,False,True,False,Panne Solaire Thermique autres interventions
+1,corrective,]24-48],]1-2],]24-48],True,False,True,False,Panne Robinetterie
+1,corrective,]72--[,]0-1],]72--[,False,False,True,False,Panne Robinetterie
+1,corrective,]48-72],]2-4],]48-72],True,False,True,False,Panne VMC sanitaire
+3,corrective,]4-16],]1-2],]4-16],True,False,True,False,Panne chauff ind
+1,corrective,]2-4],]0-1],]2-4],True,False,True,False,Panne chauff ind
+1,corrective,]72--[,]1-2],]72--[,True,False,True,True,Entretien pompes à chaleur
+1,corrective,]72--[,0,]72--[,True,True,True,False,Panne Robinetterie
+1,corrective,0,]2-4],]2-4],False,False,False,False,Panne Robinetterie
+5,corrective,]16-24],]0-1],]16-24],True,False,True,True,Panne Robinetterie
+1,corrective,0,0,0,False,True,False,True,Panne chauff ind
+5,corrective,]16-24],]1-2],]16-24],True,False,True,True,Panne chauff ind
+5,corrective,0,]0-1],]0-1],False,False,False,True,Panne chauff ind
+1,corrective,]2-4],]0-1],]4-16],True,False,True,False,Panne chauff ind
+1,corrective,]2-4],]1-2],]4-16],True,False,True,False,Panne chauff ind
+1,preventive,0,0,0,False,True,False,False,Visite entretien ventilation ind
+1,corrective,]4-16],]0-1],]4-16],True,False,True,False,Panne Robinetterie
+1,corrective,]72--[,]2-4],]72--[,True,False,True,False,Panne chauff ind
+1,corrective,]72--[,]0-1],]72--[,True,True,True,False,Panne Robinetterie
+1,corrective,]72--[,]0-1],]72--[,True,False,True,True,Entretien pompes à chaleur
+1,corrective,]16-24],]0-1],]16-24],True,False,True,True,Panne chauff ind
+5,corrective,]16-24],]1-2],]24-48],True,False,True,False,Panne chauff ind
+1,corrective,0,]1-2],]1-2],False,False,False,False,Panne chauff ind
+1,corrective,]72--[,]4-16],]72--[,True,False,True,False,Panne chauff ind
+1,corrective,]0-1],]1-2],]1-2],True,False,True,False,Panne Production ECS
+3,corrective,]48-72],]0-1],]48-72],True,False,True,False,Panne Production ECS
+3,corrective,]16-24],]1-2],]16-24],True,False,True,False,Panne chauff ind
+1,preventive,0,]1-2],]1-2],False,False,False,False,Visite entretien convecteur
+3,corrective,0,0,0,True,True,True,False,Panne chauff ind
+1,corrective,]48-72],]1-2],]72--[,True,False,True,False,Panne Robinetterie
+1,corrective,]24-48],]0-1],]24-48],True,False,True,True,Panne Robinetterie
+5,corrective,]72--[,]0-1],]72--[,True,False,True,True,Panne Production ECS
+1,corrective,]72--[,]72--[,]72--[,True,False,True,False,Panne chauff ind
+1,corrective,]24-48],]0-1],]24-48],True,False,True,True,Panne chauff ind
+1,corrective,]0-1],]0-1],]0-1],True,False,True,False,Panne chauff ind
+1,corrective,]72--[,]1-2],]72--[,False,False,True,False,Panne chauff ind
+1,preventive,0,]0-1],]0-1],False,True,False,False,Visite entretien robinetterie
+5,corrective,]4-16],]1-2],]4-16],True,False,True,False,Panne chauff ind
+1,corrective,]0-1],]0-1],]0-1],True,False,True,False,Panne Robinetterie
+1,corrective,]0-1],]0-1],]1-2],True,False,True,True,Panne chauff ind
+1,corrective,]72--[,]0-1],]72--[,True,False,True,False,Panne VMC gaz
+5,corrective,0,0,0,True,True,True,False,Panne chauff ind
+1,corrective,]72--[,]0-1],]72--[,True,False,True,False,Entretien pompes à chaleur
+1,corrective,0,]0-1],]0-1],False,False,False,False,Panne Robinetterie
+1,corrective,0,0,0,True,False,True,False,Panne chauff ind
+1,corrective,0,]2-4],]2-4],False,False,False,False,Panne chauff ind
+1,corrective,]48-72],]1-2],]48-72],True,False,True,False,Panne chauff ind
+1,corrective,0,]1-2],]1-2],True,False,True,False,Panne chauff ind
+1,corrective,]24-48],]0-1],]24-48],True,False,True,False,Entretien pompes à chaleur
+3,corrective,]72--[,]1-2],]72--[,True,False,True,True,Panne chauff ind
+5,corrective,]24-48],]0-1],]24-48],True,False,True,False,Panne chauff ind
+1,preventive,0,]2-4],]2-4],False,False,False,False,Visite entretien ventilation coll
+1,corrective,]72--[,]1-2],]72--[,True,False,True,False,Panne chauff ind
+5,corrective,]72--[,]1-2],]72--[,True,False,True,True,Panne chauff ind
+3,corrective,]48-72],]0-1],]48-72],True,False,True,False,Panne chauff ind
+1,corrective,]16-24],]0-1],]24-48],True,False,True,False,Panne chauff ind
+1,corrective,0,0,0,True,True,True,False,Panne Solaire Thermique autres interventions
+1,corrective,]48-72],]0-1],]48-72],True,True,True,False,Panne chauff ind
+5,corrective,]24-48],]0-1],]48-72],True,False,True,False,Panne chauff ind
+1,preventive,0,0,0,False,True,False,False,Visite entretien ECS
+1,corrective,]72--[,]72--[,]72--[,True,True,True,False,Panne chauff ind
+1,corrective,]24-48],]0-1],]24-48],True,False,True,False,Panne Electrique
+1,corrective,0,]0-1],]0-1],False,False,False,False,Panne Production ECS
+1,corrective,0,0,0,True,True,True,True,Panne Robinetterie
+1,corrective,]0-1],]2-4],]2-4],True,False,True,False,Panne chauff ind
+1,corrective,]24-48],]0-1],]24-48],True,False,True,False,Panne Production ECS
+1,corrective,]72--[,]1-2],]72--[,True,True,True,False,Panne chauff ind
+3,corrective,]72--[,]0-1],]72--[,True,False,True,False,Panne chauff ind
+1,corrective,]72--[,]0-1],]72--[,True,False,True,False,Panne chauff ind
+1,corrective,]4-16],]1-2],]4-16],True,False,True,False,Panne chauff ind
+1,corrective,]4-16],]0-1],]4-16],True,False,True,False,Panne chauff ind
+5,corrective,]2-4],]0-1],]4-16],True,False,True,False,Panne chauff ind
+1,corrective,0,]1-2],]1-2],True,False,True,False,Panne VMC sanitaire
+1,preventive,0,]0-1],]0-1],False,False,False,False,Visite entretien chaudière
+1,corrective,]48-72],]0-1],]48-72],True,False,True,True,Panne Robinetterie
+1,corrective,]72--[,]0-1],]72--[,True,False,True,True,Panne Robinetterie
+5,corrective,]72--[,]0-1],]72--[,True,False,True,True,Panne chauff ind
+1,corrective,0,0,0,True,True,True,True,Panne chauff ind
+5,corrective,]48-72],]0-1],]48-72],True,False,True,False,Panne chauff ind
+1,corrective,0,0,0,True,True,True,False,Panne Robinetterie
+1,preventive,0,]2-4],]2-4],False,False,False,False,Visite entretien robinetterie
+1,corrective,]16-24],]0-1],]16-24],True,False,True,False,Panne Production ECS
+1,preventive,0,]4-16],]4-16],False,False,False,False,Visite entretien chaudière
+1,corrective,]2-4],]1-2],]4-16],True,False,True,False,Panne Production ECS
+1,corrective,]48-72],]0-1],]48-72],True,False,True,False,Panne Production ECS
+1,corrective,]16-24],]0-1],]24-48],True,False,True,False,Panne Robinetterie
+1,corrective,]4-16],]0-1],]4-16],True,False,True,False,Panne Production ECS
+1,corrective,]72--[,]2-4],]72--[,True,False,True,False,Entretien pompes à chaleur
+1,corrective,]24-48],]0-1],]24-48],True,False,True,False,Panne Robinetterie
+1,corrective,]72--[,]4-16],]72--[,True,False,True,True,Panne VMC sanitaire
+1,corrective,]16-24],]1-2],]16-24],True,False,True,False,Panne Robinetterie
+1,corrective,]0-1],]0-1],]0-1],True,False,True,False,Panne Production ECS
+1,corrective,0,0,0,True,True,True,False,Panne Production ECS
+5,corrective,]72--[,]0-1],]72--[,True,True,True,True,Panne chauff ind
+1,corrective,]48-72],]0-1],]48-72],True,False,True,True,Panne chauff ind
+1,corrective,]48-72],]1-2],]48-72],True,False,True,False,Panne VMC sanitaire
+1,corrective,]16-24],]1-2],]16-24],True,False,True,False,Panne chauff ind
+1,corrective,]1-2],]0-1],]2-4],True,False,True,False,Panne Robinetterie
+1,corrective,0,0,0,False,True,False,False,Panne chauff ind
+1,corrective,]72--[,]0-1],]72--[,True,False,True,False,Panne Solaire Thermique autres interventions
+1,corrective,]72--[,]1-2],]72--[,True,False,True,True,Panne Robinetterie
+1,corrective,]72--[,]72--[,]72--[,True,True,True,False,Panne Robinetterie
+1,preventive,0,0,0,False,True,False,False,Visite entretien ventilation coll
+3,corrective,]72--[,]2-4],]72--[,True,False,True,True,Panne chauff ind
+1,corrective,0,0,0,True,True,True,False,Panne VMC gaz
+1,corrective,]72--[,]0-1],]72--[,True,False,True,False,Panne Production ECS
+3,corrective,]72--[,]0-1],]72--[,True,False,True,True,Panne chauff ind
+1,corrective,]72--[,]0-1],]72--[,True,True,True,True,Panne Robinetterie
+1,corrective,]72--[,]0-1],]72--[,True,False,True,True,Panne chauff ind
+1,corrective,]72--[,]4-16],]72--[,True,False,True,False,Entretien pompes à chaleur
+1,preventive,0,]0-1],]0-1],False,False,False,False,Visite entretien ventilation ind
+1,corrective,]1-2],]0-1],]2-4],True,False,True,False,Panne chauff ind
+5,corrective,]72--[,]0-1],]72--[,True,False,True,False,Panne Robinetterie
+1,corrective,0,0,0,True,True,True,True,Panne VMC sanitaire
+5,corrective,]24-48],]1-2],]24-48],True,False,True,False,Panne chauff ind
+3,corrective,]24-48],]0-1],]24-48],True,False,True,True,Panne chauff ind
+1,corrective,]72--[,]0-1],]72--[,True,True,True,True,Panne chauff ind
+3,corrective,]72--[,]1-2],]72--[,True,False,True,False,Panne chauff ind
+5,corrective,0,0,0,True,True,True,True,Panne chauff ind
+1,corrective,]24-48],]1-2],]24-48],True,False,True,True,Panne chauff ind
+5,corrective,]72--[,]1-2],]72--[,True,False,True,False,Panne Robinetterie
+1,corrective,]48-72],]1-2],]48-72],True,False,True,False,Panne Robinetterie
+1,corrective,]72--[,]2-4],]72--[,True,False,True,True,Panne chauff ind
+1,corrective,0,]0-1],]0-1],False,False,False,True,Panne Robinetterie
+1,corrective,0,]1-2],]1-2],True,False,True,False,Panne Robinetterie
+1,corrective,]24-48],]1-2],]24-48],True,False,True,False,Panne chauff ind
+5,corrective,]72--[,]0-1],]72--[,True,False,True,False,Panne chauff ind
+3,corrective,]24-48],]0-1],]24-48],True,False,True,False,Panne chauff ind
+1,corrective,0,]2-4],]2-4],True,False,True,False,Panne chauff ind
+1,corrective,]24-48],]1-2],]48-72],True,False,True,False,Panne Robinetterie
+1,corrective,]24-48],]0-1],]48-72],True,False,True,False,Panne Robinetterie
+1,corrective,]72--[,]0-1],]72--[,True,False,True,False,Panne Electrique
+1,corrective,0,]0-1],]0-1],False,False,False,False,Panne VMC sanitaire
+1,preventive,0,]0-1],]0-1],False,False,False,False,Visite entretien robinetterie
+1,corrective,]2-4],]0-1],]2-4],True,False,True,False,Panne VMC gaz
+1,corrective,0,]1-2],]1-2],False,False,False,False,Panne Robinetterie
+1,corrective,]48-72],]1-2],]72--[,True,False,True,False,Panne VMC sanitaire
+1,preventive,0,]0-1],]0-1],False,False,False,False,Visite entretien convecteur
+5,corrective,]16-24],]0-1],]24-48],True,False,True,False,Panne Robinetterie
+1,corrective,]72--[,]2-4],]72--[,True,False,True,False,Entretien pompes à chaleur
+3,corrective,]72--[,]0-1],]72--[,True,False,True,False,Panne Robinetterie
+1,corrective,]72--[,]2-4],]72--[,True,False,True,False,Panne VMC sanitaire
+5,corrective,]0-1],]0-1],]1-2],True,False,True,False,Panne chauff ind
+1,corrective,]4-16],]0-1],]4-16],True,True,True,False,Panne chauff ind
+1,preventive,0,]1-2],]1-2],False,False,False,False,Visite entretien robinetterie
+3,corrective,]72--[,]72--[,]72--[,True,False,True,True,Panne chauff ind
+1,corrective,]1-2],]0-1],]1-2],True,False,True,False,Panne Robinetterie
+1,corrective,]24-48],]0-1],]48-72],True,False,True,False,Panne chauff ind
+5,corrective,]0-1],]0-1],]1-2],True,False,True,False,Panne Robinetterie
+5,corrective,]4-16],]1-2],]4-16],True,False,True,False,Panne Robinetterie
+1,preventive,0,]0-1],]0-1],False,False,False,False,Visite entretien ECS
+1,preventive,0,]2-4],]2-4],False,False,False,False,Visite entretien ventilation ind
+1,corrective,]48-72],]0-1],]72--[,True,False,True,False,Panne Robinetterie
