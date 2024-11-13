@@ -1,2 +1,0 @@
-Algorithm,Multiservice_1,Multiservice_2,Multiservice_3,Multiservice_4,Heating_1,Heating_2,Confort,Ventilation
-carrt,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
