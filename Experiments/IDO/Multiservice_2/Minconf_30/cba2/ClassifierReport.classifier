@@ -1,0 +1,84 @@
+workType=preventive responseTime=]72--[ client_planned=True canceled=True => Visiteentretienconvecteur
+workType=none partial_repair=True => PanneRobinetterie
+replanned=True missing_item=False partial_repair=True => Pannechauffind
+Leak=False workType=preventive responseTime=]72--[ processingDuration=]72--[ canceled=True => Visiteentretienconvecteur
+Leak=False workType=preventive replanned=True canceled=True => Visiteentretienconvecteur
+workType=preventive processingDuration=]48-72] => Visiteentretienconvecteur
+workType=preventive processingDuration=]0-1] canceled=True => Visiteentretienconvecteur
+workType=preventive responseTime=]72--[ processingDuration=0 replanned=False => Visiteentretienconvecteur
+workType=corrective processingDuration=]24-48] canceled=False => Visiteentretienventilationind
+processingDuration=]1-2] planned=False postponed=True missing_item=True => Visiteentretienventilationind
+Leak=False workType=preventive responseTime=]72--[ canceled=True => Visiteentretienconvecteur
+Leak=True workType=none responseTime=]72--[ planned=True => PanneRobinetterie
+Leak=True workType=none responseTime=]72--[ replanned=True canceled=False => PanneRobinetterie
+workType=none responseTime=]72--[ planned=False replanned=True => PanneRobinetterie
+workType=none resolutionDuration=]72--[ planned=True => PanneRobinetterie
+workType=none resolutionDuration=]72--[ => PanneRobinetterie
+Leak=True workType=none replanned=True canceled=False => PanneRobinetterie
+workType=none replanned=True => PanneRobinetterie
+workType=none canceled=True => PanneRobinetterie
+Leak=True resolutionDuration=]72--[ replanned=True postponed=False client_planned=False => PanneRobinetterie
+Leak=True processingDuration=]1-2] replanned=False postponed=False partial_repair=False => PanneRobinetterie
+Leak=False workType=corrective planned=True replanned=False postponed=True canceled=False => Pannechauffind
+workType=none planned=False => PanneRobinetterie
+workType=corrective responseTime=]24-48] processingDuration=]0-1] planned=False => Pannechauffind
+workType=corrective responseTime=]24-48] resolutionDuration=]48-72] canceled=False => Pannechauffind
+Leak=True processingDuration=]1-2] replanned=False partial_repair=False => PanneRobinetterie
+Leak=True resolutionDuration=]72--[ planned=True replanned=True postponed=False => PanneRobinetterie
+Leak=True resolutionDuration=]72--[ replanned=True client_planned=False missing_item=False => PanneRobinetterie
+workType=none => PanneRobinetterie
+Leak=True resolutionDuration=]72--[ replanned=True client_planned=False => PanneRobinetterie
+workType=corrective responseTime=]24-48] planned=False => Pannechauffind
+Leak=True resolutionDuration=]72--[ replanned=True postponed=False partial_repair=False => PanneRobinetterie
+Leak=True resolutionDuration=]72--[ replanned=True postponed=False => PanneRobinetterie
+workType=corrective resolutionDuration=]24-48] planned=False => Pannechauffind
+workType=preventive processingDuration=0 replanned=False => Visiteentretienconvecteur
+Leak=True workType=preventive resolutionDuration=]72--[ => PanneRobinetterie
+workType=corrective replanned=True canceled=True => PanneRobinetterie
+Leak=False workType=corrective planned=True replanned=False postponed=True => Pannechauffind
+workType=preventive responseTime=]72--[ replanned=True canceled=False => PanneRobinetterie
+planned=True replanned=True postponed=False missing_item=True => PanneRobinetterie
+Leak=True workType=corrective postponed=False missing_item=False canceled=False => Pannechauffind
+processingDuration=]4-16] resolutionDuration=]72--[ replanned=True => PanneRobinetterie
+workType=preventive replanned=True postponed=False canceled=False => PanneRobinetterie
+workType=corrective responseTime=]24-48] processingDuration=]1-2] => Pannechauffind
+workType=corrective processingDuration=]2-4] planned=True replanned=False => Pannechauffind
+responseTime=]72--[ replanned=True client_planned=False missing_item=True => PanneRobinetterie
+Leak=True replanned=True postponed=False => PanneRobinetterie
+workType=corrective processingDuration=]2-4] replanned=False => Pannechauffind
+responseTime=]72--[ replanned=True postponed=False missing_item=True => PanneRobinetterie
+processingDuration=]0-1] replanned=False missing_item=False partial_repair=True => PanneRobinetterie
+Leak=False workType=preventive responseTime=]72--[ planned=False replanned=False postponed=False => Visiteentretienconvecteur
+workType=corrective responseTime=]24-48] processingDuration=]0-1] => Pannechauffind
+workType=preventive processingDuration=]1-2] canceled=False => PanneRobinetterie
+Leak=True planned=False postponed=False canceled=False partial_repair=False => PanneRobinetterie
+Leak=True client_planned=False missing_item=False => PanneRobinetterie
+planned=False replanned=False partial_repair=True => PanneRobinetterie
+Leak=True workType=corrective client_planned=True missing_item=False => Pannechauffind
+workType=corrective planned=True missing_item=False partial_repair=True => Pannechauffind
+Leak=False replanned=True client_planned=False missing_item=True => PanneRobinetterie
+responseTime=]72--[ replanned=True postponed=True client_planned=False canceled=False => PanneRobinetterie
+processingDuration=0 planned=True postponed=False => PanneRobinetterie
+responseTime=]72--[ replanned=True postponed=True missing_item=False canceled=False => PanneRobinetterie
+resolutionDuration=]72--[ replanned=True postponed=True client_planned=False canceled=False => PanneRobinetterie
+workType=corrective resolutionDuration=]48-72] planned=True replanned=False => Pannechauffind
+workType=corrective resolutionDuration=]48-72] planned=False partial_repair=False => Pannechauffind
+responseTime=]48-72] client_planned=True => PanneRobinetterie
+responseTime=]72--[ processingDuration=]72--[ replanned=True postponed=False => PanneRobinetterie
+processingDuration=0 missing_item=False => PanneRobinetterie
+processingDuration=]2-4] client_planned=True canceled=False => PanneRobinetterie
+Leak=False workType=corrective replanned=False postponed=True canceled=False => Pannechauffind
+processingDuration=]72--[ replanned=True postponed=False => PanneRobinetterie
+workType=preventive resolutionDuration=]72--[ client_planned=True canceled=False => PanneRobinetterie
+Leak=False workType=preventive responseTime=]72--[ replanned=False postponed=False => Visiteentretienconvecteur
+processingDuration=]72--[ postponed=False canceled=False => PanneRobinetterie
+workType=preventive client_planned=True canceled=False => PanneRobinetterie
+responseTime=]72--[ planned=False replanned=True canceled=False partial_repair=False => PanneRobinetterie
+processingDuration=]2-4] replanned=True canceled=False => PanneRobinetterie
+workType=corrective responseTime=]72--[ postponed=False canceled=True => PanneRobinetterie
+processingDuration=]1-2] postponed=False client_planned=True canceled=False partial_repair=False => PanneRobinetterie
+resolutionDuration=]72--[ replanned=True client_planned=False => PanneRobinetterie
+workType=corrective responseTime=]72--[ canceled=True => PanneRobinetterie
+workType=corrective resolutionDuration=]24-48] => Pannechauffind
+workType=preventive canceled=False => PanneRobinetterie
+ => Pannechauffind

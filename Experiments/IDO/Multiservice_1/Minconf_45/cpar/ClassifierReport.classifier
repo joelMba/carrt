@@ -1,0 +1,32 @@
+Fan=False Water=True resolutionDuration=]0-1] => PanneECS
+Water=True Leak=False responseTime=]0-1] => PanneECS
+responseTime=]2-4] => PanneECS
+Fan=False resolutionDuration=]0-1] => PanneECS
+processingDuration=]1-2] resolutionDuration=]1-2] => PanneECS
+Boiler=False resolutionDuration=]48-72] => PanneECS
+Fan=True Water=False workType=corrective processingDuration=]0-1] => PannecaissonVMC
+Fan=True workType=corrective => PannecaissonVMC
+Fan=True => PannecaissonVMC
+Boiler=True workType=corrective processingDuration=]1-2] => Pannechauffage
+Leak=False workType=corrective resolutionDuration=]2-4] => Pannechauffage
+workType=corrective processingDuration=]2-4] => Pannechauffage
+Water=False workType=corrective missing_item=True => Pannechauffage
+Boiler=True workType=corrective => Pannechauffage
+workType=corrective processingDuration=]0-1] resolutionDuration=]24-48] => Pannefuited'eau
+workType=corrective processingDuration=]0-1] missing_item=True => Pannefuited'eau
+workType=corrective processingDuration=]0-1] resolutionDuration=]16-24] => Pannefuited'eau
+Water=True Leak=False processingDuration=]0-1] => Pannefuited'eau
+Leak=True => Pannefuited'eau
+Boiler=False Water=True responseTime=]72--[ => Pannesdiverses
+Leak=True workType=preventive responseTime=]2-4] => VisitedecontrÃ´le/entretien
+Leak=True workType=preventive responseTime=]48-72] => VisitedecontrÃ´le/entretien
+Leak=True workType=preventive resolutionDuration=]1-2] => VisitedecontrÃ´le/entretien
+Leak=True workType=preventive resolutionDuration=]48-72] => VisitedecontrÃ´le/entretien
+Leak=True workType=preventive => VisitedecontrÃ´le/entretien
+workType=preventive => VisitedecontrÃ´le/entretien
+Fan=False Leak=False workType=preventive => Visiteentretienchauffagecollectif
+Boiler=True workType=preventive => Visiteentretienchauffagecollectif
+workType=preventive => Visiteentretienchauffagecollectif
+Fan=True Water=True workType=preventive => Visiteentretienventilationcoll
+Fan=True workType=preventive requested=True => Visiteentretienventilationcoll
+Fan=True => Visiteentretienventilationcoll

@@ -1,0 +1,37 @@
+Boiler=False => Pannechauffage
+Boiler=True => Pannechauffage
+Boiler=True => Visiteentretienchauffagecollectif
+Fan=False => Pannechauffage
+Water=False => Pannechauffage
+Water=False => Visiteentretienchauffagecollectif
+Water=True => Pannechauffage
+Water=True => Pannefuited'eau
+Leak=False => Pannechauffage
+Leak=False => Visiteentretienchauffagecollectif
+Leak=True => Pannechauffage
+Leak=True => Pannefuited'eau
+workType=corrective => Pannechauffage
+workType=corrective => Pannefuited'eau
+workType=preventive => Visiteentretienchauffagecollectif
+responseTime=0 => Pannechauffage
+responseTime=]0-1] => Pannechauffage
+responseTime=]1-2] => Pannechauffage
+responseTime=]48-72] => Pannechauffage
+responseTime=]72--[ => Visiteentretienchauffagecollectif
+processingDuration=]0-1] => Pannefuited'eau
+processingDuration=]1-2] => Pannechauffage
+processingDuration=]2-4] => Pannechauffage
+resolutionDuration=]1-2] => Pannechauffage
+resolutionDuration=]2-4] => Pannechauffage
+resolutionDuration=]72--[ => Pannechauffage
+resolutionDuration=]72--[ => Visiteentretienchauffagecollectif
+start=True => Pannechauffage
+end=True => Pannechauffage
+requested=False => Pannechauffage
+requested=True => Pannechauffage
+missing_item=False => Pannechauffage
+missing_item=True => Pannechauffage
+Boiler=False Fan=False requested=False => Pannefuited'eau
+Boiler=False start=True requested=False => Pannefuited'eau
+Boiler=False end=True requested=False => Pannefuited'eau
+Boiler=False requested=False missing_item=False => Pannefuited'eau

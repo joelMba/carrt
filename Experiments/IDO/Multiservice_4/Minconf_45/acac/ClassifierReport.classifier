@@ -1,0 +1,34 @@
+Boiler=True => Pannechauffind
+Radiator=True => Pannechauffind
+Fan=False => Pannechauffind
+Water=True => Pannechauffind
+Leak=True => Pannechauffind
+criticalLevel=five => Pannechauffind
+criticalLevel=three => Pannechauffind
+workType=corrective => Pannechauffind
+responseTime=]16-24] => Pannechauffind
+processingDuration=]1-2] => Pannechauffind
+resolutionDuration=]16-24] => Pannechauffind
+resolutionDuration=]24-48] => Pannechauffind
+planned=True => Pannechauffind
+requested=True => Pannechauffind
+canceled=True => Pannechauffind
+Boiler=False Fan=False => PanneRobinetterie
+Boiler=False workType=corrective => PanneRobinetterie
+Boiler=False planned=True => PanneRobinetterie
+Boiler=False requested=True => PanneRobinetterie
+Boiler=False Radiator=False criticalLevel=one => PanneRobinetterie
+Boiler=False Radiator=False processingDuration=]0-1] => PanneRobinetterie
+Boiler=False Radiator=False canceled=False => PanneRobinetterie
+Boiler=False Water=False processingDuration=]0-1] => PanneRobinetterie
+Boiler=False criticalLevel=one processingDuration=]0-1] => PanneRobinetterie
+Boiler=False criticalLevel=one canceled=False => PanneRobinetterie
+Boiler=False processingDuration=]0-1] canceled=False => PanneRobinetterie
+Boiler=False occupant_absent=False canceled=False => PanneRobinetterie
+Radiator=False criticalLevel=one processingDuration=]0-1] canceled=False => PanneRobinetterie
+Leak=False criticalLevel=one processingDuration=]0-1] canceled=False => PanneRobinetterie
+Radiator=False Fan=False Water=False processingDuration=]0-1] canceled=False => PanneRobinetterie
+Fan=False Water=False processingDuration=]0-1] requested=True canceled=False => PanneRobinetterie
+Radiator=False Fan=False Leak=False criticalLevel=one workType=corrective canceled=False => PanneRobinetterie
+Radiator=False Fan=False Leak=False workType=corrective processingDuration=]0-1] canceled=False => PanneRobinetterie
+Fan=False Water=False criticalLevel=one processingDuration=]0-1] planned=True canceled=False => PanneRobinetterie

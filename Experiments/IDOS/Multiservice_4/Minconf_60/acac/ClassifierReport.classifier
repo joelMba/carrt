@@ -1,0 +1,13 @@
+Boiler=True => Pannechauffind
+Boiler=True workType=preventive => VisiteentretienchaudiÃ¨re
+Boiler=True planned=False => VisiteentretienchaudiÃ¨re
+Boiler=True requested=False => VisiteentretienchaudiÃ¨re
+Boiler=True Water=True Leak=True => VisiteentretienchaudiÃ¨re
+Boiler=True Water=True criticalLevel=one => VisiteentretienchaudiÃ¨re
+Boiler=True Water=True responseTime=0 => VisiteentretienchaudiÃ¨re
+Boiler=True Leak=True criticalLevel=one => VisiteentretienchaudiÃ¨re
+Boiler=True Leak=True responseTime=0 => VisiteentretienchaudiÃ¨re
+Boiler=True Leak=True occupant_absent=False => VisiteentretienchaudiÃ¨re
+Boiler=True criticalLevel=one responseTime=0 => VisiteentretienchaudiÃ¨re
+Boiler=True responseTime=0 occupant_absent=False => VisiteentretienchaudiÃ¨re
+Boiler=True responseTime=0 canceled=False => VisiteentretienchaudiÃ¨re

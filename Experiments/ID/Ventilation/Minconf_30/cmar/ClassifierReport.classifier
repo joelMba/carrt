@@ -1,0 +1,83 @@
+criticalLevel=zero workType=preventive resolutionDuration=]72--[ start=True planned=True replanned=True postponed=False requested=True => TMH-visiteentretienventilation
+criticalLevel=zero workType=preventive start=True planned=True replanned=True postponed=False occupant_absent=False requested=True => TMH-visiteentretienventilation
+criticalLevel=zero workType=preventive resolutionDuration=]72--[ start=True planned=True replanned=True occupant_absent=False requested=True => TMH-visiteentretienventilation
+criticalLevel=one workType=corrective resolutionDuration=]72--[ start=True planned=True replanned=True postponed=False occupant_absent=False requested=True => TMH-dÃ©pannageventilation
+criticalLevel=zero workType=preventive resolutionDuration=]72--[ planned=True replanned=True postponed=False occupant_absent=False requested=True => TMH-visiteentretienventilation
+criticalLevel=zero workType=preventive resolutionDuration=]72--[ start=True planned=True postponed=False occupant_absent=False requested=True => TMH-visiteentretienventilation
+criticalLevel=zero workType=preventive responseTime=]72--[ resolutionDuration=]72--[ start=True planned=True replanned=True occupant_absent=True requested=False => TMH-visiteentretienventilation
+workType=corrective responseTime=]72--[ resolutionDuration=]72--[ start=True planned=True replanned=True postponed=False occupant_absent=False requested=True => TMH-dÃ©pannageventilation
+criticalLevel=zero workType=corrective resolutionDuration=]72--[ start=True planned=True replanned=True postponed=False occupant_absent=False requested=True => TMH-dÃ©pannageventilation
+criticalLevel=zero workType=corrective responseTime=]72--[ resolutionDuration=]72--[ start=True replanned=True postponed=False occupant_absent=False requested=True => TMH-dÃ©pannageventilation
+criticalLevel=zero workType=preventive responseTime=]72--[ resolutionDuration=]72--[ start=True planned=True replanned=True postponed=False requested=False => TMH-visiteentretienventilation
+criticalLevel=zero workType=preventive responseTime=]72--[ resolutionDuration=]72--[ start=True planned=True replanned=True postponed=False occupant_absent=False => TMH-visiteentretienventilation
+criticalLevel=zero workType=preventive responseTime=]72--[ resolutionDuration=]72--[ planned=True replanned=True postponed=False occupant_absent=False requested=False => TMH-visiteentretienventilation
+criticalLevel=zero workType=preventive resolutionDuration=]72--[ planned=True replanned=True postponed=False occupant_absent=False requested=False => TMH-visiteentretienventilation
+criticalLevel=zero workType=preventive processingDuration=]72--[ resolutionDuration=]72--[ start=True planned=True replanned=True postponed=False occupant_absent=False => TMH-visiteentretienventilation
+criticalLevel=zero workType=preventive responseTime=]72--[ resolutionDuration=]72--[ start=True planned=True replanned=True occupant_absent=False requested=False => TMH-visiteentretienventilation
+criticalLevel=zero workType=preventive responseTime=]72--[ resolutionDuration=]72--[ start=True planned=True postponed=False occupant_absent=False requested=False => TMH-visiteentretienventilation
+criticalLevel=zero workType=preventive resolutionDuration=]72--[ start=True planned=True replanned=True occupant_absent=False requested=False => TMH-visiteentretienventilation
+start=True replanned=True occupant_absent=False requested=True => TMH-dÃ©pannageventilation
+start=True occupant_absent=False requested=True => TMH-dÃ©pannageventilation
+criticalLevel=zero resolutionDuration=]72--[ start=True planned=True replanned=True postponed=False occupant_absent=False requested=False => TMH-visiteentretienventilation
+workType=preventive resolutionDuration=]72--[ start=True planned=True replanned=True postponed=False occupant_absent=False requested=False => TMH-visiteentretienventilation
+criticalLevel=zero workType=preventive resolutionDuration=]72--[ start=True planned=True replanned=True postponed=False occupant_absent=False requested=False => TMH-visiteentretienventilation
+start=True replanned=True postponed=False occupant_absent=False requested=True => TMH-dÃ©pannageventilation
+start=True postponed=False occupant_absent=False requested=True => TMH-dÃ©pannageventilation
+replanned=True occupant_absent=False requested=True => TMH-dÃ©pannageventilation
+replanned=True postponed=False occupant_absent=False requested=True => TMH-dÃ©pannageventilation
+criticalLevel=zero workType=preventive processingDuration=]72--[ resolutionDuration=]72--[ start=True replanned=True occupant_absent=False requested=False => TMH-visiteentretienventilation
+start=True postponed=False requested=True => TMH-dÃ©pannageventilation
+occupant_absent=False requested=True => TMH-dÃ©pannageventilation
+start=True replanned=True postponed=False requested=True => TMH-dÃ©pannageventilation
+criticalLevel=zero workType=preventive processingDuration=]72--[ resolutionDuration=]72--[ planned=True replanned=True occupant_absent=False requested=False => TMH-visiteentretienventilation
+postponed=False occupant_absent=False requested=True => TMH-dÃ©pannageventilation
+replanned=True requested=True => TMH-dÃ©pannageventilation
+replanned=True postponed=False requested=True => TMH-dÃ©pannageventilation
+requested=True => TMH-dÃ©pannageventilation
+postponed=False requested=True => TMH-dÃ©pannageventilation
+start=True planned=True replanned=True occupant_absent=False requested=True => TMH-dÃ©pannageventilation
+responseTime=]72--[ resolutionDuration=]72--[ start=True planned=True replanned=True postponed=False occupant_absent=False requested=True => TMH-dÃ©pannageventilation
+resolutionDuration=]72--[ start=True planned=True replanned=True postponed=False occupant_absent=False requested=True => TMH-dÃ©pannageventilation
+start=True planned=True replanned=True postponed=False occupant_absent=False requested=True => TMH-dÃ©pannageventilation
+planned=True replanned=True occupant_absent=False requested=True => TMH-dÃ©pannageventilation
+planned=True replanned=True postponed=False occupant_absent=False requested=True => TMH-dÃ©pannageventilation
+planned=True replanned=True requested=True => TMH-dÃ©pannageventilation
+planned=True replanned=True postponed=False requested=True => TMH-dÃ©pannageventilation
+criticalLevel=zero responseTime=]72--[ resolutionDuration=]72--[ start=True replanned=True postponed=False occupant_absent=False requested=True => TMH-dÃ©pannageventilation
+criticalLevel=zero resolutionDuration=]72--[ start=True planned=True replanned=True occupant_absent=False requested=True => TMH-dÃ©pannageventilation
+criticalLevel=zero resolutionDuration=]72--[ planned=True replanned=True postponed=False occupant_absent=False requested=True => TMH-dÃ©pannageventilation
+criticalLevel=zero resolutionDuration=]72--[ start=True planned=True replanned=True postponed=False occupant_absent=False requested=True => TMH-dÃ©pannageventilation
+criticalLevel=zero start=True planned=True replanned=True occupant_absent=False requested=True => TMH-dÃ©pannageventilation
+criticalLevel=zero resolutionDuration=]72--[ start=True planned=True replanned=True postponed=False requested=True => TMH-dÃ©pannageventilation
+criticalLevel=zero responseTime=]72--[ resolutionDuration=]72--[ start=True planned=True replanned=True requested=True => TMH-dÃ©pannageventilation
+criticalLevel=zero start=True planned=True replanned=True postponed=False occupant_absent=False requested=True => TMH-dÃ©pannageventilation
+responseTime=]72--[ resolutionDuration=]72--[ start=True planned=True replanned=True postponed=False occupant_absent=False => TMH-dÃ©pannageventilation
+criticalLevel=zero start=True planned=True replanned=True postponed=False requested=True => TMH-dÃ©pannageventilation
+criticalLevel=zero planned=True replanned=True postponed=False occupant_absent=False requested=True => TMH-dÃ©pannageventilation
+criticalLevel=zero resolutionDuration=]72--[ planned=True replanned=True occupant_absent=False requested=True => TMH-visiteentretienventilation
+criticalLevel=zero resolutionDuration=]72--[ start=True planned=True replanned=True occupant_absent=False requested=True => TMH-visiteentretienventilation
+criticalLevel=zero responseTime=]72--[ resolutionDuration=]72--[ planned=True occupant_absent=False requested=True => TMH-visiteentretienventilation
+processingDuration=]72--[ resolutionDuration=]72--[ start=True planned=True replanned=True occupant_absent=False => TMH-visiteentretienventilation
+resolutionDuration=]72--[ start=True planned=True replanned=True postponed=False occupant_absent=False => TMH-dÃ©pannageventilation
+responseTime=]72--[ start=True planned=True replanned=True postponed=False occupant_absent=False => TMH-visiteentretienventilation
+responseTime=]72--[ resolutionDuration=]72--[ start=True planned=True replanned=True postponed=False occupant_absent=False => TMH-visiteentretienventilation
+responseTime=]72--[ resolutionDuration=]72--[ start=True planned=True postponed=False occupant_absent=False => TMH-dÃ©pannageventilation
+responseTime=]72--[ resolutionDuration=]72--[ planned=True replanned=True postponed=False occupant_absent=False => TMH-dÃ©pannageventilation
+criticalLevel=zero responseTime=]72--[ resolutionDuration=]72--[ start=True postponed=False requested=True => TMH-visiteentretienventilation
+criticalLevel=zero responseTime=]72--[ resolutionDuration=]72--[ start=True replanned=True requested=True => TMH-visiteentretienventilation
+criticalLevel=zero resolutionDuration=]72--[ start=True postponed=False occupant_absent=False requested=True => TMH-visiteentretienventilation
+criticalLevel=zero resolutionDuration=]72--[ start=True replanned=True postponed=False requested=True => TMH-visiteentretienventilation
+criticalLevel=zero resolutionDuration=]72--[ replanned=True postponed=False occupant_absent=False requested=True => TMH-visiteentretienventilation
+responseTime=]72--[ resolutionDuration=]72--[ start=True replanned=True postponed=False occupant_absent=False => TMH-visiteentretienventilation
+responseTime=]72--[ resolutionDuration=]72--[ start=True planned=True replanned=True requested=True => TMH-visiteentretienventilation
+criticalLevel=zero resolutionDuration=]72--[ start=True replanned=True occupant_absent=False requested=True => TMH-visiteentretienventilation
+planned=True replanned=True postponed=False requested=True => TMH-visiteentretienventilation
+planned=True replanned=True requested=True => TMH-visiteentretienventilation
+criticalLevel=zero start=True replanned=True postponed=False occupant_absent=False requested=True => TMH-visiteentretienventilation
+planned=True replanned=True postponed=False occupant_absent=False requested=True => TMH-visiteentretienventilation
+resolutionDuration=]72--[ start=True planned=True replanned=True postponed=False requested=True => TMH-visiteentretienventilation
+planned=True replanned=True occupant_absent=False requested=True => TMH-visiteentretienventilation
+resolutionDuration=]72--[ planned=True replanned=True postponed=False occupant_absent=False requested=True => TMH-visiteentretienventilation
+start=True planned=True replanned=True postponed=False occupant_absent=False requested=True => TMH-visiteentretienventilation
+resolutionDuration=]72--[ start=True planned=True postponed=False requested=True => TMH-visiteentretienventilation
+resolutionDuration=]72--[ planned=True replanned=True occupant_absent=False requested=True => TMH-visiteentretienventilation

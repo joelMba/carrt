@@ -1,0 +1,20 @@
+Boiler=True Fan=False Water=False Leak=False planned=False criticalLevel=one workType=preventive requested=False responseTime=0 => VPP2_Chauffageindivuduel
+Boiler=True Fan=False planned=False criticalLevel=one workType=preventive requested=False responseTime=0 => VPP2_Chauffageindivuduel
+Boiler=False Fan=True start=True Water=False done=True Leak=False planned=False criticalLevel=one end=True workType=preventive requested=False responseTime=0 processingDuration=]1-2] resolutionDuration=]1-2] => VPCaissonsan.
+Boiler=False Fan=True start=True Water=False done=True Leak=False planned=False criticalLevel=one end=True requested=False responseTime=0 processingDuration=]1-2] resolutionDuration=]1-2] => VPCaissonsan.
+start=True Water=False done=True Leak=False processingDuration=]1-2] planned=False criticalLevel=one end=True requested=False resolutionDuration=]1-2] responseTime=0 => VPCaissonsan.
+Boiler=False Fan=True start=True Water=False done=True Leak=False processingDuration=]1-2] criticalLevel=one end=True resolutionDuration=]1-2] responseTime=0 => VPCaissonsan.
+Boiler=True Fan=False Water=False Leak=False planned=False criticalLevel=one requested=False responseTime=0 => VPP2_Chauffageindivuduel
+Boiler=True Fan=False Water=False Leak=False planned=False criticalLevel=one => VPP2_Chauffageindivuduel
+Boiler=False resolutionDuration=]72--[ Fan=False start=True Water=False done=True Leak=False planned=True criticalLevel=one workType=corrective end=True requested=True responseTime=]72--[ processingDuration=]0-1] => Bouchehydro_SDB
+Boiler=False Fan=True start=True Water=False done=True Leak=False criticalLevel=one end=True resolutionDuration=]1-2] responseTime=0 => VPCaissonsan.
+Boiler=False resolutionDuration=]72--[ Fan=False start=True Water=False done=True Leak=False planned=True criticalLevel=one workType=corrective end=True requested=True responseTime=]72--[ => Bouchehydro_SDB
+Boiler=False resolutionDuration=]72--[ responseTime=]72--[ start=True Water=False done=True Leak=False planned=True criticalLevel=one workType=corrective end=True requested=True => Bouchehydro_SDB
+start=True Water=False done=True Leak=False criticalLevel=one end=True resolutionDuration=]1-2] => VPCaissonsan.
+Boiler=True workType=corrective => DÃ©pannageP2_Chauffageindividuel
+processingDuration=]2-4] => DÃ©pannageP2_Chauffageindividuel
+Boiler=False Fan=True start=True Water=False done=True Leak=False processingDuration=]1-2] criticalLevel=one end=True responseTime=0 => VPCaissonsan.
+resolutionDuration=]2-4] => EntretienVMCcaissonscollgaz
+Boiler=False Fan=True start=True Water=False done=True Leak=False workType=corrective end=True => DÃ©pannage_VMCGaz
+Boiler=False Fan=True Water=False Leak=False workType=corrective => DÃ©pannage_VMCGaz
+ => VPNettreseauetbouche

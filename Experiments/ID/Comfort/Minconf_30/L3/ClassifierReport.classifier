@@ -1,0 +1,38 @@
+criticalLevel= workType=preventive responseTime=0 replanned=True requested=False => TMH-visiteentretienappareilgaz
+criticalLevel= workType=preventive postponed=True => TMH-visiteentretienappareilgaz
+criticalLevel= workType=corrective processingDuration=]72--[ resolutionDuration=]72--[ planned=True postponed=False => TMH-dÃ©pannagechauffage
+criticalLevel= workType=preventive responseTime=0 requested=False => TMH-visiteentretienappareilgaz
+criticalLevel= workType=preventive planned=False => TMH-visiteentretienappareilgaz
+criticalLevel= workType=corrective planned=False replanned=True postponed=False => TMH-dÃ©pannagechauffage
+criticalLevel= workType=corrective processingDuration=]72--[ resolutionDuration=]72--[ planned=True => TMH-dÃ©pannagechauffage
+criticalLevel= workType=preventive replanned=True occupant_absent=True requested=False => TMH-visiteentretienappareilgaz
+criticalLevel= workType=preventive occupant_absent=True requested=False => TMH-visiteentretienappareilgaz
+criticalLevel= workType=corrective planned=False postponed=False => TMH-dÃ©pannagechauffage
+criticalLevel= workType=corrective resolutionDuration=]72--[ planned=True replanned=True postponed=False => TMH-dÃ©pannagechauffage
+criticalLevel= workType=corrective responseTime=]16-24] start=True replanned=True requested=True => TMH-dÃ©pannagechauffage
+criticalLevel= workType=corrective resolutionDuration=]72--[ planned=True replanned=True => TMH-dÃ©pannagechauffage
+criticalLevel= workType=corrective planned=False replanned=True => TMH-dÃ©pannagechauffage
+criticalLevel= workType=corrective planned=False => TMH-dÃ©pannagechauffage
+criticalLevel= workType=preventive occupant_absent=True => TMH-visiteentretienappareilgaz
+criticalLevel= workType=corrective responseTime=]16-24] requested=True => TMH-dÃ©pannagechauffage
+criticalLevel= workType=preventive start=True occupant_absent=False requested=True => TMH-visiteentretienappareilgaz
+criticalLevel= workType=preventive resolutionDuration=]72--[ start=True replanned=False => TMH-visiteentretienappareilgaz
+criticalLevel= workType=corrective responseTime=]0-1] start=True => TMH-dÃ©pannagechauffage
+criticalLevel= workType=corrective resolutionDuration=]72--[ planned=True => TMH-dÃ©pannagechauffage
+criticalLevel= workType=preventive processingDuration=]72--[ resolutionDuration=]72--[ start=True occupant_absent=False => TMH-visiteentretienappareilgaz
+criticalLevel= workType=corrective replanned=True postponed=False => TMH-dÃ©pannagechauffage
+criticalLevel= workType=corrective resolutionDuration=]48-72] start=True => TMH-dÃ©pannagechauffage
+criticalLevel= workType=preventive resolutionDuration=]72--[ replanned=False => TMH-visiteentretienappareilgaz
+criticalLevel= workType=corrective replanned=True => TMH-dÃ©pannagechauffage
+criticalLevel= workType=preventive processingDuration=]72--[ resolutionDuration=]72--[ requested=False => TMH-visiteentretienappareilgaz
+criticalLevel= workType=preventive processingDuration=]72--[ resolutionDuration=]72--[ occupant_absent=False => TMH-visiteentretienappareilgaz
+criticalLevel= workType=preventive start=True replanned=False occupant_absent=False => TMH-visiteentretienappareilgaz
+criticalLevel= workType=preventive occupant_absent=False requested=True => TMH-visiteentretienappareilgaz
+criticalLevel= workType=preventive replanned=False => TMH-visiteentretienappareilgaz
+criticalLevel= workType=preventive start=False => TMH-visiteentretienappareilgaz
+criticalLevel= workType=corrective start=True => TMH-dÃ©pannagechauffage
+criticalLevel= workType=corrective => TMH-dÃ©pannagechauffage
+criticalLevel= workType=preventive requested=False => TMH-visiteentretienappareilgaz
+criticalLevel= workType=corrective processingDuration=]0-1] start=True planned=True replanned=False postponed=False occupant_absent=False requested=True => DÃ©pannage
+criticalLevel= workType=corrective responseTime=]24-48] resolutionDuration=]24-48] occupant_absent=False requested=True => DÃ©pannage
+criticalLevel= workType=corrective processingDuration=]0-1] start=True planned=True postponed=False occupant_absent=False requested=True => DÃ©pannage

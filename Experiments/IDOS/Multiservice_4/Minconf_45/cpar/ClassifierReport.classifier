@@ -1,0 +1,56 @@
+Boiler=False Fan=False Leak=False responseTime=]72--[ processingDuration=]2-4] => EntretienpompesÃ chaleur
+Boiler=False Fan=False Leak=False responseTime=]72--[ => EntretienpompesÃ chaleur
+responseTime=]72--[ => EntretienpompesÃ chaleur
+Boiler=False criticalLevel=three responseTime=]72--[ processingDuration=]0-1] => PanneElectrique
+Boiler=False responseTime=]72--[ processingDuration=]0-1] canceled=True => PanneElectrique
+responseTime=]72--[ processingDuration=]0-1] => PanneElectrique
+responseTime=]72--[ => PanneElectrique
+Boiler=False responseTime=]2-4] => PanneProductionECS
+Boiler=False Water=True responseTime=]24-48] => PanneProductionECS
+responseTime=]24-48] => PanneProductionECS
+Boiler=False resolutionDuration=]4-16] => PanneProductionECS
+canceled=True => PanneProductionECS
+Boiler=False Water=False Leak=True workType=corrective => PanneRobinetterie
+Boiler=False responseTime=]0-1] => PanneRobinetterie
+Boiler=False responseTime=]16-24] => PanneRobinetterie
+responseTime=]16-24] => PanneRobinetterie
+responseTime=]0-1] => PanneRobinetterie
+Leak=True responseTime=]48-72] => PanneRobinetterie
+resolutionDuration=]1-2] => PanneRobinetterie
+Boiler=False Fan=False Water=False responseTime=]72--[ processingDuration=]1-2] canceled=False => PanneSolaireThermiqueautresinterventions
+Boiler=False Water=False responseTime=]72--[ processingDuration=]0-1] canceled=False => PanneSolaireThermiqueautresinterventions
+responseTime=]72--[ => PanneSolaireThermiqueautresinterventions
+Fan=True Water=False processingDuration=]0-1] => PanneVMCgaz
+Fan=True processingDuration=]0-1] resolutionDuration=0 => PanneVMCgaz
+Fan=True resolutionDuration=]72--[ => PanneVMCsanitaire
+Fan=True Water=False processingDuration=]1-2] => PanneVMCsanitaire
+Fan=True workType=corrective processingDuration=]1-2] => PanneVMCsanitaire
+Fan=True processingDuration=]1-2] planned=True => PanneVMCsanitaire
+Fan=True processingDuration=]1-2] requested=True => PanneVMCsanitaire
+Fan=True processingDuration=]2-4] => PanneVMCsanitaire
+Fan=True => PanneVMCsanitaire
+responseTime=]16-24] => PanneVMCsanitaire
+Boiler=True planned=True => Pannechauffind
+Boiler=True canceled=True => Pannechauffind
+Boiler=True occupant_absent=True => Pannechauffind
+Boiler=True => Pannechauffind
+Fan=False Water=True Leak=False processingDuration=0 occupant_absent=False => VisiteentretienECS
+processingDuration=0 => VisiteentretienECS
+Boiler=True Leak=True workType=preventive => VisiteentretienchaudiÃ¨re
+Leak=True resolutionDuration=]0-1] => VisiteentretienchaudiÃ¨re
+Leak=True => VisiteentretienchaudiÃ¨re
+Boiler=False Radiator=True Water=False => Visiteentretienconvecteur
+Radiator=True Water=False workType=preventive => Visiteentretienconvecteur
+Radiator=True Water=False processingDuration=0 => Visiteentretienconvecteur
+Radiator=True Water=False resolutionDuration=0 => Visiteentretienconvecteur
+Radiator=True Water=False => Visiteentretienconvecteur
+Water=True workType=preventive occupant_absent=True => Visiteentretienrobinetterie
+workType=preventive occupant_absent=True => Visiteentretienrobinetterie
+workType=preventive => Visiteentretienrobinetterie
+Boiler=False Radiator=True Leak=True workType=preventive => Visiteentretienventilationcoll
+Boiler=False Fan=False Leak=True workType=preventive => Visiteentretienventilationcoll
+Boiler=False Leak=True workType=preventive => Visiteentretienventilationcoll
+Radiator=False Fan=False Water=False workType=preventive occupant_absent=False => Visiteentretienventilationcoll
+workType=preventive => Visiteentretienventilationcoll
+Fan=True Leak=False workType=preventive => Visiteentretienventilationind
+Fan=True processingDuration=0 => Visiteentretienventilationind

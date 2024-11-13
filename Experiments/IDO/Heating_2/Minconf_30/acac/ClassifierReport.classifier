@@ -1,0 +1,50 @@
+Fan=False => DÃ©pannageChauffageindividuel
+Fan=True => Boucheventilation
+Leak=False => DÃ©pannageChauffageindividuel
+criticalLevel=minus-one => RemplacementChaudiÃ¨reoucaisson
+criticalLevel=minus-one => VisitepÃ©riodique
+criticalLevel=one => DÃ©pannageChauffageindividuel
+workType=corrective => DÃ©pannageChauffageindividuel
+workType=preventive => VisitepÃ©riodique
+responseTime=0 => DÃ©pannageChauffageindividuel
+responseTime=]1-2] => DÃ©pannageChauffageindividuel
+responseTime=]2-4] => DÃ©pannageChauffageindividuel
+responseTime=]4-16] => DÃ©pannageChauffageindividuel
+processingDuration=]0-1] => DÃ©pannageChauffageindividuel
+processingDuration=]1-2] => DÃ©pannageChauffageindividuel
+processingDuration=]2-4] => DÃ©pannageChauffageindividuel
+resolutionDuration=]1-2] => DÃ©pannageChauffageindividuel
+resolutionDuration=]2-4] => DÃ©pannageChauffageindividuel
+resolutionDuration=]4-16] => DÃ©pannageChauffageindividuel
+resolutionDuration=]48-72] => DÃ©pannageChauffageindividuel
+done=False => DÃ©pannageChauffageindividuel
+done=True => DÃ©pannageChauffageindividuel
+planned=False => DÃ©pannageChauffageindividuel
+planned=True => DÃ©pannageChauffageindividuel
+client_planned=False => DÃ©pannageChauffageindividuel
+client_planned=True => DÃ©pannageChauffageindividuel
+partial_repair=False => DÃ©pannageChauffageindividuel
+partial_repair=True => DÃ©pannageChauffageindividuel
+Fan=False done=True => VisitepÃ©riodique
+Fan=False partial_repair=False => VisitepÃ©riodique
+processingDuration=]0-1] planned=False => VisitepÃ©riodique
+processingDuration=]0-1] client_planned=True => VisitepÃ©riodique
+done=True client_planned=True => VisitepÃ©riodique
+planned=False partial_repair=False => VisitepÃ©riodique
+Leak=False criticalLevel=one done=True => Boucheventilation
+Leak=False criticalLevel=one partial_repair=False => Boucheventilation
+Leak=False processingDuration=]0-1] done=True => VisitepÃ©riodique
+criticalLevel=one done=True planned=True => Boucheventilation
+criticalLevel=one done=True client_planned=False => Boucheventilation
+criticalLevel=one planned=True partial_repair=False => Boucheventilation
+criticalLevel=one client_planned=False partial_repair=False => Boucheventilation
+workType=corrective done=True client_planned=False => Boucheventilation
+Fan=False workType=corrective done=True planned=True => RemplacementChaudiÃ¨reoucaisson
+Fan=False workType=corrective done=True client_planned=False => RemplacementChaudiÃ¨reoucaisson
+Fan=False workType=corrective planned=True partial_repair=False => RemplacementChaudiÃ¨reoucaisson
+Fan=False workType=corrective client_planned=False partial_repair=False => RemplacementChaudiÃ¨reoucaisson
+Leak=False workType=corrective done=True planned=True => Boucheventilation
+Leak=False workType=corrective done=True client_planned=False => Boucheventilation
+Leak=False workType=corrective planned=True partial_repair=False => Boucheventilation
+Leak=False workType=corrective client_planned=False partial_repair=False => Boucheventilation
+workType=corrective planned=True client_planned=False partial_repair=False => Boucheventilation

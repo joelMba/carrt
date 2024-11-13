@@ -1,0 +1,12 @@
+responseTime=]48-72] processingDuration=]1-2] => PanneProductionECS
+occupant_absent=True => PanneProductionECS
+criticalLevel=five => PanneRobinetterie
+processingDuration=]4-16] => PanneRobinetterie
+occupant_absent=True => PanneRobinetterie
+canceled=True => PanneRobinetterie
+criticalLevel=one responseTime=]72--[ => PanneVMCsanitaire
+criticalLevel=one => PanneVMCsanitaire
+responseTime=]72--[ => PanneVMCsanitaire
+processingDuration=]1-2] done=False => Pannechauffind
+done=False occupant_absent=False => Pannechauffind
+done=False temporary_repair=True => Pannechauffind

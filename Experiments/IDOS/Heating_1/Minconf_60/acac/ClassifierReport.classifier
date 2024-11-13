@@ -1,0 +1,18 @@
+Boiler=False resolutionDuration=]1-2] => VPCaissonsan.
+Boiler=True workType=preventive => VPP2_Chauffageindivuduel
+Boiler=True planned=False => VPP2_Chauffageindivuduel
+Boiler=True requested=False => VPP2_Chauffageindivuduel
+Fan=True resolutionDuration=]1-2] => VPCaissonsan.
+workType=preventive processingDuration=]1-2] => VPCaissonsan.
+workType=preventive resolutionDuration=]1-2] => VPCaissonsan.
+processingDuration=]1-2] resolutionDuration=]1-2] => VPCaissonsan.
+processingDuration=]1-2] planned=False => VPCaissonsan.
+processingDuration=]1-2] requested=False => VPCaissonsan.
+resolutionDuration=]1-2] planned=False => VPCaissonsan.
+resolutionDuration=]1-2] requested=False => VPCaissonsan.
+Boiler=False Fan=False responseTime=]72--[ => Bouchehydro_SDB
+Boiler=False Fan=False resolutionDuration=]72--[ => Bouchehydro_SDB
+Boiler=False responseTime=]72--[ processingDuration=]0-1] => Bouchehydro_SDB
+Boiler=False processingDuration=]0-1] resolutionDuration=]72--[ => Bouchehydro_SDB
+Water=False responseTime=0 resolutionDuration=]1-2] => VPCaissonsan.
+Leak=False responseTime=0 resolutionDuration=]1-2] => VPCaissonsan.

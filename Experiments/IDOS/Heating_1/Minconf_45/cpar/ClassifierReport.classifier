@@ -1,0 +1,73 @@
+Boiler=False responseTime=]72--[ processingDuration=]1-2] => Boucheauto_Cuisine
+Boiler=False responseTime=]72--[ => Boucheauto_Cuisine
+Boiler=False Fan=False resolutionDuration=]0-1] => Boucheauto_Cuisine
+responseTime=]72--[ => Boucheauto_Cuisine
+Boiler=False Fan=False responseTime=]24-48] => Boucheauto_Cuisine
+processingDuration=]0-1] => Boucheauto_Cuisine
+processingDuration=]0-1] resolutionDuration=0 => Boucheauto_SDB
+planned=True => Boucheauto_SDB
+requested=True => Boucheauto_SDB
+Boiler=False responseTime=]72--[ processingDuration=]0-1] => Bouchehydro_SDB
+Boiler=False responseTime=]72--[ => Bouchehydro_SDB
+responseTime=]72--[ => Bouchehydro_SDB
+Boiler=False responseTime=]16-24] processingDuration=]0-1] => Caissonventilmanch
+Boiler=False responseTime=]16-24] => Caissonventilmanch
+responseTime=]16-24] => Caissonventilmanch
+responseTime=0 resolutionDuration=]24-48] => ChaudiÃ¨resurdevis
+resolutionDuration=]16-24] => ChaudiÃ¨resurdevis
+Boiler=True Leak=True workType=corrective => DÃ©pannageP2_Chauffageindividuel
+Boiler=True workType=corrective processingDuration=]2-4] => DÃ©pannageP2_Chauffageindividuel
+Boiler=True workType=corrective processingDuration=]4-16] => DÃ©pannageP2_Chauffageindividuel
+Boiler=True processingDuration=]2-4] => DÃ©pannageP2_Chauffageindividuel
+Boiler=True criticalLevel=five => DÃ©pannageP2_Chauffageindividuel
+Boiler=True processingDuration=]4-16] => DÃ©pannageP2_Chauffageindividuel
+Boiler=True responseTime=]4-16] => DÃ©pannageP2_Chauffageindividuel
+Boiler=True responseTime=]2-4] => DÃ©pannageP2_Chauffageindividuel
+Boiler=True resolutionDuration=]72--[ => DÃ©pannageP2_Chauffageindividuel
+Boiler=True resolutionDuration=]16-24] => DÃ©pannageP2_Chauffageindividuel
+Boiler=True resolutionDuration=]4-16] => DÃ©pannageP2_Chauffageindividuel
+Boiler=True Fan=True => DÃ©pannageP2_Chauffageindividuel
+Boiler=True => DÃ©pannageP2_Chauffageindividuel
+Fan=True criticalLevel=five workType=corrective => DÃ©pannage_VMCGaz
+Fan=True workType=corrective resolutionDuration=]1-2] => DÃ©pannage_VMCGaz
+Fan=True workType=corrective resolutionDuration=]4-16] => DÃ©pannage_VMCGaz
+Boiler=False Fan=True workType=corrective responseTime=]24-48] => DÃ©pannage_VMCGaz
+Fan=True workType=corrective responseTime=]0-1] => DÃ©pannage_VMCGaz
+Fan=True processingDuration=]2-4] => DÃ©pannage_VMCGaz
+Fan=True responseTime=]24-48] => DÃ©pannage_VMCGaz
+Fan=True responseTime=]1-2] => DÃ©pannage_VMCGaz
+Fan=True responseTime=]0-1] => DÃ©pannage_VMCGaz
+Fan=True resolutionDuration=]4-16] => DÃ©pannage_VMCGaz
+Fan=True criticalLevel=five => DÃ©pannage_VMCGaz
+responseTime=0 resolutionDuration=]2-4] => EntretienVMCcaissonscollgaz
+resolutionDuration=]2-4] => EntretienVMCcaissonscollgaz
+Boiler=False Fan=False start=False => RamonageP2_ChaudiÃ¨reindividuel
+start=False => RamonageP2_ChaudiÃ¨reindividuel
+Boiler=True responseTime=]0-1] processingDuration=]0-1] resolutionDuration=]2-4] => RemplacementpiÃ¨ceP3
+Boiler=True responseTime=]1-2] processingDuration=]0-1] resolutionDuration=]2-4] => RemplacementpiÃ¨ceP3
+Boiler=True responseTime=]0-1] processingDuration=]0-1] => RemplacementpiÃ¨ceP3
+Boiler=True Water=False responseTime=]24-48] processingDuration=]0-1] => RemplacementpiÃ¨ceP3
+Boiler=True responseTime=]72--[ => RemplacementpiÃ¨ceP3
+Boiler=True responseTime=]0-1] => RemplacementpiÃ¨ceP3
+Boiler=True responseTime=]24-48] => RemplacementpiÃ¨ceP3
+Boiler=True responseTime=]48-72] => RemplacementpiÃ¨ceP3
+Boiler=True resolutionDuration=]2-4] => RemplacementpiÃ¨ceP3
+Boiler=True => RemplacementpiÃ¨ceP3
+responseTime=]48-72] => RemplacementpiÃ¨ceP3
+Boiler=False workType=preventive resolutionDuration=]0-1] => VPCaissongaz
+workType=preventive resolutionDuration=]0-1] => VPCaissongaz
+resolutionDuration=]0-1] => VPCaissongaz
+Boiler=False workType=preventive resolutionDuration=]1-2] => VPCaissonsan.
+workType=preventive resolutionDuration=]1-2] => VPCaissonsan.
+resolutionDuration=]1-2] => VPCaissonsan.
+Fan=True workType=preventive processingDuration=0 => VPNettreseauetbouche
+workType=preventive processingDuration=]0-1] => VPNettreseauetbouche
+workType=preventive => VPNettreseauetbouche
+Boiler=True workType=preventive processingDuration=0 => VPP2_Chauffageindivuduel
+Boiler=True workType=preventive => VPP2_Chauffageindivuduel
+Boiler=False Fan=False processingDuration=0 start=True => Visited'entretienannuelle-Ent.DispositifSÃ©curitÃ©Collectif
+Boiler=False Fan=False processingDuration=0 done=True => Visited'entretienannuelle-Ent.DispositifSÃ©curitÃ©Collectif
+Boiler=False Fan=False processingDuration=0 end=True => Visited'entretienannuelle-Ent.DispositifSÃ©curitÃ©Collectif
+Boiler=False Fan=False start=False => Visited'entretienannuelle-Ent.DispositifSÃ©curitÃ©Collectif
+start=False => Visited'entretienannuelle-Ent.DispositifSÃ©curitÃ©Collectif
+processingDuration=0 => Visited'entretienannuelle-Ent.DispositifSÃ©curitÃ©Collectif

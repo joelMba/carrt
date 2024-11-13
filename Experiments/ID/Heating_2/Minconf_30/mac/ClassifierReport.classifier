@@ -1,0 +1,23 @@
+partial_repair=False workType=preventive done=True => VisitepÃ©riodique
+client_planned=True criticalLevel=one workType=corrective processingDuration=]0-1] => DÃ©pannageChauffageindividuel
+criticalLevel=minus-one client_planned=False workType=corrective planned=True => RemplacementChaudiÃ¨reoucaisson
+criticalLevel=minus-one workType=preventive planned=True => VisitepÃ©riodique
+client_planned=True criticalLevel=one partial_repair=True workType=corrective done=False => DÃ©pannageChauffageindividuel
+processingDuration=]1-2] criticalLevel=one partial_repair=True workType=corrective done=False => DÃ©pannageChauffageindividuel
+client_planned=True criticalLevel=one workType=corrective responseTime=]2-4] planned=False => DÃ©pannageChauffageindividuel
+criticalLevel=one partial_repair=True workType=corrective responseTime=]1-2] done=False => DÃ©pannageChauffageindividuel
+client_planned=True criticalLevel=one workType=corrective => DÃ©pannageChauffageindividuel
+partial_repair=False workType=preventive => VisitepÃ©riodique
+criticalLevel=minus-one workType=preventive => VisitepÃ©riodique
+workType=corrective planned=False => DÃ©pannageChauffageindividuel
+criticalLevel=one partial_repair=True workType=corrective resolutionDuration=]4-16] done=False => DÃ©pannageChauffageindividuel
+criticalLevel=one partial_repair=True workType=corrective done=False => DÃ©pannageChauffageindividuel
+criticalLevel=one workType=corrective responseTime=]2-4] resolutionDuration=]4-16] => DÃ©pannageChauffageindividuel
+criticalLevel=one workType=corrective resolutionDuration=]4-16] processingDuration=]0-1] => DÃ©pannageChauffageindividuel
+criticalLevel=one workType=corrective responseTime=]1-2] processingDuration=]0-1] => DÃ©pannageChauffageindividuel
+criticalLevel=one workType=corrective resolutionDuration=]48-72] => DÃ©pannageChauffageindividuel
+criticalLevel=one workType=corrective processingDuration=]0-1] => DÃ©pannageChauffageindividuel
+criticalLevel=one workType=corrective responseTime=]1-2] => DÃ©pannageChauffageindividuel
+processingDuration=]1-2] criticalLevel=one workType=corrective => DÃ©pannageChauffageindividuel
+criticalLevel=one workType=corrective => DÃ©pannageChauffageindividuel
+ => DÃ©pannageChauffageindividuel

@@ -1,0 +1,18 @@
+criticalLevel=five workType=corrective replanned=False occupant_absent=False => PanneRobinetterie
+workType=corrective replanned=False occupant_absent=False processingDuration=]4-16] => PanneRobinetterie
+workType=corrective resolutionDuration=]72--[ replanned=False responseTime=]72--[ occupant_absent=False canceled=True => PanneRobinetterie
+resolutionDuration=]16-24] workType=corrective done=True replanned=False occupant_absent=False canceled=False => PanneRobinetterie
+resolutionDuration=]16-24] workType=corrective replanned=False temporary_repair=False canceled=False => PanneRobinetterie
+workType=corrective responseTime=]24-48] replanned=False temporary_repair=False canceled=False => PanneRobinetterie
+workType=corrective done=True responseTime=]4-16] replanned=False occupant_absent=False temporary_repair=False canceled=False => PanneRobinetterie
+resolutionDuration=]4-16] workType=corrective done=True replanned=False occupant_absent=False temporary_repair=False canceled=False => PanneRobinetterie
+workType=corrective occupant_absent=True processingDuration=]0-1] temporary_repair=False canceled=False => PanneRobinetterie
+workType=corrective responseTime=]24-48] replanned=False canceled=False => PanneRobinetterie
+criticalLevel=one workType=corrective done=True replanned=False processingDuration=]0-1] temporary_repair=False canceled=False => PanneRobinetterie
+criticalLevel=minus-one workType=corrective resolutionDuration=]72--[ responseTime=]72--[ occupant_absent=False temporary_repair=True canceled=False => PanneRobinetterie
+workType=corrective done=True replanned=False occupant_absent=False temporary_repair=True canceled=False => PanneRobinetterie
+workType=corrective done=True replanned=False => PanneRobinetterie
+resolutionDuration=]16-24] workType=corrective responseTime=]16-24] replanned=False processingDuration=]0-1] canceled=False => PanneRobinetterie
+resolutionDuration=]4-16] workType=corrective replanned=False occupant_absent=False canceled=False => PanneRobinetterie
+workType=corrective => PanneRobinetterie
+ => PanneRobinetterie

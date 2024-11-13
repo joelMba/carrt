@@ -1,0 +1,26 @@
+Boiler=True Fan=False start=True done=True Leak=False planned=True processingDuration=]4-16] criticalLevel=one workType=corrective end=True requested=True => DÃ©pannageP2_Chauffageindividuel
+Boiler=True Fan=False criticalLevel=five planned=True workType=corrective requested=True => DÃ©pannageP2_Chauffageindividuel
+resolutionDuration=]4-16] Boiler=False Fan=True start=True Water=False done=True Leak=False planned=True workType=corrective end=True requested=True => DÃ©pannage_VMCGaz
+Boiler=True start=True done=True processingDuration=]2-4] criticalLevel=one workType=corrective end=True => DÃ©pannageP2_Chauffageindividuel
+Boiler=True Fan=False start=True Water=True done=True workType=corrective end=True => DÃ©pannageP2_Chauffageindividuel
+resolutionDuration=]4-16] Boiler=False Fan=True start=True Water=False done=True Leak=False end=True => DÃ©pannage_VMCGaz
+Boiler=True Fan=False Water=False Leak=True planned=True workType=corrective requested=True => DÃ©pannageP2_Chauffageindividuel
+responseTime=]24-48] Boiler=True start=True done=True planned=True workType=corrective end=True requested=True => DÃ©pannageP2_Chauffageindividuel
+Fan=False start=True done=True processingDuration=]2-4] criticalLevel=one workType=corrective end=True => DÃ©pannageP2_Chauffageindividuel
+Boiler=True Fan=False start=True Water=True done=True end=True => DÃ©pannageP2_Chauffageindividuel
+Boiler=True Fan=False start=True done=True planned=True workType=corrective end=True requested=True resolutionDuration=]16-24] => DÃ©pannageP2_Chauffageindividuel
+Boiler=True Fan=False start=True done=True workType=corrective end=True resolutionDuration=]2-4] => DÃ©pannageP2_Chauffageindividuel
+Boiler=True Fan=False workType=corrective responseTime=0 => DÃ©pannageP2_Chauffageindividuel
+responseTime=]24-48] Fan=False start=True done=True planned=True workType=corrective end=True requested=True => DÃ©pannageP2_Chauffageindividuel
+Fan=False Water=False Leak=True => DÃ©pannageP2_Chauffageindividuel
+Boiler=True resolutionDuration=]72--[ start=True done=True planned=True workType=corrective end=True requested=True => DÃ©pannageP2_Chauffageindividuel
+Boiler=True start=True done=True workType=corrective end=True => DÃ©pannageP2_Chauffageindividuel
+responseTime=]24-48] start=True done=True planned=True workType=corrective end=True requested=True => DÃ©pannageP2_Chauffageindividuel
+Boiler=False Fan=True start=True Water=False done=True Leak=False planned=True workType=corrective end=True requested=True => DÃ©pannage_VMCGaz
+Boiler=True => DÃ©pannageP2_Chauffageindividuel
+Boiler=False Fan=True Water=False Leak=False planned=True workType=corrective requested=True => DÃ©pannage_VMCGaz
+Fan=False start=True done=True workType=corrective end=True => DÃ©pannageP2_Chauffageindividuel
+Fan=False workType=corrective => DÃ©pannageP2_Chauffageindividuel
+Fan=False start=True done=True end=True => DÃ©pannageP2_Chauffageindividuel
+Boiler=False Fan=True start=True Water=False done=True Leak=False end=True => DÃ©pannage_VMCGaz
+ => VPNettreseauetbouche

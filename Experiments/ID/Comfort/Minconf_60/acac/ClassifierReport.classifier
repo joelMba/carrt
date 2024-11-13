@@ -1,0 +1,10 @@
+workType=corrective => TMH-dÃ©pannagechauffage
+workType=preventive => TMH-visiteentretienappareilgaz
+responseTime=0 => TMH-visiteentretienappareilgaz
+responseTime=]16-24] => TMH-dÃ©pannagechauffage
+resolutionDuration=]48-72] => TMH-dÃ©pannagechauffage
+start=False => TMH-visiteentretienappareilgaz
+planned=False => TMH-dÃ©pannagechauffage
+occupant_absent=True => TMH-visiteentretienappareilgaz
+requested=False => TMH-visiteentretienappareilgaz
+requested=True => TMH-dÃ©pannagechauffage

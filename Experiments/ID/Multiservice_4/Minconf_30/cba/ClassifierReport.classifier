@@ -1,0 +1,11 @@
+criticalLevel=five => Pannechauffind
+criticalLevel=three => Pannechauffind
+workType=corrective occupant_absent=True => Pannechauffind
+responseTime=]16-24] => Pannechauffind
+workType=corrective processingDuration=]1-2] => Pannechauffind
+workType=corrective planned=False => Pannechauffind
+workType=corrective responseTime=0 => Pannechauffind
+resolutionDuration=]24-48] => Pannechauffind
+requested=True canceled=False => Pannechauffind
+workType=corrective => Pannechauffind
+ => VisiteentretienchaudiÃ¨re

@@ -1,0 +1,47 @@
+Boiler=True processingDuration=]4-16] => DÃ©pannageP2_Chauffageindividuel
+Boiler=True criticalLevel=five => DÃ©pannageP2_Chauffageindividuel
+Boiler=False workType=corrective resolutionDuration=]4-16] => DÃ©pannage_VMCGaz
+Water=True Leak=False => DÃ©pannageP2_Chauffageindividuel
+workType=corrective planned=False => DÃ©pannageP2_Chauffageindividuel
+Boiler=True workType=corrective responseTime=0 start=True => DÃ©pannageP2_Chauffageindividuel
+Boiler=True responseTime=]4-16] => DÃ©pannageP2_Chauffageindividuel
+Boiler=True workType=preventive => VPP2_Chauffageindivuduel
+responseTime=]24-48] resolutionDuration=]48-72] => DÃ©pannageP2_Chauffageindividuel
+Boiler=False responseTime=]1-2] => DÃ©pannage_VMCGaz
+Boiler=False responseTime=]48-72] => DÃ©pannage_VMCGaz
+Boiler=False Fan=False processingDuration=]1-2] => Boucheauto_Cuisine
+Boiler=False workType=corrective resolutionDuration=]1-2] => DÃ©pannage_VMCGaz
+Boiler=False processingDuration=]0-1] resolutionDuration=]24-48] => DÃ©pannage_VMCGaz
+Fan=True workType=preventive processingDuration=0 => VPNettreseauetbouche
+Boiler=False Fan=False workType=corrective resolutionDuration=]0-1] => Boucheauto_Cuisine
+Fan=False Leak=False workType=preventive processingDuration=]0-1] => Visited'entretienannuelle-Ent.DispositifSÃ©curitÃ©Collectif
+Boiler=False Leak=True => RamonageP2_ChaudiÃ¨reindividuel
+workType=preventive processingDuration=]4-16] => VPCaissongaz
+responseTime=]0-1] processingDuration=]1-2] => DÃ©pannage_VMCGaz
+responseTime=]0-1] resolutionDuration=]1-2] => RemplacementpiÃ¨ceP3
+Boiler=False Fan=False processingDuration=]2-4] => Boucheauto_Cuisine
+Boiler=False Fan=True responseTime=]72--[ => Boucheauto_SDB
+Boiler=False processingDuration=]0-1] resolutionDuration=]16-24] => Caissonventilmanch
+Boiler=False responseTime=]16-24] processingDuration=]1-2] => DÃ©pannage_VMCGaz
+Boiler=False responseTime=]2-4] resolutionDuration=]2-4] => EntretienVMCcaissonscollgaz
+Boiler=True responseTime=]2-4] processingDuration=]1-2] => RemplacementpiÃ¨ceP3
+Fan=True workType=corrective processingDuration=0 => Boucheauto_Cuisine
+Fan=True workType=corrective resolutionDuration=]0-1] => Boucheauto_SDB
+Fan=True workType=preventive processingDuration=]0-1] => VPCaissongaz
+Leak=True criticalLevel=one resolutionDuration=]48-72] => ChaudiÃ¨resurdevis
+responseTime=]48-72] processingDuration=]0-1] resolutionDuration=]72--[ => RemplacementpiÃ¨ceP3
+Boiler=False Fan=False workType=corrective processingDuration=0 => Boucheauto_SDB
+Boiler=True Water=False responseTime=]48-72] processingDuration=]1-2] => RemplacementpiÃ¨ceP3
+Boiler=True processingDuration=]2-4] => DÃ©pannageP2_Chauffageindividuel
+Boiler=True Water=False Leak=True => DÃ©pannageP2_Chauffageindividuel
+Boiler=True responseTime=]24-48] => DÃ©pannageP2_Chauffageindividuel
+Boiler=True resolutionDuration=]16-24] => DÃ©pannageP2_Chauffageindividuel
+Boiler=True resolutionDuration=]2-4] => DÃ©pannageP2_Chauffageindividuel
+Boiler=True workType=corrective responseTime=0 => DÃ©pannageP2_Chauffageindividuel
+Boiler=True resolutionDuration=]72--[ => DÃ©pannageP2_Chauffageindividuel
+Boiler=True workType=corrective start=True => DÃ©pannageP2_Chauffageindividuel
+Boiler=False Fan=False workType=corrective start=True => Boucheauto_Cuisine
+Fan=True resolutionDuration=]24-48] => DÃ©pannage_VMCGaz
+Boiler=False Fan=True workType=corrective start=True => DÃ©pannage_VMCGaz
+Boiler=False workType=preventive processingDuration=]1-2] => VPCaissonsan.
+ => VPNettreseauetbouche

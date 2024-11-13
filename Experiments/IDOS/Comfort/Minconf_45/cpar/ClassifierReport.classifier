@@ -1,0 +1,77 @@
+Boiler=False criticalLevel=three responseTime=]24-48] => ALTEAL-dÃ©pannagechauffage
+Boiler=False criticalLevel=three resolutionDuration=]24-48] => ALTEAL-dÃ©pannagechauffage
+Boiler=False criticalLevel=three replanned=False => ALTEAL-dÃ©pannagechauffage
+criticalLevel=three => ALTEAL-dÃ©pannagechauffage
+Boiler=True Water=True processingDuration=]0-1] resolutionDuration=]24-48] => DÃ©pannage
+Boiler=True resolutionDuration=]24-48] replanned=False => DÃ©pannage
+Boiler=True processingDuration=]1-2] resolutionDuration=]16-24] planned=True => DÃ©pannage
+Boiler=True resolutionDuration=]24-48] => DÃ©pannage
+Boiler=True resolutionDuration=]16-24] planned=True => DÃ©pannage
+Boiler=True resolutionDuration=]16-24] => DÃ©pannage
+Boiler=True => DÃ©pannage
+Water=True resolutionDuration=]0-1] => DÃ©pannage
+resolutionDuration=]0-1] => DÃ©pannage
+Boiler=False Water=False responseTime=]2-4] planned=False => OPH31dÃ©pannagechauffage
+Water=False responseTime=]2-4] planned=False => OPH31dÃ©pannagechauffage
+responseTime=]2-4] planned=False => OPH31dÃ©pannagechauffage
+responseTime=]2-4] => OPH31dÃ©pannagechauffage
+Boiler=False workType=corrective responseTime=]24-48] replanned=True => TMH-dÃ©pannagechauffage
+Boiler=False workType=corrective replanned=True => TMH-dÃ©pannagechauffage
+workType=corrective planned=False replanned=True => TMH-dÃ©pannagechauffage
+Boiler=True planned=False => TMH-dÃ©pannagechauffage
+Boiler=True resolutionDuration=]48-72] => TMH-dÃ©pannagechauffage
+Boiler=True Leak=True => TMH-dÃ©pannagechauffage
+Boiler=True responseTime=]0-1] => TMH-dÃ©pannagechauffage
+Boiler=True occupant_absent=True => TMH-dÃ©pannagechauffage
+Boiler=True resolutionDuration=]4-16] replanned=False => TMH-dÃ©pannagechauffage
+Boiler=True resolutionDuration=]2-4] => TMH-dÃ©pannagechauffage
+Boiler=True responseTime=]48-72] => TMH-dÃ©pannagechauffage
+Boiler=True resolutionDuration=]4-16] => TMH-dÃ©pannagechauffage
+criticalLevel=one processingDuration=]2-4] => TMH-dÃ©pannagechauffage
+Boiler=True processingDuration=]24-48] => TMH-dÃ©pannagechauffage
+criticalLevel=one responseTime=]1-2] => TMH-dÃ©pannagechauffage
+Boiler=True => TMH-dÃ©pannagechauffage
+Radiator=True criticalLevel=one => TMH-dÃ©pannagechauffage
+criticalLevel=one responseTime=]48-72] => TMH-dÃ©pannagechauffage
+criticalLevel=one resolutionDuration=]4-16] => TMH-dÃ©pannagechauffage
+Leak=True criticalLevel=one => TMH-dÃ©pannagechauffage
+criticalLevel=one occupant_absent=True => TMH-dÃ©pannagechauffage
+Radiator=True => TMH-dÃ©pannagechauffage
+Leak=True => TMH-dÃ©pannagechauffage
+responseTime=]72--[ processingDuration=0 start=True replanned=True requested=False => TMH-visiteentretienPompeÃ Chaleur(PAC)
+responseTime=]72--[ processingDuration=0 start=True => TMH-visiteentretienPompeÃ Chaleur(PAC)
+responseTime=]72--[ processingDuration=0 => TMH-visiteentretienPompeÃ Chaleur(PAC)
+responseTime=]72--[ requested=False => TMH-visiteentretienPompeÃ Chaleur(PAC)
+workType=preventive responseTime=]48-72] processingDuration=]0-1] resolutionDuration=]48-72] => TMH-visiteentretienPompeÃ Chaleur(PAC)
+responseTime=]72--[ => TMH-visiteentretienPompeÃ Chaleur(PAC)
+workType=preventive responseTime=]48-72] processingDuration=]0-1] => TMH-visiteentretienPompeÃ Chaleur(PAC)
+responseTime=]48-72] processingDuration=]0-1] => TMH-visiteentretienPompeÃ Chaleur(PAC)
+workType=preventive planned=False => TMH-visiteentretienappareilgaz
+workType=preventive occupant_absent=True => TMH-visiteentretienappareilgaz
+workType=preventive postponed=True => TMH-visiteentretienappareilgaz
+workType=preventive start=True requested=True => TMH-visiteentretienappareilgaz
+workType=preventive responseTime=]2-4] => TMH-visiteentretienappareilgaz
+workType=preventive responseTime=]0-1] => TMH-visiteentretienappareilgaz
+workType=preventive responseTime=]24-48] => TMH-visiteentretienappareilgaz
+workType=preventive responseTime=]4-16] => TMH-visiteentretienappareilgaz
+workType=preventive processingDuration=]24-48] => TMH-visiteentretienappareilgaz
+workType=preventive resolutionDuration=]2-4] => TMH-visiteentretienappareilgaz
+workType=preventive processingDuration=]2-4] => TMH-visiteentretienappareilgaz
+workType=preventive processingDuration=]48-72] => TMH-visiteentretienappareilgaz
+workType=preventive processingDuration=]16-24] => TMH-visiteentretienappareilgaz
+workType=preventive responseTime=]1-2] => TMH-visiteentretienappareilgaz
+workType=preventive resolutionDuration=]4-16] => TMH-visiteentretienappareilgaz
+workType=preventive resolutionDuration=]1-2] => TMH-visiteentretienappareilgaz
+workType=preventive => TMH-visiteentretienappareilgaz
+Water=False responseTime=]16-24] resolutionDuration=]16-24] start=False => TMH-visiteentretienballonsolaire
+Water=False processingDuration=0 resolutionDuration=]16-24] start=False => TMH-visiteentretienballonsolaire
+Water=False resolutionDuration=]16-24] start=False planned=True => TMH-visiteentretienballonsolaire
+Water=False resolutionDuration=]16-24] start=False occupant_absent=False => TMH-visiteentretienballonsolaire
+resolutionDuration=]16-24] start=False => TMH-visiteentretienballonsolaire
+resolutionDuration=]16-24] => TMH-visiteentretienballonsolaire
+responseTime=]72--[ processingDuration=]72--[ replanned=True postponed=False requested=False => TMH-visiteentretienballonthermodynamique
+responseTime=]72--[ processingDuration=]0-1] postponed=False requested=False => TMH-visiteentretienballonthermodynamique
+responseTime=]72--[ processingDuration=]72--[ requested=False => TMH-visiteentretienballonthermodynamique
+responseTime=]72--[ processingDuration=]1-2] requested=False => TMH-visiteentretienballonthermodynamique
+responseTime=]72--[ processingDuration=]0-1] requested=False => TMH-visiteentretienballonthermodynamique
+responseTime=]72--[ => TMH-visiteentretienballonthermodynamique

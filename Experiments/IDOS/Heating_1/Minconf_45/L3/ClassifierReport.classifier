@@ -1,0 +1,644 @@
+Boiler=True Fan=False Water=False Leak=False criticalLevel=one workType=preventive responseTime=0 planned=False requested=False => VPP2_Chauffageindivuduel
+Boiler=True Fan=False criticalLevel=one workType=preventive responseTime=0 planned=False requested=False => VPP2_Chauffageindivuduel
+Boiler=False Fan=True Water=False Leak=False criticalLevel=one workType=preventive responseTime=0 processingDuration=]1-2] resolutionDuration=]1-2] start=True done=True planned=False end=True requested=False => VPCaissonsan.
+Boiler=False Water=False Leak=False criticalLevel=one workType=corrective responseTime=0 resolutionDuration=0 planned=True requested=True => Boucheauto_SDB
+Boiler=False Fan=True Water=False Leak=False criticalLevel=one workType=corrective resolutionDuration=]2-4] start=True done=True planned=True end=True requested=True => EntretienVMCcaissonscollgaz
+Boiler=False Fan=True Water=False Leak=False criticalLevel=one workType=corrective processingDuration=]0-1] resolutionDuration=]24-48] start=True done=True planned=True end=True requested=True => Caissonventilmanch
+Boiler=True Fan=False Water=False Leak=False criticalLevel=one responseTime=0 processingDuration=]0-1] start=True done=True end=True => ChaudiÃ¨resurdevis
+Boiler=False Fan=True Water=False Leak=False criticalLevel=one workType=preventive responseTime=0 processingDuration=]0-1] resolutionDuration=]0-1] start=True done=True planned=False end=True requested=False => VPCaissongaz
+Boiler=False Fan=True Water=False Leak=False criticalLevel=one workType=corrective responseTime=0 start=True done=True planned=True end=True requested=True => EntretienVMCcaissonscollgaz
+Boiler=False Fan=False Water=False Leak=False criticalLevel=one workType=corrective responseTime=]72--[ processingDuration=]0-1] resolutionDuration=]72--[ start=True done=True planned=True end=True requested=True => Bouchehydro_SDB
+Boiler=True workType=corrective processingDuration=]1-2] start=True done=True end=True => DÃ©pannageP2_Chauffageindividuel
+Boiler=True workType=corrective resolutionDuration=]72--[ start=True done=True planned=True end=True requested=True => DÃ©pannageP2_Chauffageindividuel
+Boiler=False Water=False Leak=False criticalLevel=one workType=corrective responseTime=0 processingDuration=]0-1] start=True done=True planned=True end=True requested=True => Boucheauto_SDB
+Boiler=True workType=corrective => DÃ©pannageP2_Chauffageindividuel
+Boiler=True Fan=False Water=False Leak=False criticalLevel=one workType=corrective processingDuration=]0-1] resolutionDuration=]24-48] start=True done=True planned=True end=True requested=True => ChaudiÃ¨resurdevis
+Boiler=False Fan=False Water=False Leak=False criticalLevel=one workType=preventive responseTime=0 processingDuration=0 resolutionDuration=0 start=False done=False planned=False end=False requested=False => RamonageP2_ChaudiÃ¨reindividuel
+Boiler=True Fan=False Water=False Leak=False criticalLevel=one workType=corrective responseTime=]24-48] start=True done=True end=True requested=True => RemplacementpiÃ¨ceP3
+Boiler=False Fan=False Water=False Leak=False criticalLevel=one workType=preventive responseTime=0 processingDuration=0 resolutionDuration=0 planned=False requested=False => Visited'entretienannuelle-Ent.DispositifSÃ©curitÃ©Collectif
+Boiler=False Fan=True Water=False Leak=False workType=corrective start=True done=True end=True => DÃ©pannage_VMCGaz
+Boiler=True Fan=False Water=False Leak=False criticalLevel=one workType=preventive responseTime=0 planned=False => VPP2_Chauffageindivuduel
+Boiler=True Fan=False Water=False Leak=False criticalLevel=one workType=preventive responseTime=0 requested=False => VPP2_Chauffageindivuduel
+Boiler=True Fan=False Water=False Leak=False criticalLevel=one workType=preventive planned=False requested=False => VPP2_Chauffageindivuduel
+Boiler=True Fan=False Water=False Leak=False workType=preventive responseTime=0 planned=False requested=False => VPP2_Chauffageindivuduel
+Boiler=True Fan=False Water=False criticalLevel=one workType=preventive responseTime=0 planned=False requested=False => VPP2_Chauffageindivuduel
+Boiler=True Fan=False Leak=False criticalLevel=one workType=preventive responseTime=0 planned=False requested=False => VPP2_Chauffageindivuduel
+Boiler=True Water=False Leak=False criticalLevel=one workType=preventive responseTime=0 planned=False requested=False => VPP2_Chauffageindivuduel
+Boiler=True Fan=False Water=False Leak=False criticalLevel=one workType=preventive responseTime=0 => VPP2_Chauffageindivuduel
+Boiler=True Fan=False Water=False Leak=False criticalLevel=one workType=preventive planned=False => VPP2_Chauffageindivuduel
+Boiler=True Fan=False Water=False Leak=False criticalLevel=one workType=preventive requested=False => VPP2_Chauffageindivuduel
+Boiler=True Fan=False Water=False Leak=False workType=preventive responseTime=0 planned=False => VPP2_Chauffageindivuduel
+Boiler=True Fan=False Water=False Leak=False workType=preventive responseTime=0 requested=False => VPP2_Chauffageindivuduel
+Boiler=True Fan=False Water=False Leak=False workType=preventive planned=False requested=False => VPP2_Chauffageindivuduel
+Boiler=True Fan=False Water=False criticalLevel=one workType=preventive responseTime=0 planned=False => VPP2_Chauffageindivuduel
+Boiler=True Fan=False Water=False criticalLevel=one workType=preventive responseTime=0 requested=False => VPP2_Chauffageindivuduel
+Boiler=True Fan=False Water=False criticalLevel=one workType=preventive planned=False requested=False => VPP2_Chauffageindivuduel
+Boiler=True Fan=False Water=False workType=preventive responseTime=0 planned=False requested=False => VPP2_Chauffageindivuduel
+Boiler=True Fan=False Leak=False criticalLevel=one workType=preventive responseTime=0 planned=False => VPP2_Chauffageindivuduel
+Boiler=True Fan=False Leak=False criticalLevel=one workType=preventive responseTime=0 requested=False => VPP2_Chauffageindivuduel
+Boiler=True Fan=False Leak=False criticalLevel=one workType=preventive planned=False requested=False => VPP2_Chauffageindivuduel
+Boiler=True Fan=False Leak=False workType=preventive responseTime=0 planned=False requested=False => VPP2_Chauffageindivuduel
+Boiler=True Water=False Leak=False criticalLevel=one workType=preventive responseTime=0 planned=False => VPP2_Chauffageindivuduel
+Boiler=True Water=False Leak=False criticalLevel=one workType=preventive responseTime=0 requested=False => VPP2_Chauffageindivuduel
+Boiler=True Water=False Leak=False criticalLevel=one workType=preventive planned=False requested=False => VPP2_Chauffageindivuduel
+Boiler=True Water=False Leak=False workType=preventive responseTime=0 planned=False requested=False => VPP2_Chauffageindivuduel
+Boiler=True Water=False criticalLevel=one workType=preventive responseTime=0 planned=False requested=False => VPP2_Chauffageindivuduel
+Boiler=True Leak=False criticalLevel=one workType=preventive responseTime=0 planned=False requested=False => VPP2_Chauffageindivuduel
+Boiler=True Fan=False Water=False Leak=False criticalLevel=one workType=preventive => VPP2_Chauffageindivuduel
+Boiler=True Fan=False Water=False Leak=False workType=preventive responseTime=0 => VPP2_Chauffageindivuduel
+Boiler=True Fan=False Water=False Leak=False workType=preventive planned=False => VPP2_Chauffageindivuduel
+Boiler=True Fan=False Water=False Leak=False workType=preventive requested=False => VPP2_Chauffageindivuduel
+Boiler=True Fan=False Water=False criticalLevel=one workType=preventive responseTime=0 => VPP2_Chauffageindivuduel
+Boiler=True Fan=False Water=False criticalLevel=one workType=preventive planned=False => VPP2_Chauffageindivuduel
+Boiler=True Fan=False Water=False criticalLevel=one workType=preventive requested=False => VPP2_Chauffageindivuduel
+Boiler=True Fan=False Water=False workType=preventive responseTime=0 planned=False => VPP2_Chauffageindivuduel
+Boiler=True Fan=False Water=False workType=preventive responseTime=0 requested=False => VPP2_Chauffageindivuduel
+Boiler=True Fan=False Water=False workType=preventive planned=False requested=False => VPP2_Chauffageindivuduel
+Boiler=True Fan=False Leak=False criticalLevel=one workType=preventive responseTime=0 => VPP2_Chauffageindivuduel
+Boiler=True Fan=False Leak=False criticalLevel=one workType=preventive planned=False => VPP2_Chauffageindivuduel
+Boiler=True Fan=False Leak=False criticalLevel=one workType=preventive requested=False => VPP2_Chauffageindivuduel
+Boiler=True Fan=False Leak=False workType=preventive responseTime=0 planned=False => VPP2_Chauffageindivuduel
+Boiler=True Fan=False Leak=False workType=preventive responseTime=0 requested=False => VPP2_Chauffageindivuduel
+Boiler=True Fan=False Leak=False workType=preventive planned=False requested=False => VPP2_Chauffageindivuduel
+Boiler=True Water=False Leak=False criticalLevel=one workType=preventive responseTime=0 => VPP2_Chauffageindivuduel
+Boiler=True Water=False Leak=False criticalLevel=one workType=preventive planned=False => VPP2_Chauffageindivuduel
+Boiler=True Water=False Leak=False criticalLevel=one workType=preventive requested=False => VPP2_Chauffageindivuduel
+Boiler=True Water=False Leak=False workType=preventive responseTime=0 planned=False => VPP2_Chauffageindivuduel
+Boiler=True Water=False Leak=False workType=preventive responseTime=0 requested=False => VPP2_Chauffageindivuduel
+Boiler=True Water=False Leak=False workType=preventive planned=False requested=False => VPP2_Chauffageindivuduel
+Boiler=True Water=False criticalLevel=one workType=preventive responseTime=0 planned=False => VPP2_Chauffageindivuduel
+Boiler=True Water=False criticalLevel=one workType=preventive responseTime=0 requested=False => VPP2_Chauffageindivuduel
+Boiler=True Water=False criticalLevel=one workType=preventive planned=False requested=False => VPP2_Chauffageindivuduel
+Boiler=True Water=False workType=preventive responseTime=0 planned=False requested=False => VPP2_Chauffageindivuduel
+Boiler=True Leak=False criticalLevel=one workType=preventive responseTime=0 planned=False => VPP2_Chauffageindivuduel
+Boiler=True Leak=False criticalLevel=one workType=preventive responseTime=0 requested=False => VPP2_Chauffageindivuduel
+Boiler=True Leak=False criticalLevel=one workType=preventive planned=False requested=False => VPP2_Chauffageindivuduel
+Boiler=True Leak=False workType=preventive responseTime=0 planned=False requested=False => VPP2_Chauffageindivuduel
+Boiler=True Fan=False Water=False Leak=False workType=preventive => VPP2_Chauffageindivuduel
+Boiler=True Fan=False Water=False criticalLevel=one workType=preventive => VPP2_Chauffageindivuduel
+Boiler=True Fan=False Water=False workType=preventive responseTime=0 => VPP2_Chauffageindivuduel
+Boiler=True Fan=False Water=False workType=preventive planned=False => VPP2_Chauffageindivuduel
+Boiler=True Fan=False Water=False workType=preventive requested=False => VPP2_Chauffageindivuduel
+Boiler=True Fan=False Leak=False criticalLevel=one workType=preventive => VPP2_Chauffageindivuduel
+Boiler=True Fan=False Leak=False workType=preventive responseTime=0 => VPP2_Chauffageindivuduel
+Boiler=True Fan=False Leak=False workType=preventive planned=False => VPP2_Chauffageindivuduel
+Boiler=True Fan=False Leak=False workType=preventive requested=False => VPP2_Chauffageindivuduel
+Boiler=True Water=False Leak=False criticalLevel=one workType=preventive => VPP2_Chauffageindivuduel
+Boiler=True Water=False Leak=False workType=preventive responseTime=0 => VPP2_Chauffageindivuduel
+Boiler=True Water=False Leak=False workType=preventive planned=False => VPP2_Chauffageindivuduel
+Boiler=True Water=False Leak=False workType=preventive requested=False => VPP2_Chauffageindivuduel
+Boiler=True Water=False criticalLevel=one workType=preventive responseTime=0 => VPP2_Chauffageindivuduel
+Boiler=True Water=False criticalLevel=one workType=preventive planned=False => VPP2_Chauffageindivuduel
+Boiler=True Water=False criticalLevel=one workType=preventive requested=False => VPP2_Chauffageindivuduel
+Boiler=True Water=False workType=preventive responseTime=0 planned=False => VPP2_Chauffageindivuduel
+Boiler=True Water=False workType=preventive responseTime=0 requested=False => VPP2_Chauffageindivuduel
+Boiler=True Water=False workType=preventive planned=False requested=False => VPP2_Chauffageindivuduel
+Boiler=True Leak=False criticalLevel=one workType=preventive responseTime=0 => VPP2_Chauffageindivuduel
+Boiler=True Leak=False criticalLevel=one workType=preventive planned=False => VPP2_Chauffageindivuduel
+Boiler=True Leak=False criticalLevel=one workType=preventive requested=False => VPP2_Chauffageindivuduel
+Boiler=True Leak=False workType=preventive responseTime=0 planned=False => VPP2_Chauffageindivuduel
+Boiler=True Leak=False workType=preventive responseTime=0 requested=False => VPP2_Chauffageindivuduel
+Boiler=True Leak=False workType=preventive planned=False requested=False => VPP2_Chauffageindivuduel
+Boiler=True Fan=False Water=False workType=preventive => VPP2_Chauffageindivuduel
+Boiler=True Fan=False Leak=False workType=preventive => VPP2_Chauffageindivuduel
+Boiler=True Water=False Leak=False workType=preventive => VPP2_Chauffageindivuduel
+Boiler=True Water=False criticalLevel=one workType=preventive => VPP2_Chauffageindivuduel
+Boiler=True Water=False workType=preventive responseTime=0 => VPP2_Chauffageindivuduel
+Boiler=True Water=False workType=preventive planned=False => VPP2_Chauffageindivuduel
+Boiler=True Water=False workType=preventive requested=False => VPP2_Chauffageindivuduel
+Boiler=True Leak=False criticalLevel=one workType=preventive => VPP2_Chauffageindivuduel
+Boiler=True Leak=False workType=preventive responseTime=0 => VPP2_Chauffageindivuduel
+Boiler=True Leak=False workType=preventive planned=False => VPP2_Chauffageindivuduel
+Boiler=True Leak=False workType=preventive requested=False => VPP2_Chauffageindivuduel
+Boiler=True Water=False workType=preventive => VPP2_Chauffageindivuduel
+Boiler=True Leak=False workType=preventive => VPP2_Chauffageindivuduel
+Boiler=True Fan=False Water=False Leak=False criticalLevel=one responseTime=0 start=True done=True end=True => ChaudiÃ¨resurdevis
+Boiler=True Fan=False Water=False Leak=False criticalLevel=one responseTime=0 start=True done=True => ChaudiÃ¨resurdevis
+Boiler=True Fan=False Water=False Leak=False criticalLevel=one responseTime=0 start=True end=True => ChaudiÃ¨resurdevis
+Boiler=True Fan=False Water=False Leak=False criticalLevel=one responseTime=0 done=True end=True => ChaudiÃ¨resurdevis
+Boiler=True Fan=False Water=False Leak=False responseTime=0 start=True done=True end=True => ChaudiÃ¨resurdevis
+Boiler=True Fan=False Water=False criticalLevel=one responseTime=0 start=True done=True end=True => ChaudiÃ¨resurdevis
+Boiler=True Fan=False Leak=False criticalLevel=one responseTime=0 start=True done=True end=True => ChaudiÃ¨resurdevis
+Boiler=True Water=False Leak=False criticalLevel=one responseTime=0 start=True done=True end=True => ChaudiÃ¨resurdevis
+Boiler=True Fan=False Water=False Leak=False criticalLevel=one responseTime=0 start=True => ChaudiÃ¨resurdevis
+Boiler=True Fan=False Water=False Leak=False criticalLevel=one responseTime=0 done=True => ChaudiÃ¨resurdevis
+Boiler=True Fan=False Water=False Leak=False criticalLevel=one responseTime=0 end=True => ChaudiÃ¨resurdevis
+Boiler=True Fan=False Water=False Leak=False responseTime=0 start=True done=True => ChaudiÃ¨resurdevis
+Boiler=True Fan=False Water=False Leak=False responseTime=0 start=True end=True => ChaudiÃ¨resurdevis
+Boiler=True Fan=False Water=False Leak=False responseTime=0 done=True end=True => ChaudiÃ¨resurdevis
+Boiler=True Fan=False Water=False criticalLevel=one responseTime=0 start=True done=True => ChaudiÃ¨resurdevis
+Boiler=True Fan=False Water=False criticalLevel=one responseTime=0 start=True end=True => ChaudiÃ¨resurdevis
+Boiler=True Fan=False Water=False criticalLevel=one responseTime=0 done=True end=True => ChaudiÃ¨resurdevis
+Boiler=True Fan=False Water=False responseTime=0 start=True done=True end=True => ChaudiÃ¨resurdevis
+Boiler=True Fan=False Leak=False criticalLevel=one responseTime=0 start=True done=True => ChaudiÃ¨resurdevis
+Boiler=True Fan=False Leak=False criticalLevel=one responseTime=0 start=True end=True => ChaudiÃ¨resurdevis
+Boiler=True Fan=False Leak=False criticalLevel=one responseTime=0 done=True end=True => ChaudiÃ¨resurdevis
+Boiler=True Fan=False Leak=False responseTime=0 start=True done=True end=True => ChaudiÃ¨resurdevis
+Boiler=True Water=False Leak=False criticalLevel=one responseTime=0 start=True done=True => ChaudiÃ¨resurdevis
+Boiler=True Water=False Leak=False criticalLevel=one responseTime=0 start=True end=True => ChaudiÃ¨resurdevis
+Boiler=True Water=False Leak=False criticalLevel=one responseTime=0 done=True end=True => ChaudiÃ¨resurdevis
+Boiler=True Water=False Leak=False responseTime=0 start=True done=True end=True => ChaudiÃ¨resurdevis
+Boiler=True Water=False criticalLevel=one responseTime=0 start=True done=True end=True => ChaudiÃ¨resurdevis
+Boiler=True Leak=False criticalLevel=one responseTime=0 start=True done=True end=True => ChaudiÃ¨resurdevis
+Boiler=True Fan=False Water=False Leak=False responseTime=0 start=True => ChaudiÃ¨resurdevis
+Boiler=True Fan=False Water=False Leak=False responseTime=0 done=True => ChaudiÃ¨resurdevis
+Boiler=True Fan=False Water=False Leak=False responseTime=0 end=True => ChaudiÃ¨resurdevis
+Boiler=True Fan=False Water=False criticalLevel=one responseTime=0 start=True => ChaudiÃ¨resurdevis
+Boiler=True Fan=False Water=False criticalLevel=one responseTime=0 done=True => ChaudiÃ¨resurdevis
+Boiler=True Fan=False Water=False criticalLevel=one responseTime=0 end=True => ChaudiÃ¨resurdevis
+Boiler=True Fan=False Water=False responseTime=0 start=True done=True => ChaudiÃ¨resurdevis
+Boiler=True Fan=False Water=False responseTime=0 start=True end=True => ChaudiÃ¨resurdevis
+Boiler=True Fan=False Water=False responseTime=0 done=True end=True => ChaudiÃ¨resurdevis
+Boiler=True Fan=False Leak=False criticalLevel=one responseTime=0 start=True => ChaudiÃ¨resurdevis
+Boiler=True Fan=False Leak=False criticalLevel=one responseTime=0 done=True => ChaudiÃ¨resurdevis
+Boiler=True Fan=False Leak=False criticalLevel=one responseTime=0 end=True => ChaudiÃ¨resurdevis
+Boiler=True Fan=False Leak=False responseTime=0 start=True done=True => ChaudiÃ¨resurdevis
+Boiler=True Fan=False Leak=False responseTime=0 start=True end=True => ChaudiÃ¨resurdevis
+Boiler=True Fan=False Leak=False responseTime=0 done=True end=True => ChaudiÃ¨resurdevis
+Boiler=True Water=False Leak=False criticalLevel=one responseTime=0 start=True => ChaudiÃ¨resurdevis
+Boiler=True Water=False Leak=False criticalLevel=one responseTime=0 done=True => ChaudiÃ¨resurdevis
+Boiler=True Water=False Leak=False criticalLevel=one responseTime=0 end=True => ChaudiÃ¨resurdevis
+Boiler=True Water=False Leak=False responseTime=0 start=True done=True => ChaudiÃ¨resurdevis
+Boiler=True Water=False Leak=False responseTime=0 start=True end=True => ChaudiÃ¨resurdevis
+Boiler=True Water=False Leak=False responseTime=0 done=True end=True => ChaudiÃ¨resurdevis
+Boiler=True Water=False criticalLevel=one responseTime=0 start=True done=True => ChaudiÃ¨resurdevis
+Boiler=True Water=False criticalLevel=one responseTime=0 start=True end=True => ChaudiÃ¨resurdevis
+Boiler=True Water=False criticalLevel=one responseTime=0 done=True end=True => ChaudiÃ¨resurdevis
+Boiler=True Water=False responseTime=0 start=True done=True end=True => ChaudiÃ¨resurdevis
+Boiler=True Leak=False criticalLevel=one responseTime=0 start=True done=True => ChaudiÃ¨resurdevis
+Boiler=True Leak=False criticalLevel=one responseTime=0 start=True end=True => ChaudiÃ¨resurdevis
+Boiler=True Leak=False criticalLevel=one responseTime=0 done=True end=True => ChaudiÃ¨resurdevis
+Boiler=True Leak=False responseTime=0 start=True done=True end=True => ChaudiÃ¨resurdevis
+Boiler=True Fan=False Water=False responseTime=0 start=True => ChaudiÃ¨resurdevis
+Boiler=True Fan=False Water=False responseTime=0 done=True => ChaudiÃ¨resurdevis
+Boiler=True Fan=False Water=False responseTime=0 end=True => ChaudiÃ¨resurdevis
+Boiler=True Fan=False Leak=False responseTime=0 start=True => ChaudiÃ¨resurdevis
+Boiler=True Fan=False Leak=False responseTime=0 done=True => ChaudiÃ¨resurdevis
+Boiler=True Fan=False Leak=False responseTime=0 end=True => ChaudiÃ¨resurdevis
+Boiler=True Water=False Leak=False responseTime=0 start=True => ChaudiÃ¨resurdevis
+Boiler=True Water=False Leak=False responseTime=0 done=True => ChaudiÃ¨resurdevis
+Boiler=True Water=False Leak=False responseTime=0 end=True => ChaudiÃ¨resurdevis
+Boiler=True Water=False criticalLevel=one responseTime=0 start=True => ChaudiÃ¨resurdevis
+Boiler=True Water=False criticalLevel=one responseTime=0 done=True => ChaudiÃ¨resurdevis
+Boiler=True Water=False criticalLevel=one responseTime=0 end=True => ChaudiÃ¨resurdevis
+Boiler=True Water=False responseTime=0 start=True done=True => ChaudiÃ¨resurdevis
+Boiler=True Water=False responseTime=0 start=True end=True => ChaudiÃ¨resurdevis
+Boiler=True Water=False responseTime=0 done=True end=True => ChaudiÃ¨resurdevis
+Boiler=True Leak=False criticalLevel=one responseTime=0 start=True => ChaudiÃ¨resurdevis
+Boiler=True Leak=False criticalLevel=one responseTime=0 done=True => ChaudiÃ¨resurdevis
+Boiler=True Leak=False criticalLevel=one responseTime=0 end=True => ChaudiÃ¨resurdevis
+Boiler=True Leak=False responseTime=0 start=True done=True => ChaudiÃ¨resurdevis
+Boiler=True Leak=False responseTime=0 start=True end=True => ChaudiÃ¨resurdevis
+Boiler=True Leak=False responseTime=0 done=True end=True => ChaudiÃ¨resurdevis
+Boiler=True Water=False responseTime=0 start=True => ChaudiÃ¨resurdevis
+Boiler=True Water=False responseTime=0 done=True => ChaudiÃ¨resurdevis
+Boiler=True Water=False responseTime=0 end=True => ChaudiÃ¨resurdevis
+Boiler=True Leak=False responseTime=0 start=True => ChaudiÃ¨resurdevis
+Boiler=True Leak=False responseTime=0 done=True => ChaudiÃ¨resurdevis
+Boiler=True Leak=False responseTime=0 end=True => ChaudiÃ¨resurdevis
+Boiler=True Fan=False Water=False Leak=False criticalLevel=one workType=corrective responseTime=]24-48] start=True done=True end=True => DÃ©pannageP2_Chauffageindividuel
+Boiler=True Fan=False Water=False Leak=False criticalLevel=one workType=corrective responseTime=]24-48] start=True done=True end=True => RemplacementpiÃ¨ceP3
+Boiler=True Fan=False Water=False Leak=False criticalLevel=one workType=corrective responseTime=]24-48] start=True done=True requested=True => DÃ©pannageP2_Chauffageindividuel
+Boiler=True Fan=False Water=False Leak=False criticalLevel=one workType=corrective responseTime=]24-48] start=True done=True requested=True => RemplacementpiÃ¨ceP3
+Boiler=True Fan=False Water=False Leak=False criticalLevel=one workType=corrective responseTime=]24-48] start=True end=True requested=True => DÃ©pannageP2_Chauffageindividuel
+Boiler=True Fan=False Water=False Leak=False criticalLevel=one workType=corrective responseTime=]24-48] start=True end=True requested=True => RemplacementpiÃ¨ceP3
+Boiler=True Fan=False Water=False Leak=False criticalLevel=one workType=corrective responseTime=]24-48] done=True end=True requested=True => DÃ©pannageP2_Chauffageindividuel
+Boiler=True Fan=False Water=False Leak=False criticalLevel=one workType=corrective responseTime=]24-48] done=True end=True requested=True => RemplacementpiÃ¨ceP3
+Boiler=True Fan=False Water=False Leak=False criticalLevel=one responseTime=]24-48] start=True done=True end=True requested=True => DÃ©pannageP2_Chauffageindividuel
+Boiler=True Fan=False Water=False Leak=False criticalLevel=one responseTime=]24-48] start=True done=True end=True requested=True => RemplacementpiÃ¨ceP3
+Boiler=True Fan=False Water=False Leak=False workType=corrective responseTime=]24-48] start=True done=True end=True requested=True => DÃ©pannageP2_Chauffageindividuel
+Boiler=True Fan=False Water=False Leak=False workType=corrective responseTime=]24-48] start=True done=True end=True requested=True => RemplacementpiÃ¨ceP3
+Boiler=True Fan=False Water=False criticalLevel=one workType=corrective responseTime=]24-48] start=True done=True end=True requested=True => DÃ©pannageP2_Chauffageindividuel
+Boiler=True Fan=False Water=False criticalLevel=one workType=corrective responseTime=]24-48] start=True done=True end=True requested=True => RemplacementpiÃ¨ceP3
+Boiler=True Fan=False Leak=False criticalLevel=one workType=corrective responseTime=]24-48] start=True done=True end=True requested=True => DÃ©pannageP2_Chauffageindividuel
+Boiler=True Fan=False Leak=False criticalLevel=one workType=corrective responseTime=]24-48] start=True done=True end=True requested=True => RemplacementpiÃ¨ceP3
+Boiler=True Fan=False Water=False Leak=False criticalLevel=one workType=corrective responseTime=]24-48] start=True done=True => DÃ©pannageP2_Chauffageindividuel
+Boiler=True Fan=False Water=False Leak=False criticalLevel=one workType=corrective responseTime=]24-48] start=True done=True => RemplacementpiÃ¨ceP3
+Boiler=True Fan=False Water=False Leak=False criticalLevel=one workType=corrective responseTime=]24-48] start=True end=True => DÃ©pannageP2_Chauffageindividuel
+Boiler=True Fan=False Water=False Leak=False criticalLevel=one workType=corrective responseTime=]24-48] start=True end=True => RemplacementpiÃ¨ceP3
+Boiler=True Fan=False Water=False Leak=False criticalLevel=one workType=corrective responseTime=]24-48] start=True requested=True => DÃ©pannageP2_Chauffageindividuel
+Boiler=True Fan=False Water=False Leak=False criticalLevel=one workType=corrective responseTime=]24-48] start=True requested=True => RemplacementpiÃ¨ceP3
+Boiler=True Fan=False Water=False Leak=False criticalLevel=one workType=corrective responseTime=]24-48] done=True end=True => DÃ©pannageP2_Chauffageindividuel
+Boiler=True Fan=False Water=False Leak=False criticalLevel=one workType=corrective responseTime=]24-48] done=True end=True => RemplacementpiÃ¨ceP3
+Boiler=True Fan=False Water=False Leak=False criticalLevel=one workType=corrective responseTime=]24-48] done=True requested=True => DÃ©pannageP2_Chauffageindividuel
+Boiler=True Fan=False Water=False Leak=False criticalLevel=one workType=corrective responseTime=]24-48] done=True requested=True => RemplacementpiÃ¨ceP3
+Boiler=True Fan=False Water=False Leak=False criticalLevel=one workType=corrective responseTime=]24-48] end=True requested=True => DÃ©pannageP2_Chauffageindividuel
+Boiler=True Fan=False Water=False Leak=False criticalLevel=one workType=corrective responseTime=]24-48] end=True requested=True => RemplacementpiÃ¨ceP3
+Boiler=True Fan=False Water=False Leak=False criticalLevel=one responseTime=]24-48] start=True done=True end=True => DÃ©pannageP2_Chauffageindividuel
+Boiler=True Fan=False Water=False Leak=False criticalLevel=one responseTime=]24-48] start=True done=True end=True => RemplacementpiÃ¨ceP3
+Boiler=True Fan=False Water=False Leak=False criticalLevel=one responseTime=]24-48] start=True done=True requested=True => DÃ©pannageP2_Chauffageindividuel
+Boiler=True Fan=False Water=False Leak=False criticalLevel=one responseTime=]24-48] start=True done=True requested=True => RemplacementpiÃ¨ceP3
+Boiler=True Fan=False Water=False Leak=False criticalLevel=one responseTime=]24-48] start=True end=True requested=True => DÃ©pannageP2_Chauffageindividuel
+Boiler=True Fan=False Water=False Leak=False criticalLevel=one responseTime=]24-48] start=True end=True requested=True => RemplacementpiÃ¨ceP3
+Boiler=True Fan=False Water=False Leak=False criticalLevel=one responseTime=]24-48] done=True end=True requested=True => DÃ©pannageP2_Chauffageindividuel
+Boiler=True Fan=False Water=False Leak=False criticalLevel=one responseTime=]24-48] done=True end=True requested=True => RemplacementpiÃ¨ceP3
+Boiler=True Fan=False Water=False Leak=False workType=corrective responseTime=]24-48] start=True done=True end=True => DÃ©pannageP2_Chauffageindividuel
+Boiler=True Fan=False Water=False Leak=False workType=corrective responseTime=]24-48] start=True done=True end=True => RemplacementpiÃ¨ceP3
+Boiler=True Fan=False Water=False Leak=False workType=corrective responseTime=]24-48] start=True done=True requested=True => DÃ©pannageP2_Chauffageindividuel
+Boiler=True Fan=False Water=False Leak=False workType=corrective responseTime=]24-48] start=True done=True requested=True => RemplacementpiÃ¨ceP3
+Boiler=True Fan=False Water=False Leak=False workType=corrective responseTime=]24-48] start=True end=True requested=True => DÃ©pannageP2_Chauffageindividuel
+Boiler=True Fan=False Water=False Leak=False workType=corrective responseTime=]24-48] start=True end=True requested=True => RemplacementpiÃ¨ceP3
+Boiler=True Fan=False Water=False Leak=False workType=corrective responseTime=]24-48] done=True end=True requested=True => DÃ©pannageP2_Chauffageindividuel
+Boiler=True Fan=False Water=False Leak=False workType=corrective responseTime=]24-48] done=True end=True requested=True => RemplacementpiÃ¨ceP3
+Boiler=True Fan=False Water=False Leak=False responseTime=]24-48] start=True done=True end=True requested=True => DÃ©pannageP2_Chauffageindividuel
+Boiler=True Fan=False Water=False Leak=False responseTime=]24-48] start=True done=True end=True requested=True => RemplacementpiÃ¨ceP3
+Boiler=True Fan=False Water=False criticalLevel=one workType=corrective responseTime=]24-48] start=True done=True end=True => DÃ©pannageP2_Chauffageindividuel
+Boiler=True Fan=False Water=False criticalLevel=one workType=corrective responseTime=]24-48] start=True done=True end=True => RemplacementpiÃ¨ceP3
+Boiler=True Fan=False Water=False criticalLevel=one workType=corrective responseTime=]24-48] start=True done=True requested=True => DÃ©pannageP2_Chauffageindividuel
+Boiler=True Fan=False Water=False criticalLevel=one workType=corrective responseTime=]24-48] start=True done=True requested=True => RemplacementpiÃ¨ceP3
+Boiler=True Fan=False Water=False criticalLevel=one workType=corrective responseTime=]24-48] start=True end=True requested=True => DÃ©pannageP2_Chauffageindividuel
+Boiler=True Fan=False Water=False criticalLevel=one workType=corrective responseTime=]24-48] start=True end=True requested=True => RemplacementpiÃ¨ceP3
+Boiler=True Fan=False Water=False criticalLevel=one workType=corrective responseTime=]24-48] done=True end=True requested=True => DÃ©pannageP2_Chauffageindividuel
+Boiler=True Fan=False Water=False criticalLevel=one workType=corrective responseTime=]24-48] done=True end=True requested=True => RemplacementpiÃ¨ceP3
+Boiler=True Fan=False Water=False criticalLevel=one responseTime=]24-48] start=True done=True end=True requested=True => DÃ©pannageP2_Chauffageindividuel
+Boiler=True Fan=False Water=False criticalLevel=one responseTime=]24-48] start=True done=True end=True requested=True => RemplacementpiÃ¨ceP3
+Boiler=True Fan=False Water=False workType=corrective responseTime=]24-48] start=True done=True end=True requested=True => DÃ©pannageP2_Chauffageindividuel
+Boiler=True Fan=False Water=False workType=corrective responseTime=]24-48] start=True done=True end=True requested=True => RemplacementpiÃ¨ceP3
+Boiler=True Fan=False Leak=False criticalLevel=one workType=corrective responseTime=]24-48] start=True done=True end=True => DÃ©pannageP2_Chauffageindividuel
+Boiler=True Fan=False Leak=False criticalLevel=one workType=corrective responseTime=]24-48] start=True done=True end=True => RemplacementpiÃ¨ceP3
+Boiler=True Fan=False Leak=False criticalLevel=one workType=corrective responseTime=]24-48] start=True done=True requested=True => DÃ©pannageP2_Chauffageindividuel
+Boiler=True Fan=False Leak=False criticalLevel=one workType=corrective responseTime=]24-48] start=True done=True requested=True => RemplacementpiÃ¨ceP3
+Boiler=True Fan=False Leak=False criticalLevel=one workType=corrective responseTime=]24-48] start=True end=True requested=True => DÃ©pannageP2_Chauffageindividuel
+Boiler=True Fan=False Leak=False criticalLevel=one workType=corrective responseTime=]24-48] start=True end=True requested=True => RemplacementpiÃ¨ceP3
+Boiler=True Fan=False Leak=False criticalLevel=one workType=corrective responseTime=]24-48] done=True end=True requested=True => DÃ©pannageP2_Chauffageindividuel
+Boiler=True Fan=False Leak=False criticalLevel=one workType=corrective responseTime=]24-48] done=True end=True requested=True => RemplacementpiÃ¨ceP3
+Boiler=True Fan=False Leak=False criticalLevel=one responseTime=]24-48] start=True done=True end=True requested=True => DÃ©pannageP2_Chauffageindividuel
+Boiler=True Fan=False Leak=False criticalLevel=one responseTime=]24-48] start=True done=True end=True requested=True => RemplacementpiÃ¨ceP3
+Boiler=True Fan=False Leak=False workType=corrective responseTime=]24-48] start=True done=True end=True requested=True => DÃ©pannageP2_Chauffageindividuel
+Boiler=True Fan=False Leak=False workType=corrective responseTime=]24-48] start=True done=True end=True requested=True => RemplacementpiÃ¨ceP3
+Boiler=True Fan=False criticalLevel=one workType=corrective responseTime=]24-48] start=True done=True end=True requested=True => DÃ©pannageP2_Chauffageindividuel
+Boiler=True Fan=False criticalLevel=one workType=corrective responseTime=]24-48] start=True done=True end=True requested=True => RemplacementpiÃ¨ceP3
+Boiler=True Fan=False Water=False Leak=False criticalLevel=one workType=corrective responseTime=]24-48] start=True => DÃ©pannageP2_Chauffageindividuel
+Boiler=True Fan=False Water=False Leak=False criticalLevel=one workType=corrective responseTime=]24-48] start=True => RemplacementpiÃ¨ceP3
+Boiler=True Fan=False Water=False Leak=False criticalLevel=one workType=corrective responseTime=]24-48] done=True => DÃ©pannageP2_Chauffageindividuel
+Boiler=True Fan=False Water=False Leak=False criticalLevel=one workType=corrective responseTime=]24-48] done=True => RemplacementpiÃ¨ceP3
+Boiler=True Fan=False Water=False Leak=False criticalLevel=one workType=corrective responseTime=]24-48] end=True => DÃ©pannageP2_Chauffageindividuel
+Boiler=True Fan=False Water=False Leak=False criticalLevel=one workType=corrective responseTime=]24-48] end=True => RemplacementpiÃ¨ceP3
+Boiler=True Fan=False Water=False Leak=False criticalLevel=one workType=corrective responseTime=]24-48] requested=True => DÃ©pannageP2_Chauffageindividuel
+Boiler=True Fan=False Water=False Leak=False criticalLevel=one workType=corrective responseTime=]24-48] requested=True => RemplacementpiÃ¨ceP3
+Boiler=True Fan=False Water=False Leak=False criticalLevel=one responseTime=]24-48] start=True done=True => DÃ©pannageP2_Chauffageindividuel
+Boiler=True Fan=False Water=False Leak=False criticalLevel=one responseTime=]24-48] start=True done=True => RemplacementpiÃ¨ceP3
+Boiler=True Fan=False Water=False Leak=False criticalLevel=one responseTime=]24-48] start=True end=True => DÃ©pannageP2_Chauffageindividuel
+Boiler=True Fan=False Water=False Leak=False criticalLevel=one responseTime=]24-48] start=True end=True => RemplacementpiÃ¨ceP3
+Boiler=True Fan=False Water=False Leak=False criticalLevel=one responseTime=]24-48] start=True requested=True => DÃ©pannageP2_Chauffageindividuel
+Boiler=True Fan=False Water=False Leak=False criticalLevel=one responseTime=]24-48] start=True requested=True => RemplacementpiÃ¨ceP3
+Boiler=True Fan=False Water=False Leak=False criticalLevel=one responseTime=]24-48] done=True end=True => DÃ©pannageP2_Chauffageindividuel
+Boiler=True Fan=False Water=False Leak=False criticalLevel=one responseTime=]24-48] done=True end=True => RemplacementpiÃ¨ceP3
+Boiler=True Fan=False Water=False Leak=False criticalLevel=one responseTime=]24-48] done=True requested=True => DÃ©pannageP2_Chauffageindividuel
+Boiler=True Fan=False Water=False Leak=False criticalLevel=one responseTime=]24-48] done=True requested=True => RemplacementpiÃ¨ceP3
+Boiler=True Fan=False Water=False Leak=False criticalLevel=one responseTime=]24-48] end=True requested=True => DÃ©pannageP2_Chauffageindividuel
+Boiler=True Fan=False Water=False Leak=False criticalLevel=one responseTime=]24-48] end=True requested=True => RemplacementpiÃ¨ceP3
+Boiler=True Fan=False Water=False Leak=False workType=corrective responseTime=]24-48] start=True done=True => DÃ©pannageP2_Chauffageindividuel
+Boiler=True Fan=False Water=False Leak=False workType=corrective responseTime=]24-48] start=True done=True => RemplacementpiÃ¨ceP3
+Boiler=True Fan=False Water=False Leak=False workType=corrective responseTime=]24-48] start=True end=True => DÃ©pannageP2_Chauffageindividuel
+Boiler=True Fan=False Water=False Leak=False workType=corrective responseTime=]24-48] start=True end=True => RemplacementpiÃ¨ceP3
+Boiler=True Fan=False Water=False Leak=False workType=corrective responseTime=]24-48] start=True requested=True => DÃ©pannageP2_Chauffageindividuel
+Boiler=True Fan=False Water=False Leak=False workType=corrective responseTime=]24-48] start=True requested=True => RemplacementpiÃ¨ceP3
+Boiler=True Fan=False Water=False Leak=False workType=corrective responseTime=]24-48] done=True end=True => DÃ©pannageP2_Chauffageindividuel
+Boiler=True Fan=False Water=False Leak=False workType=corrective responseTime=]24-48] done=True end=True => RemplacementpiÃ¨ceP3
+Boiler=True Fan=False Water=False Leak=False workType=corrective responseTime=]24-48] done=True requested=True => DÃ©pannageP2_Chauffageindividuel
+Boiler=True Fan=False Water=False Leak=False workType=corrective responseTime=]24-48] done=True requested=True => RemplacementpiÃ¨ceP3
+Boiler=True Fan=False Water=False Leak=False workType=corrective responseTime=]24-48] end=True requested=True => DÃ©pannageP2_Chauffageindividuel
+Boiler=True Fan=False Water=False Leak=False workType=corrective responseTime=]24-48] end=True requested=True => RemplacementpiÃ¨ceP3
+Boiler=True Fan=False Water=False Leak=False responseTime=]24-48] start=True done=True end=True => DÃ©pannageP2_Chauffageindividuel
+Boiler=True Fan=False Water=False Leak=False responseTime=]24-48] start=True done=True end=True => RemplacementpiÃ¨ceP3
+Boiler=True Fan=False Water=False Leak=False responseTime=]24-48] start=True done=True requested=True => DÃ©pannageP2_Chauffageindividuel
+Boiler=True Fan=False Water=False Leak=False responseTime=]24-48] start=True done=True requested=True => RemplacementpiÃ¨ceP3
+Boiler=True Fan=False Water=False Leak=False responseTime=]24-48] start=True end=True requested=True => DÃ©pannageP2_Chauffageindividuel
+Boiler=True Fan=False Water=False Leak=False responseTime=]24-48] start=True end=True requested=True => RemplacementpiÃ¨ceP3
+Boiler=True Fan=False Water=False Leak=False responseTime=]24-48] done=True end=True requested=True => DÃ©pannageP2_Chauffageindividuel
+Boiler=True Fan=False Water=False Leak=False responseTime=]24-48] done=True end=True requested=True => RemplacementpiÃ¨ceP3
+Boiler=True Fan=False Water=False criticalLevel=one workType=corrective responseTime=]24-48] start=True done=True => DÃ©pannageP2_Chauffageindividuel
+Boiler=True Fan=False Water=False criticalLevel=one workType=corrective responseTime=]24-48] start=True done=True => RemplacementpiÃ¨ceP3
+Boiler=True Fan=False Water=False criticalLevel=one workType=corrective responseTime=]24-48] start=True end=True => DÃ©pannageP2_Chauffageindividuel
+Boiler=True Fan=False Water=False criticalLevel=one workType=corrective responseTime=]24-48] start=True end=True => RemplacementpiÃ¨ceP3
+Boiler=True Fan=False Water=False criticalLevel=one workType=corrective responseTime=]24-48] start=True requested=True => DÃ©pannageP2_Chauffageindividuel
+Boiler=True Fan=False Water=False criticalLevel=one workType=corrective responseTime=]24-48] start=True requested=True => RemplacementpiÃ¨ceP3
+Boiler=True Fan=False Water=False criticalLevel=one workType=corrective responseTime=]24-48] done=True end=True => DÃ©pannageP2_Chauffageindividuel
+Boiler=True Fan=False Water=False criticalLevel=one workType=corrective responseTime=]24-48] done=True end=True => RemplacementpiÃ¨ceP3
+Boiler=True Fan=False Water=False criticalLevel=one workType=corrective responseTime=]24-48] done=True requested=True => DÃ©pannageP2_Chauffageindividuel
+Boiler=True Fan=False Water=False criticalLevel=one workType=corrective responseTime=]24-48] done=True requested=True => RemplacementpiÃ¨ceP3
+Boiler=True Fan=False Water=False criticalLevel=one workType=corrective responseTime=]24-48] end=True requested=True => DÃ©pannageP2_Chauffageindividuel
+Boiler=True Fan=False Water=False criticalLevel=one workType=corrective responseTime=]24-48] end=True requested=True => RemplacementpiÃ¨ceP3
+Boiler=True Fan=False Water=False criticalLevel=one responseTime=]24-48] start=True done=True end=True => DÃ©pannageP2_Chauffageindividuel
+Boiler=True Fan=False Water=False criticalLevel=one responseTime=]24-48] start=True done=True end=True => RemplacementpiÃ¨ceP3
+Boiler=True Fan=False Water=False criticalLevel=one responseTime=]24-48] start=True done=True requested=True => DÃ©pannageP2_Chauffageindividuel
+Boiler=True Fan=False Water=False criticalLevel=one responseTime=]24-48] start=True done=True requested=True => RemplacementpiÃ¨ceP3
+Boiler=True Fan=False Water=False criticalLevel=one responseTime=]24-48] start=True end=True requested=True => DÃ©pannageP2_Chauffageindividuel
+Boiler=True Fan=False Water=False criticalLevel=one responseTime=]24-48] start=True end=True requested=True => RemplacementpiÃ¨ceP3
+Boiler=True Fan=False Water=False criticalLevel=one responseTime=]24-48] done=True end=True requested=True => DÃ©pannageP2_Chauffageindividuel
+Boiler=True Fan=False Water=False criticalLevel=one responseTime=]24-48] done=True end=True requested=True => RemplacementpiÃ¨ceP3
+Boiler=True Fan=False Water=False workType=corrective responseTime=]24-48] start=True done=True end=True => DÃ©pannageP2_Chauffageindividuel
+Boiler=True Fan=False Water=False workType=corrective responseTime=]24-48] start=True done=True end=True => RemplacementpiÃ¨ceP3
+Boiler=True Fan=False Water=False workType=corrective responseTime=]24-48] start=True done=True requested=True => DÃ©pannageP2_Chauffageindividuel
+Boiler=True Fan=False Water=False workType=corrective responseTime=]24-48] start=True done=True requested=True => RemplacementpiÃ¨ceP3
+Boiler=True Fan=False Water=False workType=corrective responseTime=]24-48] start=True end=True requested=True => DÃ©pannageP2_Chauffageindividuel
+Boiler=True Fan=False Water=False workType=corrective responseTime=]24-48] start=True end=True requested=True => RemplacementpiÃ¨ceP3
+Boiler=True Fan=False Water=False workType=corrective responseTime=]24-48] done=True end=True requested=True => DÃ©pannageP2_Chauffageindividuel
+Boiler=True Fan=False Water=False workType=corrective responseTime=]24-48] done=True end=True requested=True => RemplacementpiÃ¨ceP3
+Boiler=True Fan=False Water=False responseTime=]24-48] start=True done=True end=True requested=True => DÃ©pannageP2_Chauffageindividuel
+Boiler=True Fan=False Water=False responseTime=]24-48] start=True done=True end=True requested=True => RemplacementpiÃ¨ceP3
+Boiler=True Fan=False Leak=False criticalLevel=one workType=corrective responseTime=]24-48] start=True done=True => DÃ©pannageP2_Chauffageindividuel
+Boiler=True Fan=False Leak=False criticalLevel=one workType=corrective responseTime=]24-48] start=True done=True => RemplacementpiÃ¨ceP3
+Boiler=True Fan=False Leak=False criticalLevel=one workType=corrective responseTime=]24-48] start=True end=True => DÃ©pannageP2_Chauffageindividuel
+Boiler=True Fan=False Leak=False criticalLevel=one workType=corrective responseTime=]24-48] start=True end=True => RemplacementpiÃ¨ceP3
+Boiler=True Fan=False Leak=False criticalLevel=one workType=corrective responseTime=]24-48] start=True requested=True => DÃ©pannageP2_Chauffageindividuel
+Boiler=True Fan=False Leak=False criticalLevel=one workType=corrective responseTime=]24-48] start=True requested=True => RemplacementpiÃ¨ceP3
+Boiler=True Fan=False Leak=False criticalLevel=one workType=corrective responseTime=]24-48] done=True end=True => DÃ©pannageP2_Chauffageindividuel
+Boiler=True Fan=False Leak=False criticalLevel=one workType=corrective responseTime=]24-48] done=True end=True => RemplacementpiÃ¨ceP3
+Boiler=True Fan=False Leak=False criticalLevel=one workType=corrective responseTime=]24-48] done=True requested=True => DÃ©pannageP2_Chauffageindividuel
+Boiler=True Fan=False Leak=False criticalLevel=one workType=corrective responseTime=]24-48] done=True requested=True => RemplacementpiÃ¨ceP3
+Boiler=True Fan=False Leak=False criticalLevel=one workType=corrective responseTime=]24-48] end=True requested=True => DÃ©pannageP2_Chauffageindividuel
+Boiler=True Fan=False Leak=False criticalLevel=one workType=corrective responseTime=]24-48] end=True requested=True => RemplacementpiÃ¨ceP3
+Boiler=True Fan=False Leak=False criticalLevel=one responseTime=]24-48] start=True done=True end=True => DÃ©pannageP2_Chauffageindividuel
+Boiler=True Fan=False Leak=False criticalLevel=one responseTime=]24-48] start=True done=True end=True => RemplacementpiÃ¨ceP3
+Boiler=True Fan=False Leak=False criticalLevel=one responseTime=]24-48] start=True done=True requested=True => DÃ©pannageP2_Chauffageindividuel
+Boiler=True Fan=False Leak=False criticalLevel=one responseTime=]24-48] start=True done=True requested=True => RemplacementpiÃ¨ceP3
+Boiler=True Fan=False Leak=False criticalLevel=one responseTime=]24-48] start=True end=True requested=True => DÃ©pannageP2_Chauffageindividuel
+Boiler=True Fan=False Leak=False criticalLevel=one responseTime=]24-48] start=True end=True requested=True => RemplacementpiÃ¨ceP3
+Boiler=True Fan=False Leak=False criticalLevel=one responseTime=]24-48] done=True end=True requested=True => DÃ©pannageP2_Chauffageindividuel
+Boiler=True Fan=False Leak=False criticalLevel=one responseTime=]24-48] done=True end=True requested=True => RemplacementpiÃ¨ceP3
+Boiler=True Fan=False Leak=False workType=corrective responseTime=]24-48] start=True done=True end=True => DÃ©pannageP2_Chauffageindividuel
+Boiler=True Fan=False Leak=False workType=corrective responseTime=]24-48] start=True done=True end=True => RemplacementpiÃ¨ceP3
+Boiler=True Fan=False Leak=False workType=corrective responseTime=]24-48] start=True done=True requested=True => DÃ©pannageP2_Chauffageindividuel
+Boiler=True Fan=False Leak=False workType=corrective responseTime=]24-48] start=True done=True requested=True => RemplacementpiÃ¨ceP3
+Boiler=True Fan=False Leak=False workType=corrective responseTime=]24-48] start=True end=True requested=True => DÃ©pannageP2_Chauffageindividuel
+Boiler=True Fan=False Leak=False workType=corrective responseTime=]24-48] start=True end=True requested=True => RemplacementpiÃ¨ceP3
+Boiler=True Fan=False Leak=False workType=corrective responseTime=]24-48] done=True end=True requested=True => DÃ©pannageP2_Chauffageindividuel
+Boiler=True Fan=False Leak=False workType=corrective responseTime=]24-48] done=True end=True requested=True => RemplacementpiÃ¨ceP3
+Boiler=True Fan=False Leak=False responseTime=]24-48] start=True done=True end=True requested=True => DÃ©pannageP2_Chauffageindividuel
+Boiler=True Fan=False Leak=False responseTime=]24-48] start=True done=True end=True requested=True => RemplacementpiÃ¨ceP3
+Boiler=True Fan=False criticalLevel=one workType=corrective responseTime=]24-48] start=True done=True end=True => DÃ©pannageP2_Chauffageindividuel
+Boiler=True Fan=False criticalLevel=one workType=corrective responseTime=]24-48] start=True done=True end=True => RemplacementpiÃ¨ceP3
+Boiler=True Fan=False criticalLevel=one workType=corrective responseTime=]24-48] start=True done=True requested=True => DÃ©pannageP2_Chauffageindividuel
+Boiler=True Fan=False criticalLevel=one workType=corrective responseTime=]24-48] start=True done=True requested=True => RemplacementpiÃ¨ceP3
+Boiler=True Fan=False criticalLevel=one workType=corrective responseTime=]24-48] start=True end=True requested=True => DÃ©pannageP2_Chauffageindividuel
+Boiler=True Fan=False criticalLevel=one workType=corrective responseTime=]24-48] start=True end=True requested=True => RemplacementpiÃ¨ceP3
+Boiler=True Fan=False criticalLevel=one workType=corrective responseTime=]24-48] done=True end=True requested=True => DÃ©pannageP2_Chauffageindividuel
+Boiler=True Fan=False criticalLevel=one workType=corrective responseTime=]24-48] done=True end=True requested=True => RemplacementpiÃ¨ceP3
+Boiler=True Fan=False criticalLevel=one responseTime=]24-48] start=True done=True end=True requested=True => DÃ©pannageP2_Chauffageindividuel
+Boiler=True Fan=False criticalLevel=one responseTime=]24-48] start=True done=True end=True requested=True => RemplacementpiÃ¨ceP3
+Boiler=True Fan=False Water=False Leak=False criticalLevel=one workType=corrective responseTime=]24-48] => DÃ©pannageP2_Chauffageindividuel
+Boiler=True Fan=False Water=False Leak=False criticalLevel=one workType=corrective responseTime=]24-48] => RemplacementpiÃ¨ceP3
+Boiler=True Fan=False Water=False Leak=False criticalLevel=one responseTime=]24-48] start=True => DÃ©pannageP2_Chauffageindividuel
+Boiler=True Fan=False Water=False Leak=False criticalLevel=one responseTime=]24-48] start=True => RemplacementpiÃ¨ceP3
+Boiler=True Fan=False Water=False Leak=False criticalLevel=one responseTime=]24-48] done=True => DÃ©pannageP2_Chauffageindividuel
+Boiler=True Fan=False Water=False Leak=False criticalLevel=one responseTime=]24-48] done=True => RemplacementpiÃ¨ceP3
+Boiler=True Fan=False Water=False Leak=False criticalLevel=one responseTime=]24-48] end=True => DÃ©pannageP2_Chauffageindividuel
+Boiler=True Fan=False Water=False Leak=False criticalLevel=one responseTime=]24-48] end=True => RemplacementpiÃ¨ceP3
+Boiler=True Fan=False Water=False Leak=False criticalLevel=one responseTime=]24-48] requested=True => DÃ©pannageP2_Chauffageindividuel
+Boiler=True Fan=False Water=False Leak=False criticalLevel=one responseTime=]24-48] requested=True => RemplacementpiÃ¨ceP3
+Boiler=True Fan=False Water=False Leak=False workType=corrective responseTime=]24-48] start=True => DÃ©pannageP2_Chauffageindividuel
+Boiler=True Fan=False Water=False Leak=False workType=corrective responseTime=]24-48] start=True => RemplacementpiÃ¨ceP3
+Boiler=True Fan=False Water=False Leak=False workType=corrective responseTime=]24-48] done=True => DÃ©pannageP2_Chauffageindividuel
+Boiler=True Fan=False Water=False Leak=False workType=corrective responseTime=]24-48] done=True => RemplacementpiÃ¨ceP3
+Boiler=True Fan=False Water=False Leak=False workType=corrective responseTime=]24-48] end=True => DÃ©pannageP2_Chauffageindividuel
+Boiler=True Fan=False Water=False Leak=False workType=corrective responseTime=]24-48] end=True => RemplacementpiÃ¨ceP3
+Boiler=True Fan=False Water=False Leak=False workType=corrective responseTime=]24-48] requested=True => DÃ©pannageP2_Chauffageindividuel
+Boiler=True Fan=False Water=False Leak=False workType=corrective responseTime=]24-48] requested=True => RemplacementpiÃ¨ceP3
+Boiler=True Fan=False Water=False Leak=False responseTime=]24-48] start=True done=True => DÃ©pannageP2_Chauffageindividuel
+Boiler=True Fan=False Water=False Leak=False responseTime=]24-48] start=True done=True => RemplacementpiÃ¨ceP3
+Boiler=True Fan=False Water=False Leak=False responseTime=]24-48] start=True end=True => DÃ©pannageP2_Chauffageindividuel
+Boiler=True Fan=False Water=False Leak=False responseTime=]24-48] start=True end=True => RemplacementpiÃ¨ceP3
+Boiler=True Fan=False Water=False Leak=False responseTime=]24-48] start=True requested=True => DÃ©pannageP2_Chauffageindividuel
+Boiler=True Fan=False Water=False Leak=False responseTime=]24-48] start=True requested=True => RemplacementpiÃ¨ceP3
+Boiler=True Fan=False Water=False Leak=False responseTime=]24-48] done=True end=True => DÃ©pannageP2_Chauffageindividuel
+Boiler=True Fan=False Water=False Leak=False responseTime=]24-48] done=True end=True => RemplacementpiÃ¨ceP3
+Boiler=True Fan=False Water=False Leak=False responseTime=]24-48] done=True requested=True => DÃ©pannageP2_Chauffageindividuel
+Boiler=True Fan=False Water=False Leak=False responseTime=]24-48] done=True requested=True => RemplacementpiÃ¨ceP3
+Boiler=True Fan=False Water=False Leak=False responseTime=]24-48] end=True requested=True => DÃ©pannageP2_Chauffageindividuel
+Boiler=True Fan=False Water=False Leak=False responseTime=]24-48] end=True requested=True => RemplacementpiÃ¨ceP3
+Boiler=True Fan=False Water=False criticalLevel=one workType=corrective responseTime=]24-48] start=True => DÃ©pannageP2_Chauffageindividuel
+Boiler=True Fan=False Water=False criticalLevel=one workType=corrective responseTime=]24-48] start=True => RemplacementpiÃ¨ceP3
+Boiler=True Fan=False Water=False criticalLevel=one workType=corrective responseTime=]24-48] done=True => DÃ©pannageP2_Chauffageindividuel
+Boiler=True Fan=False Water=False criticalLevel=one workType=corrective responseTime=]24-48] done=True => RemplacementpiÃ¨ceP3
+Boiler=True Fan=False Water=False criticalLevel=one workType=corrective responseTime=]24-48] end=True => DÃ©pannageP2_Chauffageindividuel
+Boiler=True Fan=False Water=False criticalLevel=one workType=corrective responseTime=]24-48] end=True => RemplacementpiÃ¨ceP3
+Boiler=True Fan=False Water=False criticalLevel=one workType=corrective responseTime=]24-48] requested=True => DÃ©pannageP2_Chauffageindividuel
+Boiler=True Fan=False Water=False criticalLevel=one workType=corrective responseTime=]24-48] requested=True => RemplacementpiÃ¨ceP3
+Boiler=True Fan=False Water=False criticalLevel=one responseTime=]24-48] start=True done=True => DÃ©pannageP2_Chauffageindividuel
+Boiler=True Fan=False Water=False criticalLevel=one responseTime=]24-48] start=True done=True => RemplacementpiÃ¨ceP3
+Boiler=True Fan=False Water=False criticalLevel=one responseTime=]24-48] start=True end=True => DÃ©pannageP2_Chauffageindividuel
+Boiler=True Fan=False Water=False criticalLevel=one responseTime=]24-48] start=True end=True => RemplacementpiÃ¨ceP3
+Boiler=True Fan=False Water=False criticalLevel=one responseTime=]24-48] start=True requested=True => DÃ©pannageP2_Chauffageindividuel
+Boiler=True Fan=False Water=False criticalLevel=one responseTime=]24-48] start=True requested=True => RemplacementpiÃ¨ceP3
+Boiler=True Fan=False Water=False criticalLevel=one responseTime=]24-48] done=True end=True => DÃ©pannageP2_Chauffageindividuel
+Boiler=True Fan=False Water=False criticalLevel=one responseTime=]24-48] done=True end=True => RemplacementpiÃ¨ceP3
+Boiler=True Fan=False Water=False criticalLevel=one responseTime=]24-48] done=True requested=True => DÃ©pannageP2_Chauffageindividuel
+Boiler=True Fan=False Water=False criticalLevel=one responseTime=]24-48] done=True requested=True => RemplacementpiÃ¨ceP3
+Boiler=True Fan=False Water=False criticalLevel=one responseTime=]24-48] end=True requested=True => DÃ©pannageP2_Chauffageindividuel
+Boiler=True Fan=False Water=False criticalLevel=one responseTime=]24-48] end=True requested=True => RemplacementpiÃ¨ceP3
+Boiler=True Fan=False Water=False workType=corrective responseTime=]24-48] start=True done=True => DÃ©pannageP2_Chauffageindividuel
+Boiler=True Fan=False Water=False workType=corrective responseTime=]24-48] start=True done=True => RemplacementpiÃ¨ceP3
+Boiler=True Fan=False Water=False workType=corrective responseTime=]24-48] start=True end=True => DÃ©pannageP2_Chauffageindividuel
+Boiler=True Fan=False Water=False workType=corrective responseTime=]24-48] start=True end=True => RemplacementpiÃ¨ceP3
+Boiler=True Fan=False Water=False workType=corrective responseTime=]24-48] start=True requested=True => DÃ©pannageP2_Chauffageindividuel
+Boiler=True Fan=False Water=False workType=corrective responseTime=]24-48] start=True requested=True => RemplacementpiÃ¨ceP3
+Boiler=True Fan=False Water=False workType=corrective responseTime=]24-48] done=True end=True => DÃ©pannageP2_Chauffageindividuel
+Boiler=True Fan=False Water=False workType=corrective responseTime=]24-48] done=True end=True => RemplacementpiÃ¨ceP3
+Boiler=True Fan=False Water=False workType=corrective responseTime=]24-48] done=True requested=True => DÃ©pannageP2_Chauffageindividuel
+Boiler=True Fan=False Water=False workType=corrective responseTime=]24-48] done=True requested=True => RemplacementpiÃ¨ceP3
+Boiler=True Fan=False Water=False workType=corrective responseTime=]24-48] end=True requested=True => DÃ©pannageP2_Chauffageindividuel
+Boiler=True Fan=False Water=False workType=corrective responseTime=]24-48] end=True requested=True => RemplacementpiÃ¨ceP3
+Boiler=True Fan=False Water=False responseTime=]24-48] start=True done=True end=True => DÃ©pannageP2_Chauffageindividuel
+Boiler=True Fan=False Water=False responseTime=]24-48] start=True done=True end=True => RemplacementpiÃ¨ceP3
+Boiler=True Fan=False Water=False responseTime=]24-48] start=True done=True requested=True => DÃ©pannageP2_Chauffageindividuel
+Boiler=True Fan=False Water=False responseTime=]24-48] start=True done=True requested=True => RemplacementpiÃ¨ceP3
+Boiler=True Fan=False Water=False responseTime=]24-48] start=True end=True requested=True => DÃ©pannageP2_Chauffageindividuel
+Boiler=True Fan=False Water=False responseTime=]24-48] start=True end=True requested=True => RemplacementpiÃ¨ceP3
+Boiler=True Fan=False Water=False responseTime=]24-48] done=True end=True requested=True => DÃ©pannageP2_Chauffageindividuel
+Boiler=True Fan=False Water=False responseTime=]24-48] done=True end=True requested=True => RemplacementpiÃ¨ceP3
+Boiler=True Fan=False Leak=False criticalLevel=one workType=corrective responseTime=]24-48] start=True => DÃ©pannageP2_Chauffageindividuel
+Boiler=True Fan=False Leak=False criticalLevel=one workType=corrective responseTime=]24-48] start=True => RemplacementpiÃ¨ceP3
+Boiler=True Fan=False Leak=False criticalLevel=one workType=corrective responseTime=]24-48] done=True => DÃ©pannageP2_Chauffageindividuel
+Boiler=True Fan=False Leak=False criticalLevel=one workType=corrective responseTime=]24-48] done=True => RemplacementpiÃ¨ceP3
+Boiler=True Fan=False Leak=False criticalLevel=one workType=corrective responseTime=]24-48] end=True => DÃ©pannageP2_Chauffageindividuel
+Boiler=True Fan=False Leak=False criticalLevel=one workType=corrective responseTime=]24-48] end=True => RemplacementpiÃ¨ceP3
+Boiler=True Fan=False Leak=False criticalLevel=one workType=corrective responseTime=]24-48] requested=True => DÃ©pannageP2_Chauffageindividuel
+Boiler=True Fan=False Leak=False criticalLevel=one workType=corrective responseTime=]24-48] requested=True => RemplacementpiÃ¨ceP3
+Boiler=True Fan=False Leak=False criticalLevel=one responseTime=]24-48] start=True done=True => DÃ©pannageP2_Chauffageindividuel
+Boiler=True Fan=False Leak=False criticalLevel=one responseTime=]24-48] start=True done=True => RemplacementpiÃ¨ceP3
+Boiler=True Fan=False Leak=False criticalLevel=one responseTime=]24-48] start=True end=True => DÃ©pannageP2_Chauffageindividuel
+Boiler=True Fan=False Leak=False criticalLevel=one responseTime=]24-48] start=True end=True => RemplacementpiÃ¨ceP3
+Boiler=True Fan=False Leak=False criticalLevel=one responseTime=]24-48] start=True requested=True => DÃ©pannageP2_Chauffageindividuel
+Boiler=True Fan=False Leak=False criticalLevel=one responseTime=]24-48] start=True requested=True => RemplacementpiÃ¨ceP3
+Boiler=True Fan=False Leak=False criticalLevel=one responseTime=]24-48] done=True end=True => DÃ©pannageP2_Chauffageindividuel
+Boiler=True Fan=False Leak=False criticalLevel=one responseTime=]24-48] done=True end=True => RemplacementpiÃ¨ceP3
+Boiler=True Fan=False Leak=False criticalLevel=one responseTime=]24-48] done=True requested=True => DÃ©pannageP2_Chauffageindividuel
+Boiler=True Fan=False Leak=False criticalLevel=one responseTime=]24-48] done=True requested=True => RemplacementpiÃ¨ceP3
+Boiler=True Fan=False Leak=False criticalLevel=one responseTime=]24-48] end=True requested=True => DÃ©pannageP2_Chauffageindividuel
+Boiler=True Fan=False Leak=False criticalLevel=one responseTime=]24-48] end=True requested=True => RemplacementpiÃ¨ceP3
+Boiler=True Fan=False Leak=False workType=corrective responseTime=]24-48] start=True done=True => DÃ©pannageP2_Chauffageindividuel
+Boiler=True Fan=False Leak=False workType=corrective responseTime=]24-48] start=True done=True => RemplacementpiÃ¨ceP3
+Boiler=True Fan=False Leak=False workType=corrective responseTime=]24-48] start=True end=True => DÃ©pannageP2_Chauffageindividuel
+Boiler=True Fan=False Leak=False workType=corrective responseTime=]24-48] start=True end=True => RemplacementpiÃ¨ceP3
+Boiler=True Fan=False Leak=False workType=corrective responseTime=]24-48] start=True requested=True => DÃ©pannageP2_Chauffageindividuel
+Boiler=True Fan=False Leak=False workType=corrective responseTime=]24-48] start=True requested=True => RemplacementpiÃ¨ceP3
+Boiler=True Fan=False Leak=False workType=corrective responseTime=]24-48] done=True end=True => DÃ©pannageP2_Chauffageindividuel
+Boiler=True Fan=False Leak=False workType=corrective responseTime=]24-48] done=True end=True => RemplacementpiÃ¨ceP3
+Boiler=True Fan=False Leak=False workType=corrective responseTime=]24-48] done=True requested=True => DÃ©pannageP2_Chauffageindividuel
+Boiler=True Fan=False Leak=False workType=corrective responseTime=]24-48] done=True requested=True => RemplacementpiÃ¨ceP3
+Boiler=True Fan=False Leak=False workType=corrective responseTime=]24-48] end=True requested=True => DÃ©pannageP2_Chauffageindividuel
+Boiler=True Fan=False Leak=False workType=corrective responseTime=]24-48] end=True requested=True => RemplacementpiÃ¨ceP3
+Boiler=True Fan=False Leak=False responseTime=]24-48] start=True done=True end=True => DÃ©pannageP2_Chauffageindividuel
+Boiler=True Fan=False Leak=False responseTime=]24-48] start=True done=True end=True => RemplacementpiÃ¨ceP3
+Boiler=True Fan=False Leak=False responseTime=]24-48] start=True done=True requested=True => DÃ©pannageP2_Chauffageindividuel
+Boiler=True Fan=False Leak=False responseTime=]24-48] start=True done=True requested=True => RemplacementpiÃ¨ceP3
+Boiler=True Fan=False Leak=False responseTime=]24-48] start=True end=True requested=True => DÃ©pannageP2_Chauffageindividuel
+Boiler=True Fan=False Leak=False responseTime=]24-48] start=True end=True requested=True => RemplacementpiÃ¨ceP3
+Boiler=True Fan=False Leak=False responseTime=]24-48] done=True end=True requested=True => DÃ©pannageP2_Chauffageindividuel
+Boiler=True Fan=False Leak=False responseTime=]24-48] done=True end=True requested=True => RemplacementpiÃ¨ceP3
+Boiler=True Fan=False criticalLevel=one workType=corrective responseTime=]24-48] start=True done=True => DÃ©pannageP2_Chauffageindividuel
+Boiler=True Fan=False criticalLevel=one workType=corrective responseTime=]24-48] start=True done=True => RemplacementpiÃ¨ceP3
+Boiler=True Fan=False criticalLevel=one workType=corrective responseTime=]24-48] start=True end=True => DÃ©pannageP2_Chauffageindividuel
+Boiler=True Fan=False criticalLevel=one workType=corrective responseTime=]24-48] start=True end=True => RemplacementpiÃ¨ceP3
+Boiler=True Fan=False criticalLevel=one workType=corrective responseTime=]24-48] start=True requested=True => DÃ©pannageP2_Chauffageindividuel
+Boiler=True Fan=False criticalLevel=one workType=corrective responseTime=]24-48] start=True requested=True => RemplacementpiÃ¨ceP3
+Boiler=True Fan=False criticalLevel=one workType=corrective responseTime=]24-48] done=True end=True => DÃ©pannageP2_Chauffageindividuel
+Boiler=True Fan=False criticalLevel=one workType=corrective responseTime=]24-48] done=True end=True => RemplacementpiÃ¨ceP3
+Boiler=True Fan=False criticalLevel=one workType=corrective responseTime=]24-48] done=True requested=True => DÃ©pannageP2_Chauffageindividuel
+Boiler=True Fan=False criticalLevel=one workType=corrective responseTime=]24-48] done=True requested=True => RemplacementpiÃ¨ceP3
+Boiler=True Fan=False criticalLevel=one workType=corrective responseTime=]24-48] end=True requested=True => DÃ©pannageP2_Chauffageindividuel
+Boiler=True Fan=False criticalLevel=one workType=corrective responseTime=]24-48] end=True requested=True => RemplacementpiÃ¨ceP3
+Boiler=True Fan=False criticalLevel=one responseTime=]24-48] start=True done=True end=True => DÃ©pannageP2_Chauffageindividuel
+Boiler=True Fan=False criticalLevel=one responseTime=]24-48] start=True done=True end=True => RemplacementpiÃ¨ceP3
+Boiler=True Fan=False criticalLevel=one responseTime=]24-48] start=True done=True requested=True => DÃ©pannageP2_Chauffageindividuel
+Boiler=True Fan=False criticalLevel=one responseTime=]24-48] start=True done=True requested=True => RemplacementpiÃ¨ceP3
+Boiler=True Fan=False criticalLevel=one responseTime=]24-48] start=True end=True requested=True => DÃ©pannageP2_Chauffageindividuel
+Boiler=True Fan=False criticalLevel=one responseTime=]24-48] start=True end=True requested=True => RemplacementpiÃ¨ceP3
+Boiler=True Fan=False criticalLevel=one responseTime=]24-48] done=True end=True requested=True => DÃ©pannageP2_Chauffageindividuel
+Boiler=True Fan=False criticalLevel=one responseTime=]24-48] done=True end=True requested=True => RemplacementpiÃ¨ceP3
+Boiler=True Fan=False Water=False Leak=False criticalLevel=one responseTime=]24-48] => DÃ©pannageP2_Chauffageindividuel
+Boiler=True Fan=False Water=False Leak=False criticalLevel=one responseTime=]24-48] => RemplacementpiÃ¨ceP3
+Boiler=True Fan=False Water=False Leak=False workType=corrective responseTime=]24-48] => DÃ©pannageP2_Chauffageindividuel
+Boiler=True Fan=False Water=False Leak=False workType=corrective responseTime=]24-48] => RemplacementpiÃ¨ceP3
+Boiler=True Fan=False Water=False Leak=False responseTime=]24-48] start=True => DÃ©pannageP2_Chauffageindividuel
+Boiler=True Fan=False Water=False Leak=False responseTime=]24-48] start=True => RemplacementpiÃ¨ceP3
+Boiler=True Fan=False Water=False Leak=False responseTime=]24-48] done=True => DÃ©pannageP2_Chauffageindividuel
+Boiler=True Fan=False Water=False Leak=False responseTime=]24-48] done=True => RemplacementpiÃ¨ceP3
+Boiler=True Fan=False Water=False Leak=False responseTime=]24-48] end=True => DÃ©pannageP2_Chauffageindividuel
+Boiler=True Fan=False Water=False Leak=False responseTime=]24-48] end=True => RemplacementpiÃ¨ceP3
+Boiler=True Fan=False Water=False Leak=False responseTime=]24-48] requested=True => DÃ©pannageP2_Chauffageindividuel
+Boiler=True Fan=False Water=False Leak=False responseTime=]24-48] requested=True => RemplacementpiÃ¨ceP3
+Boiler=True Fan=False Water=False criticalLevel=one workType=corrective responseTime=]24-48] => DÃ©pannageP2_Chauffageindividuel
+Boiler=True Fan=False Water=False criticalLevel=one workType=corrective responseTime=]24-48] => RemplacementpiÃ¨ceP3
+Boiler=True Fan=False Water=False criticalLevel=one responseTime=]24-48] start=True => DÃ©pannageP2_Chauffageindividuel
+Boiler=True Fan=False Water=False criticalLevel=one responseTime=]24-48] start=True => RemplacementpiÃ¨ceP3
+Boiler=True Fan=False Water=False criticalLevel=one responseTime=]24-48] done=True => DÃ©pannageP2_Chauffageindividuel
+Boiler=True Fan=False Water=False criticalLevel=one responseTime=]24-48] done=True => RemplacementpiÃ¨ceP3
+Boiler=True Fan=False Water=False criticalLevel=one responseTime=]24-48] end=True => DÃ©pannageP2_Chauffageindividuel
+Boiler=True Fan=False Water=False criticalLevel=one responseTime=]24-48] end=True => RemplacementpiÃ¨ceP3
+Boiler=True Fan=False Water=False criticalLevel=one responseTime=]24-48] requested=True => DÃ©pannageP2_Chauffageindividuel
+Boiler=True Fan=False Water=False criticalLevel=one responseTime=]24-48] requested=True => RemplacementpiÃ¨ceP3
+Boiler=True Fan=False Water=False workType=corrective responseTime=]24-48] start=True => DÃ©pannageP2_Chauffageindividuel
+Boiler=True Fan=False Water=False workType=corrective responseTime=]24-48] start=True => RemplacementpiÃ¨ceP3
+Boiler=True Fan=False Water=False workType=corrective responseTime=]24-48] done=True => DÃ©pannageP2_Chauffageindividuel
+Boiler=True Fan=False Water=False workType=corrective responseTime=]24-48] done=True => RemplacementpiÃ¨ceP3
+Boiler=True Fan=False Water=False workType=corrective responseTime=]24-48] end=True => DÃ©pannageP2_Chauffageindividuel
+Boiler=True Fan=False Water=False workType=corrective responseTime=]24-48] end=True => RemplacementpiÃ¨ceP3
+Boiler=True Fan=False Water=False workType=corrective responseTime=]24-48] requested=True => DÃ©pannageP2_Chauffageindividuel
+Boiler=True Fan=False Water=False workType=corrective responseTime=]24-48] requested=True => RemplacementpiÃ¨ceP3
+Boiler=True Fan=False Water=False responseTime=]24-48] start=True done=True => DÃ©pannageP2_Chauffageindividuel
+Boiler=True Fan=False Water=False responseTime=]24-48] start=True done=True => RemplacementpiÃ¨ceP3
+Boiler=True Fan=False Water=False responseTime=]24-48] start=True end=True => DÃ©pannageP2_Chauffageindividuel
+Boiler=True Fan=False Water=False responseTime=]24-48] start=True end=True => RemplacementpiÃ¨ceP3
+Boiler=True Fan=False Water=False responseTime=]24-48] start=True requested=True => DÃ©pannageP2_Chauffageindividuel
+Boiler=True Fan=False Water=False responseTime=]24-48] start=True requested=True => RemplacementpiÃ¨ceP3
+Boiler=True Fan=False Water=False responseTime=]24-48] done=True end=True => DÃ©pannageP2_Chauffageindividuel
+Boiler=True Fan=False Water=False responseTime=]24-48] done=True end=True => RemplacementpiÃ¨ceP3
+Boiler=True Fan=False Water=False responseTime=]24-48] done=True requested=True => DÃ©pannageP2_Chauffageindividuel
+Boiler=True Fan=False Water=False responseTime=]24-48] done=True requested=True => RemplacementpiÃ¨ceP3
+Boiler=True Fan=False Water=False responseTime=]24-48] end=True requested=True => DÃ©pannageP2_Chauffageindividuel
+Boiler=True Fan=False Water=False responseTime=]24-48] end=True requested=True => RemplacementpiÃ¨ceP3
+Boiler=True Fan=False Leak=False criticalLevel=one workType=corrective responseTime=]24-48] => DÃ©pannageP2_Chauffageindividuel
+Boiler=True Fan=False Leak=False criticalLevel=one workType=corrective responseTime=]24-48] => RemplacementpiÃ¨ceP3
+Boiler=True Fan=False Leak=False criticalLevel=one responseTime=]24-48] start=True => DÃ©pannageP2_Chauffageindividuel
+Boiler=True Fan=False Leak=False criticalLevel=one responseTime=]24-48] start=True => RemplacementpiÃ¨ceP3
+Boiler=True Fan=False Leak=False criticalLevel=one responseTime=]24-48] done=True => DÃ©pannageP2_Chauffageindividuel
+Boiler=True Fan=False Leak=False criticalLevel=one responseTime=]24-48] done=True => RemplacementpiÃ¨ceP3
+Boiler=True Fan=False Leak=False criticalLevel=one responseTime=]24-48] end=True => DÃ©pannageP2_Chauffageindividuel
+Boiler=True Fan=False Leak=False criticalLevel=one responseTime=]24-48] end=True => RemplacementpiÃ¨ceP3
+Boiler=True Fan=False Leak=False criticalLevel=one responseTime=]24-48] requested=True => DÃ©pannageP2_Chauffageindividuel
+Boiler=True Fan=False Leak=False criticalLevel=one responseTime=]24-48] requested=True => RemplacementpiÃ¨ceP3
+Boiler=True Fan=False Leak=False workType=corrective responseTime=]24-48] start=True => DÃ©pannageP2_Chauffageindividuel
+Boiler=True Fan=False Leak=False workType=corrective responseTime=]24-48] start=True => RemplacementpiÃ¨ceP3
+Boiler=True Fan=False Leak=False workType=corrective responseTime=]24-48] done=True => DÃ©pannageP2_Chauffageindividuel
+Boiler=True Fan=False Leak=False workType=corrective responseTime=]24-48] done=True => RemplacementpiÃ¨ceP3
+Boiler=True Fan=False Leak=False workType=corrective responseTime=]24-48] end=True => DÃ©pannageP2_Chauffageindividuel
+Boiler=True Fan=False Leak=False workType=corrective responseTime=]24-48] end=True => RemplacementpiÃ¨ceP3
+Boiler=True Fan=False Leak=False workType=corrective responseTime=]24-48] requested=True => DÃ©pannageP2_Chauffageindividuel
+Boiler=True Fan=False Leak=False workType=corrective responseTime=]24-48] requested=True => RemplacementpiÃ¨ceP3
+Boiler=True Fan=False Leak=False responseTime=]24-48] start=True done=True => DÃ©pannageP2_Chauffageindividuel
+Boiler=True Fan=False Leak=False responseTime=]24-48] start=True done=True => RemplacementpiÃ¨ceP3
+Boiler=True Fan=False Leak=False responseTime=]24-48] start=True end=True => DÃ©pannageP2_Chauffageindividuel
+Boiler=True Fan=False Leak=False responseTime=]24-48] start=True end=True => RemplacementpiÃ¨ceP3
+Boiler=True Fan=False Leak=False responseTime=]24-48] start=True requested=True => DÃ©pannageP2_Chauffageindividuel
+Boiler=True Fan=False Leak=False responseTime=]24-48] start=True requested=True => RemplacementpiÃ¨ceP3
+Boiler=True Fan=False Leak=False responseTime=]24-48] done=True end=True => DÃ©pannageP2_Chauffageindividuel
+Boiler=True Fan=False Leak=False responseTime=]24-48] done=True end=True => RemplacementpiÃ¨ceP3
+Boiler=True Fan=False Leak=False responseTime=]24-48] done=True requested=True => DÃ©pannageP2_Chauffageindividuel
+Boiler=True Fan=False Leak=False responseTime=]24-48] done=True requested=True => RemplacementpiÃ¨ceP3
+Boiler=True Fan=False Leak=False responseTime=]24-48] end=True requested=True => DÃ©pannageP2_Chauffageindividuel
+Boiler=True Fan=False Leak=False responseTime=]24-48] end=True requested=True => RemplacementpiÃ¨ceP3
+Boiler=True Fan=False criticalLevel=one workType=corrective responseTime=]24-48] start=True => DÃ©pannageP2_Chauffageindividuel
+Boiler=True Fan=False criticalLevel=one workType=corrective responseTime=]24-48] start=True => RemplacementpiÃ¨ceP3
+Boiler=True Fan=False criticalLevel=one workType=corrective responseTime=]24-48] done=True => DÃ©pannageP2_Chauffageindividuel
+Boiler=True Fan=False criticalLevel=one workType=corrective responseTime=]24-48] done=True => RemplacementpiÃ¨ceP3
+Boiler=True Fan=False criticalLevel=one workType=corrective responseTime=]24-48] end=True => DÃ©pannageP2_Chauffageindividuel
+Boiler=True Fan=False criticalLevel=one workType=corrective responseTime=]24-48] end=True => RemplacementpiÃ¨ceP3
+Boiler=True Fan=False criticalLevel=one workType=corrective responseTime=]24-48] requested=True => DÃ©pannageP2_Chauffageindividuel
+Boiler=True Fan=False criticalLevel=one workType=corrective responseTime=]24-48] requested=True => RemplacementpiÃ¨ceP3
+Boiler=True Fan=False criticalLevel=one responseTime=]24-48] start=True done=True => DÃ©pannageP2_Chauffageindividuel
+Boiler=True Fan=False criticalLevel=one responseTime=]24-48] start=True done=True => RemplacementpiÃ¨ceP3
+Boiler=True Fan=False criticalLevel=one responseTime=]24-48] start=True end=True => DÃ©pannageP2_Chauffageindividuel
+Boiler=True Fan=False criticalLevel=one responseTime=]24-48] start=True end=True => RemplacementpiÃ¨ceP3
+Boiler=True Fan=False criticalLevel=one responseTime=]24-48] start=True requested=True => DÃ©pannageP2_Chauffageindividuel
+Boiler=True Fan=False criticalLevel=one responseTime=]24-48] start=True requested=True => RemplacementpiÃ¨ceP3
+Boiler=True Fan=False criticalLevel=one responseTime=]24-48] done=True end=True => DÃ©pannageP2_Chauffageindividuel
+Boiler=True Fan=False criticalLevel=one responseTime=]24-48] done=True end=True => RemplacementpiÃ¨ceP3
+Boiler=True Fan=False criticalLevel=one responseTime=]24-48] done=True requested=True => DÃ©pannageP2_Chauffageindividuel
+Boiler=True Fan=False criticalLevel=one responseTime=]24-48] done=True requested=True => RemplacementpiÃ¨ceP3
+Boiler=True Fan=False criticalLevel=one responseTime=]24-48] end=True requested=True => DÃ©pannageP2_Chauffageindividuel
+Boiler=True Fan=False criticalLevel=one responseTime=]24-48] end=True requested=True => RemplacementpiÃ¨ceP3
+Boiler=True Fan=False Water=False Leak=False responseTime=]24-48] => DÃ©pannageP2_Chauffageindividuel
+Boiler=True Fan=False Water=False Leak=False responseTime=]24-48] => RemplacementpiÃ¨ceP3
+Boiler=True Fan=False Water=False criticalLevel=one responseTime=]24-48] => DÃ©pannageP2_Chauffageindividuel
+Boiler=True Fan=False Water=False criticalLevel=one responseTime=]24-48] => RemplacementpiÃ¨ceP3
+Boiler=True Fan=False Water=False workType=corrective responseTime=]24-48] => DÃ©pannageP2_Chauffageindividuel
+Boiler=True Fan=False Water=False workType=corrective responseTime=]24-48] => RemplacementpiÃ¨ceP3
+Boiler=True Fan=False Water=False responseTime=]24-48] start=True => DÃ©pannageP2_Chauffageindividuel
+Boiler=True Fan=False Water=False responseTime=]24-48] start=True => RemplacementpiÃ¨ceP3
+Boiler=True Fan=False Water=False responseTime=]24-48] done=True => DÃ©pannageP2_Chauffageindividuel
+Boiler=True Fan=False Water=False responseTime=]24-48] done=True => RemplacementpiÃ¨ceP3
+Boiler=True Fan=False Water=False responseTime=]24-48] end=True => DÃ©pannageP2_Chauffageindividuel
+Boiler=True Fan=False Water=False responseTime=]24-48] end=True => RemplacementpiÃ¨ceP3
+Boiler=True Fan=False Water=False responseTime=]24-48] requested=True => DÃ©pannageP2_Chauffageindividuel
+Boiler=True Fan=False Water=False responseTime=]24-48] requested=True => RemplacementpiÃ¨ceP3
+Boiler=True Fan=False Leak=False criticalLevel=one responseTime=]24-48] => DÃ©pannageP2_Chauffageindividuel
+Boiler=True Fan=False Leak=False criticalLevel=one responseTime=]24-48] => RemplacementpiÃ¨ceP3
+Boiler=True Fan=False Leak=False workType=corrective responseTime=]24-48] => DÃ©pannageP2_Chauffageindividuel
+Boiler=True Fan=False Leak=False workType=corrective responseTime=]24-48] => RemplacementpiÃ¨ceP3
+Boiler=True Fan=False Leak=False responseTime=]24-48] start=True => DÃ©pannageP2_Chauffageindividuel
+Boiler=True Fan=False Leak=False responseTime=]24-48] start=True => RemplacementpiÃ¨ceP3
+Boiler=True Fan=False Leak=False responseTime=]24-48] done=True => DÃ©pannageP2_Chauffageindividuel
+Boiler=True Fan=False Leak=False responseTime=]24-48] done=True => RemplacementpiÃ¨ceP3
+Boiler=True Fan=False Leak=False responseTime=]24-48] end=True => DÃ©pannageP2_Chauffageindividuel
+Boiler=True Fan=False Leak=False responseTime=]24-48] end=True => RemplacementpiÃ¨ceP3
+Boiler=True Fan=False Leak=False responseTime=]24-48] requested=True => DÃ©pannageP2_Chauffageindividuel
+Boiler=True Fan=False Leak=False responseTime=]24-48] requested=True => RemplacementpiÃ¨ceP3
+Boiler=True Fan=False criticalLevel=one workType=corrective responseTime=]24-48] => DÃ©pannageP2_Chauffageindividuel
+Boiler=True Fan=False criticalLevel=one workType=corrective responseTime=]24-48] => RemplacementpiÃ¨ceP3
+Boiler=True Fan=False criticalLevel=one responseTime=]24-48] start=True => DÃ©pannageP2_Chauffageindividuel
+Boiler=True Fan=False criticalLevel=one responseTime=]24-48] start=True => RemplacementpiÃ¨ceP3
+Boiler=True Fan=False criticalLevel=one responseTime=]24-48] done=True => DÃ©pannageP2_Chauffageindividuel
+Boiler=True Fan=False criticalLevel=one responseTime=]24-48] done=True => RemplacementpiÃ¨ceP3
+Boiler=True Fan=False criticalLevel=one responseTime=]24-48] end=True => DÃ©pannageP2_Chauffageindividuel
+Boiler=True Fan=False criticalLevel=one responseTime=]24-48] end=True => RemplacementpiÃ¨ceP3
+Boiler=True Fan=False criticalLevel=one responseTime=]24-48] requested=True => DÃ©pannageP2_Chauffageindividuel
+Boiler=True Fan=False criticalLevel=one responseTime=]24-48] requested=True => RemplacementpiÃ¨ceP3
+Boiler=True Fan=False Water=False responseTime=]24-48] => DÃ©pannageP2_Chauffageindividuel
+Boiler=True Fan=False Water=False responseTime=]24-48] => RemplacementpiÃ¨ceP3
+Boiler=True Fan=False Leak=False responseTime=]24-48] => DÃ©pannageP2_Chauffageindividuel
+Boiler=True Fan=False Leak=False responseTime=]24-48] => RemplacementpiÃ¨ceP3
+Boiler=True Fan=False criticalLevel=one responseTime=]24-48] => DÃ©pannageP2_Chauffageindividuel
+Boiler=True Fan=False criticalLevel=one responseTime=]24-48] => RemplacementpiÃ¨ceP3

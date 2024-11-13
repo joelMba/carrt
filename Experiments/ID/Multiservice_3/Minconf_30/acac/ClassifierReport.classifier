@@ -1,0 +1,37 @@
+criticalLevel=five => PanneRobinetterie
+criticalLevel=minus-one => PanneRobinetterie
+criticalLevel=one => PanneRobinetterie
+workType=corrective => PanneRobinetterie
+responseTime=]16-24] => PanneRobinetterie
+responseTime=]24-48] => PanneRobinetterie
+responseTime=]4-16] => PanneRobinetterie
+responseTime=]72--[ => PanneRobinetterie
+processingDuration=]0-1] => PanneRobinetterie
+processingDuration=]1-2] => PanneRobinetterie
+processingDuration=]1-2] => Pannechauffind
+processingDuration=]4-16] => PanneRobinetterie
+resolutionDuration=]16-24] => PanneRobinetterie
+resolutionDuration=]24-48] => PanneRobinetterie
+resolutionDuration=]4-16] => PanneRobinetterie
+resolutionDuration=]48-72] => PanneRobinetterie
+resolutionDuration=]72--[ => PanneRobinetterie
+done=False => PanneRobinetterie
+done=False => Pannechauffind
+done=True => PanneRobinetterie
+replanned=False => PanneRobinetterie
+occupant_absent=False => PanneRobinetterie
+occupant_absent=True => PanneRobinetterie
+temporary_repair=False => PanneRobinetterie
+temporary_repair=True => PanneRobinetterie
+temporary_repair=True => Pannechauffind
+canceled=False => PanneRobinetterie
+canceled=True => PanneRobinetterie
+criticalLevel=minus-one occupant_absent=False => Pannechauffind
+criticalLevel=minus-one replanned=False canceled=False => Pannechauffind
+responseTime=]72--[ processingDuration=]0-1] done=True => PanneVMCsanitaire
+processingDuration=]0-1] resolutionDuration=]72--[ done=True => PanneVMCsanitaire
+criticalLevel=minus-one workType=corrective replanned=False canceled=False => Pannechauffind
+criticalLevel=minus-one processingDuration=]0-1] replanned=False canceled=False => Pannechauffind
+responseTime=]72--[ processingDuration=]0-1] replanned=False occupant_absent=False => PanneVMCsanitaire
+responseTime=]72--[ processingDuration=]0-1] occupant_absent=False canceled=False => PanneVMCsanitaire
+processingDuration=]0-1] resolutionDuration=]72--[ replanned=False occupant_absent=False canceled=False => PanneVMCsanitaire

@@ -1,0 +1,14 @@
+criticalLevel=one => TMH-dÃ©pannageventilation
+criticalLevel=zero => TMH-visiteentretienventilation
+workType=corrective => TMH-dÃ©pannageventilation
+workType=preventive => TMH-visiteentretienventilation
+responseTime=0 => TMH-visiteentretienventilation
+processingDuration=0 => TMH-visiteentretienventilation
+processingDuration=]1-2] => TMH-visiteentretienventilation
+start=False => TMH-visiteentretienventilation
+planned=True => TMH-visiteentretienventilation
+replanned=False => TMH-visiteentretienventilation
+postponed=True => TMH-visiteentretienventilation
+occupant_absent=True => TMH-visiteentretienventilation
+requested=False => TMH-visiteentretienventilation
+requested=True => TMH-dÃ©pannageventilation

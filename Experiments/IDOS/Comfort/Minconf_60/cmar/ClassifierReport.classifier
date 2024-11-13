@@ -1,0 +1,310 @@
+Radiator=False Boiler=False Water=True Leak=False workType=corrective responseTime=]24-48] processingDuration=]0-1] resolutionDuration=]24-48] start=True planned=True replanned=False postponed=False occupant_absent=False requested=True => ALTEAL-dÃ©pannagechauffage
+Radiator=False Boiler=False Water=True Leak=False criticalLevel=three workType=corrective responseTime=]24-48] processingDuration=]0-1] resolutionDuration=]24-48] start=True planned=True replanned=False postponed=False occupant_absent=False requested=True => ALTEAL-dÃ©pannagechauffage
+Radiator=False Boiler=False Water=False Leak=False criticalLevel=one workType=corrective processingDuration=]0-1] resolutionDuration=]2-4] start=True planned=False replanned=False postponed=False occupant_absent=False requested=True => OPH31dÃ©pannagechauffage
+Radiator=False Boiler=False Water=False Leak=False workType=corrective responseTime=]2-4] processingDuration=]0-1] resolutionDuration=]2-4] start=True planned=False replanned=False postponed=False occupant_absent=False requested=True => OPH31dÃ©pannagechauffage
+Radiator=False Boiler=False Water=False Leak=False criticalLevel=one workType=corrective responseTime=]2-4] resolutionDuration=]2-4] start=True planned=False replanned=False postponed=False occupant_absent=False requested=True => OPH31dÃ©pannagechauffage
+Radiator=False Boiler=False Water=False Leak=False criticalLevel=one responseTime=]2-4] processingDuration=]0-1] resolutionDuration=]2-4] start=True planned=False replanned=False postponed=False occupant_absent=False requested=True => OPH31dÃ©pannagechauffage
+Radiator=False Boiler=False Leak=False criticalLevel=one workType=corrective responseTime=]2-4] processingDuration=]0-1] resolutionDuration=]2-4] start=True planned=False replanned=False postponed=False occupant_absent=False requested=True => OPH31dÃ©pannagechauffage
+Radiator=False Boiler=False Water=False Leak=False criticalLevel=one workType=corrective responseTime=]2-4] processingDuration=]0-1] resolutionDuration=]2-4] planned=False replanned=False postponed=False occupant_absent=False requested=True => OPH31dÃ©pannagechauffage
+Radiator=False Boiler=False Water=False Leak=False criticalLevel=one workType=corrective responseTime=]2-4] processingDuration=]0-1] resolutionDuration=]2-4] start=True planned=False replanned=False occupant_absent=False requested=True => OPH31dÃ©pannagechauffage
+Radiator=False Boiler=False Water=False Leak=False criticalLevel=one workType=corrective responseTime=]2-4] processingDuration=]0-1] resolutionDuration=]2-4] start=True planned=False replanned=False postponed=False requested=True => OPH31dÃ©pannagechauffage
+Radiator=False Boiler=False Water=False criticalLevel=one workType=corrective responseTime=]2-4] processingDuration=]0-1] resolutionDuration=]2-4] start=True planned=False replanned=False postponed=False occupant_absent=False requested=True => OPH31dÃ©pannagechauffage
+Boiler=False Water=False Leak=False criticalLevel=one workType=corrective responseTime=]2-4] processingDuration=]0-1] resolutionDuration=]2-4] start=True planned=False replanned=False postponed=False occupant_absent=False requested=True => OPH31dÃ©pannagechauffage
+Radiator=False Boiler=False Water=False Leak=False criticalLevel=one workType=corrective responseTime=]2-4] processingDuration=]0-1] resolutionDuration=]2-4] start=True planned=False replanned=False postponed=False occupant_absent=False requested=True => OPH31dÃ©pannagechauffage
+Radiator=False Boiler=False Water=False Leak=False criticalLevel=zero workType=preventive responseTime=]16-24] start=False planned=True replanned=False postponed=False occupant_absent=False requested=False => TMH-visiteentretienballonsolaire
+Radiator=False Boiler=False Water=False Leak=False criticalLevel=zero workType=preventive responseTime=]16-24] processingDuration=0 start=False planned=True postponed=False occupant_absent=False requested=False => TMH-visiteentretienballonsolaire
+Radiator=False Boiler=False Water=False Leak=False criticalLevel=zero responseTime=]16-24] processingDuration=0 start=False planned=True replanned=False postponed=False occupant_absent=False requested=False => TMH-visiteentretienballonsolaire
+Radiator=False Boiler=False Water=False Leak=False workType=preventive responseTime=]16-24] processingDuration=0 start=False planned=True replanned=False postponed=False occupant_absent=False requested=False => TMH-visiteentretienballonsolaire
+Radiator=False Boiler=False Water=False Leak=False criticalLevel=zero workType=preventive responseTime=]16-24] processingDuration=0 start=False replanned=False postponed=False occupant_absent=False requested=False => TMH-visiteentretienballonsolaire
+Radiator=False Water=False Leak=False criticalLevel=zero workType=preventive responseTime=]16-24] processingDuration=0 start=False planned=True replanned=False postponed=False occupant_absent=False requested=False => TMH-visiteentretienballonsolaire
+Radiator=False Boiler=False Leak=False criticalLevel=zero workType=preventive responseTime=]16-24] processingDuration=0 start=False planned=True replanned=False postponed=False occupant_absent=False requested=False => TMH-visiteentretienballonsolaire
+Radiator=False Boiler=False Water=False Leak=False criticalLevel=zero workType=preventive responseTime=]16-24] processingDuration=0 start=False planned=True replanned=False occupant_absent=False requested=False => TMH-visiteentretienballonsolaire
+Radiator=False Boiler=False Water=False Leak=False criticalLevel=zero workType=preventive responseTime=]16-24] processingDuration=0 start=False planned=True replanned=False postponed=False requested=False => TMH-visiteentretienballonsolaire
+Radiator=False Boiler=False Water=False criticalLevel=zero workType=preventive responseTime=]16-24] processingDuration=0 start=False planned=True replanned=False postponed=False occupant_absent=False requested=False => TMH-visiteentretienballonsolaire
+Boiler=False Water=False Leak=False criticalLevel=zero workType=preventive responseTime=]16-24] processingDuration=0 start=False planned=True replanned=False postponed=False occupant_absent=False requested=False => TMH-visiteentretienballonsolaire
+Radiator=False Boiler=False Water=False Leak=False criticalLevel=zero workType=preventive responseTime=]16-24] processingDuration=0 start=False planned=True replanned=False postponed=False occupant_absent=False requested=False => TMH-visiteentretienballonsolaire
+Radiator=False Boiler=False Water=False Leak=False criticalLevel=zero workType=preventive processingDuration=0 resolutionDuration=]16-24] start=False planned=True replanned=False postponed=False occupant_absent=False requested=False => TMH-visiteentretienballonsolaire
+Radiator=False Boiler=False Water=False Leak=False criticalLevel=zero workType=preventive responseTime=]16-24] resolutionDuration=]16-24] start=False planned=True replanned=False postponed=False occupant_absent=False requested=False => TMH-visiteentretienballonsolaire
+Radiator=False Boiler=False Water=False Leak=False criticalLevel=zero workType=preventive responseTime=]16-24] processingDuration=0 resolutionDuration=]16-24] start=False planned=True postponed=False occupant_absent=False requested=False => TMH-visiteentretienballonsolaire
+Radiator=False Boiler=False Water=False Leak=False criticalLevel=zero responseTime=]16-24] processingDuration=0 resolutionDuration=]16-24] start=False planned=True replanned=False postponed=False occupant_absent=False requested=False => TMH-visiteentretienballonsolaire
+Radiator=False Boiler=False Water=False Leak=False workType=preventive responseTime=]16-24] processingDuration=0 resolutionDuration=]16-24] start=False planned=True replanned=False postponed=False occupant_absent=False requested=False => TMH-visiteentretienballonsolaire
+Radiator=False Boiler=False Water=False Leak=False criticalLevel=zero workType=preventive responseTime=]16-24] processingDuration=0 resolutionDuration=]16-24] start=False replanned=False postponed=False occupant_absent=False requested=False => TMH-visiteentretienballonsolaire
+Radiator=False Water=False Leak=False criticalLevel=zero workType=preventive responseTime=]16-24] processingDuration=0 resolutionDuration=]16-24] start=False planned=True replanned=False postponed=False occupant_absent=False requested=False => TMH-visiteentretienballonsolaire
+Radiator=False Boiler=False Leak=False criticalLevel=zero workType=preventive responseTime=]16-24] processingDuration=0 resolutionDuration=]16-24] start=False planned=True replanned=False postponed=False occupant_absent=False requested=False => TMH-visiteentretienballonsolaire
+Radiator=False Boiler=False Water=False Leak=False criticalLevel=zero workType=preventive responseTime=]16-24] processingDuration=0 resolutionDuration=]16-24] start=False planned=True replanned=False occupant_absent=False requested=False => TMH-visiteentretienballonsolaire
+Radiator=False Boiler=False Water=False Leak=False criticalLevel=zero workType=preventive responseTime=]16-24] processingDuration=0 resolutionDuration=]16-24] start=False planned=True replanned=False postponed=False requested=False => TMH-visiteentretienballonsolaire
+Radiator=False Boiler=False Water=False criticalLevel=zero workType=preventive responseTime=]16-24] processingDuration=0 resolutionDuration=]16-24] start=False planned=True replanned=False postponed=False occupant_absent=False requested=False => TMH-visiteentretienballonsolaire
+Boiler=False Water=False Leak=False criticalLevel=zero workType=preventive responseTime=]16-24] processingDuration=0 resolutionDuration=]16-24] start=False planned=True replanned=False postponed=False occupant_absent=False requested=False => TMH-visiteentretienballonsolaire
+Radiator=False Boiler=False Water=False Leak=False criticalLevel=zero workType=preventive responseTime=]16-24] processingDuration=0 resolutionDuration=]16-24] start=False planned=True replanned=False postponed=False occupant_absent=False requested=False => TMH-visiteentretienballonsolaire
+Radiator=False Boiler=False Leak=False workType=corrective start=True planned=False replanned=False postponed=False occupant_absent=False requested=True => OPH31dÃ©pannagechauffage
+Radiator=False Boiler=False Water=False Leak=False workType=corrective planned=False replanned=False postponed=False occupant_absent=False requested=True => OPH31dÃ©pannagechauffage
+Radiator=False Boiler=False Water=False Leak=False workType=corrective start=True planned=False replanned=False occupant_absent=False requested=True => OPH31dÃ©pannagechauffage
+Boiler=False Water=False Leak=False workType=corrective start=True planned=False replanned=False postponed=False occupant_absent=False requested=True => OPH31dÃ©pannagechauffage
+Radiator=False Boiler=False Water=False Leak=False workType=corrective start=True planned=False replanned=False postponed=False occupant_absent=False requested=True => OPH31dÃ©pannagechauffage
+Radiator=False Boiler=False Leak=False workType=corrective processingDuration=]0-1] start=True planned=False replanned=False postponed=False occupant_absent=False requested=True => OPH31dÃ©pannagechauffage
+Radiator=False Boiler=False Water=False Leak=False workType=corrective processingDuration=]0-1] planned=False replanned=False postponed=False occupant_absent=False requested=True => OPH31dÃ©pannagechauffage
+Radiator=False Boiler=False Water=False Leak=False workType=corrective processingDuration=]0-1] start=True planned=False replanned=False occupant_absent=False requested=True => OPH31dÃ©pannagechauffage
+Boiler=False Water=False Leak=False workType=corrective processingDuration=]0-1] start=True planned=False replanned=False postponed=False occupant_absent=False requested=True => OPH31dÃ©pannagechauffage
+Radiator=False Boiler=False Water=False Leak=False workType=corrective processingDuration=]0-1] start=True planned=False replanned=False postponed=False occupant_absent=False requested=True => OPH31dÃ©pannagechauffage
+Radiator=False Boiler=False Water=False Leak=False criticalLevel=one workType=corrective start=True planned=False replanned=False postponed=False occupant_absent=False requested=True => OPH31dÃ©pannagechauffage
+Radiator=False Boiler=False Water=False Leak=False criticalLevel=one processingDuration=]0-1] start=True planned=False replanned=False postponed=False occupant_absent=False requested=True => OPH31dÃ©pannagechauffage
+Radiator=False Boiler=False Leak=False criticalLevel=one workType=corrective processingDuration=]0-1] start=True planned=False replanned=False postponed=False occupant_absent=False requested=True => OPH31dÃ©pannagechauffage
+Radiator=False Boiler=False Water=False Leak=False criticalLevel=one workType=corrective processingDuration=]0-1] planned=False replanned=False postponed=False occupant_absent=False requested=True => OPH31dÃ©pannagechauffage
+Radiator=False Boiler=False Water=False Leak=False criticalLevel=one workType=corrective processingDuration=]0-1] start=True planned=False replanned=False occupant_absent=False requested=True => OPH31dÃ©pannagechauffage
+Radiator=False Boiler=False Water=False Leak=False criticalLevel=one workType=corrective processingDuration=]0-1] start=True planned=False replanned=False postponed=False requested=True => OPH31dÃ©pannagechauffage
+Radiator=False Boiler=False Water=False criticalLevel=one workType=corrective processingDuration=]0-1] start=True planned=False replanned=False postponed=False occupant_absent=False requested=True => OPH31dÃ©pannagechauffage
+Boiler=False Water=False Leak=False criticalLevel=one workType=corrective processingDuration=]0-1] start=True planned=False replanned=False postponed=False occupant_absent=False requested=True => OPH31dÃ©pannagechauffage
+Radiator=False Boiler=False Water=False Leak=False criticalLevel=one workType=corrective processingDuration=]0-1] start=True planned=False replanned=False postponed=False occupant_absent=False requested=True => OPH31dÃ©pannagechauffage
+Radiator=False Boiler=False Leak=False workType=corrective responseTime=]24-48] processingDuration=]0-1] resolutionDuration=]24-48] start=True planned=True replanned=False postponed=False occupant_absent=False requested=True => ALTEAL-dÃ©pannagechauffage
+Radiator=False Boiler=False Water=True Leak=False workType=corrective responseTime=]24-48] processingDuration=]0-1] resolutionDuration=]24-48] start=True planned=True postponed=False occupant_absent=False requested=True => ALTEAL-dÃ©pannagechauffage
+Radiator=False Water=False Leak=False criticalLevel=one workType=corrective processingDuration=]0-1] resolutionDuration=]2-4] start=True planned=False replanned=False postponed=False occupant_absent=False requested=True => OPH31dÃ©pannagechauffage
+Radiator=False Water=False Leak=False workType=corrective responseTime=]2-4] processingDuration=]0-1] resolutionDuration=]2-4] start=True planned=False replanned=False postponed=False occupant_absent=False requested=True => OPH31dÃ©pannagechauffage
+Radiator=False Water=False Leak=False criticalLevel=one workType=corrective responseTime=]2-4] resolutionDuration=]2-4] start=True planned=False replanned=False postponed=False occupant_absent=False requested=True => OPH31dÃ©pannagechauffage
+Radiator=False Water=False Leak=False criticalLevel=one responseTime=]2-4] processingDuration=]0-1] resolutionDuration=]2-4] start=True planned=False replanned=False postponed=False occupant_absent=False requested=True => OPH31dÃ©pannagechauffage
+Radiator=False Leak=False criticalLevel=one workType=corrective responseTime=]2-4] processingDuration=]0-1] resolutionDuration=]2-4] start=True planned=False replanned=False postponed=False occupant_absent=False requested=True => OPH31dÃ©pannagechauffage
+Radiator=False Water=False Leak=False criticalLevel=one workType=corrective responseTime=]2-4] processingDuration=]0-1] resolutionDuration=]2-4] planned=False replanned=False postponed=False occupant_absent=False requested=True => OPH31dÃ©pannagechauffage
+Radiator=False Water=False Leak=False criticalLevel=one workType=corrective responseTime=]2-4] processingDuration=]0-1] resolutionDuration=]2-4] start=True planned=False replanned=False occupant_absent=False requested=True => OPH31dÃ©pannagechauffage
+Radiator=False Water=False Leak=False criticalLevel=one workType=corrective responseTime=]2-4] processingDuration=]0-1] resolutionDuration=]2-4] start=True planned=False replanned=False postponed=False requested=True => OPH31dÃ©pannagechauffage
+Radiator=False Water=False criticalLevel=one workType=corrective responseTime=]2-4] processingDuration=]0-1] resolutionDuration=]2-4] start=True planned=False replanned=False postponed=False occupant_absent=False requested=True => OPH31dÃ©pannagechauffage
+Water=False Leak=False criticalLevel=one workType=corrective responseTime=]2-4] processingDuration=]0-1] resolutionDuration=]2-4] start=True planned=False replanned=False postponed=False occupant_absent=False requested=True => OPH31dÃ©pannagechauffage
+Radiator=False Water=False Leak=False criticalLevel=one workType=corrective responseTime=]2-4] processingDuration=]0-1] resolutionDuration=]2-4] start=True planned=False replanned=False postponed=False occupant_absent=False requested=True => OPH31dÃ©pannagechauffage
+Radiator=False Boiler=False Water=False Leak=False criticalLevel=zero workType=preventive responseTime=]16-24] processingDuration=0 resolutionDuration=]16-24] planned=True postponed=False occupant_absent=False requested=False => TMH-visiteentretienballonsolaire
+Radiator=False Boiler=False Water=False Leak=False criticalLevel=zero workType=preventive postponed=True => TMH-visiteentretienappareilgaz
+Radiator=False Boiler=False Water=False workType=corrective start=True planned=False replanned=False postponed=False occupant_absent=False requested=True => OPH31dÃ©pannagechauffage
+Radiator=False Boiler=False Water=False Leak=False workType=corrective start=True planned=False replanned=False postponed=False occupant_absent=False => OPH31dÃ©pannagechauffage
+Radiator=False Boiler=False Water=False workType=corrective processingDuration=]0-1] start=True planned=False replanned=False postponed=False occupant_absent=False requested=True => OPH31dÃ©pannagechauffage
+Radiator=False Boiler=False Water=False Leak=False workType=corrective processingDuration=]0-1] start=True planned=False replanned=False postponed=False occupant_absent=False => OPH31dÃ©pannagechauffage
+Radiator=False Boiler=False Water=False Leak=False criticalLevel=one workType=corrective start=True planned=False replanned=False postponed=False occupant_absent=False => OPH31dÃ©pannagechauffage
+Radiator=False Boiler=False Water=False Leak=False criticalLevel=one workType=corrective processingDuration=]0-1] start=True planned=False replanned=False postponed=False occupant_absent=False => OPH31dÃ©pannagechauffage
+Radiator=False Water=False Leak=False criticalLevel=one workType=corrective responseTime=]2-4] processingDuration=]0-1] resolutionDuration=]2-4] start=True replanned=False postponed=False occupant_absent=False requested=True => OPH31dÃ©pannagechauffage
+Radiator=False Boiler=False Water=False Leak=False criticalLevel=zero workType=preventive occupant_absent=True => TMH-visiteentretienappareilgaz
+Radiator=False Leak=False criticalLevel=three workType=corrective responseTime=]24-48] processingDuration=]0-1] resolutionDuration=]24-48] start=True planned=True replanned=False postponed=False occupant_absent=False requested=True => ALTEAL-dÃ©pannagechauffage
+Radiator=False Water=True Leak=False criticalLevel=three workType=corrective responseTime=]24-48] resolutionDuration=]24-48] start=True planned=True replanned=False postponed=False occupant_absent=False requested=True => ALTEAL-dÃ©pannagechauffage
+Radiator=False Water=True Leak=False criticalLevel=three responseTime=]24-48] processingDuration=]0-1] resolutionDuration=]24-48] start=True planned=True replanned=False postponed=False occupant_absent=False requested=True => ALTEAL-dÃ©pannagechauffage
+Radiator=False Water=True Leak=False criticalLevel=three workType=corrective responseTime=]24-48] processingDuration=]0-1] resolutionDuration=]24-48] planned=True replanned=False postponed=False occupant_absent=False requested=True => ALTEAL-dÃ©pannagechauffage
+Radiator=False Water=True Leak=False criticalLevel=three workType=corrective responseTime=]24-48] processingDuration=]0-1] resolutionDuration=]24-48] start=True planned=True replanned=False occupant_absent=False requested=True => ALTEAL-dÃ©pannagechauffage
+Radiator=False Water=True Leak=False criticalLevel=three workType=corrective responseTime=]24-48] processingDuration=]0-1] resolutionDuration=]24-48] start=True planned=True replanned=False postponed=False requested=True => ALTEAL-dÃ©pannagechauffage
+Radiator=False Water=True criticalLevel=three workType=corrective responseTime=]24-48] processingDuration=]0-1] resolutionDuration=]24-48] start=True planned=True replanned=False postponed=False occupant_absent=False requested=True => ALTEAL-dÃ©pannagechauffage
+Water=True Leak=False criticalLevel=three workType=corrective responseTime=]24-48] processingDuration=]0-1] resolutionDuration=]24-48] start=True planned=True replanned=False postponed=False occupant_absent=False requested=True => ALTEAL-dÃ©pannagechauffage
+Radiator=False Water=True Leak=False criticalLevel=three workType=corrective responseTime=]24-48] processingDuration=]0-1] resolutionDuration=]24-48] start=True planned=True replanned=False postponed=False occupant_absent=False requested=True => ALTEAL-dÃ©pannagechauffage
+Radiator=False Boiler=False Water=False Leak=False criticalLevel=zero workType=preventive start=False planned=True replanned=False postponed=False occupant_absent=False requested=False => TMH-visiteentretienballonsolaire
+Radiator=False Boiler=False Water=False Leak=False workType=preventive processingDuration=0 start=False planned=True replanned=False postponed=False occupant_absent=False requested=False => TMH-visiteentretienballonsolaire
+Radiator=False Water=False Leak=False criticalLevel=zero workType=preventive processingDuration=0 start=False planned=True replanned=False postponed=False occupant_absent=False requested=False => TMH-visiteentretienballonsolaire
+Radiator=False Boiler=False Leak=False criticalLevel=zero workType=preventive processingDuration=0 start=False planned=True replanned=False postponed=False occupant_absent=False requested=False => TMH-visiteentretienballonsolaire
+Radiator=False Boiler=False Water=False Leak=False criticalLevel=zero workType=preventive processingDuration=0 start=False planned=True replanned=False occupant_absent=False requested=False => TMH-visiteentretienballonsolaire
+Radiator=False Boiler=False Water=False Leak=False criticalLevel=zero workType=preventive processingDuration=0 start=False planned=True replanned=False postponed=False requested=False => TMH-visiteentretienballonsolaire
+Radiator=False Boiler=False Water=False criticalLevel=zero workType=preventive processingDuration=0 start=False planned=True replanned=False postponed=False occupant_absent=False requested=False => TMH-visiteentretienballonsolaire
+Boiler=False Water=False Leak=False criticalLevel=zero workType=preventive processingDuration=0 start=False planned=True replanned=False postponed=False occupant_absent=False requested=False => TMH-visiteentretienballonsolaire
+Radiator=False Boiler=False Water=False Leak=False criticalLevel=zero workType=preventive processingDuration=0 start=False planned=True replanned=False postponed=False occupant_absent=False requested=False => TMH-visiteentretienballonsolaire
+Radiator=False Boiler=False Water=False Leak=False criticalLevel=zero workType=preventive responseTime=]16-24] resolutionDuration=]16-24] planned=True replanned=False postponed=False occupant_absent=False requested=False => TMH-visiteentretienballonsolaire
+Radiator=False Boiler=False Water=False Leak=False criticalLevel=zero workType=preventive processingDuration=0 start=False replanned=False postponed=False occupant_absent=False requested=False => TMH-visiteentretienballonsolaire
+Radiator=False Boiler=False Water=False Leak=False criticalLevel=one processingDuration=]0-1] start=True planned=False postponed=False occupant_absent=False requested=True => OPH31dÃ©pannagechauffage
+Radiator=False Boiler=False Water=False Leak=False criticalLevel=one workType=corrective processingDuration=]0-1] start=True planned=False postponed=False occupant_absent=False requested=True => OPH31dÃ©pannagechauffage
+Radiator=False Boiler=False Water=False Leak=False criticalLevel=zero workType=preventive processingDuration=0 start=False planned=True replanned=False postponed=False occupant_absent=False => TMH-visiteentretienballonsolaire
+Radiator=False Boiler=False Water=False Leak=False workType=corrective start=True replanned=False postponed=False occupant_absent=False requested=True => OPH31dÃ©pannagechauffage
+Radiator=False Boiler=False Water=False Leak=False start=True planned=False replanned=False postponed=False occupant_absent=False requested=True => OPH31dÃ©pannagechauffage
+Radiator=False Boiler=False Leak=False processingDuration=]0-1] start=True planned=False replanned=False postponed=False occupant_absent=False requested=True => OPH31dÃ©pannagechauffage
+Radiator=False Boiler=False Water=False Leak=False processingDuration=]0-1] planned=False replanned=False postponed=False occupant_absent=False requested=True => OPH31dÃ©pannagechauffage
+Radiator=False Boiler=False Water=False Leak=False processingDuration=]0-1] start=True planned=False replanned=False occupant_absent=False requested=True => OPH31dÃ©pannagechauffage
+Boiler=False Water=False Leak=False processingDuration=]0-1] start=True planned=False replanned=False postponed=False occupant_absent=False requested=True => OPH31dÃ©pannagechauffage
+Radiator=False Boiler=False Water=False Leak=False processingDuration=]0-1] start=True planned=False replanned=False postponed=False occupant_absent=False requested=True => OPH31dÃ©pannagechauffage
+Radiator=False Boiler=False Water=False Leak=False workType=corrective processingDuration=]0-1] start=True planned=False postponed=False occupant_absent=False requested=True => OPH31dÃ©pannagechauffage
+Radiator=False Water=False Leak=False criticalLevel=one workType=corrective start=True planned=False replanned=False postponed=False occupant_absent=False requested=True => OPH31dÃ©pannagechauffage
+Radiator=False Water=False Leak=False criticalLevel=one processingDuration=]0-1] start=True planned=False replanned=False postponed=False occupant_absent=False requested=True => OPH31dÃ©pannagechauffage
+Radiator=False Water=False Leak=False criticalLevel=one workType=corrective processingDuration=]0-1] planned=False replanned=False postponed=False occupant_absent=False requested=True => OPH31dÃ©pannagechauffage
+Radiator=False Water=False Leak=False criticalLevel=one workType=corrective processingDuration=]0-1] start=True planned=False replanned=False occupant_absent=False requested=True => OPH31dÃ©pannagechauffage
+Water=False Leak=False criticalLevel=one workType=corrective processingDuration=]0-1] start=True planned=False replanned=False postponed=False occupant_absent=False requested=True => OPH31dÃ©pannagechauffage
+Radiator=False Water=False Leak=False criticalLevel=one workType=corrective processingDuration=]0-1] start=True planned=False replanned=False postponed=False occupant_absent=False requested=True => OPH31dÃ©pannagechauffage
+Radiator=False Water=False Leak=False workType=corrective start=True planned=False replanned=False postponed=False occupant_absent=False requested=True => OPH31dÃ©pannagechauffage
+Radiator=False Boiler=False Water=False processingDuration=]0-1] start=True planned=False replanned=False postponed=False occupant_absent=False requested=True => OPH31dÃ©pannagechauffage
+Radiator=False Water=False Leak=False workType=corrective processingDuration=]0-1] planned=False replanned=False postponed=False occupant_absent=False requested=True => OPH31dÃ©pannagechauffage
+Radiator=False Water=False Leak=False workType=corrective processingDuration=]0-1] start=True planned=False replanned=False occupant_absent=False requested=True => OPH31dÃ©pannagechauffage
+Water=False Leak=False workType=corrective processingDuration=]0-1] start=True planned=False replanned=False postponed=False occupant_absent=False requested=True => OPH31dÃ©pannagechauffage
+Radiator=False Water=False Leak=False workType=corrective processingDuration=]0-1] start=True planned=False replanned=False postponed=False occupant_absent=False requested=True => OPH31dÃ©pannagechauffage
+Radiator=False Leak=False criticalLevel=one workType=corrective processingDuration=]0-1] start=True planned=False replanned=False postponed=False occupant_absent=False requested=True => OPH31dÃ©pannagechauffage
+Radiator=False Water=False criticalLevel=one workType=corrective processingDuration=]0-1] start=True planned=False replanned=False postponed=False occupant_absent=False requested=True => OPH31dÃ©pannagechauffage
+Radiator=False Water=False Leak=False criticalLevel=one workType=corrective processingDuration=]0-1] start=True planned=False replanned=False postponed=False occupant_absent=False => OPH31dÃ©pannagechauffage
+Radiator=False Water=False Leak=False workType=corrective processingDuration=]0-1] start=True planned=False replanned=False postponed=False occupant_absent=False => OPH31dÃ©pannagechauffage
+Radiator=False criticalLevel=one workType=corrective processingDuration=]0-1] start=True planned=False replanned=False postponed=False occupant_absent=False requested=True => OPH31dÃ©pannagechauffage
+Radiator=False Leak=False criticalLevel=one workType=corrective processingDuration=]0-1] start=True planned=False replanned=False postponed=False occupant_absent=False => OPH31dÃ©pannagechauffage
+Radiator=False Water=False criticalLevel=one workType=corrective processingDuration=]0-1] start=True planned=False replanned=False postponed=False occupant_absent=False => OPH31dÃ©pannagechauffage
+Radiator=False Water=True Leak=False workType=corrective responseTime=]24-48] resolutionDuration=]24-48] start=True planned=True replanned=False postponed=False occupant_absent=False requested=True => ALTEAL-dÃ©pannagechauffage
+Radiator=False Water=True Leak=False responseTime=]24-48] processingDuration=]0-1] resolutionDuration=]24-48] start=True planned=True replanned=False postponed=False occupant_absent=False requested=True => ALTEAL-dÃ©pannagechauffage
+Radiator=False Water=True Leak=False workType=corrective responseTime=]24-48] processingDuration=]0-1] resolutionDuration=]24-48] planned=True replanned=False postponed=False occupant_absent=False requested=True => ALTEAL-dÃ©pannagechauffage
+Radiator=False Water=True Leak=False workType=corrective responseTime=]24-48] processingDuration=]0-1] resolutionDuration=]24-48] start=True planned=True replanned=False occupant_absent=False requested=True => ALTEAL-dÃ©pannagechauffage
+Radiator=False Water=True Leak=False workType=corrective responseTime=]24-48] processingDuration=]0-1] resolutionDuration=]24-48] start=True planned=True replanned=False postponed=False requested=True => ALTEAL-dÃ©pannagechauffage
+Radiator=False Water=True workType=corrective responseTime=]24-48] processingDuration=]0-1] resolutionDuration=]24-48] start=True planned=True replanned=False postponed=False occupant_absent=False requested=True => ALTEAL-dÃ©pannagechauffage
+Water=True Leak=False workType=corrective responseTime=]24-48] processingDuration=]0-1] resolutionDuration=]24-48] start=True planned=True replanned=False postponed=False occupant_absent=False requested=True => ALTEAL-dÃ©pannagechauffage
+Radiator=False Water=True Leak=False workType=corrective responseTime=]24-48] processingDuration=]0-1] resolutionDuration=]24-48] start=True planned=True replanned=False postponed=False occupant_absent=False requested=True => ALTEAL-dÃ©pannagechauffage
+Radiator=False Boiler=False Water=False Leak=False workType=preventive processingDuration=0 start=False planned=True postponed=False occupant_absent=False requested=False => TMH-visiteentretienballonsolaire
+Radiator=False Water=False Leak=False criticalLevel=zero workType=preventive processingDuration=0 start=False planned=True postponed=False occupant_absent=False requested=False => TMH-visiteentretienballonsolaire
+Radiator=False Boiler=False Leak=False criticalLevel=zero workType=preventive processingDuration=0 start=False planned=True postponed=False occupant_absent=False requested=False => TMH-visiteentretienballonsolaire
+Radiator=False Boiler=False Water=False Leak=False criticalLevel=zero workType=preventive processingDuration=0 start=False planned=True occupant_absent=False requested=False => TMH-visiteentretienballonsolaire
+Radiator=False Boiler=False Water=False Leak=False criticalLevel=zero workType=preventive processingDuration=0 start=False planned=True postponed=False requested=False => TMH-visiteentretienballonsolaire
+Radiator=False Boiler=False Water=False criticalLevel=zero workType=preventive processingDuration=0 start=False planned=True postponed=False occupant_absent=False requested=False => TMH-visiteentretienballonsolaire
+Boiler=False Water=False Leak=False criticalLevel=zero workType=preventive processingDuration=0 start=False planned=True postponed=False occupant_absent=False requested=False => TMH-visiteentretienballonsolaire
+Radiator=False Boiler=False Water=False Leak=False criticalLevel=zero workType=preventive processingDuration=0 start=False planned=True postponed=False occupant_absent=False requested=False => TMH-visiteentretienballonsolaire
+Radiator=False Boiler=False Water=False Leak=False criticalLevel=zero workType=preventive responseTime=]16-24] resolutionDuration=]16-24] planned=True postponed=False occupant_absent=False requested=False => TMH-visiteentretienballonsolaire
+Radiator=False Boiler=False Water=False Leak=False criticalLevel=zero workType=preventive start=True replanned=False occupant_absent=False => TMH-visiteentretienappareilgaz
+Radiator=False Leak=False workType=corrective processingDuration=]0-1] start=True planned=False replanned=False postponed=False occupant_absent=False requested=True => OPH31dÃ©pannagechauffage
+Radiator=False Water=False workType=corrective processingDuration=]0-1] start=True planned=False replanned=False postponed=False occupant_absent=False requested=True => OPH31dÃ©pannagechauffage
+Radiator=False Boiler=False Water=False Leak=False criticalLevel=zero workType=preventive processingDuration=0 start=False postponed=False occupant_absent=False requested=False => TMH-visiteentretienballonsolaire
+Radiator=False Water=False Leak=False criticalLevel=zero workType=preventive start=True replanned=False postponed=False occupant_absent=False => TMH-visiteentretienappareilgaz
+Radiator=False Boiler=False Leak=False criticalLevel=zero workType=preventive start=True replanned=False postponed=False occupant_absent=False => TMH-visiteentretienappareilgaz
+Radiator=False Boiler=False Water=False criticalLevel=zero workType=preventive start=True replanned=False postponed=False occupant_absent=False => TMH-visiteentretienappareilgaz
+Boiler=False Water=False Leak=False criticalLevel=zero workType=preventive start=True replanned=False postponed=False occupant_absent=False => TMH-visiteentretienappareilgaz
+Radiator=False Boiler=False Water=False Leak=False criticalLevel=zero workType=preventive start=True replanned=False postponed=False occupant_absent=False => TMH-visiteentretienappareilgaz
+Radiator=False Boiler=False Water=False Leak=False criticalLevel=zero workType=preventive start=True replanned=False postponed=False => TMH-visiteentretienappareilgaz
+Radiator=False Water=False Leak=False criticalLevel=one processingDuration=]0-1] start=True planned=False postponed=False occupant_absent=False requested=True => OPH31dÃ©pannagechauffage
+Radiator=False Water=False Leak=False criticalLevel=one workType=corrective processingDuration=]0-1] planned=False postponed=False occupant_absent=False requested=True => OPH31dÃ©pannagechauffage
+Radiator=False Water=False Leak=False criticalLevel=one workType=corrective processingDuration=]0-1] start=True planned=False occupant_absent=False requested=True => OPH31dÃ©pannagechauffage
+Water=False Leak=False criticalLevel=one workType=corrective processingDuration=]0-1] start=True planned=False postponed=False occupant_absent=False requested=True => OPH31dÃ©pannagechauffage
+Radiator=False Water=False Leak=False criticalLevel=one workType=corrective processingDuration=]0-1] start=True planned=False postponed=False occupant_absent=False requested=True => OPH31dÃ©pannagechauffage
+Radiator=False Leak=False workType=corrective processingDuration=]0-1] resolutionDuration=]24-48] start=True planned=True replanned=False postponed=False occupant_absent=False requested=True => ALTEAL-dÃ©pannagechauffage
+Radiator=False Leak=False workType=corrective responseTime=]24-48] resolutionDuration=]24-48] start=True planned=True replanned=False postponed=False occupant_absent=False requested=True => ALTEAL-dÃ©pannagechauffage
+Radiator=False Leak=False responseTime=]24-48] processingDuration=]0-1] resolutionDuration=]24-48] start=True planned=True replanned=False postponed=False occupant_absent=False requested=True => ALTEAL-dÃ©pannagechauffage
+Radiator=False Leak=False workType=corrective responseTime=]24-48] processingDuration=]0-1] resolutionDuration=]24-48] planned=True replanned=False postponed=False occupant_absent=False requested=True => ALTEAL-dÃ©pannagechauffage
+Radiator=False Leak=False workType=corrective responseTime=]24-48] processingDuration=]0-1] resolutionDuration=]24-48] start=True planned=True replanned=False occupant_absent=False requested=True => ALTEAL-dÃ©pannagechauffage
+Radiator=False Leak=False workType=corrective responseTime=]24-48] processingDuration=]0-1] resolutionDuration=]24-48] start=True planned=True replanned=False postponed=False requested=True => ALTEAL-dÃ©pannagechauffage
+Radiator=False workType=corrective responseTime=]24-48] processingDuration=]0-1] resolutionDuration=]24-48] start=True planned=True replanned=False postponed=False occupant_absent=False requested=True => ALTEAL-dÃ©pannagechauffage
+Leak=False workType=corrective responseTime=]24-48] processingDuration=]0-1] resolutionDuration=]24-48] start=True planned=True replanned=False postponed=False occupant_absent=False requested=True => ALTEAL-dÃ©pannagechauffage
+Radiator=False Leak=False workType=corrective responseTime=]24-48] processingDuration=]0-1] resolutionDuration=]24-48] start=True planned=True replanned=False postponed=False occupant_absent=False requested=True => ALTEAL-dÃ©pannagechauffage
+Radiator=False Boiler=False Leak=False workType=corrective start=True planned=True replanned=False occupant_absent=False requested=True => ALTEAL-dÃ©pannagechauffage
+Radiator=False Boiler=False Leak=False workType=corrective start=True planned=True replanned=False postponed=False occupant_absent=False requested=True => ALTEAL-dÃ©pannagechauffage
+Radiator=False Boiler=False Water=False Leak=False processingDuration=]0-1] start=True planned=False postponed=False occupant_absent=False requested=True => OPH31dÃ©pannagechauffage
+Radiator=False Water=False criticalLevel=one workType=corrective processingDuration=]0-1] start=True planned=False postponed=False occupant_absent=False requested=True => OPH31dÃ©pannagechauffage
+Radiator=False Water=False Leak=False criticalLevel=one workType=corrective processingDuration=]0-1] start=True planned=False postponed=False occupant_absent=False => OPH31dÃ©pannagechauffage
+Radiator=False Water=True Leak=False responseTime=]24-48] processingDuration=]0-1] resolutionDuration=]24-48] start=True planned=True postponed=False occupant_absent=False requested=True => ALTEAL-dÃ©pannagechauffage
+Radiator=False Water=True Leak=False workType=corrective responseTime=]24-48] processingDuration=]0-1] resolutionDuration=]24-48] planned=True postponed=False occupant_absent=False requested=True => ALTEAL-dÃ©pannagechauffage
+Radiator=False Water=True Leak=False workType=corrective responseTime=]24-48] processingDuration=]0-1] resolutionDuration=]24-48] start=True planned=True occupant_absent=False requested=True => ALTEAL-dÃ©pannagechauffage
+Radiator=False Water=True Leak=False workType=corrective responseTime=]24-48] processingDuration=]0-1] resolutionDuration=]24-48] start=True planned=True postponed=False requested=True => ALTEAL-dÃ©pannagechauffage
+Radiator=False Water=True workType=corrective responseTime=]24-48] processingDuration=]0-1] resolutionDuration=]24-48] start=True planned=True postponed=False occupant_absent=False requested=True => ALTEAL-dÃ©pannagechauffage
+Water=True Leak=False workType=corrective responseTime=]24-48] processingDuration=]0-1] resolutionDuration=]24-48] start=True planned=True postponed=False occupant_absent=False requested=True => ALTEAL-dÃ©pannagechauffage
+Radiator=False Water=True Leak=False workType=corrective responseTime=]24-48] processingDuration=]0-1] resolutionDuration=]24-48] start=True planned=True postponed=False occupant_absent=False requested=True => ALTEAL-dÃ©pannagechauffage
+Radiator=False Boiler=False Water=False Leak=False criticalLevel=zero workType=preventive start=False planned=True postponed=False occupant_absent=False requested=False => TMH-visiteentretienballonsolaire
+Radiator=False Boiler=False Water=False Leak=False criticalLevel=zero workType=preventive start=True replanned=False requested=False => TMH-visiteentretienappareilgaz
+Radiator=False Boiler=False Water=False Leak=False criticalLevel=zero workType=preventive start=True planned=True replanned=False => TMH-visiteentretienappareilgaz
+Radiator=False Boiler=False Leak=False start=True planned=True replanned=False occupant_absent=False requested=True => ALTEAL-dÃ©pannagechauffage
+Radiator=False Boiler=False Leak=False start=True planned=True replanned=False postponed=False occupant_absent=False requested=True => ALTEAL-dÃ©pannagechauffage
+Radiator=False Boiler=False Water=False Leak=False start=True replanned=False postponed=False occupant_absent=False requested=True => OPH31dÃ©pannagechauffage
+Radiator=False Water=False Leak=False start=True planned=False replanned=False postponed=False occupant_absent=False requested=True => OPH31dÃ©pannagechauffage
+Radiator=False Boiler=False Leak=False processingDuration=]0-1] start=True planned=False postponed=False occupant_absent=False requested=True => OPH31dÃ©pannagechauffage
+Radiator=False Boiler=False Water=False processingDuration=]0-1] start=True planned=False postponed=False occupant_absent=False requested=True => OPH31dÃ©pannagechauffage
+Radiator=False Water=False Leak=False processingDuration=]0-1] planned=False replanned=False postponed=False occupant_absent=False requested=True => OPH31dÃ©pannagechauffage
+Radiator=False Water=False Leak=False processingDuration=]0-1] start=True planned=False replanned=False occupant_absent=False requested=True => OPH31dÃ©pannagechauffage
+Water=False Leak=False processingDuration=]0-1] start=True planned=False replanned=False postponed=False occupant_absent=False requested=True => OPH31dÃ©pannagechauffage
+Radiator=False Water=False Leak=False processingDuration=]0-1] start=True planned=False replanned=False postponed=False occupant_absent=False requested=True => OPH31dÃ©pannagechauffage
+Radiator=False Water=False Leak=False workType=corrective processingDuration=]0-1] start=True planned=False postponed=False occupant_absent=False requested=True => OPH31dÃ©pannagechauffage
+Radiator=False Boiler=False Water=False Leak=False criticalLevel=one start=True planned=False postponed=False occupant_absent=False requested=True => OPH31dÃ©pannagechauffage
+Radiator=False Leak=False criticalLevel=one workType=corrective processingDuration=]0-1] start=True planned=False postponed=False occupant_absent=False requested=True => OPH31dÃ©pannagechauffage
+Radiator=False Boiler=False Water=False Leak=False criticalLevel=one workType=corrective planned=False postponed=False occupant_absent=False requested=True => OPH31dÃ©pannagechauffage
+Boiler=False Water=False Leak=False criticalLevel=one workType=corrective start=True planned=False postponed=False occupant_absent=False requested=True => OPH31dÃ©pannagechauffage
+Radiator=False Boiler=False Water=False Leak=False criticalLevel=one workType=corrective start=True planned=False postponed=False occupant_absent=False requested=True => OPH31dÃ©pannagechauffage
+Radiator=False Leak=False workType=corrective responseTime=]24-48] processingDuration=]0-1] resolutionDuration=]24-48] start=True replanned=False postponed=False occupant_absent=False requested=True => ALTEAL-dÃ©pannagechauffage
+Radiator=False Boiler=False Water=False start=True replanned=False postponed=False occupant_absent=False requested=True => OPH31dÃ©pannagechauffage
+Boiler=False Leak=False workType=corrective start=True planned=True replanned=False postponed=False occupant_absent=False requested=True => ALTEAL-dÃ©pannagechauffage
+Radiator=False Water=False Leak=False processingDuration=]0-1] start=True planned=False replanned=False postponed=False occupant_absent=False => OPH31dÃ©pannagechauffage
+Radiator=False Water=False Leak=False workType=corrective processingDuration=]0-1] start=True planned=False postponed=False occupant_absent=False => OPH31dÃ©pannagechauffage
+Radiator=False Boiler=False Water=False Leak=False criticalLevel=one workType=corrective start=True planned=False occupant_absent=False requested=True => OPH31dÃ©pannagechauffage
+Radiator=False Boiler=False Water=False Leak=False criticalLevel=one workType=corrective start=True planned=False postponed=False occupant_absent=False => OPH31dÃ©pannagechauffage
+Radiator=False Leak=False workType=corrective responseTime=]24-48] processingDuration=]0-1] resolutionDuration=]24-48] start=True planned=True postponed=False occupant_absent=False requested=True => ALTEAL-dÃ©pannagechauffage
+Boiler=False Leak=False start=True planned=True replanned=False postponed=False occupant_absent=False requested=True => ALTEAL-dÃ©pannagechauffage
+Boiler=False Water=False Leak=False start=True replanned=False postponed=False occupant_absent=False requested=True => OPH31dÃ©pannagechauffage
+Radiator=False Boiler=False Leak=False workType=corrective planned=True replanned=False occupant_absent=False requested=True => ALTEAL-dÃ©pannagechauffage
+Radiator=False Boiler=False Leak=False workType=corrective planned=True replanned=False postponed=False occupant_absent=False requested=True => ALTEAL-dÃ©pannagechauffage
+Radiator=False Leak=False processingDuration=]0-1] start=True planned=False replanned=False postponed=False occupant_absent=False requested=True => OPH31dÃ©pannagechauffage
+Radiator=False Water=False processingDuration=]0-1] start=True planned=False replanned=False postponed=False occupant_absent=False requested=True => OPH31dÃ©pannagechauffage
+Radiator=False Water=False workType=corrective processingDuration=]0-1] start=True planned=False postponed=False occupant_absent=False requested=True => OPH31dÃ©pannagechauffage
+Radiator=False Boiler=False Water=False criticalLevel=one workType=corrective start=True planned=False postponed=False occupant_absent=False requested=True => OPH31dÃ©pannagechauffage
+Radiator=False Water=False Leak=False criticalLevel=one workType=corrective processingDuration=]0-1] start=True replanned=False postponed=False occupant_absent=False requested=True => OPH31dÃ©pannagechauffage
+Radiator=False Boiler=False Water=False Leak=False workType=corrective planned=False postponed=False occupant_absent=False requested=True => OPH31dÃ©pannagechauffage
+Radiator=False Boiler=False Water=False Leak=False workType=corrective start=True planned=False postponed=False occupant_absent=False requested=True => OPH31dÃ©pannagechauffage
+Radiator=False Water=True Leak=False workType=corrective responseTime=]24-48] resolutionDuration=]24-48] start=True planned=True postponed=False occupant_absent=False requested=True => ALTEAL-dÃ©pannagechauffage
+Radiator=False Boiler=False Water=False Leak=False criticalLevel=zero workType=preventive start=False postponed=False occupant_absent=False requested=False => TMH-visiteentretienballonsolaire
+Radiator=False Boiler=False Water=False Leak=False workType=preventive processingDuration=0 start=False planned=True postponed=False occupant_absent=False => TMH-visiteentretienballonsolaire
+Radiator=False Water=False Leak=False criticalLevel=zero workType=preventive processingDuration=0 start=False planned=True postponed=False occupant_absent=False => TMH-visiteentretienballonsolaire
+Radiator=False Boiler=False Leak=False criticalLevel=zero workType=preventive processingDuration=0 start=False planned=True postponed=False occupant_absent=False => TMH-visiteentretienballonsolaire
+Radiator=False Boiler=False Water=False Leak=False criticalLevel=zero workType=preventive processingDuration=0 start=False planned=True occupant_absent=False => TMH-visiteentretienballonsolaire
+Radiator=False Boiler=False Water=False Leak=False criticalLevel=zero workType=preventive processingDuration=0 start=False planned=True postponed=False => TMH-visiteentretienballonsolaire
+Radiator=False Boiler=False Water=False criticalLevel=zero workType=preventive processingDuration=0 start=False planned=True postponed=False occupant_absent=False => TMH-visiteentretienballonsolaire
+Boiler=False Water=False Leak=False criticalLevel=zero workType=preventive processingDuration=0 start=False planned=True postponed=False occupant_absent=False => TMH-visiteentretienballonsolaire
+Radiator=False Boiler=False Water=False Leak=False criticalLevel=zero workType=preventive processingDuration=0 start=False planned=True postponed=False occupant_absent=False => TMH-visiteentretienballonsolaire
+Radiator=False Boiler=False Water=False Leak=False replanned=False postponed=False occupant_absent=False requested=True => OPH31dÃ©pannagechauffage
+Boiler=False Leak=False workType=corrective planned=True replanned=False postponed=False occupant_absent=False requested=True => ALTEAL-dÃ©pannagechauffage
+Radiator=False Leak=False workType=corrective processingDuration=]0-1] start=True planned=False postponed=False occupant_absent=False requested=True => OPH31dÃ©pannagechauffage
+Radiator=False Boiler=False Water=False Leak=False workType=corrective start=True planned=False occupant_absent=False requested=True => OPH31dÃ©pannagechauffage
+Boiler=False Water=False Leak=False workType=corrective start=True planned=False postponed=False occupant_absent=False requested=True => OPH31dÃ©pannagechauffage
+Radiator=False Boiler=False Water=False Leak=False workType=corrective start=True planned=False postponed=False occupant_absent=False => OPH31dÃ©pannagechauffage
+Radiator=False Water=True Leak=False workType=corrective responseTime=]24-48] resolutionDuration=]24-48] start=True postponed=False occupant_absent=False requested=True => ALTEAL-dÃ©pannagechauffage
+Water=False Leak=False criticalLevel=one workType=corrective processingDuration=]0-1] start=True replanned=False postponed=False occupant_absent=False requested=True => OPH31dÃ©pannagechauffage
+Radiator=False Water=False criticalLevel=one workType=corrective processingDuration=]0-1] start=True replanned=False postponed=False occupant_absent=False requested=True => OPH31dÃ©pannagechauffage
+Radiator=False Water=True Leak=False processingDuration=]0-1] start=True planned=True replanned=False postponed=False occupant_absent=False requested=True => ALTEAL-dÃ©pannagechauffage
+Radiator=False Water=True Leak=False workType=corrective processingDuration=]0-1] planned=True replanned=False postponed=False occupant_absent=False requested=True => ALTEAL-dÃ©pannagechauffage
+Radiator=False Water=True Leak=False workType=corrective processingDuration=]0-1] start=True planned=True replanned=False occupant_absent=False requested=True => ALTEAL-dÃ©pannagechauffage
+Radiator=False Water=True Leak=False workType=corrective processingDuration=]0-1] start=True planned=True replanned=False postponed=False requested=True => ALTEAL-dÃ©pannagechauffage
+Radiator=False Water=True workType=corrective processingDuration=]0-1] start=True planned=True replanned=False postponed=False occupant_absent=False requested=True => ALTEAL-dÃ©pannagechauffage
+Water=True Leak=False workType=corrective processingDuration=]0-1] start=True planned=True replanned=False postponed=False occupant_absent=False requested=True => ALTEAL-dÃ©pannagechauffage
+Radiator=False Water=True Leak=False workType=corrective processingDuration=]0-1] start=True planned=True replanned=False postponed=False occupant_absent=False requested=True => ALTEAL-dÃ©pannagechauffage
+start=True replanned=True occupant_absent=False requested=True => TMH-dÃ©pannagechauffage
+Radiator=False Boiler=False Water=False Leak=False criticalLevel=zero workType=preventive processingDuration=0 start=False postponed=False occupant_absent=False => TMH-visiteentretienballonsolaire
+Radiator=False Boiler=False Leak=False planned=True replanned=False occupant_absent=False requested=True => ALTEAL-dÃ©pannagechauffage
+Radiator=False Boiler=False Leak=False planned=True replanned=False postponed=False occupant_absent=False requested=True => ALTEAL-dÃ©pannagechauffage
+Radiator=False Water=False Leak=False processingDuration=]0-1] start=True planned=False postponed=False occupant_absent=False requested=True => OPH31dÃ©pannagechauffage
+Radiator=False Boiler=False Leak=False criticalLevel=one start=True planned=False postponed=False occupant_absent=False requested=True => OPH31dÃ©pannagechauffage
+Radiator=False Boiler=False Leak=False criticalLevel=one workType=corrective start=True planned=False postponed=False occupant_absent=False requested=True => OPH31dÃ©pannagechauffage
+Radiator=False Water=True Leak=False workType=corrective resolutionDuration=]24-48] start=True planned=True postponed=False occupant_absent=False requested=True => ALTEAL-dÃ©pannagechauffage
+Radiator=False Water=False Leak=False workType=corrective processingDuration=]0-1] start=True replanned=False postponed=False occupant_absent=False requested=True => OPH31dÃ©pannagechauffage
+Boiler=False Leak=False start=True replanned=True occupant_absent=False requested=True => TMH-dÃ©pannagechauffage
+Radiator=False Boiler=False Water=False Leak=False start=True planned=True replanned=False => TMH-visiteentretienappareilgaz
+Boiler=False Water=False Leak=False replanned=False postponed=False occupant_absent=False requested=True => OPH31dÃ©pannagechauffage
+Radiator=False Boiler=False Water=False workType=corrective start=True planned=False postponed=False occupant_absent=False requested=True => OPH31dÃ©pannagechauffage
+Radiator=False Water=True Leak=False workType=corrective responseTime=]24-48] start=True planned=True postponed=False occupant_absent=False requested=True => ALTEAL-dÃ©pannagechauffage
+Radiator=False Water=False Leak=False criticalLevel=one workType=corrective start=True replanned=False postponed=False occupant_absent=False requested=True => OPH31dÃ©pannagechauffage
+Radiator=False Water=True Leak=False workType=corrective processingDuration=]0-1] start=True replanned=False postponed=False occupant_absent=False requested=True => ALTEAL-dÃ©pannagechauffage
+Radiator=False Leak=False criticalLevel=one workType=corrective start=True planned=True replanned=True postponed=False occupant_absent=False requested=True => TMH-dÃ©pannagechauffage
+Boiler=False Leak=False start=True replanned=True postponed=False occupant_absent=False requested=True => TMH-dÃ©pannagechauffage
+Leak=False start=True replanned=True occupant_absent=False requested=True => TMH-dÃ©pannagechauffage
+replanned=True requested=True => TMH-dÃ©pannagechauffage
+replanned=True occupant_absent=False requested=True => TMH-dÃ©pannagechauffage
+Boiler=False Leak=False planned=True replanned=False postponed=False occupant_absent=False requested=True => ALTEAL-dÃ©pannagechauffage
+Radiator=False Water=True Leak=False workType=corrective start=True planned=True replanned=False postponed=False occupant_absent=False requested=True => ALTEAL-dÃ©pannagechauffage
+Leak=False start=True replanned=True postponed=False occupant_absent=False requested=True => TMH-dÃ©pannagechauffage
+Radiator=False start=True replanned=True postponed=False occupant_absent=False requested=True => TMH-dÃ©pannagechauffage
+replanned=True postponed=False occupant_absent=False requested=True => TMH-dÃ©pannagechauffage
+Radiator=False Boiler=False Water=False Leak=False start=True planned=False postponed=False occupant_absent=False requested=True => OPH31dÃ©pannagechauffage
+Radiator=False Water=False Leak=False criticalLevel=one start=True planned=False postponed=False occupant_absent=False requested=True => OPH31dÃ©pannagechauffage
+Radiator=False Water=False Leak=False criticalLevel=one workType=corrective planned=False postponed=False occupant_absent=False requested=True => OPH31dÃ©pannagechauffage
+Radiator=False Water=False Leak=False criticalLevel=one workType=corrective start=True planned=False postponed=False occupant_absent=False requested=True => OPH31dÃ©pannagechauffage
+Radiator=False Boiler=False Leak=False start=True replanned=True occupant_absent=False requested=True => TMH-dÃ©pannagechauffage
+Radiator=False Leak=False start=True replanned=True occupant_absent=False requested=True => TMH-dÃ©pannagechauffage
+Radiator=False Boiler=False start=True replanned=True postponed=False occupant_absent=False requested=True => TMH-dÃ©pannagechauffage
+Radiator=False replanned=True occupant_absent=False requested=True => TMH-dÃ©pannagechauffage
+Leak=False replanned=True occupant_absent=False requested=True => TMH-dÃ©pannagechauffage
+Radiator=False Water=False Leak=False workType=corrective start=True replanned=False postponed=False occupant_absent=False requested=True => OPH31dÃ©pannagechauffage
+Radiator=False Boiler=False Leak=False workType=corrective start=True planned=False postponed=False occupant_absent=False requested=True => OPH31dÃ©pannagechauffage
+Water=False Leak=False criticalLevel=one workType=corrective start=True planned=False postponed=False occupant_absent=False requested=True => OPH31dÃ©pannagechauffage
+Radiator=False Water=False Leak=False criticalLevel=one workType=corrective start=True planned=False postponed=False occupant_absent=False => OPH31dÃ©pannagechauffage
+Radiator=False Water=False criticalLevel=one workType=corrective start=True replanned=False postponed=False occupant_absent=False requested=True => OPH31dÃ©pannagechauffage
+Radiator=False Leak=False criticalLevel=one processingDuration=]0-1] start=True replanned=False postponed=False occupant_absent=False requested=True => OPH31dÃ©pannagechauffage
+Radiator=False Leak=False criticalLevel=one workType=corrective processingDuration=]0-1] replanned=False postponed=False occupant_absent=False requested=True => OPH31dÃ©pannagechauffage
+Radiator=False Leak=False criticalLevel=one workType=corrective processingDuration=]0-1] start=True replanned=False occupant_absent=False requested=True => OPH31dÃ©pannagechauffage
+Radiator=False Leak=False criticalLevel=one workType=corrective processingDuration=]0-1] start=True replanned=False postponed=False occupant_absent=False requested=True => OPH31dÃ©pannagechauffage
+Radiator=False Leak=False start=True replanned=True postponed=False requested=True => TMH-dÃ©pannagechauffage
+Radiator=False Water=False Leak=False workType=preventive replanned=True => TMH-visiteentretienappareilgaz
+Radiator=False Boiler=False Leak=False workType=preventive replanned=True => TMH-visiteentretienappareilgaz
+Boiler=False Water=False Leak=False workType=preventive replanned=True => TMH-visiteentretienappareilgaz
+Radiator=False Boiler=False Water=False Leak=False workType=preventive replanned=True => TMH-visiteentretienappareilgaz
+Radiator=False Water=False Leak=False criticalLevel=zero workType=preventive replanned=True => TMH-visiteentretienappareilgaz
+Radiator=False Boiler=False Leak=False criticalLevel=zero workType=preventive replanned=True => TMH-visiteentretienappareilgaz
+Boiler=False Water=False Leak=False criticalLevel=zero workType=preventive replanned=True => TMH-visiteentretienappareilgaz
+Radiator=False Boiler=False Water=False Leak=False criticalLevel=zero workType=preventive replanned=True => TMH-visiteentretienappareilgaz
+resolutionDuration=]72--[ start=True replanned=True requested=True => TMH-dÃ©pannagechauffage
+resolutionDuration=]72--[ start=True replanned=True occupant_absent=False requested=True => TMH-dÃ©pannagechauffage
+planned=False replanned=True => TMH-dÃ©pannagechauffage
+Radiator=False Boiler=True Leak=False start=True replanned=True postponed=False occupant_absent=False requested=True => TMH-dÃ©pannagechauffage
+Radiator=False Boiler=True Leak=False workType=corrective replanned=True postponed=False occupant_absent=False requested=True => TMH-dÃ©pannagechauffage
+Radiator=False Boiler=True Leak=False workType=corrective start=True replanned=True postponed=False occupant_absent=False requested=True => TMH-dÃ©pannagechauffage
+Water=False planned=False replanned=True occupant_absent=False => TMH-dÃ©pannagechauffage
+Radiator=False Water=False workType=corrective planned=True replanned=True postponed=False requested=True => TMH-dÃ©pannagechauffage
+Radiator=False Water=False workType=corrective start=True planned=True replanned=True postponed=False requested=True => TMH-dÃ©pannagechauffage
+Radiator=False Boiler=True criticalLevel=one workType=corrective start=True planned=True postponed=False occupant_absent=False => TMH-dÃ©pannagechauffage

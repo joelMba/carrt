@@ -1,0 +1,19 @@
+criticalLevel=one responseTime=]72--[ processingDuration=]0-1] replanned=False => ALTEAL-dÃ©pannagemultiservice
+responseTime=]72--[ planned=False occupant_absent=True => DÃ©pannage
+responseTime=]72--[ processingDuration=]72--[ planned=False => DÃ©pannage
+responseTime=]72--[ planned=False => DÃ©pannage
+workType=corrective processingDuration=]72--[ => TGH82-dÃ©pannageventilation
+workType=corrective planned=True => TMH-dÃ©pannageventilation
+workType=corrective responseTime=]24-48] => TMH-dÃ©pannageventilation
+workType=corrective => TMH-dÃ©pannageventilation
+responseTime=]0-1] processingDuration=]0-1] requested=False => TMH-visiteentretiencaissonVMCsanitaire
+responseTime=]24-48] processingDuration=]72--[ planned=True occupant_absent=False requested=False => TMH-visiteentretiencaissonVMCsanitaire
+responseTime=]16-24] processingDuration=]0-1] replanned=False requested=False => TMH-visiteentretiencaissonVMCsanitaire
+processingDuration=]0-1] requested=False => TMH-visiteentretiencaissonVMCsanitaire
+processingDuration=]72--[ planned=True occupant_absent=False requested=False => TMH-visiteentretiencaissonVMCsanitaire
+requested=False => TMH-visiteentretiencaissonVMCsanitaire
+workType=preventive planned=False => TMH-visiteentretienventilation
+workType=preventive occupant_absent=True => TMH-visiteentretienventilation
+workType=preventive start=True requested=True => TMH-visiteentretienventilation
+workType=preventive responseTime=]2-4] => TMH-visiteentretienventilation
+workType=preventive => TMH-visiteentretienventilation

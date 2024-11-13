@@ -1,0 +1,12 @@
+Fan=True => Boucheventilation
+criticalLevel=minus-one => VisitepÃ©riodique
+criticalLevel=one => DÃ©pannageChauffageindividuel
+workType=corrective => DÃ©pannageChauffageindividuel
+workType=preventive => VisitepÃ©riodique
+resolutionDuration=]48-72] => DÃ©pannageChauffageindividuel
+done=False => DÃ©pannageChauffageindividuel
+planned=False => DÃ©pannageChauffageindividuel
+client_planned=True => DÃ©pannageChauffageindividuel
+partial_repair=True => DÃ©pannageChauffageindividuel
+Fan=False processingDuration=]0-1] => DÃ©pannageChauffageindividuel
+criticalLevel=minus-one workType=corrective => RemplacementChaudiÃ¨reoucaisson

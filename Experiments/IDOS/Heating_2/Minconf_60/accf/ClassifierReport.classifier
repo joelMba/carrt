@@ -1,0 +1,474 @@
+Fan=False Leak=False workType=preventive done=True partial_repair=False => VisitepÃ©riodique
+Fan=False Leak=False criticalLevel=minus-one workType=preventive done=True partial_repair=False => VisitepÃ©riodique
+Fan=False criticalLevel=one workType=corrective client_planned=True => DÃ©pannageChauffageindividuel
+Fan=False Leak=False criticalLevel=one workType=corrective client_planned=True => DÃ©pannageChauffageindividuel
+Fan=False Leak=False workType=preventive processingDuration=]0-1] => VisitepÃ©riodique
+Fan=False criticalLevel=one workType=corrective planned=False client_planned=True => DÃ©pannageChauffageindividuel
+Fan=False Leak=False criticalLevel=minus-one workType=preventive processingDuration=]0-1] => VisitepÃ©riodique
+Fan=False Leak=False criticalLevel=one workType=corrective planned=False client_planned=True => DÃ©pannageChauffageindividuel
+Fan=False Leak=False criticalLevel=minus-one workType=corrective planned=True client_planned=False => RemplacementChaudiÃ¨reoucaisson
+Fan=False Leak=False criticalLevel=minus-one workType=preventive planned=True => VisitepÃ©riodique
+Fan=False Leak=False criticalLevel=minus-one workType=corrective done=True planned=True client_planned=False partial_repair=False => RemplacementChaudiÃ¨reoucaisson
+Fan=False Leak=False criticalLevel=minus-one workType=preventive planned=True client_planned=False => VisitepÃ©riodique
+Fan=False Leak=False workType=preventive processingDuration=]0-1] done=True partial_repair=False => VisitepÃ©riodique
+Fan=False Leak=False criticalLevel=minus-one workType=preventive processingDuration=]0-1] done=True partial_repair=False => VisitepÃ©riodique
+Fan=False criticalLevel=one workType=corrective done=True client_planned=True partial_repair=False => DÃ©pannageChauffageindividuel
+Fan=False Leak=False criticalLevel=one workType=corrective done=True client_planned=True partial_repair=False => DÃ©pannageChauffageindividuel
+Fan=False criticalLevel=one workType=corrective done=True planned=False client_planned=True partial_repair=False => DÃ©pannageChauffageindividuel
+Fan=False Leak=False criticalLevel=one workType=corrective done=True planned=False client_planned=True partial_repair=False => DÃ©pannageChauffageindividuel
+Fan=False Leak=False criticalLevel=minus-one workType=preventive done=True planned=True partial_repair=False => VisitepÃ©riodique
+Fan=False Leak=False criticalLevel=minus-one workType=preventive processingDuration=]0-1] planned=True => VisitepÃ©riodique
+Fan=False Leak=False criticalLevel=minus-one workType=preventive done=True planned=True client_planned=False partial_repair=False => VisitepÃ©riodique
+Fan=False Leak=False criticalLevel=minus-one workType=preventive processingDuration=]0-1] planned=True client_planned=False => VisitepÃ©riodique
+Fan=False Leak=False criticalLevel=minus-one workType=preventive responseTime=]1-2] processingDuration=]1-2] resolutionDuration=]2-4] done=False planned=False => HorsPÃ©rimÃ¨tre
+Fan=False Leak=False criticalLevel=minus-one workType=preventive responseTime=]1-2] processingDuration=]1-2] resolutionDuration=]2-4] done=False planned=False client_planned=False partial_repair=False => HorsPÃ©rimÃ¨tre
+Fan=False Leak=False workType=preventive done=True client_planned=True partial_repair=False => VisitepÃ©riodique
+Fan=False criticalLevel=one workType=corrective processingDuration=]0-1] client_planned=True => DÃ©pannageChauffageindividuel
+Fan=False Leak=False criticalLevel=minus-one workType=corrective responseTime=]2-4] planned=True client_planned=False => RemplacementChaudiÃ¨reoucaisson
+Fan=False Leak=False criticalLevel=minus-one workType=corrective resolutionDuration=]4-16] planned=True client_planned=False => RemplacementChaudiÃ¨reoucaisson
+Fan=False Leak=False workType=preventive done=True planned=False client_planned=True partial_repair=False => VisitepÃ©riodique
+Fan=False Leak=False criticalLevel=minus-one workType=preventive done=True client_planned=True partial_repair=False => VisitepÃ©riodique
+Fan=False Leak=False criticalLevel=one workType=corrective processingDuration=]1-2] planned=False client_planned=True => DÃ©pannageChauffageindividuel
+Fan=False Leak=False criticalLevel=one workType=corrective processingDuration=]0-1] client_planned=True => DÃ©pannageChauffageindividuel
+Fan=False Leak=False criticalLevel=one workType=corrective responseTime=]1-2] => DÃ©pannageChauffageindividuel
+Fan=True Leak=False criticalLevel=one workType=corrective responseTime=]0-1] processingDuration=]0-1] resolutionDuration=]2-4] done=True planned=True client_planned=False partial_repair=False => DÃ©pannage_VMCGazousanitaire
+Fan=False Leak=False criticalLevel=minus-one workType=corrective responseTime=]2-4] done=True planned=True client_planned=False partial_repair=False => RemplacementChaudiÃ¨reoucaisson
+Fan=False Leak=False criticalLevel=minus-one workType=corrective resolutionDuration=]4-16] done=True planned=True client_planned=False partial_repair=False => RemplacementChaudiÃ¨reoucaisson
+Fan=False Leak=False criticalLevel=minus-one workType=preventive done=True planned=False client_planned=True partial_repair=False => VisitepÃ©riodique
+Fan=False Leak=False criticalLevel=minus-one workType=preventive processingDuration=]0-1] done=True planned=True partial_repair=False => VisitepÃ©riodique
+Fan=False criticalLevel=one workType=corrective processingDuration=]1-2] done=False partial_repair=True => DÃ©pannageChauffageindividuel
+Fan=False criticalLevel=one workType=corrective processingDuration=]0-1] planned=False client_planned=True => DÃ©pannageChauffageindividuel
+Fan=False Leak=False criticalLevel=minus-one workType=preventive resolutionDuration=]1-2] => VisitepÃ©riodique
+Fan=False Leak=False workType=preventive processingDuration=]0-1] client_planned=True => VisitepÃ©riodique
+Fan=False Leak=False criticalLevel=minus-one workType=preventive processingDuration=]0-1] done=True planned=True client_planned=False partial_repair=False => VisitepÃ©riodique
+Fan=False Leak=False criticalLevel=minus-one workType=corrective responseTime=]2-4] resolutionDuration=]4-16] planned=True client_planned=False => RemplacementChaudiÃ¨reoucaisson
+Fan=False Leak=False criticalLevel=one workType=corrective processingDuration=]1-2] done=False partial_repair=True => DÃ©pannageChauffageindividuel
+Fan=False Leak=False workType=preventive processingDuration=]0-1] done=True client_planned=True partial_repair=False => VisitepÃ©riodique
+Fan=False Leak=False criticalLevel=one workType=corrective processingDuration=]0-1] planned=False client_planned=True => DÃ©pannageChauffageindividuel
+Fan=False criticalLevel=one workType=corrective processingDuration=]0-1] done=True client_planned=True partial_repair=False => DÃ©pannageChauffageindividuel
+Fan=False Leak=False criticalLevel=minus-one workType=preventive processingDuration=]0-1] resolutionDuration=]1-2] => VisitepÃ©riodique
+Fan=False Leak=False workType=preventive processingDuration=]0-1] planned=False client_planned=True => VisitepÃ©riodique
+Fan=False Leak=False criticalLevel=minus-one workType=preventive processingDuration=]0-1] client_planned=True => VisitepÃ©riodique
+Fan=False Leak=False criticalLevel=minus-one workType=corrective responseTime=]2-4] resolutionDuration=]4-16] done=True planned=True client_planned=False partial_repair=False => RemplacementChaudiÃ¨reoucaisson
+Fan=False Leak=False workType=preventive processingDuration=]0-1] done=True planned=False client_planned=True partial_repair=False => VisitepÃ©riodique
+Fan=False Leak=False criticalLevel=minus-one workType=preventive processingDuration=]0-1] done=True client_planned=True partial_repair=False => VisitepÃ©riodique
+Fan=False Leak=False criticalLevel=one workType=corrective processingDuration=]0-1] done=True client_planned=True partial_repair=False => DÃ©pannageChauffageindividuel
+Fan=False Leak=False criticalLevel=minus-one workType=preventive processingDuration=]0-1] planned=False client_planned=True => VisitepÃ©riodique
+Fan=False Leak=False criticalLevel=minus-one workType=preventive responseTime=]72--[ => VisitepÃ©riodique
+Fan=False criticalLevel=one client_planned=True => DÃ©pannageChauffageindividuel
+Fan=False Leak=False criticalLevel=one client_planned=True => DÃ©pannageChauffageindividuel
+Fan=False criticalLevel=one planned=False client_planned=True => DÃ©pannageChauffageindividuel
+Fan=False workType=corrective planned=False => DÃ©pannageChauffageindividuel
+Fan=False Leak=False criticalLevel=one planned=False client_planned=True => DÃ©pannageChauffageindividuel
+Fan=False Leak=False workType=corrective planned=False => DÃ©pannageChauffageindividuel
+Fan=False criticalLevel=one workType=corrective done=False partial_repair=True => DÃ©pannageChauffageindividuel
+Fan=False Leak=False criticalLevel=one workType=corrective done=False partial_repair=True => DÃ©pannageChauffageindividuel
+Fan=False criticalLevel=one done=True client_planned=True partial_repair=False => DÃ©pannageChauffageindividuel
+Fan=False Leak=False criticalLevel=one done=True client_planned=True partial_repair=False => DÃ©pannageChauffageindividuel
+Fan=False criticalLevel=one done=True planned=False client_planned=True partial_repair=False => DÃ©pannageChauffageindividuel
+Fan=False criticalLevel=one workType=corrective processingDuration=]0-1] done=True partial_repair=False => DÃ©pannageChauffageindividuel
+Fan=False workType=corrective planned=False partial_repair=False => DÃ©pannageChauffageindividuel
+Fan=False Leak=False criticalLevel=one done=True planned=False client_planned=True partial_repair=False => DÃ©pannageChauffageindividuel
+Fan=False Leak=False workType=corrective planned=False partial_repair=False => DÃ©pannageChauffageindividuel
+Fan=False Leak=False criticalLevel=minus-one workType=preventive responseTime=]1-2] processingDuration=]1-2] resolutionDuration=]2-4] planned=False => HorsPÃ©rimÃ¨tre
+Fan=False Leak=False responseTime=]1-2] processingDuration=]1-2] resolutionDuration=]2-4] done=False planned=False => HorsPÃ©rimÃ¨tre
+Fan=False Leak=False criticalLevel=one workType=corrective processingDuration=]0-1] done=True partial_repair=False => DÃ©pannageChauffageindividuel
+Fan=False Leak=False criticalLevel=minus-one workType=preventive responseTime=]1-2] done=False => HorsPÃ©rimÃ¨tre
+Fan=False Leak=False criticalLevel=minus-one workType=preventive done=False planned=False => HorsPÃ©rimÃ¨tre
+Fan=False Leak=False workType=preventive client_planned=True => VisitepÃ©riodique
+criticalLevel=one workType=corrective client_planned=True => DÃ©pannageChauffageindividuel
+Leak=False criticalLevel=one workType=corrective client_planned=True => DÃ©pannageChauffageindividuel
+Fan=False criticalLevel=one workType=corrective processingDuration=]0-1] => DÃ©pannageChauffageindividuel
+Fan=False Leak=False criticalLevel=minus-one workType=preventive responseTime=]1-2] processingDuration=]1-2] resolutionDuration=]2-4] planned=False partial_repair=False => HorsPÃ©rimÃ¨tre
+Fan=False Leak=False criticalLevel=minus-one workType=preventive responseTime=]1-2] resolutionDuration=]2-4] client_planned=False partial_repair=False => HorsPÃ©rimÃ¨tre
+Fan=False Leak=False criticalLevel=minus-one workType=preventive responseTime=]1-2] done=False client_planned=False => HorsPÃ©rimÃ¨tre
+Fan=False Leak=False responseTime=]1-2] processingDuration=]1-2] resolutionDuration=]2-4] done=False client_planned=False => HorsPÃ©rimÃ¨tre
+Fan=False Leak=False responseTime=]1-2] processingDuration=]1-2] resolutionDuration=]2-4] client_planned=False partial_repair=False => HorsPÃ©rimÃ¨tre
+Fan=False Leak=False done=False planned=False client_planned=False partial_repair=False => HorsPÃ©rimÃ¨tre
+Fan=False Leak=False workType=preventive planned=False client_planned=True => VisitepÃ©riodique
+Fan=False Leak=False criticalLevel=minus-one workType=preventive client_planned=True => VisitepÃ©riodique
+Fan=False criticalLevel=one processingDuration=]0-1] client_planned=True => DÃ©pannageChauffageindividuel
+criticalLevel=one workType=corrective planned=False client_planned=True => DÃ©pannageChauffageindividuel
+Leak=False criticalLevel=one workType=corrective planned=False client_planned=True => DÃ©pannageChauffageindividuel
+Fan=True Leak=False criticalLevel=one workType=corrective processingDuration=]0-1] resolutionDuration=]2-4] done=True planned=True client_planned=False partial_repair=False => DÃ©pannage_VMCGazousanitaire
+Fan=False criticalLevel=one workType=corrective done=False planned=True client_planned=False partial_repair=True => DÃ©pannageChauffageindividuel
+Fan=False Leak=False criticalLevel=minus-one workType=preventive planned=False client_planned=True => VisitepÃ©riodique
+Leak=False criticalLevel=one workType=corrective processingDuration=]1-2] planned=False client_planned=True => DÃ©pannageChauffageindividuel
+criticalLevel=one workType=corrective processingDuration=]1-2] done=False partial_repair=True => DÃ©pannageChauffageindividuel
+Fan=False Leak=False criticalLevel=one processingDuration=]0-1] client_planned=True => DÃ©pannageChauffageindividuel
+Fan=False Leak=False criticalLevel=one workType=corrective processingDuration=]0-1] => DÃ©pannageChauffageindividuel
+Leak=False workType=corrective responseTime=]0-1] processingDuration=]0-1] done=True planned=True client_planned=False partial_repair=False => DÃ©pannage_VMCGazousanitaire
+Fan=False Leak=False criticalLevel=one workType=corrective done=False planned=True client_planned=False partial_repair=True => DÃ©pannageChauffageindividuel
+criticalLevel=one workType=corrective responseTime=]0-1] processingDuration=]0-1] done=True partial_repair=False => DÃ©pannage_VMCGazousanitaire
+Fan=False Leak=False criticalLevel=one workType=corrective resolutionDuration=]4-16] => DÃ©pannageChauffageindividuel
+Fan=True Leak=False criticalLevel=one workType=corrective processingDuration=]1-2] => Boucheventilation
+Fan=False criticalLevel=one processingDuration=]0-1] planned=False client_planned=True => DÃ©pannageChauffageindividuel
+Fan=False processingDuration=]1-2] done=False partial_repair=True => DÃ©pannageChauffageindividuel
+Fan=False Leak=False criticalLevel=minus-one responseTime=]2-4] resolutionDuration=]4-16] planned=True client_planned=False => RemplacementChaudiÃ¨reoucaisson
+Fan=True Leak=False criticalLevel=one workType=corrective processingDuration=]1-2] planned=True client_planned=False => Boucheventilation
+Leak=False criticalLevel=one workType=corrective processingDuration=]1-2] done=False partial_repair=True => DÃ©pannageChauffageindividuel
+Fan=True Leak=False criticalLevel=one workType=corrective processingDuration=]1-2] partial_repair=False => Boucheventilation
+Fan=False Leak=False criticalLevel=one processingDuration=]0-1] planned=False client_planned=True => DÃ©pannageChauffageindividuel
+Fan=False criticalLevel=one processingDuration=]0-1] done=True client_planned=True partial_repair=False => DÃ©pannageChauffageindividuel
+Fan=False Leak=False criticalLevel=minus-one processingDuration=]0-1] resolutionDuration=]1-2] => VisitepÃ©riodique
+Fan=False Leak=False processingDuration=]1-2] done=False partial_repair=True => DÃ©pannageChauffageindividuel
+criticalLevel=one workType=corrective done=True client_planned=True partial_repair=False => DÃ©pannageChauffageindividuel
+Fan=False criticalLevel=one workType=corrective => DÃ©pannageChauffageindividuel
+criticalLevel=one client_planned=True => DÃ©pannageChauffageindividuel
+Leak=False criticalLevel=one workType=corrective done=True client_planned=True partial_repair=False => DÃ©pannageChauffageindividuel
+Fan=False Leak=False criticalLevel=minus-one responseTime=]2-4] resolutionDuration=]4-16] done=True planned=True client_planned=False partial_repair=False => RemplacementChaudiÃ¨reoucaisson
+Fan=False Leak=False workType=corrective responseTime=]2-4] resolutionDuration=]4-16] done=True planned=True client_planned=False partial_repair=False => RemplacementChaudiÃ¨reoucaisson
+Fan=True Leak=False criticalLevel=one workType=corrective processingDuration=]1-2] planned=True client_planned=False partial_repair=False => Boucheventilation
+Fan=False Leak=False criticalLevel=one workType=corrective processingDuration=]0-1] done=False partial_repair=True => DÃ©pannageChauffageindividuel
+Fan=False Leak=False criticalLevel=one processingDuration=]0-1] done=True client_planned=True partial_repair=False => DÃ©pannageChauffageindividuel
+Fan=False criticalLevel=one workType=corrective processingDuration=]0-1] done=True planned=True partial_repair=False => DÃ©pannageChauffageindividuel
+Leak=False criticalLevel=one client_planned=True => DÃ©pannageChauffageindividuel
+Fan=False criticalLevel=one processingDuration=]0-1] => DÃ©pannageChauffageindividuel
+criticalLevel=one workType=corrective done=True planned=False client_planned=True partial_repair=False => DÃ©pannageChauffageindividuel
+Fan=False criticalLevel=one processingDuration=]0-1] done=True partial_repair=False => DÃ©pannageChauffageindividuel
+Fan=False Leak=False criticalLevel=one workType=corrective => DÃ©pannageChauffageindividuel
+criticalLevel=one planned=False client_planned=True => DÃ©pannageChauffageindividuel
+Leak=False criticalLevel=one planned=False client_planned=True => DÃ©pannageChauffageindividuel
+Leak=False criticalLevel=one workType=corrective done=True planned=False client_planned=True partial_repair=False => DÃ©pannageChauffageindividuel
+Fan=True Leak=False criticalLevel=one workType=corrective responseTime=]1-2] resolutionDuration=]2-4] planned=True client_planned=False => Boucheventilation
+Fan=True Leak=False criticalLevel=one workType=corrective processingDuration=]1-2] done=True partial_repair=False => Boucheventilation
+Fan=False criticalLevel=one processingDuration=]0-1] done=True planned=False client_planned=True partial_repair=False => DÃ©pannageChauffageindividuel
+Fan=False Leak=False criticalLevel=one workType=corrective resolutionDuration=]1-2] => DÃ©pannageChauffageindividuel
+Fan=False Leak=False workType=corrective done=False planned=False => DÃ©pannageChauffageindividuel
+Fan=False criticalLevel=one => DÃ©pannageChauffageindividuel
+Fan=False Leak=False criticalLevel=one processingDuration=]0-1] => DÃ©pannageChauffageindividuel
+Fan=False criticalLevel=one workType=corrective processingDuration=]0-1] planned=True => DÃ©pannageChauffageindividuel
+Fan=False Leak=False criticalLevel=one => DÃ©pannageChauffageindividuel
+criticalLevel=one workType=corrective done=False partial_repair=True => DÃ©pannageChauffageindividuel
+Fan=False Leak=False criticalLevel=minus-one workType=preventive responseTime=]1-2] resolutionDuration=]2-4] planned=False => HorsPÃ©rimÃ¨tre
+Fan=False Leak=False criticalLevel=minus-one workType=preventive processingDuration=]1-2] resolutionDuration=]2-4] planned=False => HorsPÃ©rimÃ¨tre
+Fan=False Leak=False responseTime=]1-2] resolutionDuration=]2-4] done=False planned=False => HorsPÃ©rimÃ¨tre
+Fan=False Leak=False responseTime=]1-2] processingDuration=]1-2] resolutionDuration=]2-4] done=False => HorsPÃ©rimÃ¨tre
+Fan=False Leak=False processingDuration=]1-2] resolutionDuration=]2-4] done=False planned=False => HorsPÃ©rimÃ¨tre
+Fan=False Leak=False criticalLevel=one processingDuration=]0-1] done=True partial_repair=False => DÃ©pannageChauffageindividuel
+Fan=False criticalLevel=one workType=corrective done=True partial_repair=False => DÃ©pannageChauffageindividuel
+Fan=False workType=corrective done=False partial_repair=True => DÃ©pannageChauffageindividuel
+Fan=False Leak=False criticalLevel=minus-one workType=preventive responseTime=]1-2] resolutionDuration=]2-4] planned=False partial_repair=False => HorsPÃ©rimÃ¨tre
+Fan=False Leak=False criticalLevel=minus-one workType=preventive processingDuration=]1-2] resolutionDuration=]2-4] planned=False partial_repair=False => HorsPÃ©rimÃ¨tre
+Fan=False Leak=False criticalLevel=minus-one workType=preventive processingDuration=]1-2] resolutionDuration=]2-4] client_planned=False partial_repair=False => HorsPÃ©rimÃ¨tre
+Leak=False responseTime=]1-2] processingDuration=]1-2] resolutionDuration=]2-4] done=False client_planned=False partial_repair=False => HorsPÃ©rimÃ¨tre
+Fan=False Leak=False responseTime=]1-2] processingDuration=]1-2] resolutionDuration=]2-4] planned=False partial_repair=False => HorsPÃ©rimÃ¨tre
+Fan=False Leak=False criticalLevel=minus-one responseTime=]1-2] processingDuration=]1-2] client_planned=False partial_repair=False => HorsPÃ©rimÃ¨tre
+Fan=False Leak=False criticalLevel=minus-one workType=preventive responseTime=]1-2] client_planned=False => HorsPÃ©rimÃ¨tre
+Fan=False Leak=False responseTime=]1-2] resolutionDuration=]2-4] done=False client_planned=False => HorsPÃ©rimÃ¨tre
+Fan=False Leak=False responseTime=]1-2] processingDuration=]1-2] resolutionDuration=]2-4] client_planned=False => HorsPÃ©rimÃ¨tre
+Fan=False criticalLevel=one workType=corrective processingDuration=]0-1] planned=True client_planned=False => DÃ©pannageChauffageindividuel
+Fan=False Leak=False criticalLevel=one workType=corrective processingDuration=]0-1] planned=True => DÃ©pannageChauffageindividuel
+Leak=False done=False planned=False client_planned=False partial_repair=False => HorsPÃ©rimÃ¨tre
+Fan=False processingDuration=]1-2] resolutionDuration=]2-4] done=False client_planned=False => HorsPÃ©rimÃ¨tre
+Leak=False criticalLevel=one workType=corrective done=False partial_repair=True => DÃ©pannageChauffageindividuel
+Fan=False Leak=False workType=corrective done=False partial_repair=True => DÃ©pannageChauffageindividuel
+criticalLevel=one done=True client_planned=True partial_repair=False => DÃ©pannageChauffageindividuel
+workType=corrective planned=False => DÃ©pannageChauffageindividuel
+Fan=False Leak=False criticalLevel=one workType=corrective done=True partial_repair=False => DÃ©pannageChauffageindividuel
+Leak=False workType=corrective planned=False => DÃ©pannageChauffageindividuel
+Leak=False criticalLevel=one done=True client_planned=True partial_repair=False => DÃ©pannageChauffageindividuel
+Fan=True Leak=False criticalLevel=one workType=corrective responseTime=]0-1] resolutionDuration=]2-4] done=True planned=True client_planned=False partial_repair=False => DÃ©pannage_VMCGazousanitaire
+Fan=False Leak=False criticalLevel=minus-one responseTime=]2-4] planned=True client_planned=False => RemplacementChaudiÃ¨reoucaisson
+Fan=False Leak=False workType=corrective responseTime=]1-2] => DÃ©pannageChauffageindividuel
+processingDuration=]1-2] done=False partial_repair=True => DÃ©pannageChauffageindividuel
+Fan=False criticalLevel=one done=True partial_repair=False => DÃ©pannageChauffageindividuel
+criticalLevel=one done=True planned=False client_planned=True partial_repair=False => DÃ©pannageChauffageindividuel
+Fan=False criticalLevel=one workType=corrective processingDuration=]1-2] => DÃ©pannageChauffageindividuel
+Fan=False Leak=False criticalLevel=minus-one responseTime=]2-4] done=True planned=True client_planned=False partial_repair=False => RemplacementChaudiÃ¨reoucaisson
+Fan=False Leak=False criticalLevel=one workType=corrective processingDuration=]0-1] planned=True client_planned=False => DÃ©pannageChauffageindividuel
+workType=corrective responseTime=]0-1] processingDuration=]0-1] done=True partial_repair=False => DÃ©pannage_VMCGazousanitaire
+Fan=True criticalLevel=one workType=corrective processingDuration=]1-2] => Boucheventilation
+Leak=False criticalLevel=one done=True planned=False client_planned=True partial_repair=False => DÃ©pannageChauffageindividuel
+Fan=False criticalLevel=one workType=corrective resolutionDuration=]2-4] => DÃ©pannageChauffageindividuel
+Fan=False Leak=False criticalLevel=one workType=corrective processingDuration=]1-2] => DÃ©pannageChauffageindividuel
+Fan=False Leak=False criticalLevel=one done=True partial_repair=False => DÃ©pannageChauffageindividuel
+Fan=False workType=corrective done=False => DÃ©pannageChauffageindividuel
+Fan=False Leak=False criticalLevel=one workType=corrective resolutionDuration=]2-4] => DÃ©pannageChauffageindividuel
+Fan=False Leak=False workType=corrective responseTime=]2-4] resolutionDuration=]4-16] planned=True client_planned=False => RemplacementChaudiÃ¨reoucaisson
+Fan=True criticalLevel=one workType=corrective processingDuration=]1-2] planned=True client_planned=False => Boucheventilation
+Leak=False processingDuration=]1-2] done=False partial_repair=True => DÃ©pannageChauffageindividuel
+Fan=False criticalLevel=one workType=corrective planned=True => DÃ©pannageChauffageindividuel
+Fan=False Leak=False workType=corrective done=False => DÃ©pannageChauffageindividuel
+Fan=False Leak=False criticalLevel=minus-one workType=preventive responseTime=]1-2] planned=False => HorsPÃ©rimÃ¨tre
+Fan=False Leak=False criticalLevel=minus-one workType=preventive responseTime=]1-2] resolutionDuration=]2-4] => HorsPÃ©rimÃ¨tre
+Fan=False Leak=False responseTime=]1-2] processingDuration=]1-2] resolutionDuration=]2-4] planned=False => HorsPÃ©rimÃ¨tre
+Fan=False Leak=False criticalLevel=minus-one workType=preventive processingDuration=]1-2] planned=False => HorsPÃ©rimÃ¨tre
+Fan=False Leak=False responseTime=]1-2] done=False planned=False => HorsPÃ©rimÃ¨tre
+Fan=False Leak=False criticalLevel=minus-one responseTime=]1-2] processingDuration=]1-2] => HorsPÃ©rimÃ¨tre
+Fan=False Leak=False resolutionDuration=]2-4] done=False planned=False => HorsPÃ©rimÃ¨tre
+Fan=False Leak=False processingDuration=]1-2] resolutionDuration=]2-4] done=False => HorsPÃ©rimÃ¨tre
+Fan=False criticalLevel=one workType=corrective planned=True client_planned=False => DÃ©pannageChauffageindividuel
+Leak=False workType=corrective responseTime=]2-4] resolutionDuration=]4-16] done=True planned=True client_planned=False partial_repair=False => RemplacementChaudiÃ¨reoucaisson
+Fan=False Leak=False responseTime=]2-4] resolutionDuration=]4-16] done=True planned=True client_planned=False partial_repair=False => RemplacementChaudiÃ¨reoucaisson
+Fan=False Leak=False workType=corrective responseTime=]2-4] resolutionDuration=]4-16] done=True partial_repair=False => RemplacementChaudiÃ¨reoucaisson
+Leak=False criticalLevel=one workType=corrective processingDuration=]0-1] done=False partial_repair=True => DÃ©pannageChauffageindividuel
+Fan=False Leak=False workType=corrective processingDuration=]0-1] done=False partial_repair=True => DÃ©pannageChauffageindividuel
+criticalLevel=one workType=corrective resolutionDuration=]1-2] => DÃ©pannageChauffageindividuel
+Fan=False Leak=False criticalLevel=one workType=corrective planned=True => DÃ©pannageChauffageindividuel
+Fan=True Leak=False criticalLevel=one workType=corrective processingDuration=]0-1] resolutionDuration=]2-4] planned=True client_planned=False => DÃ©pannage_VMCGazousanitaire
+Fan=False Leak=False criticalLevel=minus-one workType=preventive responseTime=]1-2] planned=False partial_repair=False => HorsPÃ©rimÃ¨tre
+Fan=False Leak=False criticalLevel=minus-one workType=preventive responseTime=]1-2] resolutionDuration=]2-4] partial_repair=False => HorsPÃ©rimÃ¨tre
+Fan=False Leak=False criticalLevel=minus-one workType=preventive processingDuration=]1-2] planned=False partial_repair=False => HorsPÃ©rimÃ¨tre
+Fan=False Leak=False criticalLevel=minus-one workType=preventive processingDuration=]1-2] client_planned=False partial_repair=False => HorsPÃ©rimÃ¨tre
+criticalLevel=one workType=corrective done=False planned=True client_planned=False partial_repair=True => DÃ©pannageChauffageindividuel
+Fan=False Leak=False responseTime=]1-2] resolutionDuration=]2-4] planned=False partial_repair=False => HorsPÃ©rimÃ¨tre
+Fan=False Leak=False responseTime=]1-2] processingDuration=]1-2] resolutionDuration=]2-4] partial_repair=False => HorsPÃ©rimÃ¨tre
+Fan=False Leak=False criticalLevel=minus-one responseTime=]1-2] processingDuration=]1-2] partial_repair=False => HorsPÃ©rimÃ¨tre
+Fan=False Leak=False responseTime=]1-2] processingDuration=]1-2] client_planned=False partial_repair=False => HorsPÃ©rimÃ¨tre
+Fan=False Leak=False criticalLevel=minus-one responseTime=]1-2] client_planned=False partial_repair=False => HorsPÃ©rimÃ¨tre
+Fan=False Leak=False resolutionDuration=]2-4] done=False client_planned=False => HorsPÃ©rimÃ¨tre
+workType=corrective planned=False partial_repair=False => DÃ©pannageChauffageindividuel
+workType=corrective done=False partial_repair=True => DÃ©pannageChauffageindividuel
+Fan=False Leak=False criticalLevel=one workType=corrective planned=True client_planned=False => DÃ©pannageChauffageindividuel
+Leak=False workType=corrective planned=False partial_repair=False => DÃ©pannageChauffageindividuel
+Fan=True Leak=False criticalLevel=one workType=corrective responseTime=]0-1] done=True planned=True client_planned=False partial_repair=False => DÃ©pannage_VMCGazousanitaire
+Leak=False criticalLevel=one workType=corrective responseTime=]0-1] resolutionDuration=]2-4] done=True planned=True client_planned=False partial_repair=False => DÃ©pannage_VMCGazousanitaire
+Fan=True Leak=False criticalLevel=one workType=corrective processingDuration=]0-1] resolutionDuration=]2-4] planned=True client_planned=False partial_repair=False => DÃ©pannage_VMCGazousanitaire
+Leak=False criticalLevel=one workType=corrective processingDuration=]0-1] resolutionDuration=]2-4] done=True planned=True client_planned=False partial_repair=False => DÃ©pannage_VMCGazousanitaire
+Fan=True Leak=False criticalLevel=one workType=corrective responseTime=]0-1] resolutionDuration=]2-4] done=True partial_repair=False => DÃ©pannage_VMCGazousanitaire
+Fan=False Leak=False criticalLevel=minus-one resolutionDuration=]4-16] planned=True client_planned=False => RemplacementChaudiÃ¨reoucaisson
+Fan=False workType=corrective done=False planned=True client_planned=False partial_repair=True => DÃ©pannageChauffageindividuel
+criticalLevel=one workType=corrective processingDuration=]1-2] done=False => DÃ©pannageChauffageindividuel
+Fan=False Leak=False done=False planned=False client_planned=True partial_repair=True => DÃ©pannageChauffageindividuel
+Fan=False Leak=False criticalLevel=minus-one resolutionDuration=]2-4] done=True partial_repair=False => VisitepÃ©riodique
+Leak=False criticalLevel=one workType=corrective resolutionDuration=]1-2] => DÃ©pannageChauffageindividuel
+Leak=False workType=corrective done=False planned=False => DÃ©pannageChauffageindividuel
+Leak=False workType=corrective done=False partial_repair=True => DÃ©pannageChauffageindividuel
+Fan=False Leak=False criticalLevel=minus-one resolutionDuration=]4-16] done=True planned=True client_planned=False partial_repair=False => RemplacementChaudiÃ¨reoucaisson
+Fan=False Leak=False workType=corrective resolutionDuration=]4-16] done=True planned=True client_planned=False partial_repair=False => RemplacementChaudiÃ¨reoucaisson
+Leak=False responseTime=]0-1] processingDuration=]0-1] done=True planned=True client_planned=False partial_repair=False => DÃ©pannage_VMCGazousanitaire
+Leak=False criticalLevel=one workType=corrective done=False planned=True client_planned=False partial_repair=True => DÃ©pannageChauffageindividuel
+Fan=False Leak=False workType=corrective done=False planned=True client_planned=False partial_repair=True => DÃ©pannageChauffageindividuel
+Fan=False Leak=False criticalLevel=minus-one workType=preventive resolutionDuration=]2-4] planned=False => HorsPÃ©rimÃ¨tre
+Fan=False Leak=False criticalLevel=minus-one workType=preventive processingDuration=]1-2] resolutionDuration=]2-4] => HorsPÃ©rimÃ¨tre
+Fan=False Leak=False responseTime=]1-2] resolutionDuration=]2-4] done=False => HorsPÃ©rimÃ¨tre
+Fan=False processingDuration=]1-2] resolutionDuration=]2-4] done=False => HorsPÃ©rimÃ¨tre
+Fan=False Leak=False workType=corrective responseTime=]1-2] planned=True client_planned=False => DÃ©pannageChauffageindividuel
+criticalLevel=one workType=corrective resolutionDuration=]2-4] done=False partial_repair=True => DÃ©pannageChauffageindividuel
+Fan=False criticalLevel=one workType=corrective done=True planned=True partial_repair=False => DÃ©pannageChauffageindividuel
+Leak=False workType=corrective responseTime=]2-4] resolutionDuration=]4-16] planned=True client_planned=False => RemplacementChaudiÃ¨reoucaisson
+Fan=False Leak=False responseTime=]2-4] resolutionDuration=]4-16] planned=True client_planned=False => RemplacementChaudiÃ¨reoucaisson
+Leak=False criticalLevel=one workType=corrective processingDuration=]1-2] done=False => DÃ©pannageChauffageindividuel
+Fan=True Leak=False criticalLevel=one workType=corrective processingDuration=]0-1] done=True planned=True client_planned=False partial_repair=False => DÃ©pannage_VMCGazousanitaire
+Fan=False Leak=False criticalLevel=minus-one workType=preventive resolutionDuration=]2-4] planned=False partial_repair=False => HorsPÃ©rimÃ¨tre
+Fan=False Leak=False criticalLevel=minus-one workType=preventive processingDuration=]1-2] resolutionDuration=]2-4] partial_repair=False => HorsPÃ©rimÃ¨tre
+Fan=False Leak=False criticalLevel=minus-one workType=preventive resolutionDuration=]2-4] client_planned=False partial_repair=False => HorsPÃ©rimÃ¨tre
+Fan=False Leak=False criticalLevel=minus-one workType=preventive responseTime=]1-2] partial_repair=False => HorsPÃ©rimÃ¨tre
+Leak=False responseTime=]1-2] processingDuration=]1-2] resolutionDuration=]2-4] done=False client_planned=False => HorsPÃ©rimÃ¨tre
+Leak=False responseTime=]1-2] resolutionDuration=]2-4] done=False client_planned=False partial_repair=False => HorsPÃ©rimÃ¨tre
+Fan=False Leak=False responseTime=]1-2] resolutionDuration=]2-4] client_planned=False partial_repair=False => HorsPÃ©rimÃ¨tre
+Fan=False Leak=False responseTime=]1-2] done=False client_planned=False => HorsPÃ©rimÃ¨tre
+Fan=False Leak=False responseTime=]1-2] processingDuration=]1-2] client_planned=False => HorsPÃ©rimÃ¨tre
+Fan=False Leak=False criticalLevel=minus-one responseTime=]1-2] client_planned=False => HorsPÃ©rimÃ¨tre
+Fan=False resolutionDuration=]2-4] done=False client_planned=False => HorsPÃ©rimÃ¨tre
+Fan=False workType=corrective resolutionDuration=]2-4] => DÃ©pannageChauffageindividuel
+Fan=False Leak=False criticalLevel=minus-one processingDuration=]0-1] => VisitepÃ©riodique
+criticalLevel=one workType=corrective done=False => DÃ©pannageChauffageindividuel
+Fan=False criticalLevel=one workType=corrective done=True planned=True client_planned=False partial_repair=False => DÃ©pannageChauffageindividuel
+Fan=False Leak=False criticalLevel=one workType=corrective done=True planned=True partial_repair=False => DÃ©pannageChauffageindividuel
+Fan=False Leak=False workType=corrective resolutionDuration=]2-4] => DÃ©pannageChauffageindividuel
+Leak=False criticalLevel=one workType=corrective responseTime=]0-1] done=True planned=True client_planned=False partial_repair=False => DÃ©pannage_VMCGazousanitaire
+Fan=True Leak=False criticalLevel=one workType=corrective responseTime=]0-1] done=True partial_repair=False => DÃ©pannage_VMCGazousanitaire
+Leak=False responseTime=]0-1] resolutionDuration=]2-4] done=True planned=True client_planned=False partial_repair=False => DÃ©pannage_VMCGazousanitaire
+criticalLevel=one workType=corrective responseTime=]0-1] resolutionDuration=]2-4] planned=True client_planned=False => DÃ©pannage_VMCGazousanitaire
+Fan=False Leak=False processingDuration=]1-2] planned=False client_planned=True => DÃ©pannageChauffageindividuel
+Fan=False Leak=False criticalLevel=minus-one responseTime=]2-4] => RemplacementChaudiÃ¨reoucaisson
+Fan=False Leak=False criticalLevel=minus-one resolutionDuration=]4-16] => RemplacementChaudiÃ¨reoucaisson
+Fan=False workType=corrective done=False client_planned=False => DÃ©pannageChauffageindividuel
+Leak=False criticalLevel=one workType=corrective processingDuration=]1-2] resolutionDuration=]2-4] planned=True client_planned=False partial_repair=False => Boucheventilation
+Leak=False responseTime=]2-4] resolutionDuration=]4-16] done=True planned=True client_planned=False partial_repair=False => RemplacementChaudiÃ¨reoucaisson
+Fan=False Leak=False criticalLevel=one workType=corrective resolutionDuration=]2-4] done=True partial_repair=False => DÃ©pannageChauffageindividuel
+Leak=False workType=corrective responseTime=]2-4] resolutionDuration=]4-16] done=True partial_repair=False => RemplacementChaudiÃ¨reoucaisson
+Fan=False Leak=False responseTime=]2-4] resolutionDuration=]4-16] done=True partial_repair=False => RemplacementChaudiÃ¨reoucaisson
+Fan=False criticalLevel=one workType=corrective resolutionDuration=]2-4] planned=True client_planned=False => DÃ©pannageChauffageindividuel
+Leak=False workType=corrective processingDuration=]0-1] done=False partial_repair=True => DÃ©pannageChauffageindividuel
+Fan=False criticalLevel=one workType=corrective processingDuration=]1-2] resolutionDuration=]2-4] => DÃ©pannageChauffageindividuel
+Fan=False Leak=False criticalLevel=minus-one responseTime=]72--[ => VisitepÃ©riodique
+Fan=False Leak=False criticalLevel=minus-one workType=preventive responseTime=]1-2] => HorsPÃ©rimÃ¨tre
+Leak=False responseTime=]1-2] processingDuration=]1-2] resolutionDuration=]2-4] done=False => HorsPÃ©rimÃ¨tre
+Fan=False Leak=False responseTime=]1-2] resolutionDuration=]2-4] planned=False => HorsPÃ©rimÃ¨tre
+Fan=False Leak=False responseTime=]1-2] processingDuration=]1-2] resolutionDuration=]2-4] => HorsPÃ©rimÃ¨tre
+Fan=False Leak=False processingDuration=]1-2] done=False planned=False => HorsPÃ©rimÃ¨tre
+Fan=False Leak=False workType=corrective resolutionDuration=]4-16] done=True planned=True partial_repair=False => RemplacementChaudiÃ¨reoucaisson
+Fan=False Leak=False criticalLevel=one workType=corrective processingDuration=]1-2] done=True partial_repair=False => DÃ©pannageChauffageindividuel
+Fan=False Leak=False criticalLevel=minus-one responseTime=]2-4] done=True partial_repair=False => RemplacementChaudiÃ¨reoucaisson
+Fan=False Leak=False criticalLevel=minus-one resolutionDuration=]4-16] done=True partial_repair=False => RemplacementChaudiÃ¨reoucaisson
+Leak=False responseTime=]0-1] processingDuration=]0-1] planned=True client_planned=False => DÃ©pannage_VMCGazousanitaire
+Fan=False Leak=False workType=corrective done=False client_planned=False => DÃ©pannageChauffageindividuel
+Fan=False Leak=False criticalLevel=minus-one processingDuration=]0-1] done=True partial_repair=False => VisitepÃ©riodique
+Leak=False criticalLevel=one workType=corrective done=False => DÃ©pannageChauffageindividuel
+Fan=False Leak=False criticalLevel=minus-one processingDuration=]1-2] done=True planned=True client_planned=False partial_repair=False => RemplacementChaudiÃ¨reoucaisson
+Fan=False Leak=False criticalLevel=one workType=corrective resolutionDuration=]2-4] planned=True client_planned=False => DÃ©pannageChauffageindividuel
+Fan=False Leak=False criticalLevel=one workType=corrective processingDuration=]1-2] resolutionDuration=]2-4] => DÃ©pannageChauffageindividuel
+Fan=False Leak=False criticalLevel=minus-one responseTime=]72--[ planned=True => VisitepÃ©riodique
+Fan=False Leak=False criticalLevel=one workType=corrective responseTime=]2-4] => DÃ©pannageChauffageindividuel
+Fan=False workType=corrective processingDuration=]0-1] => DÃ©pannageChauffageindividuel
+Fan=True Leak=False criticalLevel=one workType=corrective resolutionDuration=]2-4] done=True planned=True client_planned=False partial_repair=False => DÃ©pannage_VMCGazousanitaire
+Fan=False Leak=False criticalLevel=one workType=corrective done=True planned=True client_planned=False partial_repair=False => DÃ©pannageChauffageindividuel
+Leak=False criticalLevel=one workType=corrective processingDuration=]1-2] planned=True client_planned=False partial_repair=False => Boucheventilation
+Leak=False responseTime=]1-2] processingDuration=]1-2] resolutionDuration=]2-4] client_planned=False partial_repair=False => HorsPÃ©rimÃ¨tre
+Fan=False Leak=False processingDuration=]1-2] resolutionDuration=]2-4] planned=False partial_repair=False => HorsPÃ©rimÃ¨tre
+workType=corrective done=False planned=True client_planned=False partial_repair=True => DÃ©pannageChauffageindividuel
+Fan=False Leak=False responseTime=]1-2] planned=False partial_repair=False => HorsPÃ©rimÃ¨tre
+Fan=False Leak=False responseTime=]1-2] processingDuration=]1-2] partial_repair=False => HorsPÃ©rimÃ¨tre
+Fan=False Leak=False processingDuration=]1-2] done=False client_planned=False => HorsPÃ©rimÃ¨tre
+processingDuration=]1-2] resolutionDuration=]2-4] done=False client_planned=False => HorsPÃ©rimÃ¨tre
+Fan=False Leak=False workType=preventive => VisitepÃ©riodique
+Leak=False criticalLevel=one workType=corrective processingDuration=]1-2] resolutionDuration=]2-4] planned=True client_planned=False => Boucheventilation
+Fan=False criticalLevel=one workType=corrective processingDuration=]1-2] planned=True client_planned=False => DÃ©pannageChauffageindividuel
+Leak=False responseTime=]2-4] resolutionDuration=]4-16] planned=True client_planned=False => RemplacementChaudiÃ¨reoucaisson
+Fan=False Leak=False workType=corrective responseTime=]2-4] resolutionDuration=]4-16] => RemplacementChaudiÃ¨reoucaisson
+Fan=False Leak=False criticalLevel=minus-one workType=preventive => VisitepÃ©riodique
+Leak=False criticalLevel=one workType=corrective processingDuration=]0-1] resolutionDuration=]2-4] planned=True client_planned=False partial_repair=False => DÃ©pannage_VMCGazousanitaire
+Leak=False workType=corrective processingDuration=]0-1] resolutionDuration=]2-4] done=True planned=True client_planned=False partial_repair=False => DÃ©pannage_VMCGazousanitaire
+Leak=False criticalLevel=one workType=corrective responseTime=]0-1] planned=True client_planned=False => DÃ©pannage_VMCGazousanitaire
+responseTime=]0-1] resolutionDuration=]2-4] planned=True client_planned=False => DÃ©pannage_VMCGazousanitaire
+Leak=False processingDuration=]1-2] planned=False client_planned=True => DÃ©pannageChauffageindividuel
+Fan=True Leak=False criticalLevel=one workType=corrective processingDuration=]0-1] planned=True client_planned=False => DÃ©pannage_VMCGazousanitaire
+Fan=False Leak=False criticalLevel=minus-one workType=preventive processingDuration=]1-2] => HorsPÃ©rimÃ¨tre
+Leak=False processingDuration=]1-2] resolutionDuration=]2-4] done=False => HorsPÃ©rimÃ¨tre
+Fan=False Leak=False resolutionDuration=]2-4] done=False => HorsPÃ©rimÃ¨tre
+Leak=False criticalLevel=one workType=corrective processingDuration=]1-2] resolutionDuration=]2-4] done=True planned=True client_planned=False partial_repair=False => Boucheventilation
+Fan=False Leak=False processingDuration=]1-2] done=True planned=False client_planned=True partial_repair=False => DÃ©pannageChauffageindividuel
+Fan=False Leak=False criticalLevel=minus-one responseTime=]72--[ planned=True client_planned=False => VisitepÃ©riodique
+Fan=False Leak=False processingDuration=]0-1] resolutionDuration=]1-2] planned=True client_planned=False => VisitepÃ©riodique
+criticalLevel=one workType=corrective processingDuration=]1-2] done=False planned=True client_planned=False => DÃ©pannageChauffageindividuel
+Fan=False Leak=False workType=corrective responseTime=]4-16] resolutionDuration=]4-16] => DÃ©pannageChauffageindividuel
+Fan=False Leak=False criticalLevel=minus-one done=False partial_repair=True => VisitepÃ©riodique
+Fan=False Leak=False criticalLevel=minus-one responseTime=]0-1] => VisitepÃ©riodique
+Fan=False workType=corrective responseTime=]0-1] => DÃ©pannageChauffageindividuel
+resolutionDuration=]2-4] done=False partial_repair=True => DÃ©pannageChauffageindividuel
+Fan=False Leak=False workType=corrective processingDuration=]0-1] => DÃ©pannageChauffageindividuel
+Fan=False Leak=False criticalLevel=one workType=corrective processingDuration=]1-2] planned=True client_planned=False => DÃ©pannageChauffageindividuel
+Leak=False responseTime=]2-4] resolutionDuration=]4-16] done=True partial_repair=False => RemplacementChaudiÃ¨reoucaisson
+Leak=False criticalLevel=one workType=corrective processingDuration=]0-1] done=False => DÃ©pannageChauffageindividuel
+Fan=False Leak=False workType=corrective responseTime=]2-4] done=True planned=True client_planned=False partial_repair=False => RemplacementChaudiÃ¨reoucaisson
+Leak=False criticalLevel=one workType=corrective processingDuration=]1-2] done=True planned=True client_planned=False partial_repair=False => Boucheventilation
+Leak=False workType=corrective done=False planned=True client_planned=False partial_repair=True => DÃ©pannageChauffageindividuel
+Leak=False responseTime=]0-1] processingDuration=]0-1] done=True partial_repair=False => DÃ©pannage_VMCGazousanitaire
+Fan=True Leak=False criticalLevel=one workType=corrective processingDuration=]0-1] planned=True client_planned=False partial_repair=False => DÃ©pannage_VMCGazousanitaire
+Fan=True Leak=False criticalLevel=one workType=corrective resolutionDuration=]2-4] done=True partial_repair=False => DÃ©pannage_VMCGazousanitaire
+Fan=False Leak=False criticalLevel=minus-one workType=preventive done=False client_planned=False => HorsPÃ©rimÃ¨tre
+Fan=False Leak=False criticalLevel=minus-one workType=preventive processingDuration=]1-2] partial_repair=False => HorsPÃ©rimÃ¨tre
+Fan=False Leak=False criticalLevel=minus-one resolutionDuration=]2-4] client_planned=False partial_repair=False => HorsPÃ©rimÃ¨tre
+Fan=False Leak=False responseTime=]1-2] resolutionDuration=]2-4] client_planned=False => HorsPÃ©rimÃ¨tre
+Fan=False Leak=False criticalLevel=minus-one responseTime=]1-2] partial_repair=False => HorsPÃ©rimÃ¨tre
+Fan=False processingDuration=]1-2] done=False client_planned=False => HorsPÃ©rimÃ¨tre
+Leak=False done=False client_planned=False partial_repair=False => HorsPÃ©rimÃ¨tre
+Fan=False Leak=False workType=preventive partial_repair=False => VisitepÃ©riodique
+Fan=False workType=corrective processingDuration=]0-1] done=True partial_repair=False => DÃ©pannageChauffageindividuel
+Fan=False Leak=False criticalLevel=minus-one workType=preventive partial_repair=False => VisitepÃ©riodique
+Fan=False Leak=False criticalLevel=minus-one processingDuration=]0-1] planned=True => VisitepÃ©riodique
+Fan=False Leak=False criticalLevel=minus-one workType=preventive done=False => HorsPÃ©rimÃ¨tre
+Fan=False Leak=False processingDuration=]1-2] resolutionDuration=]2-4] planned=False => HorsPÃ©rimÃ¨tre
+Fan=False Leak=False responseTime=]1-2] done=False => HorsPÃ©rimÃ¨tre
+Fan=False Leak=False responseTime=]1-2] processingDuration=]1-2] => HorsPÃ©rimÃ¨tre
+Fan=False Leak=False criticalLevel=minus-one responseTime=]1-2] => HorsPÃ©rimÃ¨tre
+processingDuration=]1-2] resolutionDuration=]2-4] done=False => HorsPÃ©rimÃ¨tre
+Fan=False resolutionDuration=]2-4] done=False => HorsPÃ©rimÃ¨tre
+Leak=False criticalLevel=one workType=corrective responseTime=]0-1] resolutionDuration=]2-4] done=True partial_repair=False => DÃ©pannage_VMCGazousanitaire
+Fan=False Leak=False workType=corrective resolutionDuration=]4-16] planned=True client_planned=False => RemplacementChaudiÃ¨reoucaisson
+criticalLevel=one workType=corrective responseTime=]0-1] planned=True client_planned=False => DÃ©pannage_VMCGazousanitaire
+criticalLevel=one workType=corrective processingDuration=]1-2] resolutionDuration=]2-4] planned=True client_planned=False => Boucheventilation
+Fan=False Leak=False processingDuration=]0-1] resolutionDuration=]1-2] => VisitepÃ©riodique
+Leak=False workType=corrective responseTime=]2-4] resolutionDuration=]4-16] => RemplacementChaudiÃ¨reoucaisson
+Fan=False Leak=False responseTime=]2-4] resolutionDuration=]4-16] => RemplacementChaudiÃ¨reoucaisson
+Fan=False Leak=False responseTime=]72--[ planned=True => VisitepÃ©riodique
+Fan=False Leak=False criticalLevel=minus-one resolutionDuration=]1-2] done=True planned=True client_planned=False partial_repair=False => RemplacementChaudiÃ¨reoucaisson
+Fan=False Leak=False workType=corrective resolutionDuration=]1-2] done=True planned=True client_planned=False partial_repair=False => RemplacementChaudiÃ¨reoucaisson
+Leak=False workType=corrective processingDuration=]0-1] done=False planned=True client_planned=False partial_repair=True => DÃ©pannageChauffageindividuel
+Fan=False Leak=False processingDuration=]0-1] resolutionDuration=]1-2] done=True partial_repair=False => VisitepÃ©riodique
+Fan=False Leak=False criticalLevel=minus-one responseTime=]0-1] done=True partial_repair=False => VisitepÃ©riodique
+Fan=False Leak=False criticalLevel=minus-one responseTime=]72--[ resolutionDuration=]72--[ => VisitepÃ©riodique
+Leak=False responseTime=]1-2] done=False partial_repair=True => DÃ©pannageChauffageindividuel
+Leak=False resolutionDuration=]2-4] done=False partial_repair=True => DÃ©pannageChauffageindividuel
+responseTime=]72--[ processingDuration=]0-1] => VisitepÃ©riodique
+workType=corrective done=False => DÃ©pannageChauffageindividuel
+Fan=False Leak=False criticalLevel=minus-one processingDuration=]0-1] planned=True client_planned=False => VisitepÃ©riodique
+Leak=False criticalLevel=one workType=corrective processingDuration=]0-1] resolutionDuration=]2-4] planned=True client_planned=False => DÃ©pannage_VMCGazousanitaire
+Fan=False Leak=False processingDuration=]1-2] resolutionDuration=]2-4] client_planned=False partial_repair=False => HorsPÃ©rimÃ¨tre
+Leak=False responseTime=]1-2] resolutionDuration=]2-4] done=False client_planned=False => HorsPÃ©rimÃ¨tre
+Leak=False responseTime=]1-2] processingDuration=]1-2] resolutionDuration=]2-4] client_planned=False => HorsPÃ©rimÃ¨tre
+Leak=False responseTime=]1-2] processingDuration=]1-2] resolutionDuration=]2-4] partial_repair=False => HorsPÃ©rimÃ¨tre
+Leak=False responseTime=]1-2] processingDuration=]1-2] client_planned=False partial_repair=False => HorsPÃ©rimÃ¨tre
+Fan=False Leak=False responseTime=]1-2] resolutionDuration=]2-4] partial_repair=False => HorsPÃ©rimÃ¨tre
+Fan=False Leak=False responseTime=]1-2] client_planned=False partial_repair=False => HorsPÃ©rimÃ¨tre
+criticalLevel=one workType=corrective done=False planned=True client_planned=False => DÃ©pannageChauffageindividuel
+Fan=False workType=corrective processingDuration=]1-2] => DÃ©pannageChauffageindividuel
+Leak=False workType=corrective responseTime=]2-4] done=True planned=True client_planned=False partial_repair=False => RemplacementChaudiÃ¨reoucaisson
+Fan=False Leak=False resolutionDuration=]4-16] done=True planned=True client_planned=False partial_repair=False => RemplacementChaudiÃ¨reoucaisson
+Fan=False Leak=False criticalLevel=minus-one resolutionDuration=]1-2] => VisitepÃ©riodique
+responseTime=]0-1] processingDuration=]0-1] done=True partial_repair=False => DÃ©pannage_VMCGazousanitaire
+Leak=False criticalLevel=one workType=corrective resolutionDuration=]4-16] => DÃ©pannageChauffageindividuel
+Leak=False responseTime=]0-1] processingDuration=]0-1] => DÃ©pannage_VMCGazousanitaire
+Fan=False done=False partial_repair=True => DÃ©pannageChauffageindividuel
+Fan=False workType=corrective => DÃ©pannageChauffageindividuel
+Fan=False client_planned=True => DÃ©pannageChauffageindividuel
+Leak=False processingDuration=]1-2] resolutionDuration=]2-4] planned=True client_planned=False partial_repair=False => Boucheventilation
+Fan=False Leak=False workType=corrective resolutionDuration=]2-4] done=True partial_repair=False => DÃ©pannageChauffageindividuel
+Fan=False workType=corrective resolutionDuration=]2-4] planned=True client_planned=False => DÃ©pannageChauffageindividuel
+Leak=False workType=corrective processingDuration=]0-1] done=False => DÃ©pannageChauffageindividuel
+Fan=False Leak=False responseTime=]72--[ => VisitepÃ©riodique
+Fan=False planned=False client_planned=True => DÃ©pannageChauffageindividuel
+Fan=False Leak=False workType=corrective processingDuration=]1-2] => DÃ©pannageChauffageindividuel
+Fan=False Leak=False workType=corrective processingDuration=]0-1] done=True partial_repair=False => DÃ©pannageChauffageindividuel
+Fan=False Leak=False criticalLevel=minus-one workType=preventive resolutionDuration=]2-4] => HorsPÃ©rimÃ¨tre
+Fan=False Leak=False responseTime=]1-2] planned=False => HorsPÃ©rimÃ¨tre
+Leak=False criticalLevel=one workType=corrective responseTime=]1-2] resolutionDuration=]2-4] planned=True client_planned=False partial_repair=False => Boucheventilation
+Leak=False processingDuration=]1-2] done=True planned=False client_planned=True partial_repair=False => DÃ©pannageChauffageindividuel
+Fan=False Leak=False responseTime=]72--[ planned=True client_planned=False => VisitepÃ©riodique
+Leak=False criticalLevel=one workType=corrective responseTime=]1-2] processingDuration=]0-1] => DÃ©pannageChauffageindividuel
+Fan=False Leak=False responseTime=]1-2] planned=True client_planned=False => DÃ©pannageChauffageindividuel
+Fan=False Leak=False responseTime=]1-2] processingDuration=]0-1] => DÃ©pannageChauffageindividuel
+Fan=False Leak=False client_planned=True => DÃ©pannageChauffageindividuel
+Fan=False Leak=False done=False partial_repair=True => DÃ©pannageChauffageindividuel
+Leak=False workType=corrective done=False => DÃ©pannageChauffageindividuel
+Fan=False Leak=False planned=False client_planned=True => DÃ©pannageChauffageindividuel
+Leak=False workType=corrective responseTime=]0-1] done=True planned=True client_planned=False partial_repair=False => DÃ©pannage_VMCGazousanitaire
+Leak=False processingDuration=]0-1] resolutionDuration=]2-4] done=True planned=True client_planned=False partial_repair=False => DÃ©pannage_VMCGazousanitaire
+Leak=False workType=corrective processingDuration=]0-1] resolutionDuration=]2-4] planned=True client_planned=False partial_repair=False => DÃ©pannage_VMCGazousanitaire
+Fan=False Leak=False workType=corrective responseTime=]2-4] planned=True client_planned=False => RemplacementChaudiÃ¨reoucaisson
+Leak=False responseTime=]0-1] resolutionDuration=]2-4] done=True partial_repair=False => DÃ©pannage_VMCGazousanitaire
+Fan=False Leak=False workType=corrective resolutionDuration=]4-16] planned=True => RemplacementChaudiÃ¨reoucaisson
+criticalLevel=one workType=corrective responseTime=]0-1] resolutionDuration=]2-4] => DÃ©pannage_VMCGazousanitaire
+Fan=False Leak=False workType=corrective => DÃ©pannageChauffageindividuel
+Leak=False processingDuration=]1-2] resolutionDuration=]2-4] planned=True client_planned=False => Boucheventilation
+Leak=False responseTime=]2-4] resolutionDuration=]4-16] => RemplacementChaudiÃ¨reoucaisson
+Fan=False Leak=False criticalLevel=minus-one workType=preventive resolutionDuration=]2-4] partial_repair=False => HorsPÃ©rimÃ¨tre
+Fan=False Leak=False criticalLevel=minus-one done=False client_planned=False => HorsPÃ©rimÃ¨tre
+Fan=False Leak=False resolutionDuration=]2-4] planned=False partial_repair=False => HorsPÃ©rimÃ¨tre
+Fan=False Leak=False processingDuration=]1-2] resolutionDuration=]2-4] client_planned=False => HorsPÃ©rimÃ¨tre
+Leak=False criticalLevel=one workType=corrective processingDuration=]0-1] resolutionDuration=]2-4] => DÃ©pannage_VMCGazousanitaire
+Leak=False processingDuration=]1-2] done=False client_planned=False => HorsPÃ©rimÃ¨tre
+Fan=False Leak=False criticalLevel=minus-one workType=preventive client_planned=False => VisitepÃ©riodique
+done=False partial_repair=True => DÃ©pannageChauffageindividuel
+Fan=False Leak=False workType=corrective processingDuration=]0-1] done=True planned=True client_planned=False partial_repair=False => RemplacementChaudiÃ¨reoucaisson
+Fan=False Leak=False workType=corrective resolutionDuration=]2-4] planned=True client_planned=False => DÃ©pannageChauffageindividuel
+Leak=False criticalLevel=one workType=corrective responseTime=]2-4] => DÃ©pannageChauffageindividuel
+Fan=False responseTime=]72--[ planned=True => VisitepÃ©riodique
+Leak=False responseTime=]72--[ planned=True => VisitepÃ©riodique
+client_planned=True => DÃ©pannageChauffageindividuel
+Fan=False Leak=False responseTime=]2-4] done=True planned=True client_planned=False partial_repair=False => RemplacementChaudiÃ¨reoucaisson
+Leak=False workType=corrective resolutionDuration=]4-16] done=True planned=True client_planned=False partial_repair=False => RemplacementChaudiÃ¨reoucaisson
+Fan=False Leak=False criticalLevel=minus-one processingDuration=]0-1] done=True planned=True partial_repair=False => VisitepÃ©riodique
+Fan=False Leak=False workType=corrective responseTime=]2-4] done=True partial_repair=False => RemplacementChaudiÃ¨reoucaisson
+Fan=False Leak=False resolutionDuration=]4-16] done=True planned=True partial_repair=False => RemplacementChaudiÃ¨reoucaisson
+Fan=False Leak=False workType=corrective resolutionDuration=]4-16] done=True partial_repair=False => RemplacementChaudiÃ¨reoucaisson
+Leak=False criticalLevel=one workType=corrective done=False planned=True client_planned=False => DÃ©pannageChauffageindividuel
+responseTime=]0-1] processingDuration=]0-1] => DÃ©pannage_VMCGazousanitaire
+planned=False client_planned=True => DÃ©pannageChauffageindividuel
+Leak=False responseTime=]1-2] resolutionDuration=]2-4] done=False => HorsPÃ©rimÃ¨tre
+Fan=False Leak=False criticalLevel=minus-one done=False => HorsPÃ©rimÃ¨tre
+Leak=False client_planned=True => DÃ©pannageChauffageindividuel
+Leak=False planned=False client_planned=True => DÃ©pannageChauffageindividuel
+Fan=False workType=corrective processingDuration=]0-1] planned=True => DÃ©pannageChauffageindividuel
+Leak=False criticalLevel=one workType=corrective responseTime=]0-1] done=True partial_repair=False => DÃ©pannage_VMCGazousanitaire
+Leak=False workType=corrective responseTime=]0-1] planned=True client_planned=False => DÃ©pannage_VMCGazousanitaire
+responseTime=]0-1] resolutionDuration=]2-4] => DÃ©pannage_VMCGazousanitaire
+Leak=False criticalLevel=one workType=corrective processingDuration=]1-2] resolutionDuration=]2-4] partial_repair=False => Boucheventilation
+Fan=False responseTime=]72--[ => VisitepÃ©riodique
+Leak=False responseTime=]72--[ => VisitepÃ©riodique
+Leak=False workType=corrective resolutionDuration=]1-2] done=True planned=True client_planned=False partial_repair=False => RemplacementChaudiÃ¨reoucaisson
+Leak=False criticalLevel=one workType=corrective processingDuration=]0-1] done=False planned=True client_planned=False => DÃ©pannageChauffageindividuel
+Leak=False criticalLevel=one workType=corrective responseTime=]1-2] done=True partial_repair=False => DÃ©pannageChauffageindividuel

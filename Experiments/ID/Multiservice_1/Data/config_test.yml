@@ -1,0 +1,7 @@
+executions:
+  - name_algorithm: "CBA"
+    configuration: 
+      min_sup: 0.05
+      min_conf: 0.6
+    train: "Multiservice_1-train.csv"
+    test: "Multiservice_1-test.csv"

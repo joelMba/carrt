@@ -1,0 +1,43 @@
+responseTime=]72--[ => Boucheauto_Cuisine
+responseTime=]48-72] => Boucheauto_Cuisine
+responseTime=]72--[ => Boucheauto_SDB
+processingDuration=0 => Boucheauto_SDB
+responseTime=]24-48] processingDuration=]0-1] => Bouchehydro_SDB
+resolutionDuration=]16-24] => Caissonventilmanch
+responseTime=]24-48] processingDuration=]1-2] => Caissonventilmanch
+responseTime=]16-24] processingDuration=]4-16] => ChaudiÃ¨resurdevis
+workType=corrective responseTime=0 processingDuration=]0-1] => ChaudiÃ¨resurdevis
+responseTime=0 => ChaudiÃ¨resurdevis
+workType=corrective resolutionDuration=]16-24] => DÃ©pannageP2_Chauffageindividuel
+workType=corrective responseTime=]48-72] => DÃ©pannageP2_Chauffageindividuel
+workType=corrective responseTime=]0-1] resolutionDuration=]1-2] => DÃ©pannageP2_Chauffageindividuel
+workType=corrective responseTime=]24-48] processingDuration=]4-16] => DÃ©pannageP2_Chauffageindividuel
+workType=corrective responseTime=0 => DÃ©pannageP2_Chauffageindividuel
+processingDuration=]1-2] resolutionDuration=]72--[ => DÃ©pannageP2_Chauffageindividuel
+processingDuration=]4-16] => DÃ©pannageP2_Chauffageindividuel
+resolutionDuration=]16-24] => DÃ©pannageP2_Chauffageindividuel
+processingDuration=]2-4] planned=True => DÃ©pannageP2_Chauffageindividuel
+criticalLevel=five responseTime=]2-4] => DÃ©pannage_VMCGaz
+responseTime=]1-2] => DÃ©pannage_VMCGaz
+resolutionDuration=]4-16] => DÃ©pannage_VMCGaz
+responseTime=]0-1] resolutionDuration=]0-1] => DÃ©pannage_VMCGaz
+resolutionDuration=]2-4] => DÃ©pannage_VMCGaz
+resolutionDuration=]1-2] => DÃ©pannage_VMCGaz
+responseTime=]0-1] => DÃ©pannage_VMCGaz
+responseTime=]0-1] resolutionDuration=]2-4] => EntretienVMCcaissonscollgaz
+resolutionDuration=]2-4] => EntretienVMCcaissonscollgaz
+workType=preventive resolutionDuration=]0-1] => RamonageP2_ChaudiÃ¨reindividuel
+responseTime=]24-48] processingDuration=]0-1] => RemplacementpiÃ¨ceP3
+responseTime=]48-72] processingDuration=]0-1] resolutionDuration=]72--[ => RemplacementpiÃ¨ceP3
+criticalLevel=one processingDuration=]1-2] resolutionDuration=]4-16] => RemplacementpiÃ¨ceP3
+processingDuration=]0-1] resolutionDuration=]72--[ => RemplacementpiÃ¨ceP3
+resolutionDuration=]24-48] => RemplacementpiÃ¨ceP3
+workType=preventive => VPCaissongaz
+workType=preventive processingDuration=]1-2] => VPCaissonsan.
+workType=preventive => VPCaissonsan.
+workType=preventive processingDuration=]2-4] => VPNettreseauetbouche
+workType=preventive resolutionDuration=]2-4] => VPNettreseauetbouche
+workType=preventive => VPNettreseauetbouche
+workType=preventive => VPP2_Chauffageindivuduel
+workType=preventive processingDuration=]1-2] => Visited'entretienannuelle-Ent.DispositifSÃ©curitÃ©Collectif
+workType=preventive => Visited'entretienannuelle-Ent.DispositifSÃ©curitÃ©Collectif

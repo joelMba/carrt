@@ -1,8 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[147]:
-
 """
 CARRT (Classification based on Association Rules Ranking with Topsis Method), is an associative classification framework that employs the 'TopKClassRules' algorithm for association rule mining. 
 Additionally, it incorporates multicriteria analysis, particularly the TOPSIS method, for ranking association rules.
@@ -96,9 +94,5 @@ class CARRT(object):
         dataset_name = dataset_name
         df_evaluation = Prediction.experiment(test_data, self.classifier, self.number_of_rules_per_class, dataset_name)
         return df_evaluation
-
-
-
-
 
 

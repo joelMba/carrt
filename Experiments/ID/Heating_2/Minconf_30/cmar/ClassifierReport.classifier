@@ -1,0 +1,58 @@
+workType=corrective done=False planned=False client_planned=True partial_repair=True => DÃ©pannageChauffageindividuel
+criticalLevel=one done=False planned=False client_planned=True partial_repair=True => DÃ©pannageChauffageindividuel
+criticalLevel=one workType=corrective done=False planned=False client_planned=True partial_repair=True => DÃ©pannageChauffageindividuel
+criticalLevel=one workType=corrective processingDuration=]0-1] done=True planned=False client_planned=True partial_repair=False => DÃ©pannageChauffageindividuel
+processingDuration=]0-1] done=False client_planned=True partial_repair=True => DÃ©pannageChauffageindividuel
+workType=corrective processingDuration=]0-1] done=False client_planned=True partial_repair=True => DÃ©pannageChauffageindividuel
+criticalLevel=one processingDuration=]0-1] done=False client_planned=True partial_repair=True => DÃ©pannageChauffageindividuel
+criticalLevel=one workType=corrective processingDuration=]0-1] done=False client_planned=True partial_repair=True => DÃ©pannageChauffageindividuel
+client_planned=True partial_repair=True => DÃ©pannageChauffageindividuel
+planned=False client_planned=True partial_repair=True => DÃ©pannageChauffageindividuel
+done=False planned=False client_planned=True partial_repair=True => DÃ©pannageChauffageindividuel
+criticalLevel=one workType=corrective processingDuration=]0-1] done=False planned=True partial_repair=True => DÃ©pannageChauffageindividuel
+partial_repair=True => DÃ©pannageChauffageindividuel
+workType=corrective client_planned=False partial_repair=True => DÃ©pannageChauffageindividuel
+workType=corrective planned=True client_planned=False partial_repair=True => DÃ©pannageChauffageindividuel
+workType=corrective done=False client_planned=False partial_repair=True => DÃ©pannageChauffageindividuel
+workType=corrective done=False planned=True client_planned=False partial_repair=True => DÃ©pannageChauffageindividuel
+criticalLevel=one workType=corrective processingDuration=]0-1] done=False client_planned=False partial_repair=True => DÃ©pannageChauffageindividuel
+criticalLevel=one processingDuration=]0-1] done=False planned=True client_planned=False partial_repair=True => DÃ©pannageChauffageindividuel
+criticalLevel=one workType=corrective processingDuration=]0-1] done=False planned=True client_planned=False partial_repair=True => DÃ©pannageChauffageindividuel
+planned=True partial_repair=True => DÃ©pannageChauffageindividuel
+done=False planned=True partial_repair=True => DÃ©pannageChauffageindividuel
+workType=corrective processingDuration=]0-1] done=False client_planned=False partial_repair=True => DÃ©pannageChauffageindividuel
+workType=corrective processingDuration=]0-1] done=False planned=True client_planned=False partial_repair=True => DÃ©pannageChauffageindividuel
+client_planned=False partial_repair=True => DÃ©pannageChauffageindividuel
+planned=True client_planned=False partial_repair=True => DÃ©pannageChauffageindividuel
+done=False client_planned=False partial_repair=True => DÃ©pannageChauffageindividuel
+done=False planned=True client_planned=False partial_repair=True => DÃ©pannageChauffageindividuel
+criticalLevel=one workType=corrective processingDuration=]0-1] planned=True client_planned=False => DÃ©pannageChauffageindividuel
+processingDuration=]0-1] done=False planned=True partial_repair=True => DÃ©pannageChauffageindividuel
+criticalLevel=one workType=corrective resolutionDuration=]4-16] planned=True client_planned=False => DÃ©pannageChauffageindividuel
+criticalLevel=one workType=corrective planned=True client_planned=False partial_repair=False => Boucheventilation
+criticalLevel=one workType=corrective done=True client_planned=False partial_repair=False => Boucheventilation
+criticalLevel=one workType=corrective done=True planned=True client_planned=False => Boucheventilation
+criticalLevel=one done=True planned=True client_planned=False partial_repair=False => Boucheventilation
+criticalLevel=one workType=corrective done=True planned=True client_planned=False partial_repair=False => Boucheventilation
+criticalLevel=one workType=corrective done=True planned=True partial_repair=False => Boucheventilation
+client_planned=True partial_repair=False => VisitepÃ©riodique
+processingDuration=]0-1] planned=False client_planned=True partial_repair=False => VisitepÃ©riodique
+processingDuration=]0-1] done=True planned=False client_planned=True => VisitepÃ©riodique
+processingDuration=]0-1] done=True planned=False client_planned=True partial_repair=False => VisitepÃ©riodique
+planned=False client_planned=True partial_repair=False => VisitepÃ©riodique
+done=True planned=False client_planned=True => VisitepÃ©riodique
+done=True planned=False client_planned=True partial_repair=False => VisitepÃ©riodique
+client_planned=False => DÃ©pannageChauffageindividuel
+workType=corrective planned=True partial_repair=False => DÃ©pannageChauffageindividuel
+workType=corrective done=True planned=True partial_repair=False => DÃ©pannageChauffageindividuel
+partial_repair=False => DÃ©pannageChauffageindividuel
+workType=corrective client_planned=False partial_repair=False => DÃ©pannageChauffageindividuel
+workType=corrective planned=True client_planned=False partial_repair=False => DÃ©pannageChauffageindividuel
+workType=corrective done=True client_planned=False partial_repair=False => DÃ©pannageChauffageindividuel
+workType=corrective done=True planned=True client_planned=False partial_repair=False => DÃ©pannageChauffageindividuel
+processingDuration=]0-1] done=True planned=True client_planned=False partial_repair=False => DÃ©pannageChauffageindividuel
+workType=corrective planned=True client_planned=False partial_repair=False => Boucheventilation
+workType=corrective done=True client_planned=False partial_repair=False => Boucheventilation
+workType=corrective done=True planned=True client_planned=False partial_repair=False => Boucheventilation
+workType=corrective resolutionDuration=]4-16] client_planned=False => RemplacementChaudiÃ¨reoucaisson
+workType=corrective resolutionDuration=]4-16] planned=True client_planned=False => RemplacementChaudiÃ¨reoucaisson

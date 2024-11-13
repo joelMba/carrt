@@ -1,0 +1,200 @@
+.dataset_Multiservice_2: &dataset_Multiservice_2
+  train: Multiservice_2-train.csv
+  test: Multiservice_2-test.csv
+
+.config_1: &config_1
+   configuration: 
+     min_sup: 0.05
+     min_conf: 0.3
+
+.config_2: &config_2
+   configuration: 
+     min_sup: 0.05
+     min_conf: 0.45
+
+.config_3: &config_3
+   configuration: 
+     min_sup: 0.05
+     min_conf: 0.6
+
+executions:
+  -
+    name_algorithm: 'CBA'
+    <<: *config_1
+    <<: *dataset_Multiservice_2
+    report_type: ['KlassReport', 'ClassifierReport', 'MetricsReport']
+    report: '../Minconf_30/cba'
+  -
+    name_algorithm: 'CBA'
+    <<: *config_2
+    <<: *dataset_Multiservice_2
+    report_type: ['KlassReport', 'ClassifierReport', 'MetricsReport']
+    report: '../Minconf_45/cba'
+  -
+    name_algorithm: 'CBA'
+    <<: *config_3
+    <<: *dataset_Multiservice_2
+    report_type: ['KlassReport', 'ClassifierReport', 'MetricsReport']
+    report: '../Minconf_60/cba'
+  -
+    name_algorithm: 'CBA2'
+    <<: *config_1
+    <<: *dataset_Multiservice_2
+    report_type: ['KlassReport', 'ClassifierReport', 'MetricsReport']
+    report: '../Minconf_30/cba2'
+  -
+    name_algorithm: 'CBA2'
+    <<: *config_2
+    <<: *dataset_Multiservice_2
+    report_type: ['KlassReport', 'ClassifierReport', 'MetricsReport']
+    report: '../Minconf_45/cba2'
+  -
+    name_algorithm: 'CBA2'
+    <<: *config_3
+    <<: *dataset_Multiservice_2
+    report_type: ['KlassReport', 'ClassifierReport', 'MetricsReport']
+    report: '../Minconf_60/cba2'
+  -
+    name_algorithm: 'ACAC'
+    <<: *config_1
+    <<: *dataset_Multiservice_2
+    report_type: ['KlassReport', 'ClassifierReport', 'MetricsReport']
+    report: '../Minconf_30/acac'
+  -
+    name_algorithm: 'ACAC'
+    <<: *config_2
+    <<: *dataset_Multiservice_2
+    report_type: ['KlassReport', 'ClassifierReport', 'MetricsReport']
+    report: '../Minconf_45/acac'
+  -
+    name_algorithm: 'ACAC'
+    <<: *config_3
+    <<: *dataset_Multiservice_2
+    report_type: ['KlassReport', 'ClassifierReport', 'MetricsReport']
+    report: '../Minconf_60/acac'
+  -
+    name_algorithm: 'ACCF'
+    <<: *config_1
+    <<: *dataset_Multiservice_2
+    report_type: ['KlassReport', 'ClassifierReport', 'MetricsReport']
+    report: '../Minconf_30/accf'
+  -
+    name_algorithm: 'ACCF'
+    <<: *config_2
+    <<: *dataset_Multiservice_2
+    report_type: ['KlassReport', 'ClassifierReport', 'MetricsReport']
+    report: '../Minconf_45/accf'
+  -
+    name_algorithm: 'ACCF'
+    <<: *config_3
+    <<: *dataset_Multiservice_2
+    report_type: ['KlassReport', 'ClassifierReport', 'MetricsReport']
+    report: '../Minconf_60/accf'
+  -
+    name_algorithm: 'ACN'
+    <<: *config_1
+    <<: *dataset_Multiservice_2
+    report_type: ['KlassReport', 'ClassifierReport', 'MetricsReport']
+    report: '../Minconf_30/acn'
+  -
+    name_algorithm: 'ACN'
+    <<: *config_2
+    <<: *dataset_Multiservice_2
+    report_type: ['KlassReport', 'ClassifierReport', 'MetricsReport']
+    report: '../Minconf_45/acn'
+  -
+    name_algorithm: 'ACN'
+    <<: *config_3
+    <<: *dataset_Multiservice_2
+    report_type: ['KlassReport', 'ClassifierReport', 'MetricsReport']
+    report: '../Minconf_60/acn'
+  -
+    name_algorithm: 'CMAR'
+    <<: *config_1
+    <<: *dataset_Multiservice_2
+    report_type: ['KlassReport', 'ClassifierReport', 'MetricsReport']
+    report: '../Minconf_30/cmar'
+  -
+    name_algorithm: 'CMAR'
+    <<: *config_2
+    <<: *dataset_Multiservice_2
+    report_type: ['KlassReport', 'ClassifierReport', 'MetricsReport']
+    report: '../Minconf_45/cmar'
+  -
+    name_algorithm: 'CMAR'
+    <<: *config_3
+    <<: *dataset_Multiservice_2
+    report_type: ['KlassReport', 'ClassifierReport', 'MetricsReport']
+    report: '../Minconf_60/cmar'
+  -
+    name_algorithm: 'L3'
+    <<: *config_1
+    <<: *dataset_Multiservice_2
+    report_type: ['KlassReport', 'ClassifierReport', 'MetricsReport']
+    report: '../Minconf_30/L3'
+  -
+    name_algorithm: 'L3'
+    <<: *config_2
+    <<: *dataset_Multiservice_2
+    report_type: ['KlassReport', 'ClassifierReport', 'MetricsReport']
+    report: '../Minconf_45/L3'
+  -
+    name_algorithm: 'L3'
+    <<: *config_3
+    <<: *dataset_Multiservice_2
+    report_type: ['KlassReport', 'ClassifierReport', 'MetricsReport']
+    report: '../Minconf_60/L3'
+  -
+    name_algorithm: 'MAC'
+    <<: *config_1
+    <<: *dataset_Multiservice_2
+    report_type: ['KlassReport', 'ClassifierReport', 'MetricsReport']
+    report: '../Minconf_30/mac'
+  -
+    name_algorithm: 'MAC'
+    <<: *config_2
+    <<: *dataset_Multiservice_2
+    report_type: ['KlassReport', 'ClassifierReport', 'MetricsReport']
+    report: '../Minconf_45/mac'
+  -
+    name_algorithm: 'MAC'
+    <<: *config_3
+    <<: *dataset_Multiservice_2
+    report_type: ['KlassReport', 'ClassifierReport', 'MetricsReport']
+    report: '../Minconf_60/mac'
+  -
+    name_algorithm: 'ADT'
+    <<: *config_1
+    <<: *dataset_Multiservice_2
+    report_type: ['KlassReport', 'ClassifierReport', 'MetricsReport']
+    report: '../Minconf_30/adt'
+  -
+    name_algorithm: 'ADT'
+    <<: *config_2
+    <<: *dataset_Multiservice_2
+    report_type: ['KlassReport', 'ClassifierReport', 'MetricsReport']
+    report: '../Minconf_45/adt'
+  -
+    name_algorithm: 'ADT'
+    <<: *config_3
+    <<: *dataset_Multiservice_2
+    report_type: ['KlassReport', 'ClassifierReport', 'MetricsReport']
+    report: '../Minconf_60/adt'
+  -
+    name_algorithm: 'CPAR'
+    <<: *config_1
+    <<: *dataset_Multiservice_2
+    report_type: ['KlassReport', 'ClassifierReport', 'MetricsReport']
+    report: '../Minconf_30/cpar'
+  -
+    name_algorithm: 'CPAR'
+    <<: *config_2
+    <<: *dataset_Multiservice_2
+    report_type: ['KlassReport', 'ClassifierReport', 'MetricsReport']
+    report: '../Minconf_45/cpar'
+  -
+    name_algorithm: 'CPAR'
+    <<: *config_3
+    <<: *dataset_Multiservice_2
+    report_type: ['KlassReport', 'ClassifierReport', 'MetricsReport']
+    report: '../Minconf_60/cpar'

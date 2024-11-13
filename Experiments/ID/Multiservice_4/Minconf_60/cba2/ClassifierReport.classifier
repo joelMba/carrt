@@ -1,0 +1,30 @@
+criticalLevel=five processingDuration=]1-2] => Pannechauffind
+responseTime=]16-24] processingDuration=]1-2] => Pannechauffind
+processingDuration=]1-2] resolutionDuration=]4-16] => Pannechauffind
+criticalLevel=five resolutionDuration=]24-48] canceled=True => Pannechauffind
+responseTime=]2-4] canceled=True => PanneProductionECS
+resolutionDuration=]4-16] canceled=True => PanneProductionECS
+criticalLevel=three responseTime=]48-72] => PanneProductionECS
+workType=preventive processingDuration=]2-4] => VisiteentretienchaudiÃ¨re
+responseTime=]48-72] processingDuration=]2-4] => PanneVMCsanitaire
+resolutionDuration=]0-1] occupant_absent=True => Visiteentretienrobinetterie
+criticalLevel=five responseTime=]72--[ processingDuration=]0-1] => PanneProductionECS
+criticalLevel=three responseTime=]72--[ canceled=False => EntretienpompesÃ chaleur
+workType=preventive processingDuration=]0-1] occupant_absent=False => Visiteentretienventilationcoll
+criticalLevel=three responseTime=]72--[ occupant_absent=False canceled=True => PanneElectrique
+resolutionDuration=]4-16] canceled=False => Pannechauffind
+criticalLevel=five responseTime=]16-24] => Pannechauffind
+responseTime=]2-4] canceled=False => Pannechauffind
+processingDuration=]1-2] canceled=True => Pannechauffind
+workType=corrective resolutionDuration=0 canceled=False => Pannechauffind
+resolutionDuration=]2-4] planned=True canceled=False => Pannechauffind
+criticalLevel=three canceled=False => Pannechauffind
+responseTime=]16-24] canceled=False => Pannechauffind
+workType=corrective resolutionDuration=0 => Pannechauffind
+responseTime=]24-48] canceled=True => Pannechauffind
+workType=corrective processingDuration=0 canceled=False => Pannechauffind
+responseTime=0 planned=True canceled=False => Pannechauffind
+responseTime=]0-1] resolutionDuration=]0-1] => PanneRobinetterie
+responseTime=]0-1] processingDuration=]0-1] canceled=False => PanneRobinetterie
+responseTime=]0-1] resolutionDuration=]1-2] canceled=False => PanneRobinetterie
+ => Pannechauffind

@@ -1,0 +1,30 @@
+criticalLevel=one => TMH-dÃ©pannageventilation
+criticalLevel=zero => TMH-visiteentretienventilation
+workType=corrective => TMH-dÃ©pannageventilation
+workType=preventive => TMH-visiteentretienventilation
+responseTime=0 => TMH-visiteentretienventilation
+responseTime=]24-48] => TMH-dÃ©pannageventilation
+responseTime=]48-72] => TMH-visiteentretienventilation
+responseTime=]72--[ => TMH-visiteentretienventilation
+processingDuration=0 => TMH-visiteentretienventilation
+processingDuration=]0-1] => TMH-visiteentretienventilation
+processingDuration=]1-2] => TMH-visiteentretienventilation
+processingDuration=]72--[ => TMH-visiteentretienventilation
+resolutionDuration=]24-48] => TMH-visiteentretienventilation
+resolutionDuration=]48-72] => TMH-visiteentretienventilation
+resolutionDuration=]72--[ => TMH-visiteentretienventilation
+start=False => TMH-visiteentretienventilation
+start=True => TMH-visiteentretienventilation
+planned=False => TMH-dÃ©pannageventilation
+planned=False => TMH-visiteentretienventilation
+planned=True => TMH-visiteentretienventilation
+replanned=False => TMH-visiteentretienventilation
+replanned=True => TMH-visiteentretienventilation
+postponed=False => TMH-visiteentretienventilation
+postponed=True => TMH-visiteentretienventilation
+occupant_absent=False => TMH-visiteentretienventilation
+occupant_absent=True => TMH-visiteentretienventilation
+requested=False => TMH-visiteentretienventilation
+requested=True => TMH-dÃ©pannageventilation
+start=True replanned=True occupant_absent=False => TMH-dÃ©pannageventilation
+resolutionDuration=]72--[ start=True postponed=False occupant_absent=False => TMH-dÃ©pannageventilation

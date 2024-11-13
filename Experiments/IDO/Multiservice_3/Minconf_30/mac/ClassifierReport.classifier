@@ -1,0 +1,22 @@
+criticalLevel=five workType=corrective replanned=False occupant_absent=False => PanneRobinetterie
+Water=False processingDuration=]4-16] Leak=False workType=corrective replanned=False occupant_absent=False => PanneRobinetterie
+Water=False temporary_repair=True Leak=False canceled=False criticalLevel=minus-one workType=corrective resolutionDuration=]72--[ replanned=False responseTime=]72--[ occupant_absent=False => PanneRobinetterie
+Water=False Leak=False canceled=True workType=corrective resolutionDuration=]72--[ replanned=False responseTime=]72--[ occupant_absent=False => PanneRobinetterie
+Water=False Leak=False canceled=False resolutionDuration=]16-24] workType=corrective responseTime=]16-24] replanned=False processingDuration=]0-1] => PanneRobinetterie
+temporary_repair=False Water=False Leak=False canceled=False workType=corrective responseTime=]24-48] replanned=False => PanneRobinetterie
+temporary_repair=False canceled=False workType=corrective done=True responseTime=]4-16] replanned=False occupant_absent=False => PanneRobinetterie
+temporary_repair=False Water=False Leak=False canceled=False workType=corrective occupant_absent=True processingDuration=]0-1] => PanneRobinetterie
+temporary_repair=False canceled=False resolutionDuration=]4-16] workType=corrective done=True replanned=False occupant_absent=False => PanneRobinetterie
+Leak=False canceled=False workType=corrective responseTime=]24-48] replanned=False => PanneRobinetterie
+temporary_repair=False Water=False canceled=False criticalLevel=one workType=corrective done=True replanned=False processingDuration=]0-1] => PanneRobinetterie
+temporary_repair=True Leak=False canceled=False criticalLevel=minus-one workType=corrective resolutionDuration=]72--[ responseTime=]72--[ occupant_absent=False => PanneRobinetterie
+Water=False temporary_repair=True Leak=False workType=corrective resolutionDuration=]72--[ replanned=False responseTime=]72--[ occupant_absent=False => PanneRobinetterie
+Water=False Leak=False canceled=False resolutionDuration=]16-24] workType=corrective replanned=False => PanneRobinetterie
+temporary_repair=True canceled=False workType=corrective done=True replanned=False occupant_absent=False => PanneRobinetterie
+temporary_repair=False Water=False workType=corrective => PanneRobinetterie
+workType=corrective done=True replanned=False => PanneRobinetterie
+Water=False temporary_repair=True Leak=False canceled=False criticalLevel=minus-one workType=corrective resolutionDuration=]72--[ replanned=False occupant_absent=False => PanneRobinetterie
+Water=False canceled=False resolutionDuration=]16-24] workType=corrective responseTime=]16-24] replanned=False processingDuration=]0-1] => PanneRobinetterie
+Leak=False workType=corrective => PanneRobinetterie
+canceled=False resolutionDuration=]4-16] workType=corrective replanned=False occupant_absent=False => PanneRobinetterie
+ => PanneRobinetterie

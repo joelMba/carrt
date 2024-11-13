@@ -1,0 +1,162 @@
+replace=True => TMH-dÃ©pannageventilation
+criticalLevel=one => TMH-dÃ©pannageventilation
+workType=preventive => TMH-visiteentretienventilation
+responseTime=0 => TMH-visiteentretienventilation
+start=False => TMH-visiteentretienventilation
+postponed=True => TMH-visiteentretienventilation
+occupant_absent=True => TMH-visiteentretienventilation
+requested=False => TMH-visiteentretienventilation
+Fan=True processingDuration=]0-1] => ALTEAL-dÃ©pannagemultiservice
+Fan=True replanned=False => ALTEAL-dÃ©pannagemultiservice
+Fan=True workType=corrective => TMH-dÃ©pannageventilation
+Fan=True start=True => TMH-dÃ©pannageventilation
+Fan=True replanned=True => TMH-dÃ©pannageventilation
+criticalLevel=one responseTime=]72--[ => ALTEAL-dÃ©pannagemultiservice
+criticalLevel=one processingDuration=]0-1] => ALTEAL-dÃ©pannagemultiservice
+criticalLevel=one replanned=False => ALTEAL-dÃ©pannagemultiservice
+workType=corrective replanned=False => ALTEAL-dÃ©pannagemultiservice
+workType=corrective replanned=True => TMH-dÃ©pannageventilation
+responseTime=]72--[ processingDuration=]0-1] => ALTEAL-dÃ©pannagemultiservice
+responseTime=]72--[ planned=False => DÃ©pannage
+processingDuration=]0-1] resolutionDuration=]72--[ => ALTEAL-dÃ©pannagemultiservice
+Fan=False replace=False criticalLevel=zero => TMH-visiteentretienventilation
+Fan=True responseTime=]72--[ planned=True => ALTEAL-dÃ©pannagemultiservice
+replace=False workType=corrective processingDuration=]0-1] => ALTEAL-dÃ©pannagemultiservice
+replace=False processingDuration=]72--[ planned=False => DÃ©pannage
+criticalLevel=zero processingDuration=]72--[ planned=False => DÃ©pannage
+workType=corrective processingDuration=]0-1] planned=True => ALTEAL-dÃ©pannagemultiservice
+workType=corrective processingDuration=]72--[ planned=False => DÃ©pannage
+responseTime=]72--[ replanned=False requested=True => ALTEAL-dÃ©pannagemultiservice
+processingDuration=]0-1] replanned=False requested=True => ALTEAL-dÃ©pannagemultiservice
+processingDuration=]72--[ start=True planned=False => DÃ©pannage
+processingDuration=]72--[ planned=False postponed=False => DÃ©pannage
+processingDuration=]72--[ planned=False requested=True => DÃ©pannage
+resolutionDuration=]72--[ replanned=False requested=True => ALTEAL-dÃ©pannagemultiservice
+Fan=False replace=False criticalLevel=zero workType=corrective => TGH82-dÃ©pannageventilation
+Fan=False replace=False workType=corrective processingDuration=]72--[ => TGH82-dÃ©pannageventilation
+Fan=False replace=False workType=corrective planned=True => TGH82-dÃ©pannageventilation
+Fan=False criticalLevel=zero workType=corrective processingDuration=]72--[ => TGH82-dÃ©pannageventilation
+Fan=False criticalLevel=zero workType=corrective planned=True => TGH82-dÃ©pannageventilation
+Fan=False workType=corrective responseTime=]72--[ processingDuration=]72--[ => TGH82-dÃ©pannageventilation
+Fan=False workType=corrective responseTime=]72--[ planned=True => TGH82-dÃ©pannageventilation
+Fan=False workType=corrective processingDuration=]72--[ planned=True => TGH82-dÃ©pannageventilation
+Fan=False workType=corrective processingDuration=]72--[ postponed=False => TGH82-dÃ©pannageventilation
+Fan=False workType=corrective resolutionDuration=]72--[ planned=True => TGH82-dÃ©pannageventilation
+Fan=False workType=corrective planned=True replanned=True => TGH82-dÃ©pannageventilation
+Fan=False processingDuration=]72--[ planned=True requested=True => TGH82-dÃ©pannageventilation
+Fan=True replace=False resolutionDuration=]72--[ planned=True => ALTEAL-dÃ©pannagemultiservice
+Fan=True criticalLevel=one resolutionDuration=]72--[ planned=True => ALTEAL-dÃ©pannagemultiservice
+replace=False processingDuration=]0-1] planned=True requested=True => ALTEAL-dÃ©pannagemultiservice
+replace=False processingDuration=]0-1] postponed=False requested=True => ALTEAL-dÃ©pannagemultiservice
+replace=False start=True replanned=False requested=True => ALTEAL-dÃ©pannagemultiservice
+replace=False planned=True replanned=False requested=True => ALTEAL-dÃ©pannagemultiservice
+replace=False replanned=False occupant_absent=False requested=True => ALTEAL-dÃ©pannagemultiservice
+replace=False criticalLevel=zero workType=corrective planned=False => DÃ©pannage
+replace=False criticalLevel=zero resolutionDuration=]72--[ planned=False => DÃ©pannage
+replace=False criticalLevel=zero planned=False requested=True => DÃ©pannage
+replace=False workType=corrective resolutionDuration=]72--[ planned=False => DÃ©pannage
+replace=False resolutionDuration=]72--[ planned=False requested=True => DÃ©pannage
+replace=False criticalLevel=zero workType=corrective planned=True => TGH82-dÃ©pannageventilation
+replace=False workType=corrective processingDuration=]72--[ planned=True => TGH82-dÃ©pannageventilation
+criticalLevel=one resolutionDuration=]72--[ planned=True postponed=False => ALTEAL-dÃ©pannagemultiservice
+criticalLevel=zero workType=corrective resolutionDuration=]72--[ planned=False => DÃ©pannage
+criticalLevel=zero resolutionDuration=]72--[ planned=False requested=True => DÃ©pannage
+criticalLevel=zero workType=corrective responseTime=]72--[ planned=True => TGH82-dÃ©pannageventilation
+criticalLevel=zero workType=corrective processingDuration=]72--[ planned=True => TGH82-dÃ©pannageventilation
+criticalLevel=zero processingDuration=]72--[ planned=True requested=True => TGH82-dÃ©pannageventilation
+workType=corrective responseTime=]72--[ processingDuration=]72--[ planned=True => TGH82-dÃ©pannageventilation
+workType=corrective processingDuration=]72--[ planned=True postponed=False => TGH82-dÃ©pannageventilation
+responseTime=]72--[ processingDuration=]72--[ planned=True requested=True => TGH82-dÃ©pannageventilation
+Fan=False replace=False workType=corrective responseTime=]72--[ postponed=False => TGH82-dÃ©pannageventilation
+Fan=False replace=False responseTime=]72--[ processingDuration=]72--[ requested=True => TGH82-dÃ©pannageventilation
+Fan=False replace=False processingDuration=]72--[ occupant_absent=False requested=True => TGH82-dÃ©pannageventilation
+Fan=False criticalLevel=zero workType=corrective responseTime=]72--[ replanned=True => TGH82-dÃ©pannageventilation
+Fan=False criticalLevel=zero workType=corrective responseTime=]72--[ postponed=False => TGH82-dÃ©pannageventilation
+Fan=False criticalLevel=zero workType=corrective responseTime=]72--[ occupant_absent=False => TGH82-dÃ©pannageventilation
+Fan=False criticalLevel=zero responseTime=]72--[ processingDuration=]72--[ requested=True => TGH82-dÃ©pannageventilation
+Fan=False responseTime=]72--[ processingDuration=]72--[ postponed=False requested=True => TGH82-dÃ©pannageventilation
+Fan=False responseTime=]72--[ processingDuration=]72--[ occupant_absent=False requested=True => TGH82-dÃ©pannageventilation
+replace=False criticalLevel=zero responseTime=]72--[ planned=True requested=True => TGH82-dÃ©pannageventilation
+replace=False workType=corrective responseTime=]72--[ planned=True replanned=True => TGH82-dÃ©pannageventilation
+replace=False processingDuration=]72--[ planned=True postponed=False requested=True => TGH82-dÃ©pannageventilation
+criticalLevel=zero resolutionDuration=]72--[ start=True planned=False postponed=False => DÃ©pannage
+criticalLevel=zero resolutionDuration=]72--[ planned=False replanned=True postponed=False => DÃ©pannage
+criticalLevel=zero resolutionDuration=]72--[ planned=False postponed=False occupant_absent=False => DÃ©pannage
+criticalLevel=zero workType=corrective resolutionDuration=]72--[ planned=True replanned=True => TGH82-dÃ©pannageventilation
+criticalLevel=zero workType=corrective resolutionDuration=]72--[ planned=True postponed=False => TGH82-dÃ©pannageventilation
+criticalLevel=zero workType=corrective resolutionDuration=]72--[ planned=True occupant_absent=False => TGH82-dÃ©pannageventilation
+criticalLevel=zero workType=corrective planned=True replanned=True postponed=False => TGH82-dÃ©pannageventilation
+criticalLevel=zero workType=corrective planned=True replanned=True occupant_absent=False => TGH82-dÃ©pannageventilation
+workType=corrective responseTime=]72--[ planned=True replanned=True occupant_absent=False => TGH82-dÃ©pannageventilation
+workType=corrective processingDuration=]72--[ planned=True replanned=True occupant_absent=False => TGH82-dÃ©pannageventilation
+responseTime=]72--[ start=True postponed=False occupant_absent=False requested=False => TMH-visiteentretiencaissonVMCsanitaire
+Fan=False replace=False criticalLevel=zero processingDuration=]72--[ start=True requested=True => TGH82-dÃ©pannageventilation
+Fan=False replace=False criticalLevel=zero processingDuration=]72--[ replanned=True requested=True => TGH82-dÃ©pannageventilation
+Fan=False replace=False criticalLevel=zero processingDuration=]72--[ postponed=False requested=True => TGH82-dÃ©pannageventilation
+Fan=False replace=False criticalLevel=zero resolutionDuration=]72--[ planned=True requested=True => TGH82-dÃ©pannageventilation
+Fan=False replace=False criticalLevel=zero planned=True replanned=True requested=True => TGH82-dÃ©pannageventilation
+Fan=False replace=False workType=corrective responseTime=]72--[ replanned=True occupant_absent=False => TGH82-dÃ©pannageventilation
+Fan=False replace=False workType=corrective resolutionDuration=]72--[ replanned=True postponed=False => TGH82-dÃ©pannageventilation
+Fan=False replace=False workType=corrective resolutionDuration=]72--[ postponed=False occupant_absent=False => TGH82-dÃ©pannageventilation
+Fan=False replace=False responseTime=]72--[ planned=True replanned=True requested=True => TGH82-dÃ©pannageventilation
+Fan=False replace=False processingDuration=]72--[ start=True postponed=False requested=True => TGH82-dÃ©pannageventilation
+Fan=False replace=False processingDuration=]72--[ replanned=True postponed=False requested=True => TGH82-dÃ©pannageventilation
+Fan=False criticalLevel=zero responseTime=]72--[ start=True planned=True requested=True => TGH82-dÃ©pannageventilation
+Fan=False criticalLevel=zero responseTime=]72--[ planned=True replanned=True requested=True => TGH82-dÃ©pannageventilation
+Fan=False criticalLevel=zero responseTime=]72--[ planned=True postponed=False requested=True => TGH82-dÃ©pannageventilation
+Fan=False criticalLevel=zero responseTime=]72--[ planned=True occupant_absent=False requested=True => TGH82-dÃ©pannageventilation
+Fan=False responseTime=]72--[ processingDuration=]72--[ planned=True replanned=True postponed=False => TGH82-dÃ©pannageventilation
+Fan=False responseTime=]72--[ planned=True replanned=True postponed=False requested=True => TGH82-dÃ©pannageventilation
+replace=False responseTime=]72--[ start=True replanned=False postponed=False occupant_absent=False => ALTEAL-dÃ©pannagemultiservice
+replace=False criticalLevel=zero start=True planned=False replanned=True postponed=False => DÃ©pannage
+replace=False criticalLevel=zero start=True planned=False replanned=True occupant_absent=False => DÃ©pannage
+replace=False criticalLevel=zero planned=False replanned=True postponed=False occupant_absent=False => DÃ©pannage
+replace=False resolutionDuration=]72--[ start=True planned=False replanned=True postponed=False => DÃ©pannage
+replace=False resolutionDuration=]72--[ start=True planned=False postponed=False occupant_absent=False => DÃ©pannage
+replace=False criticalLevel=zero resolutionDuration=]72--[ start=True planned=True requested=True => TGH82-dÃ©pannageventilation
+replace=False criticalLevel=zero resolutionDuration=]72--[ planned=True replanned=True requested=True => TGH82-dÃ©pannageventilation
+replace=False criticalLevel=zero resolutionDuration=]72--[ planned=True postponed=False requested=True => TGH82-dÃ©pannageventilation
+replace=False criticalLevel=zero resolutionDuration=]72--[ planned=True occupant_absent=False requested=True => TGH82-dÃ©pannageventilation
+replace=False criticalLevel=zero start=True planned=True replanned=True requested=True => TGH82-dÃ©pannageventilation
+replace=False criticalLevel=zero planned=True replanned=True postponed=False requested=True => TGH82-dÃ©pannageventilation
+replace=False criticalLevel=zero planned=True replanned=True occupant_absent=False requested=True => TGH82-dÃ©pannageventilation
+replace=False workType=corrective resolutionDuration=]72--[ planned=True replanned=True postponed=False => TGH82-dÃ©pannageventilation
+replace=False responseTime=]72--[ processingDuration=]72--[ planned=True replanned=True postponed=False => TGH82-dÃ©pannageventilation
+replace=False processingDuration=]72--[ start=True planned=True replanned=True requested=True => TGH82-dÃ©pannageventilation
+replace=False processingDuration=]72--[ planned=True replanned=True occupant_absent=False requested=True => TGH82-dÃ©pannageventilation
+criticalLevel=zero responseTime=]72--[ processingDuration=]72--[ planned=True replanned=True postponed=False => TGH82-dÃ©pannageventilation
+criticalLevel=zero responseTime=]72--[ processingDuration=]72--[ planned=True replanned=True occupant_absent=False => TGH82-dÃ©pannageventilation
+criticalLevel=zero responseTime=]72--[ processingDuration=]72--[ planned=True postponed=False occupant_absent=False => TGH82-dÃ©pannageventilation
+criticalLevel=zero responseTime=]72--[ planned=True replanned=True postponed=False requested=True => TGH82-dÃ©pannageventilation
+criticalLevel=zero responseTime=]72--[ planned=True replanned=True occupant_absent=False requested=True => TGH82-dÃ©pannageventilation
+responseTime=]72--[ processingDuration=]72--[ planned=True replanned=True postponed=False occupant_absent=False => TGH82-dÃ©pannageventilation
+processingDuration=]72--[ start=True planned=True postponed=False occupant_absent=False requested=True => TGH82-dÃ©pannageventilation
+processingDuration=]72--[ planned=True replanned=True postponed=False occupant_absent=False requested=True => TGH82-dÃ©pannageventilation
+Fan=False replace=False criticalLevel=zero start=True planned=True postponed=False requested=True => TGH82-dÃ©pannageventilation
+Fan=False replace=False criticalLevel=zero start=True planned=True occupant_absent=False requested=True => TGH82-dÃ©pannageventilation
+Fan=False replace=False criticalLevel=zero planned=True postponed=False occupant_absent=False requested=True => TGH82-dÃ©pannageventilation
+Fan=False replace=False responseTime=]72--[ processingDuration=]72--[ planned=True replanned=True occupant_absent=False => TGH82-dÃ©pannageventilation
+Fan=False replace=False responseTime=]72--[ processingDuration=]72--[ planned=True postponed=False occupant_absent=False => TGH82-dÃ©pannageventilation
+Fan=False replace=False responseTime=]72--[ start=True planned=True postponed=False requested=True => TGH82-dÃ©pannageventilation
+Fan=False replace=False responseTime=]72--[ start=True planned=True occupant_absent=False requested=True => TGH82-dÃ©pannageventilation
+Fan=False replace=False responseTime=]72--[ planned=True postponed=False occupant_absent=False requested=True => TGH82-dÃ©pannageventilation
+Fan=False replace=False resolutionDuration=]72--[ start=True planned=True replanned=True requested=True => TGH82-dÃ©pannageventilation
+Fan=False replace=False resolutionDuration=]72--[ start=True planned=True occupant_absent=False requested=True => TGH82-dÃ©pannageventilation
+Fan=False replace=False resolutionDuration=]72--[ planned=True replanned=True postponed=False requested=True => TGH82-dÃ©pannageventilation
+Fan=False replace=False resolutionDuration=]72--[ planned=True replanned=True occupant_absent=False requested=True => TGH82-dÃ©pannageventilation
+Fan=False replace=False resolutionDuration=]72--[ planned=True postponed=False occupant_absent=False requested=True => TGH82-dÃ©pannageventilation
+Fan=False criticalLevel=zero processingDuration=]72--[ start=True postponed=False occupant_absent=False requested=True => TGH82-dÃ©pannageventilation
+Fan=False criticalLevel=zero processingDuration=]72--[ replanned=True postponed=False occupant_absent=False requested=True => TGH82-dÃ©pannageventilation
+Fan=False criticalLevel=zero resolutionDuration=]72--[ planned=True replanned=True postponed=False requested=True => TGH82-dÃ©pannageventilation
+Fan=False criticalLevel=zero resolutionDuration=]72--[ planned=True replanned=True occupant_absent=False requested=True => TGH82-dÃ©pannageventilation
+Fan=False responseTime=]72--[ processingDuration=]72--[ start=True planned=True postponed=False occupant_absent=False => TGH82-dÃ©pannageventilation
+replace=False criticalLevel=zero responseTime=]72--[ processingDuration=]72--[ start=True planned=True replanned=True => TGH82-dÃ©pannageventilation
+replace=False criticalLevel=zero responseTime=]72--[ processingDuration=]72--[ start=True planned=True postponed=False => TGH82-dÃ©pannageventilation
+replace=False criticalLevel=zero start=True planned=True postponed=False occupant_absent=False requested=True => TGH82-dÃ©pannageventilation
+replace=False responseTime=]72--[ planned=True replanned=True postponed=False occupant_absent=False requested=True => TGH82-dÃ©pannageventilation
+Fan=False replace=False criticalLevel=zero responseTime=]72--[ replanned=True postponed=False occupant_absent=False requested=True => TGH82-dÃ©pannageventilation
+Fan=False replace=False start=True planned=True replanned=True postponed=False occupant_absent=False requested=True => TGH82-dÃ©pannageventilation
+Fan=False criticalLevel=zero resolutionDuration=]72--[ start=True planned=True postponed=False occupant_absent=False requested=True => TGH82-dÃ©pannageventilation
+Fan=False replace=False criticalLevel=zero processingDuration=]72--[ start=True planned=True replanned=True postponed=False occupant_absent=False => TGH82-dÃ©pannageventilation
+Fan=False replace=False processingDuration=]72--[ resolutionDuration=]72--[ start=True planned=True replanned=True postponed=False occupant_absent=False => TGH82-dÃ©pannageventilation
+replace=False criticalLevel=zero processingDuration=]72--[ resolutionDuration=]72--[ start=True planned=True replanned=True postponed=False occupant_absent=False => TGH82-dÃ©pannageventilation

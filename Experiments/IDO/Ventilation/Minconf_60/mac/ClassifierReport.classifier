@@ -1,0 +1,30 @@
+Fan=True start=True workType=corrective planned=True replanned=True requested=True => TMH-dÃ©pannageventilation
+replace=False planned=False criticalLevel=zero workType=preventive => TMH-visiteentretienventilation
+Fan=False replace=False start=True criticalLevel=zero workType=preventive occupant_absent=True => TMH-visiteentretienventilation
+Fan=True replace=False start=True workType=corrective replanned=True => TMH-dÃ©pannageventilation
+Fan=False replace=False start=True criticalLevel=zero workType=preventive requested=True => TMH-visiteentretienventilation
+replace=False criticalLevel=one start=True workType=corrective planned=True replanned=True requested=True => TMH-dÃ©pannageventilation
+Fan=False replace=False criticalLevel=zero planned=True workType=preventive replanned=True requested=True => TMH-visiteentretienventilation
+start=True workType=corrective occupant_absent=False responseTime=]24-48] requested=True => TMH-dÃ©pannageventilation
+replace=True start=True criticalLevel=zero workType=corrective planned=True requested=True => TMH-dÃ©pannageventilation
+replace=False start=False criticalLevel=zero workType=preventive occupant_absent=False requested=False => TMH-visiteentretienventilation
+Fan=True resolutionDuration=]72--[ start=True workType=corrective planned=True processingDuration=]72--[ requested=True => TMH-dÃ©pannageventilation
+Fan=True start=True workType=corrective replanned=True occupant_absent=False => TMH-dÃ©pannageventilation
+workType=corrective planned=True replanned=True requested=True => TMH-dÃ©pannageventilation
+Fan=True start=True workType=corrective planned=True requested=True => TMH-dÃ©pannageventilation
+Fan=True replace=False start=True workType=corrective => TMH-dÃ©pannageventilation
+replace=False criticalLevel=one start=True workType=corrective planned=True requested=True => TMH-dÃ©pannageventilation
+replace=False criticalLevel=one start=True workType=corrective replanned=True requested=True => TMH-dÃ©pannageventilation
+Fan=False replace=False criticalLevel=zero workType=preventive requested=True => TMH-visiteentretienventilation
+replace=True start=True criticalLevel=zero workType=corrective occupant_absent=False requested=True => TMH-dÃ©pannageventilation
+Fan=True start=True workType=corrective replanned=True => TMH-dÃ©pannageventilation
+workType=corrective replanned=True occupant_absent=False => TMH-dÃ©pannageventilation
+Fan=False replace=False processingDuration=]1-2] criticalLevel=zero workType=preventive requested=False => TMH-visiteentretienventilation
+Fan=False responseTime=]72--[ replace=False resolutionDuration=]72--[ start=True criticalLevel=zero planned=True workType=preventive replanned=True postponed=True => TMH-visiteentretienventilation
+Fan=False resolutionDuration=]48-72] replace=False criticalLevel=zero workType=preventive => TMH-visiteentretienventilation
+Fan=False replace=False criticalLevel=zero workType=preventive replanned=True postponed=False => TMH-visiteentretienventilation
+Fan=False replace=False criticalLevel=zero workType=preventive replanned=True => TMH-visiteentretienventilation
+responseTime=]48-72] Fan=False replace=False criticalLevel=zero planned=True workType=preventive => TMH-visiteentretienventilation
+replace=False criticalLevel=zero workType=preventive postponed=True => TMH-visiteentretienventilation
+replace=False criticalLevel=zero workType=preventive => TMH-visiteentretienventilation
+ => TMH-dÃ©pannageventilation

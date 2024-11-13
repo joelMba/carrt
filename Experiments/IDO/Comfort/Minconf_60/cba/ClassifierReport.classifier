@@ -1,0 +1,45 @@
+Radiator=False Boiler=False criticalLevel=one replanned=True => TMH-dÃ©pannagechauffage
+Water=False workType=corrective planned=False => TMH-dÃ©pannagechauffage
+Boiler=False Water=False workType=corrective replanned=True => TMH-dÃ©pannagechauffage
+criticalLevel=one planned=False replanned=True postponed=False => TMH-dÃ©pannagechauffage
+Radiator=False Boiler=False workType=corrective planned=True replanned=True => TMH-dÃ©pannagechauffage
+Boiler=True planned=False postponed=False => TMH-dÃ©pannagechauffage
+workType=corrective responseTime=]16-24] replanned=True => TMH-dÃ©pannagechauffage
+Boiler=False workType=corrective processingDuration=]72--[ => TMH-dÃ©pannagechauffage
+Water=False criticalLevel=one resolutionDuration=]72--[ replanned=True postponed=False => TMH-dÃ©pannagechauffage
+Radiator=False Boiler=False workType=corrective replanned=True => TMH-dÃ©pannagechauffage
+Water=False criticalLevel=one replanned=True postponed=False => TMH-dÃ©pannagechauffage
+Boiler=False Water=False workType=corrective start=True => TMH-dÃ©pannagechauffage
+workType=corrective planned=False replanned=True postponed=False => TMH-dÃ©pannagechauffage
+criticalLevel=one planned=False postponed=False => TMH-dÃ©pannagechauffage
+workType=preventive planned=False => TMH-visiteentretienappareilgaz
+Water=False criticalLevel=one resolutionDuration=]72--[ replanned=True => TMH-dÃ©pannagechauffage
+Water=False workType=corrective resolutionDuration=]72--[ replanned=True postponed=False => TMH-dÃ©pannagechauffage
+Radiator=False Boiler=False criticalLevel=one start=True planned=True => TMH-dÃ©pannagechauffage
+criticalLevel=zero responseTime=0 => TMH-visiteentretienappareilgaz
+workType=preventive postponed=True => TMH-visiteentretienappareilgaz
+criticalLevel=zero occupant_absent=True requested=False => TMH-visiteentretienappareilgaz
+Boiler=False Water=False workType=corrective => TMH-dÃ©pannagechauffage
+criticalLevel=one processingDuration=]72--[ planned=True => TMH-dÃ©pannagechauffage
+workType=preventive start=True occupant_absent=False requested=True => TMH-visiteentretienappareilgaz
+Water=False Leak=False workType=corrective replanned=True postponed=False => TMH-dÃ©pannagechauffage
+Water=False Leak=True => TMH-dÃ©pannagechauffage
+workType=corrective resolutionDuration=]48-72] => TMH-dÃ©pannagechauffage
+workType=corrective responseTime=]0-1] start=True => TMH-dÃ©pannagechauffage
+Water=False criticalLevel=one start=True postponed=False => TMH-dÃ©pannagechauffage
+workType=corrective responseTime=]16-24] => TMH-dÃ©pannagechauffage
+criticalLevel=zero occupant_absent=True => TMH-visiteentretienappareilgaz
+workType=corrective processingDuration=]72--[ planned=True => TMH-dÃ©pannagechauffage
+Water=False workType=corrective start=True postponed=False => TMH-dÃ©pannagechauffage
+workType=preventive occupant_absent=False requested=True => TMH-visiteentretienappareilgaz
+workType=preventive processingDuration=]72--[ start=True occupant_absent=False => TMH-visiteentretienappareilgaz
+Water=True Leak=False criticalLevel=three replanned=True => TMH-dÃ©pannagechauffage
+workType=corrective replanned=True postponed=False => TMH-dÃ©pannagechauffage
+criticalLevel=zero resolutionDuration=]72--[ start=True replanned=False => TMH-visiteentretienappareilgaz
+Radiator=False criticalLevel=one start=True postponed=False => TMH-dÃ©pannagechauffage
+criticalLevel=zero start=True replanned=False => TMH-visiteentretienappareilgaz
+workType=corrective start=True postponed=False => TMH-dÃ©pannagechauffage
+criticalLevel=zero replanned=False => TMH-visiteentretienappareilgaz
+workType=preventive start=True => TMH-visiteentretienappareilgaz
+workType=preventive => TMH-visiteentretienappareilgaz
+ => DÃ©pannage

@@ -1,0 +1,18 @@
+workType=preventive done=True => VisitepÃ©riodique
+workType=corrective processingDuration=]0-1] client_planned=True => DÃ©pannageChauffageindividuel
+criticalLevel=minus-one workType=corrective => RemplacementChaudiÃ¨reoucaisson
+workType=preventive planned=True => VisitepÃ©riodique
+criticalLevel=one done=False client_planned=True => DÃ©pannageChauffageindividuel
+criticalLevel=one processingDuration=]1-2] done=False => DÃ©pannageChauffageindividuel
+responseTime=]2-4] planned=False => DÃ©pannageChauffageindividuel
+criticalLevel=one responseTime=]1-2] done=False => DÃ©pannageChauffageindividuel
+workType=corrective client_planned=True => DÃ©pannageChauffageindividuel
+workType=preventive partial_repair=False => VisitepÃ©riodique
+workType=corrective planned=False => DÃ©pannageChauffageindividuel
+criticalLevel=one resolutionDuration=]4-16] done=False => DÃ©pannageChauffageindividuel
+criticalLevel=one done=False => DÃ©pannageChauffageindividuel
+criticalLevel=one responseTime=]2-4] resolutionDuration=]4-16] => DÃ©pannageChauffageindividuel
+criticalLevel=one processingDuration=]0-1] resolutionDuration=]4-16] => DÃ©pannageChauffageindividuel
+workType=corrective resolutionDuration=]48-72] => DÃ©pannageChauffageindividuel
+criticalLevel=one responseTime=]1-2] processingDuration=]0-1] => DÃ©pannageChauffageindividuel
+ => Boucheventilation

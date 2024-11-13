@@ -1,0 +1,1571 @@
+criticalLevel,workType,responseTime,processingDuration,resolutionDuration,start,planned,replanned,postponed,occupant_absent,requested,class
+,corrective,]16-24],]1-2],]16-24],True,True,True,False,False,True,Dépannage
+,preventive,]48-72],]0-1],]72--[,True,True,False,False,False,False,TMH - visite entretien appareil gaz
+,corrective,]72--[,]0-1],]72--[,True,True,False,False,False,True,Dépannage
+,corrective,]72--[,]72--[,]72--[,True,False,True,False,False,True,Dépannage
+,corrective,]24-48],]72--[,]72--[,True,False,True,True,False,True,TMH - dépannage chauffage
+,corrective,]24-48],]2-4],]24-48],False,False,True,False,False,True,TMH - dépannage chauffage
+,preventive,0,0,0,False,False,False,False,False,False,TMH - visite entretien appareil gaz
+,corrective,]0-1],]72--[,]72--[,True,False,True,True,False,True,TMH - dépannage chauffage
+,preventive,]72--[,]72--[,]72--[,True,True,False,True,False,False,TMH - visite entretien appareil gaz
+,preventive,]24-48],]0-1],]24-48],True,True,True,False,False,False,TMH - visite entretien appareil gaz
+,preventive,]48-72],]0-1],]48-72],True,True,True,False,False,False,TMH - visite entretien Pompe à Chaleur (PAC)
+,preventive,]72--[,]24-48],]72--[,True,True,True,False,False,False,TMH - visite entretien ballon thermodynamique
+,corrective,]16-24],]0-1],]24-48],True,True,False,False,False,True,TMH - dépannage chauffage
+,corrective,]24-48],]0-1],]24-48],True,False,True,False,False,True,TMH - dépannage chauffage
+,corrective,]72--[,]1-2],]72--[,True,True,True,False,False,True,TMH - dépannage chauffage
+,corrective,]24-48],0,]24-48],True,True,True,False,False,True,TMH - dépannage chauffage
+,corrective,]24-48],]1-2],]24-48],True,True,True,False,False,True,TMH - dépannage chauffage
+,preventive,]0-1],]72--[,]72--[,True,True,True,False,True,False,TMH - visite entretien appareil gaz
+,corrective,]16-24],]72--[,]72--[,True,False,True,False,False,True,TMH - dépannage chauffage
+,corrective,]24-48],]4-16],]24-48],True,True,True,False,False,True,TMH - dépannage chauffage
+,preventive,]72--[,]4-16],]72--[,False,True,True,False,False,False,TMH - visite entretien Pompe à Chaleur (PAC)
+,corrective,]72--[,]2-4],]72--[,True,True,False,False,False,True,TMH - dépannage chauffage
+,corrective,]2-4],]0-1],]2-4],True,True,False,False,False,True,Dépannage
+,corrective,]24-48],]24-48],]48-72],True,True,True,False,False,True,TMH - dépannage chauffage
+,preventive,]48-72],]72--[,]72--[,True,True,True,False,False,False,TMH - visite entretien appareil gaz
+,corrective,]16-24],]1-2],]24-48],True,True,True,False,False,True,TMH - dépannage chauffage
+,preventive,0,]48-72],]48-72],True,False,False,False,True,False,TMH - visite entretien appareil gaz
+,preventive,0,]72--[,]72--[,False,False,True,True,False,False,TMH - visite entretien appareil gaz
+,corrective,]0-1],]16-24],]16-24],True,True,True,False,False,True,TMH - dépannage chauffage
+,preventive,0,]72--[,]72--[,False,False,True,False,False,False,TMH - visite entretien appareil gaz
+,preventive,0,]1-2],]1-2],True,False,False,False,False,False,TMH - visite entretien appareil gaz
+,preventive,]24-48],0,]24-48],True,True,True,False,False,False,TMH - visite entretien appareil gaz
+,corrective,]2-4],]1-2],]4-16],True,True,True,False,False,True,TMH - dépannage chauffage
+,corrective,]16-24],]1-2],]24-48],True,True,False,False,False,True,TMH - dépannage chauffage
+,preventive,]72--[,]4-16],]72--[,True,True,True,False,True,False,TMH - visite entretien appareil gaz
+,corrective,]16-24],]0-1],]16-24],True,True,True,False,False,True,TMH - dépannage chauffage
+,preventive,]0-1],]72--[,]72--[,True,True,True,False,False,True,TMH - visite entretien appareil gaz
+,corrective,]24-48],]2-4],]24-48],True,False,True,True,False,True,TMH - dépannage chauffage
+,preventive,]72--[,]72--[,]72--[,True,True,True,False,True,False,TMH - visite entretien appareil gaz
+,preventive,]1-2],]0-1],]2-4],True,True,False,False,False,False,TMH - visite entretien appareil gaz
+,preventive,]48-72],]2-4],]48-72],True,True,True,False,False,False,TMH - visite entretien appareil gaz
+,preventive,0,]4-16],]4-16],True,False,False,False,False,False,TMH - visite entretien appareil gaz
+,corrective,]0-1],]48-72],]48-72],True,False,False,True,False,True,TMH - dépannage chauffage
+,corrective,]24-48],]72--[,]72--[,True,True,True,False,True,True,TMH - dépannage chauffage
+,preventive,]72--[,]72--[,]72--[,True,True,True,False,False,False,TMH - visite entretien appareil gaz
+,corrective,]4-16],0,]4-16],True,True,True,False,False,True,TMH - dépannage chauffage
+,corrective,]72--[,]72--[,]72--[,True,True,True,False,False,True,TMH - dépannage chauffage
+,preventive,]72--[,]24-48],]72--[,True,True,True,False,False,True,TMH - visite entretien appareil gaz
+,corrective,]16-24],0,]16-24],False,True,False,False,False,True,TMH - dépannage chauffage
+,corrective,]0-1],]1-2],]1-2],True,False,True,False,False,True,TMH - dépannage chauffage
+,corrective,]24-48],]72--[,]72--[,True,True,True,False,False,True,TMH - dépannage chauffage
+,preventive,]72--[,]72--[,]72--[,True,True,True,False,True,False,TMH - visite entretien Pompe à Chaleur (PAC)
+,preventive,]48-72],]72--[,]72--[,True,True,True,True,True,False,TMH - visite entretien appareil gaz
+,preventive,]72--[,]1-2],]72--[,True,True,True,False,True,False,TMH - visite entretien appareil gaz
+,preventive,0,]0-1],]0-1],True,False,False,False,False,False,TMH - visite entretien appareil gaz
+,preventive,]72--[,]2-4],]72--[,True,True,True,False,True,True,TMH - visite entretien appareil gaz
+,corrective,]72--[,]2-4],]72--[,True,False,True,False,False,True,TMH - dépannage chauffage
+,preventive,]72--[,0,]72--[,True,True,True,False,False,False,TMH - visite entretien ballon thermodynamique
+,preventive,]72--[,]72--[,]72--[,True,True,False,False,False,False,TMH - visite entretien appareil gaz
+,corrective,]24-48],]1-2],]24-48],True,True,True,False,False,True,Dépannage
+,preventive,]4-16],]72--[,]72--[,True,True,True,False,True,True,TMH - visite entretien appareil gaz
+,preventive,]2-4],]1-2],]4-16],True,True,False,False,False,False,TMH - visite entretien appareil gaz
+,corrective,]72--[,]72--[,]72--[,True,True,True,False,False,True,TMH - dépannage chauffage
+,corrective,]72--[,]2-4],]72--[,True,True,True,False,False,True,Dépannage
+,corrective,]0-1],]24-48],]24-48],True,False,True,False,False,True,TMH - dépannage chauffage
+,corrective,]72--[,]0-1],]72--[,True,False,False,False,False,True,Dépannage
+,corrective,]2-4],0,]2-4],True,True,True,False,False,True,TMH - dépannage chauffage
+,preventive,]72--[,]72--[,]72--[,True,True,True,False,False,True,TMH - visite entretien appareil gaz
+,corrective,]16-24],]4-16],]24-48],True,True,True,False,False,True,TMH - dépannage chauffage
+,preventive,]0-1],0,]0-1],False,True,False,False,False,False,TMH - visite entretien appareil gaz
+,preventive,]1-2],]0-1],]1-2],True,True,False,False,False,False,TMH - visite entretien appareil gaz
+,preventive,]72--[,]4-16],]72--[,True,True,True,False,False,True,TMH - visite entretien appareil gaz
+,corrective,]24-48],]0-1],]24-48],True,True,False,False,False,True,Dépannage
+,corrective,]24-48],]72--[,]72--[,True,True,True,True,False,True,Dépannage
+,corrective,]1-2],]0-1],]2-4],True,True,True,True,False,True,TMH - dépannage chauffage
+,corrective,]48-72],]0-1],]48-72],True,True,True,False,False,True,Dépannage
+,corrective,]72--[,]1-2],]72--[,True,True,False,False,False,True,TMH - dépannage chauffage
+,corrective,]48-72],]72--[,]72--[,True,True,True,False,True,True,TMH - dépannage chauffage
+,preventive,]4-16],]1-2],]4-16],True,True,True,False,False,False,TMH - visite entretien appareil gaz
+,corrective,]72--[,]2-4],]72--[,True,True,True,False,False,True,TMH - dépannage chauffage
+,corrective,]2-4],]0-1],]4-16],True,False,True,False,False,True,TMH - dépannage chauffage
+,corrective,]4-16],]4-16],]4-16],True,True,True,False,False,True,TMH - dépannage chauffage
+,preventive,0,0,0,True,False,True,False,False,False,TMH - visite entretien appareil gaz
+,corrective,]4-16],]0-1],]4-16],True,True,True,False,False,True,TMH - dépannage chauffage
+,corrective,]0-1],]0-1],]1-2],True,False,True,False,False,True,TMH - dépannage chauffage
+,preventive,0,]0-1],]0-1],True,False,False,False,False,False,TMH - visite entretien Pompe à Chaleur (PAC)
+,corrective,]0-1],]1-2],]1-2],True,True,True,False,False,True,TMH - dépannage chauffage
+,preventive,0,]2-4],]2-4],True,False,True,False,False,False,TMH - visite entretien appareil gaz
+,corrective,]16-24],]72--[,]72--[,True,False,True,True,False,True,TMH - dépannage chauffage
+,corrective,]72--[,]0-1],]72--[,True,True,True,False,False,True,TMH - dépannage chauffage
+,preventive,]72--[,]1-2],]72--[,True,True,False,False,False,False,TMH - visite entretien appareil gaz
+,corrective,]24-48],]0-1],]24-48],True,True,True,False,False,True,TMH - dépannage chauffage
+,corrective,]24-48],]0-1],]24-48],True,False,False,False,False,True,TMH - dépannage chauffage
+,preventive,]16-24],]48-72],]48-72],False,True,True,False,False,True,TMH - visite entretien appareil gaz
+,preventive,]2-4],]4-16],]4-16],True,True,False,False,False,False,TMH - visite entretien appareil gaz
+,preventive,]72--[,]1-2],]72--[,True,True,True,False,False,True,TMH - visite entretien ballon thermodynamique
+,corrective,]48-72],]1-2],]72--[,True,True,True,False,False,True,TMH - dépannage chauffage
+,preventive,]72--[,]72--[,]72--[,True,True,True,False,True,False,TMH - visite entretien appareil gaz
+,corrective,]48-72],]24-48],]72--[,True,True,True,True,False,True,TMH - dépannage chauffage
+,preventive,]16-24],]2-4],]16-24],True,True,True,False,False,False,TMH - visite entretien ballon solaire
+,preventive,]16-24],]16-24],]24-48],True,True,True,False,False,False,TMH - visite entretien appareil gaz
+,corrective,]48-72],]2-4],]72--[,True,True,True,False,False,True,TMH - dépannage chauffage
+,corrective,]0-1],]48-72],]48-72],True,True,True,False,False,True,TMH - dépannage chauffage
+,preventive,]72--[,]24-48],]72--[,True,True,True,False,False,False,TMH - visite entretien appareil gaz
+,corrective,]48-72],]0-1],]48-72],True,True,False,False,False,True,Dépannage
+,preventive,]72--[,]72--[,]72--[,True,True,True,True,True,False,TMH - visite entretien appareil gaz
+,corrective,0,]2-4],]2-4],True,False,True,False,False,False,TMH - dépannage chauffage
+,corrective,]72--[,]0-1],]72--[,True,True,False,False,False,True,TMH - dépannage chauffage
+,preventive,]72--[,]72--[,]72--[,True,True,True,False,False,False,TMH - visite entretien appareil gaz
+,corrective,]16-24],]48-72],]72--[,True,True,True,False,False,True,TMH - dépannage chauffage
+,corrective,]1-2],]1-2],]2-4],True,True,False,False,False,True,TMH - dépannage chauffage
+,corrective,]4-16],]24-48],]24-48],True,True,True,False,False,True,TMH - dépannage chauffage
+,corrective,]2-4],]2-4],]4-16],True,False,True,False,False,True,TMH - dépannage chauffage
+,corrective,]24-48],]72--[,]72--[,True,True,True,False,False,True,TMH - dépannage chauffage
+,corrective,]4-16],]0-1],]4-16],True,True,False,False,False,True,Dépannage
+,corrective,]16-24],]0-1],]24-48],True,False,False,False,False,True,TMH - dépannage chauffage
+,corrective,]24-48],]48-72],]72--[,True,True,True,False,False,True,TMH - dépannage chauffage
+,corrective,]4-16],0,]4-16],True,False,True,False,False,True,TMH - dépannage chauffage
+,corrective,]1-2],]0-1],]2-4],True,True,False,False,False,True,TMH - dépannage chauffage
+,preventive,0,]48-72],]48-72],False,False,True,True,False,False,TMH - visite entretien appareil gaz
+,corrective,]24-48],0,]24-48],True,True,True,False,False,True,Dépannage
+,corrective,]24-48],]48-72],]72--[,True,False,True,False,False,True,TMH - dépannage chauffage
+,corrective,]24-48],]72--[,]72--[,True,True,True,True,True,True,TMH - dépannage chauffage
+,corrective,]24-48],]1-2],]48-72],True,True,True,False,False,True,TMH - dépannage chauffage
+,corrective,]48-72],]1-2],]72--[,True,True,True,False,False,True,TMH - dépannage chauffage
+,corrective,]16-24],0,]16-24],True,True,True,False,False,True,Dépannage
+,corrective,]0-1],]0-1],]0-1],True,True,False,False,False,True,Dépannage
+,preventive,]0-1],0,]0-1],False,False,False,False,False,True,TMH - visite entretien Pompe à Chaleur (PAC)
+,corrective,]4-16],]2-4],]4-16],True,True,False,False,False,True,TMH - dépannage chauffage
+,preventive,]72--[,]0-1],]72--[,True,True,True,True,False,False,TMH - visite entretien appareil gaz
+,corrective,]16-24],]0-1],]24-48],True,True,True,False,False,True,Dépannage
+,preventive,]72--[,]24-48],]72--[,True,True,False,False,False,False,TMH - visite entretien appareil gaz
+,preventive,]72--[,]72--[,]72--[,True,True,True,False,False,False,TMH - visite entretien ballon thermodynamique
+,corrective,]24-48],0,]24-48],True,True,True,False,False,True,TMH - dépannage chauffage
+,preventive,]72--[,]72--[,]72--[,True,True,False,False,True,True,TMH - visite entretien appareil gaz
+,preventive,0,]72--[,]72--[,False,False,False,True,False,False,TMH - visite entretien appareil gaz
+,preventive,]48-72],]16-24],]48-72],True,True,True,False,False,False,TMH - visite entretien appareil gaz
+,corrective,]4-16],]0-1],]4-16],True,False,True,False,False,True,TMH - dépannage chauffage
+,preventive,0,]72--[,]72--[,True,False,True,True,True,False,TMH - visite entretien appareil gaz
+,corrective,0,]48-72],]48-72],True,False,True,False,False,False,TMH - dépannage chauffage
+,corrective,]4-16],]1-2],]4-16],True,True,True,False,False,True,TMH - dépannage chauffage
+,corrective,]16-24],]16-24],]24-48],True,True,True,True,False,True,TMH - dépannage chauffage
+,preventive,]72--[,]48-72],]72--[,True,True,True,True,True,False,TMH - visite entretien appareil gaz
+,preventive,]2-4],]72--[,]72--[,True,True,True,False,False,False,TMH - visite entretien appareil gaz
+,corrective,0,]2-4],]2-4],True,True,True,False,False,False,TMH - dépannage chauffage
+,preventive,]72--[,]48-72],]72--[,True,True,True,False,True,False,TMH - visite entretien appareil gaz
+,preventive,]72--[,]72--[,]72--[,True,True,True,False,False,False,TMH - visite entretien appareil gaz
+,corrective,]2-4],]0-1],]2-4],True,False,False,False,False,True,TMH - dépannage chauffage
+,corrective,]72--[,]0-1],]72--[,True,False,True,False,False,True,TMH - dépannage chauffage
+,corrective,]48-72],]72--[,]72--[,True,True,True,False,False,True,TMH - dépannage chauffage
+,corrective,]16-24],]72--[,]72--[,True,True,True,False,True,True,TMH - dépannage chauffage
+,preventive,]72--[,]48-72],]72--[,True,True,False,False,False,False,TMH - visite entretien appareil gaz
+,corrective,0,]72--[,]72--[,True,True,True,False,True,False,TMH - dépannage chauffage
+,corrective,]72--[,]72--[,]72--[,True,True,True,False,False,True,TMH - dépannage chauffage
+,corrective,]72--[,]0-1],]72--[,True,False,False,False,False,True,TMH - dépannage chauffage
+,corrective,]0-1],]24-48],]24-48],True,True,True,False,False,True,TMH - dépannage chauffage
+,corrective,]24-48],]4-16],]48-72],True,True,False,False,False,True,TMH - dépannage chauffage
+,corrective,]2-4],]2-4],]4-16],True,False,True,False,False,True,TMH - dépannage chauffage
+,corrective,]16-24],]2-4],]16-24],True,True,True,False,False,True,TMH - dépannage chauffage
+,corrective,]72--[,0,]72--[,True,True,True,False,False,True,TMH - dépannage chauffage
+,preventive,]72--[,]72--[,]72--[,True,True,True,False,True,True,TMH - visite entretien ballon thermodynamique
+,preventive,]72--[,0,]72--[,True,True,True,False,False,False,TMH - visite entretien appareil gaz
+,corrective,]2-4],]0-1],]2-4],True,False,True,False,False,True,TMH - dépannage chauffage
+,preventive,]24-48],]72--[,]72--[,True,True,True,False,False,False,TMH - visite entretien appareil gaz
+,corrective,]72--[,]24-48],]72--[,True,True,True,True,True,True,TMH - dépannage chauffage
+,preventive,]72--[,]72--[,]72--[,True,True,True,True,True,False,TMH - visite entretien appareil gaz
+,preventive,]72--[,]0-1],]72--[,True,True,True,False,False,True,TMH - visite entretien Pompe à Chaleur (PAC)
+,preventive,]72--[,]72--[,]72--[,True,True,False,False,False,False,TMH - visite entretien appareil gaz
+,preventive,]72--[,0,]72--[,True,True,False,False,False,False,TMH - visite entretien appareil gaz
+,corrective,]1-2],]0-1],]2-4],True,True,True,False,False,True,TMH - dépannage chauffage
+,corrective,]24-48],0,]24-48],False,True,True,False,False,True,TMH - dépannage chauffage
+,preventive,]72--[,]0-1],]72--[,True,True,True,True,False,False,TMH - visite entretien appareil gaz
+,preventive,]72--[,]2-4],]72--[,True,True,True,False,False,False,TMH - visite entretien appareil gaz
+,preventive,]4-16],]72--[,]72--[,True,True,True,False,False,False,TMH - visite entretien appareil gaz
+,preventive,]0-1],]1-2],]1-2],True,True,False,False,False,False,TMH - visite entretien appareil gaz
+,preventive,0,]0-1],]0-1],False,False,False,True,False,False,TMH - visite entretien appareil gaz
+,preventive,]72--[,]0-1],]72--[,False,True,False,True,False,False,TMH - visite entretien appareil gaz
+,preventive,]16-24],]0-1],]16-24],True,True,True,False,False,False,TMH - visite entretien appareil gaz
+,corrective,]72--[,]2-4],]72--[,True,False,True,False,False,True,Dépannage
+,corrective,]4-16],]48-72],]72--[,True,True,True,False,False,True,TMH - dépannage chauffage
+,preventive,]72--[,]2-4],]72--[,True,True,True,False,False,True,TMH - visite entretien appareil gaz
+,corrective,]72--[,]72--[,]72--[,True,True,True,True,False,True,TMH - dépannage chauffage
+,corrective,]48-72],]0-1],]48-72],True,True,False,False,False,True,TMH - dépannage chauffage
+,preventive,]0-1],]24-48],]24-48],True,True,False,False,False,False,TMH - visite entretien ballon thermodynamique
+,corrective,]4-16],]0-1],]4-16],True,True,True,False,False,True,TMH - dépannage chauffage
+,preventive,]72--[,]72--[,]72--[,True,True,True,False,True,False,TMH - visite entretien appareil gaz
+,corrective,]24-48],]0-1],]24-48],True,True,False,False,False,True,TMH - dépannage chauffage
+,preventive,0,]0-1],]0-1],False,False,False,False,True,False,TMH - visite entretien appareil gaz
+,preventive,]0-1],]0-1],]1-2],True,True,True,False,False,False,TMH - visite entretien appareil gaz
+,preventive,]2-4],]72--[,]72--[,True,True,True,False,True,False,TMH - visite entretien appareil gaz
+,preventive,]72--[,]72--[,]72--[,True,True,True,False,False,False,TMH - visite entretien ballon thermodynamique
+,preventive,]72--[,]4-16],]72--[,True,True,True,True,False,True,TMH - visite entretien appareil gaz
+,corrective,]24-48],]72--[,]72--[,True,True,True,True,False,True,TMH - dépannage chauffage
+,preventive,0,]1-2],]1-2],False,False,True,False,False,False,TMH - visite entretien appareil gaz
+,preventive,]2-4],]1-2],]2-4],True,True,False,False,False,False,TMH - visite entretien appareil gaz
+,preventive,]72--[,]24-48],]72--[,True,True,True,True,True,False,TMH - visite entretien appareil gaz
+,corrective,]72--[,]2-4],]72--[,True,True,True,False,False,True,TMH - dépannage chauffage
+,preventive,]0-1],]16-24],]16-24],True,True,True,False,False,False,TMH - visite entretien appareil gaz
+,preventive,0,]24-48],]24-48],True,False,True,False,False,False,TMH - visite entretien appareil gaz
+,preventive,]16-24],]0-1],]16-24],True,True,False,False,False,False,TMH - visite entretien Pompe à Chaleur (PAC)
+,preventive,]0-1],0,]0-1],False,True,False,False,False,True,TMH - visite entretien Pompe à Chaleur (PAC)
+,corrective,]2-4],]72--[,]72--[,True,True,True,True,False,True,TMH - dépannage chauffage
+,preventive,]72--[,]4-16],]72--[,True,True,True,False,False,False,TMH - visite entretien appareil gaz
+,corrective,]4-16],]72--[,]72--[,True,True,True,False,False,True,TMH - dépannage chauffage
+,corrective,]72--[,]48-72],]72--[,True,True,True,False,False,True,TMH - dépannage chauffage
+,preventive,]72--[,]1-2],]72--[,True,True,True,False,False,True,TMH - visite entretien appareil gaz
+,preventive,]72--[,]72--[,]72--[,True,True,False,False,True,False,TMH - visite entretien ballon thermodynamique
+,preventive,]72--[,]72--[,]72--[,True,True,True,True,False,True,TMH - visite entretien appareil gaz
+,corrective,]16-24],]48-72],]72--[,True,True,True,False,False,True,TMH - dépannage chauffage
+,corrective,0,]0-1],]0-1],True,True,True,False,False,False,TMH - dépannage chauffage
+,preventive,]48-72],]72--[,]72--[,True,True,True,False,True,False,TMH - visite entretien appareil gaz
+,preventive,0,]1-2],]1-2],False,False,True,True,False,False,TMH - visite entretien appareil gaz
+,corrective,]0-1],]0-1],]1-2],True,True,False,False,False,True,TMH - dépannage chauffage
+,corrective,]0-1],]1-2],]2-4],True,True,True,False,False,True,TMH - dépannage chauffage
+,preventive,]72--[,0,]72--[,False,True,False,False,False,False,TMH - visite entretien appareil gaz
+,preventive,]48-72],0,]48-72],False,True,False,False,False,False,TMH - visite entretien appareil gaz
+,preventive,]72--[,]72--[,]72--[,True,True,True,True,False,False,TMH - visite entretien Pompe à Chaleur (PAC)
+,preventive,0,]72--[,]72--[,True,True,True,True,False,False,TMH - visite entretien appareil gaz
+,preventive,]72--[,]1-2],]72--[,True,True,True,False,False,False,TMH - visite entretien appareil gaz
+,preventive,]72--[,]4-16],]72--[,True,True,True,False,False,False,TMH - visite entretien Pompe à Chaleur (PAC)
+,preventive,]0-1],0,]0-1],False,True,False,False,False,True,TMH - visite entretien appareil gaz
+,preventive,]72--[,]2-4],]72--[,True,True,True,False,False,True,TMH - visite entretien appareil gaz
+,corrective,]48-72],]1-2],]72--[,True,True,False,False,False,True,TMH - dépannage chauffage
+,corrective,]48-72],]48-72],]72--[,True,True,True,False,True,True,TMH - dépannage chauffage
+,preventive,]72--[,]24-48],]72--[,False,True,True,False,False,True,TMH - visite entretien appareil gaz
+,corrective,]2-4],]72--[,]72--[,True,True,True,False,False,True,TMH - dépannage chauffage
+,corrective,]16-24],]0-1],]16-24],True,True,True,False,False,True,TMH - dépannage chauffage
+,corrective,]0-1],]0-1],]0-1],True,True,True,False,False,True,TMH - dépannage chauffage
+,corrective,]0-1],]48-72],]48-72],True,True,True,False,False,True,Dépannage
+,preventive,]72--[,]0-1],]72--[,True,True,True,True,False,False,TMH - visite entretien appareil gaz
+,preventive,0,0,0,True,False,False,False,False,False,TMH - visite entretien appareil gaz
+,preventive,]4-16],]0-1],]16-24],True,True,False,False,False,False,TMH - visite entretien appareil gaz
+,preventive,]72--[,]4-16],]72--[,True,True,True,False,False,True,TMH - visite entretien appareil gaz
+,corrective,]72--[,]72--[,]72--[,True,True,True,False,False,True,TMH - dépannage chauffage
+,corrective,]16-24],]24-48],]48-72],True,True,True,True,False,True,TMH - dépannage chauffage
+,corrective,]24-48],]0-1],]24-48],True,False,False,False,False,True,TMH - dépannage chauffage
+,preventive,]72--[,]72--[,]72--[,True,True,True,False,False,False,TMH - visite entretien appareil gaz
+,preventive,]72--[,]24-48],]72--[,True,True,True,False,True,False,TMH - visite entretien appareil gaz
+,corrective,]2-4],0,]2-4],True,False,True,False,False,True,TMH - dépannage chauffage
+,preventive,]72--[,]24-48],]72--[,True,True,True,False,False,False,TMH - visite entretien appareil gaz
+,preventive,]16-24],0,]16-24],False,True,False,False,False,False,TMH - visite entretien appareil gaz
+,preventive,]24-48],0,]24-48],True,True,True,False,False,True,TMH - visite entretien appareil gaz
+,corrective,]16-24],]1-2],]24-48],True,True,True,True,False,True,TMH - dépannage chauffage
+,preventive,]0-1],]0-1],]0-1],True,False,False,False,False,True,TMH - visite entretien appareil gaz
+,preventive,]0-1],]24-48],]24-48],True,True,True,False,False,False,TMH - visite entretien appareil gaz
+,preventive,]72--[,0,]72--[,False,True,False,False,False,True,TMH - visite entretien appareil gaz
+,preventive,]48-72],]72--[,]72--[,True,True,False,False,False,False,TMH - visite entretien appareil gaz
+,corrective,]48-72],]1-2],]48-72],True,True,True,False,False,True,TMH - dépannage chauffage
+,corrective,]48-72],]0-1],]48-72],True,False,True,False,False,True,TMH - dépannage chauffage
+,preventive,]72--[,]72--[,]72--[,True,True,True,False,True,False,TMH - visite entretien ballon thermodynamique
+,corrective,]72--[,]24-48],]72--[,True,True,True,False,False,True,TMH - dépannage chauffage
+,corrective,]24-48],]72--[,]72--[,True,True,True,False,False,True,TMH - dépannage chauffage
+,corrective,]72--[,]1-2],]72--[,True,True,False,False,False,True,Dépannage
+,corrective,]72--[,]24-48],]72--[,True,True,True,False,True,True,TMH - dépannage chauffage
+,corrective,]16-24],]72--[,]72--[,True,True,True,False,False,True,TMH - dépannage chauffage
+,corrective,]24-48],]0-1],]24-48],True,True,False,False,False,True,TMH - dépannage chauffage
+,preventive,]72--[,0,]72--[,True,True,True,False,False,True,TMH - visite entretien Pompe à Chaleur (PAC)
+,corrective,]24-48],]1-2],]24-48],True,False,True,False,False,True,Dépannage
+,corrective,]16-24],]48-72],]72--[,True,True,True,False,False,True,TMH - dépannage chauffage
+,preventive,]72--[,]24-48],]72--[,True,True,False,False,False,False,TMH - visite entretien appareil gaz
+,corrective,]0-1],0,]0-1],True,True,True,False,False,True,TMH - dépannage chauffage
+,preventive,]16-24],]72--[,]72--[,True,True,True,True,False,False,TMH - visite entretien appareil gaz
+,corrective,]24-48],]2-4],]24-48],True,True,True,False,False,True,TMH - dépannage chauffage
+,corrective,]48-72],0,]48-72],True,True,True,False,False,True,TMH - dépannage chauffage
+,corrective,]48-72],]72--[,]72--[,True,True,True,False,False,True,TMH - dépannage chauffage
+,corrective,0,]0-1],]0-1],True,False,False,False,False,False,TMH - dépannage chauffage
+,corrective,]16-24],]48-72],]48-72],True,True,True,False,False,True,Dépannage
+,corrective,]48-72],]0-1],]48-72],True,True,True,False,False,True,TMH - dépannage chauffage
+,preventive,]0-1],]2-4],]2-4],True,True,False,False,False,False,TMH - visite entretien appareil gaz
+,preventive,]72--[,]4-16],]72--[,True,True,False,False,False,False,TMH - visite entretien appareil gaz
+,preventive,]72--[,]72--[,]72--[,True,True,True,True,True,False,TMH - visite entretien appareil gaz
+,preventive,]72--[,]72--[,]72--[,True,True,True,True,False,False,TMH - visite entretien appareil gaz
+,corrective,]0-1],]72--[,]72--[,True,True,True,False,False,True,TMH - dépannage chauffage
+,preventive,]72--[,]72--[,]72--[,True,True,True,True,False,False,TMH - visite entretien appareil gaz
+,corrective,]16-24],]24-48],]48-72],True,False,True,False,False,True,TMH - dépannage chauffage
+,corrective,]16-24],0,]16-24],True,False,True,False,False,True,TMH - dépannage chauffage
+,corrective,]24-48],]48-72],]72--[,True,False,True,True,False,True,TMH - dépannage chauffage
+,preventive,]72--[,]72--[,]72--[,True,True,True,True,False,False,TMH - visite entretien appareil gaz
+,corrective,]4-16],]0-1],]16-24],True,True,False,False,False,True,TMH - dépannage chauffage
+,corrective,]48-72],]72--[,]72--[,True,False,True,False,False,True,TMH - dépannage chauffage
+,corrective,]72--[,]4-16],]72--[,True,True,True,False,False,True,TMH - dépannage chauffage
+,preventive,]48-72],0,]48-72],True,True,True,False,False,False,TMH - visite entretien appareil gaz
+,preventive,]0-1],]1-2],]2-4],True,True,False,False,False,False,TMH - visite entretien appareil gaz
+,preventive,]1-2],]72--[,]72--[,True,True,True,True,True,False,TMH - visite entretien appareil gaz
+,corrective,]24-48],]72--[,]72--[,True,True,True,False,False,True,TMH - dépannage chauffage
+,corrective,]2-4],]0-1],]2-4],True,True,True,False,False,True,TMH - dépannage chauffage
+,corrective,]0-1],]0-1],]1-2],True,False,False,False,False,True,TMH - dépannage chauffage
+,corrective,0,]72--[,]72--[,True,False,True,False,False,False,TMH - dépannage chauffage
+,corrective,]2-4],]1-2],]2-4],True,True,True,False,False,True,Dépannage
+,corrective,]24-48],]4-16],]48-72],True,True,False,False,False,True,TMH - dépannage chauffage
+,corrective,]16-24],]72--[,]72--[,True,True,True,False,False,True,TMH - dépannage chauffage
+,preventive,]24-48],]48-72],]72--[,True,True,True,False,True,False,TMH - visite entretien appareil gaz
+,corrective,]2-4],]0-1],]2-4],True,True,False,False,False,True,Dépannage
+,preventive,]72--[,]72--[,]72--[,True,True,True,False,False,False,TMH - visite entretien Pompe à Chaleur (PAC)
+,corrective,]72--[,]4-16],]72--[,True,False,True,False,False,True,TMH - dépannage chauffage
+,preventive,]72--[,]72--[,]72--[,True,True,True,True,False,False,TMH - visite entretien appareil gaz
+,corrective,]2-4],]0-1],]4-16],True,True,False,False,False,True,TMH - dépannage chauffage
+,preventive,]72--[,]16-24],]72--[,True,True,True,False,True,False,TMH - visite entretien appareil gaz
+,corrective,]24-48],]4-16],]48-72],True,False,True,False,False,True,TMH - dépannage chauffage
+,corrective,]72--[,]0-1],]72--[,True,True,False,False,False,True,TMH - dépannage chauffage
+,corrective,]4-16],]1-2],]4-16],True,True,True,False,False,True,TMH - dépannage chauffage
+,corrective,]4-16],]1-2],]4-16],True,True,True,False,False,True,ALTEAL - dépannage chauffage
+,corrective,]1-2],0,]1-2],True,True,True,False,False,True,TMH - dépannage chauffage
+,corrective,]16-24],]0-1],]16-24],True,True,False,False,False,True,TMH - dépannage chauffage
+,corrective,]16-24],]72--[,]72--[,True,True,True,True,False,True,TMH - dépannage chauffage
+,corrective,]0-1],]0-1],]1-2],True,True,True,False,False,True,Dépannage
+,preventive,]16-24],]72--[,]72--[,True,True,True,True,True,False,TMH - visite entretien appareil gaz
+,preventive,0,]72--[,]72--[,True,False,True,False,False,False,TMH - visite entretien appareil gaz
+,preventive,]72--[,]72--[,]72--[,False,True,True,False,False,False,TMH - visite entretien appareil gaz
+,corrective,]16-24],]0-1],]24-48],True,True,True,False,False,True,TMH - dépannage chauffage
+,corrective,]48-72],0,]48-72],True,True,True,False,False,True,TMH - dépannage chauffage
+,preventive,0,]72--[,]72--[,True,True,True,True,True,False,TMH - visite entretien appareil gaz
+,corrective,]72--[,]1-2],]72--[,True,False,True,False,False,True,TMH - dépannage chauffage
+,corrective,]2-4],]72--[,]72--[,True,False,True,False,False,True,OPH31 dépannage chauffage
+,workType,responseTime,processingDuration,resolutionDuration,start,planned,replanned,postponed,occupant_absent,requested,Class
+,corrective,]0-1],]0-1],]0-1],True,False,True,False,False,True,TMH - dépannage chauffage
+,preventive,]72--[,]72--[,]72--[,True,True,False,False,False,False,TMH - visite entretien appareil gaz
+,corrective,]16-24],]72--[,]72--[,True,True,True,False,False,True,TMH - dépannage chauffage
+,corrective,]4-16],]2-4],]4-16],True,False,True,False,False,True,TMH - dépannage chauffage
+,preventive,]16-24],]1-2],]16-24],True,True,False,False,False,False,TMH - visite entretien appareil gaz
+,preventive,0,0,0,True,False,True,False,True,False,TMH - visite entretien appareil gaz
+,preventive,]16-24],]1-2],]16-24],True,True,True,False,False,False,TMH - visite entretien appareil gaz
+,corrective,]2-4],]0-1],]4-16],True,True,True,False,False,True,TMH - dépannage chauffage
+,corrective,]24-48],]2-4],]24-48],True,True,False,False,False,True,TMH - dépannage chauffage
+,preventive,]72--[,]72--[,]72--[,True,True,True,True,False,False,TMH - visite entretien appareil gaz
+,corrective,]72--[,]2-4],]72--[,True,True,True,False,False,True,TMH - dépannage chauffage
+,corrective,]72--[,]4-16],]72--[,True,True,True,False,False,True,TMH - dépannage chauffage
+,preventive,0,]2-4],]2-4],True,False,True,False,True,False,TMH - visite entretien appareil gaz
+,corrective,]4-16],0,]4-16],True,True,True,False,False,True,TMH - dépannage chauffage
+,corrective,]72--[,]1-2],]72--[,True,True,False,False,True,True,TMH - dépannage chauffage
+,preventive,]72--[,]1-2],]72--[,True,True,True,False,False,False,TMH - visite entretien ballon thermodynamique
+,corrective,]2-4],]0-1],]4-16],True,False,False,False,False,True,TMH - dépannage chauffage
+,corrective,]2-4],]0-1],]2-4],True,True,True,False,False,True,TMH - dépannage chauffage
+,preventive,]16-24],]72--[,]72--[,True,True,True,False,False,False,TMH - visite entretien appareil gaz
+,corrective,]16-24],]0-1],]24-48],True,True,False,False,False,True,TMH - dépannage chauffage
+,corrective,]0-1],]72--[,]72--[,True,True,True,False,False,True,TMH - dépannage chauffage
+,corrective,]24-48],]1-2],]24-48],True,True,False,False,False,True,TMH - dépannage chauffage
+,preventive,]72--[,]2-4],]72--[,True,True,False,False,False,False,TMH - visite entretien appareil gaz
+,corrective,]4-16],]2-4],]16-24],True,True,True,False,False,True,Dépannage
+,preventive,]72--[,]72--[,]72--[,True,True,False,True,True,False,TMH - visite entretien appareil gaz
+,corrective,]4-16],]1-2],]4-16],True,False,True,False,False,True,Dépannage
+,preventive,]24-48],]1-2],]24-48],True,True,True,False,False,False,TMH - visite entretien appareil gaz
+,preventive,]72--[,]2-4],]72--[,True,True,True,False,False,True,TMH - visite entretien ballon thermodynamique
+,corrective,]0-1],]1-2],]2-4],True,True,True,False,False,True,Dépannage
+,corrective,]24-48],]0-1],]24-48],True,True,True,False,False,True,TMH - dépannage chauffage
+,corrective,]2-4],]1-2],]4-16],True,True,False,False,False,True,TMH - dépannage chauffage
+,corrective,]1-2],]0-1],]2-4],True,True,True,False,False,True,TMH - dépannage chauffage
+,preventive,]0-1],0,]0-1],False,True,False,False,False,False,TMH - visite entretien Pompe à Chaleur (PAC)
+,corrective,]4-16],]72--[,]72--[,True,True,True,True,False,True,TMH - dépannage chauffage
+,preventive,]72--[,]72--[,]72--[,False,True,True,True,True,False,TMH - visite entretien appareil gaz
+,corrective,]1-2],]0-1],]1-2],True,False,True,False,False,True,TMH - dépannage chauffage
+,corrective,]4-16],]16-24],]24-48],True,True,True,False,False,True,TMH - dépannage chauffage
+,corrective,]0-1],]2-4],]2-4],True,True,True,False,False,True,TMH - dépannage chauffage
+,corrective,]4-16],]2-4],]4-16],True,False,True,False,False,True,TMH - dépannage chauffage
+,corrective,]16-24],]0-1],]16-24],True,True,True,True,False,True,TMH - dépannage chauffage
+,corrective,]1-2],]0-1],]2-4],True,False,False,False,False,True,TMH - dépannage chauffage
+,corrective,]48-72],]72--[,]72--[,True,True,True,False,True,True,TMH - dépannage chauffage
+,corrective,]16-24],]72--[,]72--[,True,True,True,True,False,True,TMH - dépannage chauffage
+,corrective,]72--[,]72--[,]72--[,True,False,True,False,False,True,TMH - dépannage chauffage
+,corrective,]16-24],]4-16],]24-48],True,False,True,False,False,True,TMH - dépannage chauffage
+,corrective,]72--[,]48-72],]72--[,True,True,True,False,False,True,TMH - dépannage chauffage
+,preventive,]0-1],0,]0-1],False,False,False,False,False,True,TMH - visite entretien appareil gaz
+,corrective,]72--[,0,]72--[,True,True,True,False,False,True,TMH - dépannage chauffage
+,corrective,]4-16],]72--[,]72--[,True,False,True,False,False,True,TMH - dépannage chauffage
+,preventive,]72--[,]2-4],]72--[,True,True,True,True,True,False,TMH - visite entretien appareil gaz
+,preventive,]2-4],]2-4],]4-16],True,True,True,False,False,False,TMH - visite entretien appareil gaz
+,preventive,]72--[,]72--[,]72--[,True,True,False,False,False,False,TMH - visite entretien appareil gaz
+,preventive,]16-24],]2-4],]16-24],True,True,False,False,False,False,TMH - visite entretien appareil gaz
+,preventive,]72--[,0,]72--[,True,True,True,True,True,False,TMH - visite entretien appareil gaz
+,preventive,0,]72--[,]72--[,True,False,True,False,False,False,TMH - visite entretien appareil gaz
+,corrective,]72--[,]1-2],]72--[,True,True,True,False,False,True,Dépannage
+,corrective,]2-4],]2-4],]4-16],True,True,True,False,False,True,TMH - dépannage chauffage
+,corrective,]16-24],]0-1],]16-24],True,False,False,False,False,True,TMH - dépannage chauffage
+,preventive,]4-16],]48-72],]48-72],True,True,False,False,False,False,TMH - visite entretien appareil gaz
+,corrective,]0-1],]0-1],]1-2],True,True,True,False,False,True,TMH - dépannage chauffage
+,preventive,]4-16],]0-1],]4-16],True,True,False,False,False,False,TMH - visite entretien appareil gaz
+,preventive,]72--[,]24-48],]72--[,True,True,False,False,False,False,TMH - visite entretien appareil gaz
+,preventive,]72--[,]72--[,]72--[,False,True,True,False,False,True,TMH - visite entretien appareil gaz
+,preventive,]72--[,]0-1],]72--[,True,True,True,False,False,False,TMH - visite entretien Pompe à Chaleur (PAC)
+,preventive,]2-4],]16-24],]24-48],True,True,True,False,False,False,TMH - visite entretien appareil gaz
+,preventive,]0-1],]0-1],]1-2],True,False,False,False,False,True,TMH - visite entretien appareil gaz
+,corrective,]48-72],]0-1],]48-72],True,True,True,False,False,True,TMH - dépannage chauffage
+,corrective,]24-48],]0-1],]24-48],True,True,True,False,False,True,Dépannage
+,preventive,]0-1],]72--[,]72--[,True,True,True,True,True,False,TMH - visite entretien appareil gaz
+,corrective,]24-48],]0-1],]24-48],True,True,False,False,False,True,Dépannage
+,preventive,]48-72],0,]48-72],True,True,True,False,False,True,TMH - visite entretien appareil gaz
+,preventive,0,]1-2],]1-2],True,False,True,False,False,False,TMH - visite entretien Pompe à Chaleur (PAC)
+,corrective,]4-16],]0-1],]4-16],True,True,True,False,False,True,Dépannage
+,preventive,]72--[,0,]72--[,False,True,True,False,False,False,TMH - visite entretien appareil gaz
+,preventive,]24-48],]1-2],]24-48],True,True,False,False,False,False,TMH - visite entretien appareil gaz
+,corrective,]48-72],]1-2],]48-72],True,True,False,False,False,True,TMH - dépannage chauffage
+,corrective,]1-2],]4-16],]16-24],True,True,True,False,False,True,TMH - dépannage chauffage
+,corrective,]24-48],]0-1],]24-48],True,True,False,False,False,True,Dépannage
+,preventive,0,]72--[,]72--[,True,False,True,False,True,False,TMH - visite entretien appareil gaz
+,preventive,]72--[,0,]72--[,True,True,True,False,False,True,TMH - visite entretien appareil gaz
+,preventive,0,]72--[,]72--[,False,False,True,True,True,False,TMH - visite entretien appareil gaz
+,corrective,]72--[,]16-24],]72--[,True,False,True,False,False,True,TMH - dépannage chauffage
+,preventive,]72--[,]2-4],]72--[,True,True,True,False,True,False,TMH - visite entretien appareil gaz
+,corrective,]16-24],]4-16],]24-48],True,True,True,False,False,True,TMH - dépannage chauffage
+,corrective,]24-48],]1-2],]24-48],True,False,True,False,False,True,TMH - dépannage chauffage
+,corrective,0,]1-2],]1-2],True,False,True,False,False,False,TMH - dépannage chauffage
+,preventive,]48-72],]0-1],]48-72],True,True,False,True,False,False,TMH - visite entretien appareil gaz
+,corrective,]16-24],]0-1],]16-24],True,False,True,False,False,True,TMH - dépannage chauffage
+,corrective,]24-48],]4-16],]48-72],True,False,True,False,False,True,TMH - dépannage chauffage
+,preventive,]72--[,]0-1],]72--[,True,False,True,False,False,True,TMH - visite entretien appareil gaz
+,corrective,]0-1],]72--[,]72--[,True,True,True,False,True,False,TMH - dépannage chauffage
+,corrective,]72--[,]4-16],]72--[,True,True,True,False,False,True,TMH - dépannage chauffage
+,preventive,]72--[,]16-24],]72--[,True,True,True,False,False,False,TMH - visite entretien appareil gaz
+,preventive,]24-48],]0-1],]24-48],True,True,False,False,False,False,TMH - visite entretien appareil gaz
+,preventive,]72--[,]72--[,]72--[,True,True,True,False,True,True,TMH - visite entretien appareil gaz
+,preventive,]0-1],]0-1],]1-2],True,True,False,False,False,False,TMH - visite entretien appareil gaz
+,preventive,]72--[,]72--[,]72--[,True,True,True,False,False,True,TMH - visite entretien appareil gaz
+,corrective,]1-2],0,]1-2],True,False,True,False,False,True,TMH - dépannage chauffage
+,corrective,]2-4],]0-1],]2-4],True,True,False,False,False,True,TMH - dépannage chauffage
+,corrective,]2-4],0,]2-4],True,False,True,False,False,True,TMH - dépannage chauffage
+,corrective,]0-1],]72--[,]72--[,True,False,True,False,False,True,TMH - dépannage chauffage
+,preventive,0,]4-16],]4-16],True,False,True,False,False,False,TMH - visite entretien appareil gaz
+,corrective,]16-24],]72--[,]72--[,True,True,True,False,True,True,TMH - dépannage chauffage
+,preventive,]72--[,]0-1],]72--[,True,True,True,False,False,True,TMH - visite entretien appareil gaz
+,preventive,0,]72--[,]72--[,True,True,True,True,False,False,TMH - visite entretien appareil gaz
+,preventive,]72--[,]72--[,]72--[,True,True,False,False,False,True,TMH - visite entretien appareil gaz
+,preventive,]4-16],]0-1],]4-16],True,True,False,False,False,False,TMH - visite entretien Pompe à Chaleur (PAC)
+,preventive,]16-24],]24-48],]48-72],True,True,True,False,False,False,TMH - visite entretien appareil gaz
+,preventive,0,0,0,False,False,False,False,True,False,TMH - visite entretien appareil gaz
+,preventive,0,]24-48],]24-48],False,False,False,True,False,False,TMH - visite entretien appareil gaz
+,corrective,]16-24],]0-1],]16-24],True,False,False,False,False,True,TMH - dépannage chauffage
+,preventive,]24-48],]0-1],]24-48],True,False,False,False,False,True,TMH - visite entretien appareil gaz
+,corrective,]72--[,0,]72--[,True,True,True,False,False,True,Dépannage
+,preventive,]16-24],]0-1],]24-48],True,True,True,False,False,False,TMH - visite entretien appareil gaz
+,corrective,]72--[,0,]72--[,True,False,True,False,False,True,TMH - dépannage chauffage
+,preventive,0,]72--[,]72--[,True,False,False,False,True,False,TMH - visite entretien appareil gaz
+,preventive,]72--[,]0-1],]72--[,True,True,False,False,False,False,TMH - visite entretien Pompe à Chaleur (PAC)
+,preventive,]16-24],]2-4],]16-24],True,True,True,False,False,False,TMH - visite entretien appareil gaz
+,corrective,]72--[,]72--[,]72--[,True,False,True,True,False,True,Dépannage
+,corrective,]0-1],0,]0-1],False,True,False,False,False,True,Dépannage
+,preventive,0,]0-1],]0-1],True,False,True,False,False,False,TMH - visite entretien appareil gaz
+,preventive,]72--[,]4-16],]72--[,True,True,True,False,False,False,TMH - visite entretien appareil gaz
+,corrective,]2-4],]24-48],]24-48],True,True,True,False,False,True,TMH - dépannage chauffage
+,preventive,]72--[,]0-1],]72--[,True,True,False,False,False,True,TMH - visite entretien appareil gaz
+,preventive,0,]16-24],]16-24],False,False,False,False,True,False,TMH - visite entretien appareil gaz
+,corrective,]72--[,]0-1],]72--[,True,False,False,False,False,True,TMH - dépannage chauffage
+,preventive,]24-48],]0-1],]24-48],True,True,True,False,False,True,TMH - visite entretien appareil gaz
+,corrective,]72--[,]72--[,]72--[,True,True,True,True,False,True,TMH - dépannage chauffage
+,corrective,]2-4],]0-1],]2-4],True,True,True,False,False,True,TMH - dépannage chauffage
+,corrective,]2-4],]0-1],]2-4],True,False,False,False,False,True,OPH31 dépannage chauffage
+,corrective,]72--[,]16-24],]72--[,True,True,True,False,False,True,TMH - dépannage chauffage
+,corrective,]0-1],]0-1],]1-2],True,True,True,False,False,True,TMH - dépannage chauffage
+,preventive,]0-1],]72--[,]72--[,True,True,True,False,True,False,TMH - visite entretien appareil gaz
+,preventive,]72--[,]72--[,]72--[,True,True,True,False,True,False,TMH - visite entretien Pompe à Chaleur (PAC)
+,preventive,]72--[,]1-2],]72--[,True,True,False,False,False,True,TMH - visite entretien appareil gaz
+,preventive,]72--[,]72--[,]72--[,True,True,False,False,False,False,TMH - visite entretien appareil gaz
+,corrective,]16-24],]4-16],]16-24],True,True,True,False,False,True,TMH - dépannage chauffage
+,preventive,0,]72--[,]72--[,True,False,True,True,False,False,TMH - visite entretien appareil gaz
+,corrective,]16-24],]1-2],]16-24],True,True,False,False,False,True,TMH - dépannage chauffage
+,preventive,]72--[,]0-1],]72--[,True,True,True,False,False,False,TMH - visite entretien ballon thermodynamique
+,preventive,]16-24],0,]16-24],True,True,True,False,False,False,TMH - visite entretien appareil gaz
+,preventive,]1-2],]1-2],]2-4],True,True,True,False,False,False,TMH - visite entretien appareil gaz
+,preventive,]72--[,0,]72--[,False,True,False,False,False,False,TMH - visite entretien ballon solaire
+,corrective,]24-48],]24-48],]72--[,True,True,True,False,False,True,TMH - dépannage chauffage
+,corrective,]4-16],]0-1],]4-16],True,False,False,False,False,True,TMH - dépannage chauffage
+,corrective,]4-16],]1-2],]4-16],True,True,True,False,False,True,Dépannage
+,corrective,]0-1],]0-1],]0-1],True,True,False,False,False,True,TMH - dépannage chauffage
+,preventive,]72--[,]2-4],]72--[,True,True,True,False,False,False,TMH - visite entretien Pompe à Chaleur (PAC)
+,corrective,]16-24],]24-48],]48-72],True,True,True,False,False,True,TMH - dépannage chauffage
+,corrective,]24-48],0,]24-48],True,False,True,False,False,True,TMH - dépannage chauffage
+,corrective,]16-24],]1-2],]16-24],True,True,True,False,False,True,TMH - dépannage chauffage
+,preventive,0,]24-48],]24-48],True,True,True,True,True,False,TMH - visite entretien appareil gaz
+,corrective,]24-48],]72--[,]72--[,True,True,True,False,False,True,TMH - dépannage chauffage
+,preventive,0,]24-48],]24-48],False,False,True,True,False,False,TMH - visite entretien appareil gaz
+,corrective,]4-16],]0-1],]4-16],True,True,False,False,False,True,TMH - dépannage chauffage
+,preventive,]0-1],]2-4],]2-4],True,True,True,False,False,False,TMH - visite entretien appareil gaz
+,preventive,0,]16-24],]16-24],True,False,True,False,False,False,TMH - visite entretien appareil gaz
+,corrective,]0-1],]72--[,]72--[,True,True,True,True,False,True,TMH - dépannage chauffage
+,corrective,]72--[,]1-2],]72--[,True,False,True,False,False,True,TMH - dépannage chauffage
+,corrective,]0-1],]16-24],]16-24],False,True,True,False,False,True,TMH - dépannage chauffage
+,preventive,]0-1],]0-1],]0-1],True,True,False,False,False,False,TMH - visite entretien appareil gaz
+,preventive,]72--[,]16-24],]72--[,True,True,False,False,False,False,TMH - visite entretien appareil gaz
+,preventive,]1-2],]1-2],]2-4],True,True,False,False,False,False,TMH - visite entretien appareil gaz
+,preventive,]72--[,0,]72--[,True,True,True,False,False,False,TMH - visite entretien Pompe à Chaleur (PAC)
+,corrective,]16-24],0,]16-24],True,True,True,False,False,True,TMH - dépannage chauffage
+,corrective,]24-48],]24-48],]48-72],True,True,True,False,False,True,TMH - dépannage chauffage
+,corrective,]24-48],]4-16],]48-72],True,True,True,False,False,True,TMH - dépannage chauffage
+,corrective,]24-48],]1-2],]48-72],True,False,True,False,False,True,TMH - dépannage chauffage
+,corrective,]16-24],]1-2],]16-24],True,True,True,False,False,True,TMH - dépannage chauffage
+,corrective,]0-1],]16-24],]16-24],True,False,True,False,False,True,TMH - dépannage chauffage
+,preventive,]24-48],]16-24],]24-48],True,True,True,False,False,False,TMH - visite entretien appareil gaz
+,corrective,]1-2],]0-1],]1-2],True,True,False,False,False,True,TMH - dépannage chauffage
+,preventive,]72--[,]72--[,]72--[,True,True,True,True,True,True,TMH - visite entretien appareil gaz
+,corrective,]4-16],]72--[,]72--[,True,False,True,False,False,True,TMH - dépannage chauffage
+,preventive,0,]4-16],]4-16],True,False,True,True,False,False,TMH - visite entretien appareil gaz
+,corrective,0,0,0,True,False,True,False,False,False,TMH - dépannage chauffage
+,preventive,]72--[,0,]72--[,False,True,True,False,False,True,TMH - visite entretien appareil gaz
+,preventive,]1-2],]72--[,]72--[,True,True,True,False,False,False,TMH - visite entretien appareil gaz
+,preventive,]0-1],]72--[,]72--[,True,True,True,False,False,False,TMH - visite entretien appareil gaz
+,corrective,]72--[,]16-24],]72--[,True,False,True,False,False,True,TMH - dépannage chauffage
+,corrective,]24-48],0,]24-48],False,True,False,False,False,True,TMH - dépannage chauffage
+,preventive,]2-4],0,]2-4],True,True,True,False,False,False,TMH - visite entretien appareil gaz
+,preventive,0,]72--[,]72--[,True,False,True,True,False,False,TMH - visite entretien appareil gaz
+,preventive,]72--[,]72--[,]72--[,True,True,True,False,True,True,TMH - visite entretien Pompe à Chaleur (PAC)
+,corrective,]72--[,]72--[,]72--[,True,True,True,False,False,True,TMH - dépannage chauffage
+,corrective,]48-72],]2-4],]48-72],True,False,True,False,False,True,TMH - dépannage chauffage
+,corrective,]16-24],]1-2],]24-48],True,False,True,False,False,True,TMH - dépannage chauffage
+,corrective,]0-1],]1-2],]2-4],True,True,True,False,False,True,TMH - dépannage chauffage
+,preventive,]72--[,]0-1],]72--[,True,True,False,False,False,False,TMH - visite entretien appareil gaz
+,corrective,]48-72],]0-1],]48-72],True,False,True,False,False,True,TMH - dépannage chauffage
+,corrective,]48-72],0,]48-72],True,False,True,False,False,True,TMH - dépannage chauffage
+,corrective,]48-72],0,]48-72],True,True,True,False,False,True,TMH - dépannage chauffage
+,corrective,]72--[,]72--[,]72--[,True,True,True,True,False,True,TMH - dépannage chauffage
+,preventive,]16-24],]0-1],]16-24],True,True,False,False,False,False,TMH - visite entretien appareil gaz
+,preventive,]72--[,]72--[,]72--[,True,True,True,True,False,False,TMH - visite entretien ballon thermodynamique
+,corrective,]16-24],]0-1],]16-24],True,True,False,False,False,True,Dépannage
+,preventive,]2-4],]72--[,]72--[,True,True,True,False,False,True,TMH - visite entretien appareil gaz
+,corrective,]72--[,0,]72--[,True,False,True,False,False,True,TMH - dépannage chauffage
+,preventive,]24-48],0,]24-48],False,True,False,False,False,False,TMH - visite entretien appareil gaz
+,corrective,]16-24],]2-4],]24-48],True,True,True,False,False,True,TMH - dépannage chauffage
+,corrective,]48-72],]4-16],]72--[,True,True,True,False,False,True,TMH - dépannage chauffage
+,preventive,]72--[,]72--[,]72--[,True,True,True,False,True,False,TMH - visite entretien appareil gaz
+,preventive,]72--[,]1-2],]72--[,False,True,True,False,False,False,TMH - visite entretien appareil gaz
+,corrective,]4-16],]0-1],]4-16],True,True,False,False,False,True,TMH - dépannage chauffage
+,preventive,0,]48-72],]48-72],False,False,False,True,False,False,TMH - visite entretien appareil gaz
+,preventive,0,]4-16],]4-16],False,False,True,True,False,False,TMH - visite entretien appareil gaz
+,corrective,]0-1],]2-4],]2-4],True,False,True,True,False,True,TMH - dépannage chauffage
+,corrective,]1-2],]72--[,]72--[,True,True,True,False,False,False,TMH - dépannage chauffage
+,corrective,]1-2],]4-16],]4-16],True,True,True,False,False,True,Dépannage
+,preventive,]72--[,]1-2],]72--[,True,True,True,False,False,False,TMH - visite entretien Pompe à Chaleur (PAC)
+,corrective,]24-48],]72--[,]72--[,True,False,True,True,False,True,Dépannage
+,corrective,]2-4],]2-4],]4-16],True,True,True,False,False,True,TMH - dépannage chauffage
+,corrective,]72--[,]72--[,]72--[,False,True,True,False,False,True,TMH - dépannage chauffage
+,corrective,]0-1],]1-2],]1-2],True,True,False,False,False,True,TMH - dépannage chauffage
+,preventive,]24-48],]2-4],]24-48],True,True,True,False,False,False,TMH - visite entretien appareil gaz
+,preventive,]24-48],]0-1],]24-48],True,True,True,False,False,False,TMH - visite entretien appareil gaz
+,corrective,]4-16],]72--[,]72--[,True,True,True,False,False,True,Dépannage
+,corrective,]16-24],]1-2],]16-24],True,False,True,False,False,True,TMH - dépannage chauffage
+,preventive,]72--[,]0-1],]72--[,True,True,True,False,True,False,TMH - visite entretien appareil gaz
+,corrective,]4-16],]0-1],]4-16],True,True,False,False,False,True,TMH - dépannage chauffage
+,corrective,]24-48],]1-2],]24-48],True,False,True,False,False,True,TMH - dépannage chauffage
+,corrective,]72--[,]72--[,]72--[,True,True,True,True,False,True,TMH - dépannage chauffage
+,corrective,]16-24],]48-72],]48-72],True,True,True,False,False,True,TMH - dépannage chauffage
+,corrective,]16-24],]72--[,]72--[,True,True,True,True,False,True,TMH - dépannage chauffage
+,preventive,]72--[,]2-4],]72--[,False,True,True,False,False,False,TMH - visite entretien appareil gaz
+,preventive,]72--[,]48-72],]72--[,True,True,True,False,False,False,TMH - visite entretien appareil gaz
+,corrective,]24-48],]72--[,]72--[,True,True,True,True,False,True,TMH - dépannage chauffage
+,corrective,]16-24],]0-1],]16-24],True,False,False,False,False,True,TMH - dépannage chauffage
+,corrective,]48-72],]72--[,]72--[,True,True,False,False,False,True,TMH - dépannage chauffage
+,preventive,]72--[,]0-1],]72--[,True,True,True,False,False,False,TMH - visite entretien appareil gaz
+,corrective,]72--[,]72--[,]72--[,True,True,True,False,True,True,TMH - dépannage chauffage
+,corrective,]72--[,]0-1],]72--[,True,True,False,False,False,True,OPH31 dépannage chauffage
+,corrective,]2-4],]1-2],]2-4],True,True,False,False,False,True,TMH - dépannage chauffage
+,corrective,]16-24],]0-1],]16-24],True,True,False,False,False,True,Dépannage
+,preventive,]72--[,]72--[,]72--[,False,True,True,False,False,True,TMH - visite entretien Pompe à Chaleur (PAC)
+,preventive,0,]72--[,]72--[,True,False,True,True,False,False,TMH - visite entretien appareil gaz
+,corrective,]1-2],]4-16],]4-16],True,True,False,False,False,True,TMH - dépannage chauffage
+,corrective,]1-2],]0-1],]1-2],True,False,False,False,False,True,TMH - dépannage chauffage
+,corrective,]16-24],]2-4],]16-24],True,False,True,False,False,True,TMH - dépannage chauffage
+,corrective,]4-16],]48-72],]48-72],True,False,True,False,False,True,TMH - dépannage chauffage
+,corrective,]48-72],]72--[,]72--[,True,True,True,True,False,True,TMH - dépannage chauffage
+,corrective,]24-48],]4-16],]24-48],True,True,True,True,False,True,Dépannage
+,corrective,]4-16],]24-48],]24-48],True,False,True,False,True,True,TMH - dépannage chauffage
+,preventive,]72--[,]72--[,]72--[,True,True,True,False,False,False,TMH - visite entretien ballon thermodynamique
+,corrective,]1-2],]72--[,]72--[,True,True,True,False,False,True,TMH - dépannage chauffage
+,corrective,]1-2],]16-24],]16-24],True,False,True,False,False,True,TMH - dépannage chauffage
+,corrective,]24-48],]1-2],]24-48],True,True,False,False,False,True,Dépannage
+,preventive,]4-16],]4-16],]4-16],True,True,True,False,False,False,TMH - visite entretien appareil gaz
+,corrective,]72--[,]72--[,]72--[,True,True,True,False,False,True,TMH - dépannage chauffage
+,preventive,]2-4],]72--[,]72--[,True,True,True,True,True,False,TMH - visite entretien appareil gaz
+,preventive,0,]1-2],]1-2],True,False,True,False,True,False,TMH - visite entretien appareil gaz
+,corrective,]16-24],]72--[,]72--[,True,False,True,False,False,True,TMH - dépannage chauffage
+,corrective,]16-24],]4-16],]24-48],True,True,False,False,False,True,TMH - dépannage chauffage
+,preventive,0,]1-2],]1-2],True,False,True,False,False,False,TMH - visite entretien appareil gaz
+,preventive,]72--[,]48-72],]72--[,True,True,True,False,False,True,TMH - visite entretien appareil gaz
+,corrective,]0-1],]1-2],]1-2],True,True,False,False,False,True,TMH - dépannage chauffage
+,corrective,]4-16],]48-72],]72--[,True,True,True,False,True,True,TMH - dépannage chauffage
+,preventive,]2-4],]0-1],]2-4],True,True,False,False,False,False,TMH - visite entretien appareil gaz
+,preventive,]72--[,]16-24],]72--[,True,True,False,False,False,False,TMH - visite entretien appareil gaz
+,preventive,]72--[,]72--[,]72--[,True,True,False,False,True,False,TMH - visite entretien appareil gaz
+,preventive,]1-2],]72--[,]72--[,True,True,True,False,True,False,TMH - visite entretien appareil gaz
+,corrective,]4-16],0,]4-16],True,True,True,False,False,True,TMH - dépannage chauffage
+,preventive,]72--[,]72--[,]72--[,True,True,False,True,False,False,TMH - visite entretien appareil gaz
+,preventive,]24-48],]72--[,]72--[,True,True,True,True,True,False,TMH - visite entretien appareil gaz
+,corrective,]16-24],]4-16],]24-48],True,True,True,False,False,True,TMH - dépannage chauffage
+,preventive,]24-48],]0-1],]24-48],True,True,False,False,False,False,TMH - visite entretien ballon thermodynamique
+,corrective,]2-4],]72--[,]72--[,True,True,True,True,False,True,TMH - dépannage chauffage
+,preventive,]48-72],0,]48-72],True,True,True,False,False,False,TMH - visite entretien Pompe à Chaleur (PAC)
+,preventive,]16-24],]1-2],]24-48],True,True,False,False,False,False,TMH - visite entretien appareil gaz
+,corrective,]1-2],]72--[,]72--[,True,False,True,True,False,True,TMH - dépannage chauffage
+,corrective,]48-72],]0-1],]48-72],True,True,True,False,False,True,TMH - dépannage chauffage
+,preventive,]48-72],]0-1],]48-72],True,True,True,False,False,False,TMH - visite entretien appareil gaz
+,corrective,]0-1],]0-1],]1-2],True,True,False,False,False,True,TMH - dépannage chauffage
+,corrective,]72--[,]0-1],]72--[,True,True,False,False,False,True,Dépannage
+,corrective,]72--[,]48-72],]72--[,True,True,True,False,False,True,TMH - dépannage chauffage
+,preventive,]72--[,]16-24],]72--[,True,True,True,False,False,True,TMH - visite entretien appareil gaz
+,preventive,]72--[,]72--[,]72--[,True,True,True,True,True,False,TMH - visite entretien appareil gaz
+,corrective,]48-72],0,]48-72],True,True,True,False,False,True,Dépannage
+,corrective,]4-16],]0-1],]4-16],True,False,True,False,False,True,TMH - dépannage chauffage
+,preventive,]4-16],]0-1],]4-16],True,False,False,False,False,True,TMH - visite entretien appareil gaz
+,corrective,]24-48],]72--[,]72--[,True,True,True,True,False,True,TMH - dépannage chauffage
+,preventive,]72--[,]0-1],]72--[,True,True,False,False,False,False,TMH - visite entretien ballon thermodynamique
+,corrective,]4-16],]72--[,]72--[,True,False,True,True,False,True,TMH - dépannage chauffage
+,corrective,]24-48],]0-1],]24-48],True,True,True,False,False,True,Dépannage
+,preventive,]48-72],]0-1],]48-72],True,True,False,False,False,False,TMH - visite entretien appareil gaz
+,corrective,]24-48],]1-2],]24-48],True,False,True,False,False,True,TMH - dépannage chauffage
+,corrective,]72--[,]72--[,]72--[,True,True,True,True,False,True,Dépannage
+,corrective,]72--[,]4-16],]72--[,True,False,True,True,False,True,TMH - dépannage chauffage
+,preventive,0,]4-16],]4-16],True,False,True,False,False,False,TMH - visite entretien appareil gaz
+,corrective,]16-24],]2-4],]16-24],True,True,False,False,False,True,TMH - dépannage chauffage
+,preventive,]72--[,]72--[,]72--[,True,True,True,True,False,True,TMH - visite entretien appareil gaz
+,preventive,]72--[,]0-1],]72--[,True,False,False,False,False,True,TMH - visite entretien appareil gaz
+,preventive,]24-48],]72--[,]72--[,True,True,True,False,True,False,TMH - visite entretien appareil gaz
+,preventive,0,0,0,False,False,False,True,False,False,TMH - visite entretien appareil gaz
+,corrective,]72--[,]24-48],]72--[,True,True,True,False,False,True,TMH - dépannage chauffage
+,corrective,]24-48],]48-72],]72--[,True,True,True,False,False,True,TMH - dépannage chauffage
+,preventive,]4-16],]72--[,]72--[,True,True,True,False,False,True,TMH - visite entretien appareil gaz
+,corrective,]2-4],]0-1],]2-4],True,False,True,False,False,True,TMH - dépannage chauffage
+,preventive,]0-1],]0-1],]0-1],True,True,False,False,False,False,TMH - visite entretien ballon thermodynamique
+,corrective,]48-72],]2-4],]48-72],True,True,True,False,False,True,TMH - dépannage chauffage
+,preventive,]72--[,]48-72],]72--[,True,True,True,False,False,False,TMH - visite entretien ballon thermodynamique
+,corrective,0,]16-24],]16-24],True,True,True,False,False,False,TMH - dépannage chauffage
+,corrective,]72--[,]72--[,]72--[,True,False,True,False,False,True,TMH - dépannage chauffage
+,preventive,]4-16],]72--[,]72--[,True,True,True,False,True,False,TMH - visite entretien appareil gaz
+,preventive,]24-48],]72--[,]72--[,True,True,True,False,False,True,TMH - visite entretien appareil gaz
+,corrective,]24-48],]0-1],]24-48],True,True,False,False,False,True,ALTEAL - dépannage chauffage
+,corrective,]24-48],]0-1],]48-72],True,True,True,False,True,True,TMH - dépannage chauffage
+,corrective,]24-48],]0-1],]24-48],True,False,False,False,False,True,TMH - dépannage chauffage
+,corrective,]72--[,]4-16],]72--[,True,False,True,False,False,True,TMH - dépannage chauffage
+,preventive,]2-4],]72--[,]72--[,True,True,True,False,False,False,TMH - visite entretien appareil gaz
+,preventive,]4-16],]0-1],]4-16],True,True,True,False,False,False,TMH - visite entretien appareil gaz
+,corrective,]16-24],]1-2],]24-48],True,False,True,False,False,True,TMH - dépannage chauffage
+,corrective,]0-1],]72--[,]72--[,True,True,True,True,False,True,TMH - dépannage chauffage
+,corrective,]16-24],]1-2],]16-24],True,True,True,False,False,True,Dépannage
+,preventive,]48-72],]0-1],]72--[,True,True,False,False,False,False,TMH - visite entretien appareil gaz
+,corrective,]72--[,]0-1],]72--[,True,True,False,False,False,True,Dépannage
+,corrective,]72--[,]72--[,]72--[,True,False,True,False,False,True,Dépannage
+,corrective,]24-48],]72--[,]72--[,True,False,True,True,False,True,TMH - dépannage chauffage
+,corrective,]24-48],]2-4],]24-48],False,False,True,False,False,True,TMH - dépannage chauffage
+,preventive,0,0,0,False,False,False,False,False,False,TMH - visite entretien appareil gaz
+,corrective,]0-1],]72--[,]72--[,True,False,True,True,False,True,TMH - dépannage chauffage
+,preventive,]72--[,]72--[,]72--[,True,True,False,True,False,False,TMH - visite entretien appareil gaz
+,preventive,]24-48],]0-1],]24-48],True,True,True,False,False,False,TMH - visite entretien appareil gaz
+,preventive,]48-72],]0-1],]48-72],True,True,True,False,False,False,TMH - visite entretien Pompe à Chaleur (PAC)
+,preventive,]72--[,]24-48],]72--[,True,True,True,False,False,False,TMH - visite entretien ballon thermodynamique
+,corrective,]16-24],]0-1],]24-48],True,True,False,False,False,True,TMH - dépannage chauffage
+,corrective,]24-48],]0-1],]24-48],True,False,True,False,False,True,TMH - dépannage chauffage
+,corrective,]72--[,]1-2],]72--[,True,True,True,False,False,True,TMH - dépannage chauffage
+,corrective,]24-48],0,]24-48],True,True,True,False,False,True,TMH - dépannage chauffage
+,corrective,]24-48],]1-2],]24-48],True,True,True,False,False,True,TMH - dépannage chauffage
+,preventive,]0-1],]72--[,]72--[,True,True,True,False,True,False,TMH - visite entretien appareil gaz
+,corrective,]16-24],]72--[,]72--[,True,False,True,False,False,True,TMH - dépannage chauffage
+,corrective,]24-48],]4-16],]24-48],True,True,True,False,False,True,TMH - dépannage chauffage
+,preventive,]72--[,]4-16],]72--[,False,True,True,False,False,False,TMH - visite entretien Pompe à Chaleur (PAC)
+,corrective,]72--[,]2-4],]72--[,True,True,False,False,False,True,TMH - dépannage chauffage
+,corrective,]2-4],]0-1],]2-4],True,True,False,False,False,True,Dépannage
+,corrective,]24-48],]24-48],]48-72],True,True,True,False,False,True,TMH - dépannage chauffage
+,preventive,]48-72],]72--[,]72--[,True,True,True,False,False,False,TMH - visite entretien appareil gaz
+,corrective,]16-24],]1-2],]24-48],True,True,True,False,False,True,TMH - dépannage chauffage
+,preventive,0,]48-72],]48-72],True,False,False,False,True,False,TMH - visite entretien appareil gaz
+,preventive,0,]72--[,]72--[,False,False,True,True,False,False,TMH - visite entretien appareil gaz
+,corrective,]0-1],]16-24],]16-24],True,True,True,False,False,True,TMH - dépannage chauffage
+,preventive,0,]72--[,]72--[,False,False,True,False,False,False,TMH - visite entretien appareil gaz
+,preventive,0,]1-2],]1-2],True,False,False,False,False,False,TMH - visite entretien appareil gaz
+,preventive,]24-48],0,]24-48],True,True,True,False,False,False,TMH - visite entretien appareil gaz
+,corrective,]2-4],]1-2],]4-16],True,True,True,False,False,True,TMH - dépannage chauffage
+,corrective,]16-24],]1-2],]24-48],True,True,False,False,False,True,TMH - dépannage chauffage
+,preventive,]72--[,]4-16],]72--[,True,True,True,False,True,False,TMH - visite entretien appareil gaz
+,corrective,]16-24],]0-1],]16-24],True,True,True,False,False,True,TMH - dépannage chauffage
+,preventive,]0-1],]72--[,]72--[,True,True,True,False,False,True,TMH - visite entretien appareil gaz
+,corrective,]24-48],]2-4],]24-48],True,False,True,True,False,True,TMH - dépannage chauffage
+,preventive,]72--[,]72--[,]72--[,True,True,True,False,True,False,TMH - visite entretien appareil gaz
+,preventive,]1-2],]0-1],]2-4],True,True,False,False,False,False,TMH - visite entretien appareil gaz
+,preventive,]48-72],]2-4],]48-72],True,True,True,False,False,False,TMH - visite entretien appareil gaz
+,preventive,0,]4-16],]4-16],True,False,False,False,False,False,TMH - visite entretien appareil gaz
+,corrective,]0-1],]48-72],]48-72],True,False,False,True,False,True,TMH - dépannage chauffage
+,corrective,]24-48],]72--[,]72--[,True,True,True,False,True,True,TMH - dépannage chauffage
+,preventive,]72--[,]72--[,]72--[,True,True,True,False,False,False,TMH - visite entretien appareil gaz
+,corrective,]4-16],0,]4-16],True,True,True,False,False,True,TMH - dépannage chauffage
+,corrective,]72--[,]72--[,]72--[,True,True,True,False,False,True,TMH - dépannage chauffage
+,preventive,]72--[,]24-48],]72--[,True,True,True,False,False,True,TMH - visite entretien appareil gaz
+,corrective,]16-24],0,]16-24],False,True,False,False,False,True,TMH - dépannage chauffage
+,corrective,]0-1],]1-2],]1-2],True,False,True,False,False,True,TMH - dépannage chauffage
+,corrective,]24-48],]72--[,]72--[,True,True,True,False,False,True,TMH - dépannage chauffage
+,preventive,]72--[,]72--[,]72--[,True,True,True,False,True,False,TMH - visite entretien Pompe à Chaleur (PAC)
+,preventive,]48-72],]72--[,]72--[,True,True,True,True,True,False,TMH - visite entretien appareil gaz
+,preventive,]72--[,]1-2],]72--[,True,True,True,False,True,False,TMH - visite entretien appareil gaz
+,preventive,0,]0-1],]0-1],True,False,False,False,False,False,TMH - visite entretien appareil gaz
+,preventive,]72--[,]2-4],]72--[,True,True,True,False,True,True,TMH - visite entretien appareil gaz
+,corrective,]72--[,]2-4],]72--[,True,False,True,False,False,True,TMH - dépannage chauffage
+,preventive,]72--[,0,]72--[,True,True,True,False,False,False,TMH - visite entretien ballon thermodynamique
+,preventive,]72--[,]72--[,]72--[,True,True,False,False,False,False,TMH - visite entretien appareil gaz
+,corrective,]24-48],]1-2],]24-48],True,True,True,False,False,True,Dépannage
+,preventive,]4-16],]72--[,]72--[,True,True,True,False,True,True,TMH - visite entretien appareil gaz
+,preventive,]2-4],]1-2],]4-16],True,True,False,False,False,False,TMH - visite entretien appareil gaz
+,corrective,]72--[,]72--[,]72--[,True,True,True,False,False,True,TMH - dépannage chauffage
+,corrective,]72--[,]2-4],]72--[,True,True,True,False,False,True,Dépannage
+,corrective,]0-1],]24-48],]24-48],True,False,True,False,False,True,TMH - dépannage chauffage
+,corrective,]72--[,]0-1],]72--[,True,False,False,False,False,True,Dépannage
+,corrective,]2-4],0,]2-4],True,True,True,False,False,True,TMH - dépannage chauffage
+,preventive,]72--[,]72--[,]72--[,True,True,True,False,False,True,TMH - visite entretien appareil gaz
+,corrective,]16-24],]4-16],]24-48],True,True,True,False,False,True,TMH - dépannage chauffage
+,preventive,]0-1],0,]0-1],False,True,False,False,False,False,TMH - visite entretien appareil gaz
+,preventive,]1-2],]0-1],]1-2],True,True,False,False,False,False,TMH - visite entretien appareil gaz
+,preventive,]72--[,]4-16],]72--[,True,True,True,False,False,True,TMH - visite entretien appareil gaz
+,corrective,]24-48],]0-1],]24-48],True,True,False,False,False,True,Dépannage
+,corrective,]24-48],]72--[,]72--[,True,True,True,True,False,True,Dépannage
+,corrective,]1-2],]0-1],]2-4],True,True,True,True,False,True,TMH - dépannage chauffage
+,corrective,]48-72],]0-1],]48-72],True,True,True,False,False,True,Dépannage
+,corrective,]72--[,]1-2],]72--[,True,True,False,False,False,True,TMH - dépannage chauffage
+,corrective,]48-72],]72--[,]72--[,True,True,True,False,True,True,TMH - dépannage chauffage
+,preventive,]4-16],]1-2],]4-16],True,True,True,False,False,False,TMH - visite entretien appareil gaz
+,corrective,]72--[,]2-4],]72--[,True,True,True,False,False,True,TMH - dépannage chauffage
+,corrective,]2-4],]0-1],]4-16],True,False,True,False,False,True,TMH - dépannage chauffage
+,corrective,]4-16],]4-16],]4-16],True,True,True,False,False,True,TMH - dépannage chauffage
+,preventive,0,0,0,True,False,True,False,False,False,TMH - visite entretien appareil gaz
+,corrective,]4-16],]0-1],]4-16],True,True,True,False,False,True,TMH - dépannage chauffage
+,corrective,]0-1],]0-1],]1-2],True,False,True,False,False,True,TMH - dépannage chauffage
+,preventive,0,]0-1],]0-1],True,False,False,False,False,False,TMH - visite entretien Pompe à Chaleur (PAC)
+,corrective,]0-1],]1-2],]1-2],True,True,True,False,False,True,TMH - dépannage chauffage
+,preventive,0,]2-4],]2-4],True,False,True,False,False,False,TMH - visite entretien appareil gaz
+,corrective,]16-24],]72--[,]72--[,True,False,True,True,False,True,TMH - dépannage chauffage
+,corrective,]72--[,]0-1],]72--[,True,True,True,False,False,True,TMH - dépannage chauffage
+,preventive,]72--[,]1-2],]72--[,True,True,False,False,False,False,TMH - visite entretien appareil gaz
+,corrective,]24-48],]0-1],]24-48],True,True,True,False,False,True,TMH - dépannage chauffage
+,corrective,]24-48],]0-1],]24-48],True,False,False,False,False,True,TMH - dépannage chauffage
+,preventive,]16-24],]48-72],]48-72],False,True,True,False,False,True,TMH - visite entretien appareil gaz
+,preventive,]2-4],]4-16],]4-16],True,True,False,False,False,False,TMH - visite entretien appareil gaz
+,preventive,]72--[,]1-2],]72--[,True,True,True,False,False,True,TMH - visite entretien ballon thermodynamique
+,corrective,]48-72],]1-2],]72--[,True,True,True,False,False,True,TMH - dépannage chauffage
+,preventive,]72--[,]72--[,]72--[,True,True,True,False,True,False,TMH - visite entretien appareil gaz
+,corrective,]48-72],]24-48],]72--[,True,True,True,True,False,True,TMH - dépannage chauffage
+,preventive,]16-24],]2-4],]16-24],True,True,True,False,False,False,TMH - visite entretien ballon solaire
+,preventive,]16-24],]16-24],]24-48],True,True,True,False,False,False,TMH - visite entretien appareil gaz
+,corrective,]48-72],]2-4],]72--[,True,True,True,False,False,True,TMH - dépannage chauffage
+,corrective,]0-1],]48-72],]48-72],True,True,True,False,False,True,TMH - dépannage chauffage
+,preventive,]72--[,]24-48],]72--[,True,True,True,False,False,False,TMH - visite entretien appareil gaz
+,corrective,]48-72],]0-1],]48-72],True,True,False,False,False,True,Dépannage
+,preventive,]72--[,]72--[,]72--[,True,True,True,True,True,False,TMH - visite entretien appareil gaz
+,corrective,0,]2-4],]2-4],True,False,True,False,False,False,TMH - dépannage chauffage
+,corrective,]72--[,]0-1],]72--[,True,True,False,False,False,True,TMH - dépannage chauffage
+,preventive,]72--[,]72--[,]72--[,True,True,True,False,False,False,TMH - visite entretien appareil gaz
+,corrective,]16-24],]48-72],]72--[,True,True,True,False,False,True,TMH - dépannage chauffage
+,corrective,]1-2],]1-2],]2-4],True,True,False,False,False,True,TMH - dépannage chauffage
+,corrective,]4-16],]24-48],]24-48],True,True,True,False,False,True,TMH - dépannage chauffage
+,corrective,]2-4],]2-4],]4-16],True,False,True,False,False,True,TMH - dépannage chauffage
+,corrective,]24-48],]72--[,]72--[,True,True,True,False,False,True,TMH - dépannage chauffage
+,corrective,]4-16],]0-1],]4-16],True,True,False,False,False,True,Dépannage
+,corrective,]16-24],]0-1],]24-48],True,False,False,False,False,True,TMH - dépannage chauffage
+,corrective,]24-48],]48-72],]72--[,True,True,True,False,False,True,TMH - dépannage chauffage
+,corrective,]4-16],0,]4-16],True,False,True,False,False,True,TMH - dépannage chauffage
+,corrective,]1-2],]0-1],]2-4],True,True,False,False,False,True,TMH - dépannage chauffage
+,preventive,0,]48-72],]48-72],False,False,True,True,False,False,TMH - visite entretien appareil gaz
+,corrective,]24-48],0,]24-48],True,True,True,False,False,True,Dépannage
+,corrective,]24-48],]48-72],]72--[,True,False,True,False,False,True,TMH - dépannage chauffage
+,corrective,]24-48],]72--[,]72--[,True,True,True,True,True,True,TMH - dépannage chauffage
+,corrective,]24-48],]1-2],]48-72],True,True,True,False,False,True,TMH - dépannage chauffage
+,corrective,]48-72],]1-2],]72--[,True,True,True,False,False,True,TMH - dépannage chauffage
+,corrective,]16-24],0,]16-24],True,True,True,False,False,True,Dépannage
+,corrective,]0-1],]0-1],]0-1],True,True,False,False,False,True,Dépannage
+,preventive,]0-1],0,]0-1],False,False,False,False,False,True,TMH - visite entretien Pompe à Chaleur (PAC)
+,corrective,]4-16],]2-4],]4-16],True,True,False,False,False,True,TMH - dépannage chauffage
+,preventive,]72--[,]0-1],]72--[,True,True,True,True,False,False,TMH - visite entretien appareil gaz
+,corrective,]16-24],]0-1],]24-48],True,True,True,False,False,True,Dépannage
+,preventive,]72--[,]24-48],]72--[,True,True,False,False,False,False,TMH - visite entretien appareil gaz
+,preventive,]72--[,]72--[,]72--[,True,True,True,False,False,False,TMH - visite entretien ballon thermodynamique
+,corrective,]24-48],0,]24-48],True,True,True,False,False,True,TMH - dépannage chauffage
+,preventive,]72--[,]72--[,]72--[,True,True,False,False,True,True,TMH - visite entretien appareil gaz
+,preventive,0,]72--[,]72--[,False,False,False,True,False,False,TMH - visite entretien appareil gaz
+,preventive,]48-72],]16-24],]48-72],True,True,True,False,False,False,TMH - visite entretien appareil gaz
+,corrective,]4-16],]0-1],]4-16],True,False,True,False,False,True,TMH - dépannage chauffage
+,preventive,0,]72--[,]72--[,True,False,True,True,True,False,TMH - visite entretien appareil gaz
+,corrective,0,]48-72],]48-72],True,False,True,False,False,False,TMH - dépannage chauffage
+,corrective,]4-16],]1-2],]4-16],True,True,True,False,False,True,TMH - dépannage chauffage
+,corrective,]16-24],]16-24],]24-48],True,True,True,True,False,True,TMH - dépannage chauffage
+,preventive,]72--[,]48-72],]72--[,True,True,True,True,True,False,TMH - visite entretien appareil gaz
+,preventive,]2-4],]72--[,]72--[,True,True,True,False,False,False,TMH - visite entretien appareil gaz
+,corrective,0,]2-4],]2-4],True,True,True,False,False,False,TMH - dépannage chauffage
+,preventive,]72--[,]48-72],]72--[,True,True,True,False,True,False,TMH - visite entretien appareil gaz
+,preventive,]72--[,]72--[,]72--[,True,True,True,False,False,False,TMH - visite entretien appareil gaz
+,corrective,]2-4],]0-1],]2-4],True,False,False,False,False,True,TMH - dépannage chauffage
+,corrective,]72--[,]0-1],]72--[,True,False,True,False,False,True,TMH - dépannage chauffage
+,corrective,]48-72],]72--[,]72--[,True,True,True,False,False,True,TMH - dépannage chauffage
+,corrective,]16-24],]72--[,]72--[,True,True,True,False,True,True,TMH - dépannage chauffage
+,preventive,]72--[,]48-72],]72--[,True,True,False,False,False,False,TMH - visite entretien appareil gaz
+,corrective,0,]72--[,]72--[,True,True,True,False,True,False,TMH - dépannage chauffage
+,corrective,]72--[,]72--[,]72--[,True,True,True,False,False,True,TMH - dépannage chauffage
+,corrective,]72--[,]0-1],]72--[,True,False,False,False,False,True,TMH - dépannage chauffage
+,corrective,]0-1],]24-48],]24-48],True,True,True,False,False,True,TMH - dépannage chauffage
+,corrective,]24-48],]4-16],]48-72],True,True,False,False,False,True,TMH - dépannage chauffage
+,corrective,]2-4],]2-4],]4-16],True,False,True,False,False,True,TMH - dépannage chauffage
+,corrective,]16-24],]2-4],]16-24],True,True,True,False,False,True,TMH - dépannage chauffage
+,corrective,]72--[,0,]72--[,True,True,True,False,False,True,TMH - dépannage chauffage
+,preventive,]72--[,]72--[,]72--[,True,True,True,False,True,True,TMH - visite entretien ballon thermodynamique
+,preventive,]72--[,0,]72--[,True,True,True,False,False,False,TMH - visite entretien appareil gaz
+,corrective,]2-4],]0-1],]2-4],True,False,True,False,False,True,TMH - dépannage chauffage
+,preventive,]24-48],]72--[,]72--[,True,True,True,False,False,False,TMH - visite entretien appareil gaz
+,corrective,]72--[,]24-48],]72--[,True,True,True,True,True,True,TMH - dépannage chauffage
+,preventive,]72--[,]72--[,]72--[,True,True,True,True,True,False,TMH - visite entretien appareil gaz
+,preventive,]72--[,]0-1],]72--[,True,True,True,False,False,True,TMH - visite entretien Pompe à Chaleur (PAC)
+,preventive,]72--[,]72--[,]72--[,True,True,False,False,False,False,TMH - visite entretien appareil gaz
+,preventive,]72--[,0,]72--[,True,True,False,False,False,False,TMH - visite entretien appareil gaz
+,corrective,]1-2],]0-1],]2-4],True,True,True,False,False,True,TMH - dépannage chauffage
+,corrective,]24-48],0,]24-48],False,True,True,False,False,True,TMH - dépannage chauffage
+,preventive,]72--[,]0-1],]72--[,True,True,True,True,False,False,TMH - visite entretien appareil gaz
+,preventive,]72--[,]2-4],]72--[,True,True,True,False,False,False,TMH - visite entretien appareil gaz
+,preventive,]4-16],]72--[,]72--[,True,True,True,False,False,False,TMH - visite entretien appareil gaz
+,preventive,]0-1],]1-2],]1-2],True,True,False,False,False,False,TMH - visite entretien appareil gaz
+,preventive,0,]0-1],]0-1],False,False,False,True,False,False,TMH - visite entretien appareil gaz
+,preventive,]72--[,]0-1],]72--[,False,True,False,True,False,False,TMH - visite entretien appareil gaz
+,preventive,]16-24],]0-1],]16-24],True,True,True,False,False,False,TMH - visite entretien appareil gaz
+,corrective,]72--[,]2-4],]72--[,True,False,True,False,False,True,Dépannage
+,corrective,]4-16],]48-72],]72--[,True,True,True,False,False,True,TMH - dépannage chauffage
+,preventive,]72--[,]2-4],]72--[,True,True,True,False,False,True,TMH - visite entretien appareil gaz
+,corrective,]72--[,]72--[,]72--[,True,True,True,True,False,True,TMH - dépannage chauffage
+,corrective,]48-72],]0-1],]48-72],True,True,False,False,False,True,TMH - dépannage chauffage
+,preventive,]0-1],]24-48],]24-48],True,True,False,False,False,False,TMH - visite entretien ballon thermodynamique
+,corrective,]4-16],]0-1],]4-16],True,True,True,False,False,True,TMH - dépannage chauffage
+,preventive,]72--[,]72--[,]72--[,True,True,True,False,True,False,TMH - visite entretien appareil gaz
+,corrective,]24-48],]0-1],]24-48],True,True,False,False,False,True,TMH - dépannage chauffage
+,preventive,0,]0-1],]0-1],False,False,False,False,True,False,TMH - visite entretien appareil gaz
+,preventive,]0-1],]0-1],]1-2],True,True,True,False,False,False,TMH - visite entretien appareil gaz
+,preventive,]2-4],]72--[,]72--[,True,True,True,False,True,False,TMH - visite entretien appareil gaz
+,preventive,]72--[,]72--[,]72--[,True,True,True,False,False,False,TMH - visite entretien ballon thermodynamique
+,preventive,]72--[,]4-16],]72--[,True,True,True,True,False,True,TMH - visite entretien appareil gaz
+,corrective,]24-48],]72--[,]72--[,True,True,True,True,False,True,TMH - dépannage chauffage
+,preventive,0,]1-2],]1-2],False,False,True,False,False,False,TMH - visite entretien appareil gaz
+,preventive,]2-4],]1-2],]2-4],True,True,False,False,False,False,TMH - visite entretien appareil gaz
+,preventive,]72--[,]24-48],]72--[,True,True,True,True,True,False,TMH - visite entretien appareil gaz
+,corrective,]72--[,]2-4],]72--[,True,True,True,False,False,True,TMH - dépannage chauffage
+,preventive,]0-1],]16-24],]16-24],True,True,True,False,False,False,TMH - visite entretien appareil gaz
+,preventive,0,]24-48],]24-48],True,False,True,False,False,False,TMH - visite entretien appareil gaz
+,preventive,]16-24],]0-1],]16-24],True,True,False,False,False,False,TMH - visite entretien Pompe à Chaleur (PAC)
+,preventive,]0-1],0,]0-1],False,True,False,False,False,True,TMH - visite entretien Pompe à Chaleur (PAC)
+,corrective,]2-4],]72--[,]72--[,True,True,True,True,False,True,TMH - dépannage chauffage
+,preventive,]72--[,]4-16],]72--[,True,True,True,False,False,False,TMH - visite entretien appareil gaz
+,corrective,]4-16],]72--[,]72--[,True,True,True,False,False,True,TMH - dépannage chauffage
+,corrective,]72--[,]48-72],]72--[,True,True,True,False,False,True,TMH - dépannage chauffage
+,preventive,]72--[,]1-2],]72--[,True,True,True,False,False,True,TMH - visite entretien appareil gaz
+,preventive,]72--[,]72--[,]72--[,True,True,False,False,True,False,TMH - visite entretien ballon thermodynamique
+,preventive,]72--[,]72--[,]72--[,True,True,True,True,False,True,TMH - visite entretien appareil gaz
+,corrective,]16-24],]48-72],]72--[,True,True,True,False,False,True,TMH - dépannage chauffage
+,corrective,0,]0-1],]0-1],True,True,True,False,False,False,TMH - dépannage chauffage
+,preventive,]48-72],]72--[,]72--[,True,True,True,False,True,False,TMH - visite entretien appareil gaz
+,preventive,0,]1-2],]1-2],False,False,True,True,False,False,TMH - visite entretien appareil gaz
+,corrective,]0-1],]0-1],]1-2],True,True,False,False,False,True,TMH - dépannage chauffage
+,corrective,]0-1],]1-2],]2-4],True,True,True,False,False,True,TMH - dépannage chauffage
+,preventive,]72--[,0,]72--[,False,True,False,False,False,False,TMH - visite entretien appareil gaz
+,preventive,]48-72],0,]48-72],False,True,False,False,False,False,TMH - visite entretien appareil gaz
+,preventive,]72--[,]72--[,]72--[,True,True,True,True,False,False,TMH - visite entretien Pompe à Chaleur (PAC)
+,preventive,0,]72--[,]72--[,True,True,True,True,False,False,TMH - visite entretien appareil gaz
+,preventive,]72--[,]1-2],]72--[,True,True,True,False,False,False,TMH - visite entretien appareil gaz
+,preventive,]72--[,]4-16],]72--[,True,True,True,False,False,False,TMH - visite entretien Pompe à Chaleur (PAC)
+,preventive,]0-1],0,]0-1],False,True,False,False,False,True,TMH - visite entretien appareil gaz
+,preventive,]72--[,]2-4],]72--[,True,True,True,False,False,True,TMH - visite entretien appareil gaz
+,corrective,]48-72],]1-2],]72--[,True,True,False,False,False,True,TMH - dépannage chauffage
+,corrective,]48-72],]48-72],]72--[,True,True,True,False,True,True,TMH - dépannage chauffage
+,preventive,]72--[,]24-48],]72--[,False,True,True,False,False,True,TMH - visite entretien appareil gaz
+,corrective,]2-4],]72--[,]72--[,True,True,True,False,False,True,TMH - dépannage chauffage
+,corrective,]16-24],]0-1],]16-24],True,True,True,False,False,True,TMH - dépannage chauffage
+,corrective,]0-1],]0-1],]0-1],True,True,True,False,False,True,TMH - dépannage chauffage
+,corrective,]0-1],]48-72],]48-72],True,True,True,False,False,True,Dépannage
+,preventive,]72--[,]0-1],]72--[,True,True,True,True,False,False,TMH - visite entretien appareil gaz
+,preventive,0,0,0,True,False,False,False,False,False,TMH - visite entretien appareil gaz
+,preventive,]4-16],]0-1],]16-24],True,True,False,False,False,False,TMH - visite entretien appareil gaz
+,preventive,]72--[,]4-16],]72--[,True,True,True,False,False,True,TMH - visite entretien appareil gaz
+,corrective,]72--[,]72--[,]72--[,True,True,True,False,False,True,TMH - dépannage chauffage
+,corrective,]16-24],]24-48],]48-72],True,True,True,True,False,True,TMH - dépannage chauffage
+,corrective,]24-48],]0-1],]24-48],True,False,False,False,False,True,TMH - dépannage chauffage
+,preventive,]72--[,]72--[,]72--[,True,True,True,False,False,False,TMH - visite entretien appareil gaz
+,preventive,]72--[,]24-48],]72--[,True,True,True,False,True,False,TMH - visite entretien appareil gaz
+,corrective,]2-4],0,]2-4],True,False,True,False,False,True,TMH - dépannage chauffage
+,preventive,]72--[,]24-48],]72--[,True,True,True,False,False,False,TMH - visite entretien appareil gaz
+,preventive,]16-24],0,]16-24],False,True,False,False,False,False,TMH - visite entretien appareil gaz
+,preventive,]24-48],0,]24-48],True,True,True,False,False,True,TMH - visite entretien appareil gaz
+,corrective,]16-24],]1-2],]24-48],True,True,True,True,False,True,TMH - dépannage chauffage
+,preventive,]0-1],]0-1],]0-1],True,False,False,False,False,True,TMH - visite entretien appareil gaz
+,preventive,]0-1],]24-48],]24-48],True,True,True,False,False,False,TMH - visite entretien appareil gaz
+,preventive,]72--[,0,]72--[,False,True,False,False,False,True,TMH - visite entretien appareil gaz
+,preventive,]48-72],]72--[,]72--[,True,True,False,False,False,False,TMH - visite entretien appareil gaz
+,corrective,]48-72],]1-2],]48-72],True,True,True,False,False,True,TMH - dépannage chauffage
+,corrective,]48-72],]0-1],]48-72],True,False,True,False,False,True,TMH - dépannage chauffage
+,preventive,]72--[,]72--[,]72--[,True,True,True,False,True,False,TMH - visite entretien ballon thermodynamique
+,corrective,]72--[,]24-48],]72--[,True,True,True,False,False,True,TMH - dépannage chauffage
+,corrective,]24-48],]72--[,]72--[,True,True,True,False,False,True,TMH - dépannage chauffage
+,corrective,]72--[,]1-2],]72--[,True,True,False,False,False,True,Dépannage
+,corrective,]72--[,]24-48],]72--[,True,True,True,False,True,True,TMH - dépannage chauffage
+,corrective,]16-24],]72--[,]72--[,True,True,True,False,False,True,TMH - dépannage chauffage
+,corrective,]24-48],]0-1],]24-48],True,True,False,False,False,True,TMH - dépannage chauffage
+,preventive,]72--[,0,]72--[,True,True,True,False,False,True,TMH - visite entretien Pompe à Chaleur (PAC)
+,corrective,]24-48],]1-2],]24-48],True,False,True,False,False,True,Dépannage
+,corrective,]16-24],]48-72],]72--[,True,True,True,False,False,True,TMH - dépannage chauffage
+,preventive,]72--[,]24-48],]72--[,True,True,False,False,False,False,TMH - visite entretien appareil gaz
+,corrective,]0-1],0,]0-1],True,True,True,False,False,True,TMH - dépannage chauffage
+,preventive,]16-24],]72--[,]72--[,True,True,True,True,False,False,TMH - visite entretien appareil gaz
+,corrective,]24-48],]2-4],]24-48],True,True,True,False,False,True,TMH - dépannage chauffage
+,corrective,]48-72],0,]48-72],True,True,True,False,False,True,TMH - dépannage chauffage
+,corrective,]48-72],]72--[,]72--[,True,True,True,False,False,True,TMH - dépannage chauffage
+,corrective,0,]0-1],]0-1],True,False,False,False,False,False,TMH - dépannage chauffage
+,corrective,]16-24],]48-72],]48-72],True,True,True,False,False,True,Dépannage
+,corrective,]48-72],]0-1],]48-72],True,True,True,False,False,True,TMH - dépannage chauffage
+,preventive,]0-1],]2-4],]2-4],True,True,False,False,False,False,TMH - visite entretien appareil gaz
+,preventive,]72--[,]4-16],]72--[,True,True,False,False,False,False,TMH - visite entretien appareil gaz
+,preventive,]72--[,]72--[,]72--[,True,True,True,True,True,False,TMH - visite entretien appareil gaz
+,preventive,]72--[,]72--[,]72--[,True,True,True,True,False,False,TMH - visite entretien appareil gaz
+,corrective,]0-1],]72--[,]72--[,True,True,True,False,False,True,TMH - dépannage chauffage
+,preventive,]72--[,]72--[,]72--[,True,True,True,True,False,False,TMH - visite entretien appareil gaz
+,corrective,]16-24],]24-48],]48-72],True,False,True,False,False,True,TMH - dépannage chauffage
+,corrective,]16-24],0,]16-24],True,False,True,False,False,True,TMH - dépannage chauffage
+,corrective,]24-48],]48-72],]72--[,True,False,True,True,False,True,TMH - dépannage chauffage
+,preventive,]72--[,]72--[,]72--[,True,True,True,True,False,False,TMH - visite entretien appareil gaz
+,corrective,]4-16],]0-1],]16-24],True,True,False,False,False,True,TMH - dépannage chauffage
+,corrective,]48-72],]72--[,]72--[,True,False,True,False,False,True,TMH - dépannage chauffage
+,corrective,]72--[,]4-16],]72--[,True,True,True,False,False,True,TMH - dépannage chauffage
+,preventive,]48-72],0,]48-72],True,True,True,False,False,False,TMH - visite entretien appareil gaz
+,preventive,]0-1],]1-2],]2-4],True,True,False,False,False,False,TMH - visite entretien appareil gaz
+,preventive,]1-2],]72--[,]72--[,True,True,True,True,True,False,TMH - visite entretien appareil gaz
+,corrective,]24-48],]72--[,]72--[,True,True,True,False,False,True,TMH - dépannage chauffage
+,corrective,]2-4],]0-1],]2-4],True,True,True,False,False,True,TMH - dépannage chauffage
+,corrective,]0-1],]0-1],]1-2],True,False,False,False,False,True,TMH - dépannage chauffage
+,corrective,0,]72--[,]72--[,True,False,True,False,False,False,TMH - dépannage chauffage
+,corrective,]2-4],]1-2],]2-4],True,True,True,False,False,True,Dépannage
+,corrective,]24-48],]4-16],]48-72],True,True,False,False,False,True,TMH - dépannage chauffage
+,corrective,]16-24],]72--[,]72--[,True,True,True,False,False,True,TMH - dépannage chauffage
+,preventive,]24-48],]48-72],]72--[,True,True,True,False,True,False,TMH - visite entretien appareil gaz
+,corrective,]2-4],]0-1],]2-4],True,True,False,False,False,True,Dépannage
+,preventive,]72--[,]72--[,]72--[,True,True,True,False,False,False,TMH - visite entretien Pompe à Chaleur (PAC)
+,corrective,]72--[,]4-16],]72--[,True,False,True,False,False,True,TMH - dépannage chauffage
+,preventive,]72--[,]72--[,]72--[,True,True,True,True,False,False,TMH - visite entretien appareil gaz
+,corrective,]2-4],]0-1],]4-16],True,True,False,False,False,True,TMH - dépannage chauffage
+,preventive,]72--[,]16-24],]72--[,True,True,True,False,True,False,TMH - visite entretien appareil gaz
+,corrective,]24-48],]4-16],]48-72],True,False,True,False,False,True,TMH - dépannage chauffage
+,corrective,]72--[,]0-1],]72--[,True,True,False,False,False,True,TMH - dépannage chauffage
+,corrective,]4-16],]1-2],]4-16],True,True,True,False,False,True,TMH - dépannage chauffage
+,corrective,]4-16],]1-2],]4-16],True,True,True,False,False,True,ALTEAL - dépannage chauffage
+,corrective,]1-2],0,]1-2],True,True,True,False,False,True,TMH - dépannage chauffage
+,corrective,]16-24],]0-1],]16-24],True,True,False,False,False,True,TMH - dépannage chauffage
+,corrective,]16-24],]72--[,]72--[,True,True,True,True,False,True,TMH - dépannage chauffage
+,corrective,]0-1],]0-1],]1-2],True,True,True,False,False,True,Dépannage
+,preventive,]16-24],]72--[,]72--[,True,True,True,True,True,False,TMH - visite entretien appareil gaz
+,preventive,0,]72--[,]72--[,True,False,True,False,False,False,TMH - visite entretien appareil gaz
+,preventive,]72--[,]72--[,]72--[,False,True,True,False,False,False,TMH - visite entretien appareil gaz
+,corrective,]16-24],]0-1],]24-48],True,True,True,False,False,True,TMH - dépannage chauffage
+,corrective,]48-72],0,]48-72],True,True,True,False,False,True,TMH - dépannage chauffage
+,preventive,0,]72--[,]72--[,True,True,True,True,True,False,TMH - visite entretien appareil gaz
+,corrective,]72--[,]1-2],]72--[,True,False,True,False,False,True,TMH - dépannage chauffage
+,corrective,]2-4],]72--[,]72--[,True,False,True,False,False,True,OPH31 dépannage chauffage
+,workType,responseTime,processingDuration,resolutionDuration,start,planned,replanned,postponed,occupant_absent,requested,Class
+,corrective,]0-1],]0-1],]0-1],True,False,True,False,False,True,TMH - dépannage chauffage
+,preventive,]72--[,]72--[,]72--[,True,True,False,False,False,False,TMH - visite entretien appareil gaz
+,corrective,]16-24],]72--[,]72--[,True,True,True,False,False,True,TMH - dépannage chauffage
+,corrective,]4-16],]2-4],]4-16],True,False,True,False,False,True,TMH - dépannage chauffage
+,preventive,]16-24],]1-2],]16-24],True,True,False,False,False,False,TMH - visite entretien appareil gaz
+,preventive,0,0,0,True,False,True,False,True,False,TMH - visite entretien appareil gaz
+,preventive,]16-24],]1-2],]16-24],True,True,True,False,False,False,TMH - visite entretien appareil gaz
+,corrective,]2-4],]0-1],]4-16],True,True,True,False,False,True,TMH - dépannage chauffage
+,corrective,]24-48],]2-4],]24-48],True,True,False,False,False,True,TMH - dépannage chauffage
+,preventive,]72--[,]72--[,]72--[,True,True,True,True,False,False,TMH - visite entretien appareil gaz
+,corrective,]72--[,]2-4],]72--[,True,True,True,False,False,True,TMH - dépannage chauffage
+,corrective,]72--[,]4-16],]72--[,True,True,True,False,False,True,TMH - dépannage chauffage
+,preventive,0,]2-4],]2-4],True,False,True,False,True,False,TMH - visite entretien appareil gaz
+,corrective,]4-16],0,]4-16],True,True,True,False,False,True,TMH - dépannage chauffage
+,corrective,]72--[,]1-2],]72--[,True,True,False,False,True,True,TMH - dépannage chauffage
+,preventive,]72--[,]1-2],]72--[,True,True,True,False,False,False,TMH - visite entretien ballon thermodynamique
+,corrective,]2-4],]0-1],]4-16],True,False,False,False,False,True,TMH - dépannage chauffage
+,corrective,]2-4],]0-1],]2-4],True,True,True,False,False,True,TMH - dépannage chauffage
+,preventive,]16-24],]72--[,]72--[,True,True,True,False,False,False,TMH - visite entretien appareil gaz
+,corrective,]16-24],]0-1],]24-48],True,True,False,False,False,True,TMH - dépannage chauffage
+,corrective,]0-1],]72--[,]72--[,True,True,True,False,False,True,TMH - dépannage chauffage
+,corrective,]24-48],]1-2],]24-48],True,True,False,False,False,True,TMH - dépannage chauffage
+,preventive,]72--[,]2-4],]72--[,True,True,False,False,False,False,TMH - visite entretien appareil gaz
+,corrective,]4-16],]2-4],]16-24],True,True,True,False,False,True,Dépannage
+,preventive,]72--[,]72--[,]72--[,True,True,False,True,True,False,TMH - visite entretien appareil gaz
+,corrective,]4-16],]1-2],]4-16],True,False,True,False,False,True,Dépannage
+,preventive,]24-48],]1-2],]24-48],True,True,True,False,False,False,TMH - visite entretien appareil gaz
+,preventive,]72--[,]2-4],]72--[,True,True,True,False,False,True,TMH - visite entretien ballon thermodynamique
+,corrective,]0-1],]1-2],]2-4],True,True,True,False,False,True,Dépannage
+,corrective,]24-48],]0-1],]24-48],True,True,True,False,False,True,TMH - dépannage chauffage
+,corrective,]2-4],]1-2],]4-16],True,True,False,False,False,True,TMH - dépannage chauffage
+,corrective,]1-2],]0-1],]2-4],True,True,True,False,False,True,TMH - dépannage chauffage
+,preventive,]0-1],0,]0-1],False,True,False,False,False,False,TMH - visite entretien Pompe à Chaleur (PAC)
+,corrective,]4-16],]72--[,]72--[,True,True,True,True,False,True,TMH - dépannage chauffage
+,preventive,]72--[,]72--[,]72--[,False,True,True,True,True,False,TMH - visite entretien appareil gaz
+,corrective,]1-2],]0-1],]1-2],True,False,True,False,False,True,TMH - dépannage chauffage
+,corrective,]4-16],]16-24],]24-48],True,True,True,False,False,True,TMH - dépannage chauffage
+,corrective,]0-1],]2-4],]2-4],True,True,True,False,False,True,TMH - dépannage chauffage
+,corrective,]4-16],]2-4],]4-16],True,False,True,False,False,True,TMH - dépannage chauffage
+,corrective,]16-24],]0-1],]16-24],True,True,True,True,False,True,TMH - dépannage chauffage
+,corrective,]1-2],]0-1],]2-4],True,False,False,False,False,True,TMH - dépannage chauffage
+,corrective,]48-72],]72--[,]72--[,True,True,True,False,True,True,TMH - dépannage chauffage
+,corrective,]16-24],]72--[,]72--[,True,True,True,True,False,True,TMH - dépannage chauffage
+,corrective,]72--[,]72--[,]72--[,True,False,True,False,False,True,TMH - dépannage chauffage
+,corrective,]16-24],]4-16],]24-48],True,False,True,False,False,True,TMH - dépannage chauffage
+,corrective,]72--[,]48-72],]72--[,True,True,True,False,False,True,TMH - dépannage chauffage
+,preventive,]0-1],0,]0-1],False,False,False,False,False,True,TMH - visite entretien appareil gaz
+,corrective,]72--[,0,]72--[,True,True,True,False,False,True,TMH - dépannage chauffage
+,corrective,]4-16],]72--[,]72--[,True,False,True,False,False,True,TMH - dépannage chauffage
+,preventive,]72--[,]2-4],]72--[,True,True,True,True,True,False,TMH - visite entretien appareil gaz
+,preventive,]2-4],]2-4],]4-16],True,True,True,False,False,False,TMH - visite entretien appareil gaz
+,preventive,]72--[,]72--[,]72--[,True,True,False,False,False,False,TMH - visite entretien appareil gaz
+,preventive,]16-24],]2-4],]16-24],True,True,False,False,False,False,TMH - visite entretien appareil gaz
+,preventive,]72--[,0,]72--[,True,True,True,True,True,False,TMH - visite entretien appareil gaz
+,preventive,0,]72--[,]72--[,True,False,True,False,False,False,TMH - visite entretien appareil gaz
+,corrective,]72--[,]1-2],]72--[,True,True,True,False,False,True,Dépannage
+,corrective,]2-4],]2-4],]4-16],True,True,True,False,False,True,TMH - dépannage chauffage
+,corrective,]16-24],]0-1],]16-24],True,False,False,False,False,True,TMH - dépannage chauffage
+,preventive,]4-16],]48-72],]48-72],True,True,False,False,False,False,TMH - visite entretien appareil gaz
+,corrective,]0-1],]0-1],]1-2],True,True,True,False,False,True,TMH - dépannage chauffage
+,preventive,]4-16],]0-1],]4-16],True,True,False,False,False,False,TMH - visite entretien appareil gaz
+,preventive,]72--[,]24-48],]72--[,True,True,False,False,False,False,TMH - visite entretien appareil gaz
+,preventive,]72--[,]72--[,]72--[,False,True,True,False,False,True,TMH - visite entretien appareil gaz
+,preventive,]72--[,]0-1],]72--[,True,True,True,False,False,False,TMH - visite entretien Pompe à Chaleur (PAC)
+,preventive,]2-4],]16-24],]24-48],True,True,True,False,False,False,TMH - visite entretien appareil gaz
+,preventive,]0-1],]0-1],]1-2],True,False,False,False,False,True,TMH - visite entretien appareil gaz
+,corrective,]48-72],]0-1],]48-72],True,True,True,False,False,True,TMH - dépannage chauffage
+,corrective,]24-48],]0-1],]24-48],True,True,True,False,False,True,Dépannage
+,preventive,]0-1],]72--[,]72--[,True,True,True,True,True,False,TMH - visite entretien appareil gaz
+,corrective,]24-48],]0-1],]24-48],True,True,False,False,False,True,Dépannage
+,preventive,]48-72],0,]48-72],True,True,True,False,False,True,TMH - visite entretien appareil gaz
+,preventive,0,]1-2],]1-2],True,False,True,False,False,False,TMH - visite entretien Pompe à Chaleur (PAC)
+,corrective,]4-16],]0-1],]4-16],True,True,True,False,False,True,Dépannage
+,preventive,]72--[,0,]72--[,False,True,True,False,False,False,TMH - visite entretien appareil gaz
+,preventive,]24-48],]1-2],]24-48],True,True,False,False,False,False,TMH - visite entretien appareil gaz
+,corrective,]48-72],]1-2],]48-72],True,True,False,False,False,True,TMH - dépannage chauffage
+,corrective,]1-2],]4-16],]16-24],True,True,True,False,False,True,TMH - dépannage chauffage
+,corrective,]24-48],]0-1],]24-48],True,True,False,False,False,True,Dépannage
+,preventive,0,]72--[,]72--[,True,False,True,False,True,False,TMH - visite entretien appareil gaz
+,preventive,]72--[,0,]72--[,True,True,True,False,False,True,TMH - visite entretien appareil gaz
+,preventive,0,]72--[,]72--[,False,False,True,True,True,False,TMH - visite entretien appareil gaz
+,corrective,]72--[,]16-24],]72--[,True,False,True,False,False,True,TMH - dépannage chauffage
+,preventive,]72--[,]2-4],]72--[,True,True,True,False,True,False,TMH - visite entretien appareil gaz
+,corrective,]16-24],]4-16],]24-48],True,True,True,False,False,True,TMH - dépannage chauffage
+,corrective,]24-48],]1-2],]24-48],True,False,True,False,False,True,TMH - dépannage chauffage
+,corrective,0,]1-2],]1-2],True,False,True,False,False,False,TMH - dépannage chauffage
+,preventive,]48-72],]0-1],]48-72],True,True,False,True,False,False,TMH - visite entretien appareil gaz
+,corrective,]16-24],]0-1],]16-24],True,False,True,False,False,True,TMH - dépannage chauffage
+,corrective,]24-48],]4-16],]48-72],True,False,True,False,False,True,TMH - dépannage chauffage
+,preventive,]72--[,]0-1],]72--[,True,False,True,False,False,True,TMH - visite entretien appareil gaz
+,corrective,]0-1],]72--[,]72--[,True,True,True,False,True,False,TMH - dépannage chauffage
+,corrective,]72--[,]4-16],]72--[,True,True,True,False,False,True,TMH - dépannage chauffage
+,preventive,]72--[,]16-24],]72--[,True,True,True,False,False,False,TMH - visite entretien appareil gaz
+,preventive,]24-48],]0-1],]24-48],True,True,False,False,False,False,TMH - visite entretien appareil gaz
+,preventive,]72--[,]72--[,]72--[,True,True,True,False,True,True,TMH - visite entretien appareil gaz
+,preventive,]0-1],]0-1],]1-2],True,True,False,False,False,False,TMH - visite entretien appareil gaz
+,preventive,]72--[,]72--[,]72--[,True,True,True,False,False,True,TMH - visite entretien appareil gaz
+,corrective,]1-2],0,]1-2],True,False,True,False,False,True,TMH - dépannage chauffage
+,corrective,]2-4],]0-1],]2-4],True,True,False,False,False,True,TMH - dépannage chauffage
+,corrective,]2-4],0,]2-4],True,False,True,False,False,True,TMH - dépannage chauffage
+,corrective,]0-1],]72--[,]72--[,True,False,True,False,False,True,TMH - dépannage chauffage
+,preventive,0,]4-16],]4-16],True,False,True,False,False,False,TMH - visite entretien appareil gaz
+,corrective,]16-24],]72--[,]72--[,True,True,True,False,True,True,TMH - dépannage chauffage
+,preventive,]72--[,]0-1],]72--[,True,True,True,False,False,True,TMH - visite entretien appareil gaz
+,preventive,0,]72--[,]72--[,True,True,True,True,False,False,TMH - visite entretien appareil gaz
+,preventive,]72--[,]72--[,]72--[,True,True,False,False,False,True,TMH - visite entretien appareil gaz
+,preventive,]4-16],]0-1],]4-16],True,True,False,False,False,False,TMH - visite entretien Pompe à Chaleur (PAC)
+,preventive,]16-24],]24-48],]48-72],True,True,True,False,False,False,TMH - visite entretien appareil gaz
+,preventive,0,0,0,False,False,False,False,True,False,TMH - visite entretien appareil gaz
+,preventive,0,]24-48],]24-48],False,False,False,True,False,False,TMH - visite entretien appareil gaz
+,corrective,]16-24],]0-1],]16-24],True,False,False,False,False,True,TMH - dépannage chauffage
+,preventive,]24-48],]0-1],]24-48],True,False,False,False,False,True,TMH - visite entretien appareil gaz
+,corrective,]72--[,0,]72--[,True,True,True,False,False,True,Dépannage
+,preventive,]16-24],]0-1],]24-48],True,True,True,False,False,False,TMH - visite entretien appareil gaz
+,corrective,]72--[,0,]72--[,True,False,True,False,False,True,TMH - dépannage chauffage
+,preventive,0,]72--[,]72--[,True,False,False,False,True,False,TMH - visite entretien appareil gaz
+,preventive,]72--[,]0-1],]72--[,True,True,False,False,False,False,TMH - visite entretien Pompe à Chaleur (PAC)
+,preventive,]16-24],]2-4],]16-24],True,True,True,False,False,False,TMH - visite entretien appareil gaz
+,corrective,]72--[,]72--[,]72--[,True,False,True,True,False,True,Dépannage
+,corrective,]0-1],0,]0-1],False,True,False,False,False,True,Dépannage
+,preventive,0,]0-1],]0-1],True,False,True,False,False,False,TMH - visite entretien appareil gaz
+,preventive,]72--[,]4-16],]72--[,True,True,True,False,False,False,TMH - visite entretien appareil gaz
+,corrective,]2-4],]24-48],]24-48],True,True,True,False,False,True,TMH - dépannage chauffage
+,preventive,]72--[,]0-1],]72--[,True,True,False,False,False,True,TMH - visite entretien appareil gaz
+,preventive,0,]16-24],]16-24],False,False,False,False,True,False,TMH - visite entretien appareil gaz
+,corrective,]72--[,]0-1],]72--[,True,False,False,False,False,True,TMH - dépannage chauffage
+,preventive,]24-48],]0-1],]24-48],True,True,True,False,False,True,TMH - visite entretien appareil gaz
+,corrective,]72--[,]72--[,]72--[,True,True,True,True,False,True,TMH - dépannage chauffage
+,corrective,]2-4],]0-1],]2-4],True,True,True,False,False,True,TMH - dépannage chauffage
+,corrective,]2-4],]0-1],]2-4],True,False,False,False,False,True,OPH31 dépannage chauffage
+,corrective,]72--[,]16-24],]72--[,True,True,True,False,False,True,TMH - dépannage chauffage
+,corrective,]0-1],]0-1],]1-2],True,True,True,False,False,True,TMH - dépannage chauffage
+,preventive,]0-1],]72--[,]72--[,True,True,True,False,True,False,TMH - visite entretien appareil gaz
+,preventive,]72--[,]72--[,]72--[,True,True,True,False,True,False,TMH - visite entretien Pompe à Chaleur (PAC)
+,preventive,]72--[,]1-2],]72--[,True,True,False,False,False,True,TMH - visite entretien appareil gaz
+,preventive,]72--[,]72--[,]72--[,True,True,False,False,False,False,TMH - visite entretien appareil gaz
+,corrective,]16-24],]4-16],]16-24],True,True,True,False,False,True,TMH - dépannage chauffage
+,preventive,0,]72--[,]72--[,True,False,True,True,False,False,TMH - visite entretien appareil gaz
+,corrective,]16-24],]1-2],]16-24],True,True,False,False,False,True,TMH - dépannage chauffage
+,preventive,]72--[,]0-1],]72--[,True,True,True,False,False,False,TMH - visite entretien ballon thermodynamique
+,preventive,]16-24],0,]16-24],True,True,True,False,False,False,TMH - visite entretien appareil gaz
+,preventive,]1-2],]1-2],]2-4],True,True,True,False,False,False,TMH - visite entretien appareil gaz
+,preventive,]72--[,0,]72--[,False,True,False,False,False,False,TMH - visite entretien ballon solaire
+,corrective,]24-48],]24-48],]72--[,True,True,True,False,False,True,TMH - dépannage chauffage
+,corrective,]4-16],]0-1],]4-16],True,False,False,False,False,True,TMH - dépannage chauffage
+,corrective,]4-16],]1-2],]4-16],True,True,True,False,False,True,Dépannage
+,corrective,]0-1],]0-1],]0-1],True,True,False,False,False,True,TMH - dépannage chauffage
+,preventive,]72--[,]2-4],]72--[,True,True,True,False,False,False,TMH - visite entretien Pompe à Chaleur (PAC)
+,corrective,]16-24],]24-48],]48-72],True,True,True,False,False,True,TMH - dépannage chauffage
+,corrective,]24-48],0,]24-48],True,False,True,False,False,True,TMH - dépannage chauffage
+,corrective,]16-24],]1-2],]16-24],True,True,True,False,False,True,TMH - dépannage chauffage
+,preventive,0,]24-48],]24-48],True,True,True,True,True,False,TMH - visite entretien appareil gaz
+,corrective,]24-48],]72--[,]72--[,True,True,True,False,False,True,TMH - dépannage chauffage
+,preventive,0,]24-48],]24-48],False,False,True,True,False,False,TMH - visite entretien appareil gaz
+,corrective,]4-16],]0-1],]4-16],True,True,False,False,False,True,TMH - dépannage chauffage
+,preventive,]0-1],]2-4],]2-4],True,True,True,False,False,False,TMH - visite entretien appareil gaz
+,preventive,0,]16-24],]16-24],True,False,True,False,False,False,TMH - visite entretien appareil gaz
+,corrective,]0-1],]72--[,]72--[,True,True,True,True,False,True,TMH - dépannage chauffage
+,corrective,]72--[,]1-2],]72--[,True,False,True,False,False,True,TMH - dépannage chauffage
+,corrective,]0-1],]16-24],]16-24],False,True,True,False,False,True,TMH - dépannage chauffage
+,preventive,]0-1],]0-1],]0-1],True,True,False,False,False,False,TMH - visite entretien appareil gaz
+,preventive,]72--[,]16-24],]72--[,True,True,False,False,False,False,TMH - visite entretien appareil gaz
+,preventive,]1-2],]1-2],]2-4],True,True,False,False,False,False,TMH - visite entretien appareil gaz
+,preventive,]72--[,0,]72--[,True,True,True,False,False,False,TMH - visite entretien Pompe à Chaleur (PAC)
+,corrective,]16-24],0,]16-24],True,True,True,False,False,True,TMH - dépannage chauffage
+,corrective,]24-48],]24-48],]48-72],True,True,True,False,False,True,TMH - dépannage chauffage
+,corrective,]24-48],]4-16],]48-72],True,True,True,False,False,True,TMH - dépannage chauffage
+,corrective,]24-48],]1-2],]48-72],True,False,True,False,False,True,TMH - dépannage chauffage
+,corrective,]16-24],]1-2],]16-24],True,True,True,False,False,True,TMH - dépannage chauffage
+,corrective,]0-1],]16-24],]16-24],True,False,True,False,False,True,TMH - dépannage chauffage
+,preventive,]24-48],]16-24],]24-48],True,True,True,False,False,False,TMH - visite entretien appareil gaz
+,corrective,]1-2],]0-1],]1-2],True,True,False,False,False,True,TMH - dépannage chauffage
+,preventive,]72--[,]72--[,]72--[,True,True,True,True,True,True,TMH - visite entretien appareil gaz
+,corrective,]4-16],]72--[,]72--[,True,False,True,False,False,True,TMH - dépannage chauffage
+,preventive,0,]4-16],]4-16],True,False,True,True,False,False,TMH - visite entretien appareil gaz
+,corrective,0,0,0,True,False,True,False,False,False,TMH - dépannage chauffage
+,preventive,]72--[,0,]72--[,False,True,True,False,False,True,TMH - visite entretien appareil gaz
+,preventive,]1-2],]72--[,]72--[,True,True,True,False,False,False,TMH - visite entretien appareil gaz
+,preventive,]0-1],]72--[,]72--[,True,True,True,False,False,False,TMH - visite entretien appareil gaz
+,corrective,]72--[,]16-24],]72--[,True,False,True,False,False,True,TMH - dépannage chauffage
+,corrective,]24-48],0,]24-48],False,True,False,False,False,True,TMH - dépannage chauffage
+,preventive,]2-4],0,]2-4],True,True,True,False,False,False,TMH - visite entretien appareil gaz
+,preventive,0,]72--[,]72--[,True,False,True,True,False,False,TMH - visite entretien appareil gaz
+,preventive,]72--[,]72--[,]72--[,True,True,True,False,True,True,TMH - visite entretien Pompe à Chaleur (PAC)
+,corrective,]72--[,]72--[,]72--[,True,True,True,False,False,True,TMH - dépannage chauffage
+,corrective,]48-72],]2-4],]48-72],True,False,True,False,False,True,TMH - dépannage chauffage
+,corrective,]16-24],]1-2],]24-48],True,False,True,False,False,True,TMH - dépannage chauffage
+,corrective,]0-1],]1-2],]2-4],True,True,True,False,False,True,TMH - dépannage chauffage
+,preventive,]72--[,]0-1],]72--[,True,True,False,False,False,False,TMH - visite entretien appareil gaz
+,corrective,]48-72],]0-1],]48-72],True,False,True,False,False,True,TMH - dépannage chauffage
+,corrective,]48-72],0,]48-72],True,False,True,False,False,True,TMH - dépannage chauffage
+,corrective,]48-72],0,]48-72],True,True,True,False,False,True,TMH - dépannage chauffage
+,corrective,]72--[,]72--[,]72--[,True,True,True,True,False,True,TMH - dépannage chauffage
+,preventive,]16-24],]0-1],]16-24],True,True,False,False,False,False,TMH - visite entretien appareil gaz
+,preventive,]72--[,]72--[,]72--[,True,True,True,True,False,False,TMH - visite entretien ballon thermodynamique
+,corrective,]16-24],]0-1],]16-24],True,True,False,False,False,True,Dépannage
+,preventive,]2-4],]72--[,]72--[,True,True,True,False,False,True,TMH - visite entretien appareil gaz
+,corrective,]72--[,0,]72--[,True,False,True,False,False,True,TMH - dépannage chauffage
+,preventive,]24-48],0,]24-48],False,True,False,False,False,False,TMH - visite entretien appareil gaz
+,corrective,]16-24],]2-4],]24-48],True,True,True,False,False,True,TMH - dépannage chauffage
+,corrective,]48-72],]4-16],]72--[,True,True,True,False,False,True,TMH - dépannage chauffage
+,preventive,]72--[,]72--[,]72--[,True,True,True,False,True,False,TMH - visite entretien appareil gaz
+,preventive,]72--[,]1-2],]72--[,False,True,True,False,False,False,TMH - visite entretien appareil gaz
+,corrective,]4-16],]0-1],]4-16],True,True,False,False,False,True,TMH - dépannage chauffage
+,preventive,0,]48-72],]48-72],False,False,False,True,False,False,TMH - visite entretien appareil gaz
+,preventive,0,]4-16],]4-16],False,False,True,True,False,False,TMH - visite entretien appareil gaz
+,corrective,]0-1],]2-4],]2-4],True,False,True,True,False,True,TMH - dépannage chauffage
+,corrective,]1-2],]72--[,]72--[,True,True,True,False,False,False,TMH - dépannage chauffage
+,corrective,]1-2],]4-16],]4-16],True,True,True,False,False,True,Dépannage
+,preventive,]72--[,]1-2],]72--[,True,True,True,False,False,False,TMH - visite entretien Pompe à Chaleur (PAC)
+,corrective,]24-48],]72--[,]72--[,True,False,True,True,False,True,Dépannage
+,corrective,]2-4],]2-4],]4-16],True,True,True,False,False,True,TMH - dépannage chauffage
+,corrective,]72--[,]72--[,]72--[,False,True,True,False,False,True,TMH - dépannage chauffage
+,corrective,]0-1],]1-2],]1-2],True,True,False,False,False,True,TMH - dépannage chauffage
+,preventive,]24-48],]2-4],]24-48],True,True,True,False,False,False,TMH - visite entretien appareil gaz
+,preventive,]24-48],]0-1],]24-48],True,True,True,False,False,False,TMH - visite entretien appareil gaz
+,corrective,]4-16],]72--[,]72--[,True,True,True,False,False,True,Dépannage
+,corrective,]16-24],]1-2],]16-24],True,False,True,False,False,True,TMH - dépannage chauffage
+,preventive,]72--[,]0-1],]72--[,True,True,True,False,True,False,TMH - visite entretien appareil gaz
+,corrective,]4-16],]0-1],]4-16],True,True,False,False,False,True,TMH - dépannage chauffage
+,corrective,]24-48],]1-2],]24-48],True,False,True,False,False,True,TMH - dépannage chauffage
+,corrective,]72--[,]72--[,]72--[,True,True,True,True,False,True,TMH - dépannage chauffage
+,corrective,]16-24],]48-72],]48-72],True,True,True,False,False,True,TMH - dépannage chauffage
+,corrective,]16-24],]72--[,]72--[,True,True,True,True,False,True,TMH - dépannage chauffage
+,preventive,]72--[,]2-4],]72--[,False,True,True,False,False,False,TMH - visite entretien appareil gaz
+,preventive,]72--[,]48-72],]72--[,True,True,True,False,False,False,TMH - visite entretien appareil gaz
+,corrective,]24-48],]72--[,]72--[,True,True,True,True,False,True,TMH - dépannage chauffage
+,corrective,]16-24],]0-1],]16-24],True,False,False,False,False,True,TMH - dépannage chauffage
+,corrective,]48-72],]72--[,]72--[,True,True,False,False,False,True,TMH - dépannage chauffage
+,preventive,]72--[,]0-1],]72--[,True,True,True,False,False,False,TMH - visite entretien appareil gaz
+,corrective,]72--[,]72--[,]72--[,True,True,True,False,True,True,TMH - dépannage chauffage
+,corrective,]72--[,]0-1],]72--[,True,True,False,False,False,True,OPH31 dépannage chauffage
+,corrective,]2-4],]1-2],]2-4],True,True,False,False,False,True,TMH - dépannage chauffage
+,corrective,]16-24],]0-1],]16-24],True,True,False,False,False,True,Dépannage
+,preventive,]72--[,]72--[,]72--[,False,True,True,False,False,True,TMH - visite entretien Pompe à Chaleur (PAC)
+,preventive,0,]72--[,]72--[,True,False,True,True,False,False,TMH - visite entretien appareil gaz
+,corrective,]1-2],]4-16],]4-16],True,True,False,False,False,True,TMH - dépannage chauffage
+,corrective,]1-2],]0-1],]1-2],True,False,False,False,False,True,TMH - dépannage chauffage
+,corrective,]16-24],]2-4],]16-24],True,False,True,False,False,True,TMH - dépannage chauffage
+,corrective,]4-16],]48-72],]48-72],True,False,True,False,False,True,TMH - dépannage chauffage
+,corrective,]48-72],]72--[,]72--[,True,True,True,True,False,True,TMH - dépannage chauffage
+,corrective,]24-48],]4-16],]24-48],True,True,True,True,False,True,Dépannage
+,corrective,]4-16],]24-48],]24-48],True,False,True,False,True,True,TMH - dépannage chauffage
+,preventive,]72--[,]72--[,]72--[,True,True,True,False,False,False,TMH - visite entretien ballon thermodynamique
+,corrective,]1-2],]72--[,]72--[,True,True,True,False,False,True,TMH - dépannage chauffage
+,corrective,]1-2],]16-24],]16-24],True,False,True,False,False,True,TMH - dépannage chauffage
+,corrective,]24-48],]1-2],]24-48],True,True,False,False,False,True,Dépannage
+,preventive,]4-16],]4-16],]4-16],True,True,True,False,False,False,TMH - visite entretien appareil gaz
+,corrective,]72--[,]72--[,]72--[,True,True,True,False,False,True,TMH - dépannage chauffage
+,preventive,]2-4],]72--[,]72--[,True,True,True,True,True,False,TMH - visite entretien appareil gaz
+,preventive,0,]1-2],]1-2],True,False,True,False,True,False,TMH - visite entretien appareil gaz
+,corrective,]16-24],]72--[,]72--[,True,False,True,False,False,True,TMH - dépannage chauffage
+,corrective,]16-24],]4-16],]24-48],True,True,False,False,False,True,TMH - dépannage chauffage
+,preventive,0,]1-2],]1-2],True,False,True,False,False,False,TMH - visite entretien appareil gaz
+,preventive,]72--[,]48-72],]72--[,True,True,True,False,False,True,TMH - visite entretien appareil gaz
+,corrective,]0-1],]1-2],]1-2],True,True,False,False,False,True,TMH - dépannage chauffage
+,corrective,]4-16],]48-72],]72--[,True,True,True,False,True,True,TMH - dépannage chauffage
+,preventive,]2-4],]0-1],]2-4],True,True,False,False,False,False,TMH - visite entretien appareil gaz
+,preventive,]72--[,]16-24],]72--[,True,True,False,False,False,False,TMH - visite entretien appareil gaz
+,preventive,]72--[,]72--[,]72--[,True,True,False,False,True,False,TMH - visite entretien appareil gaz
+,preventive,]1-2],]72--[,]72--[,True,True,True,False,True,False,TMH - visite entretien appareil gaz
+,corrective,]4-16],0,]4-16],True,True,True,False,False,True,TMH - dépannage chauffage
+,preventive,]72--[,]72--[,]72--[,True,True,False,True,False,False,TMH - visite entretien appareil gaz
+,preventive,]24-48],]72--[,]72--[,True,True,True,True,True,False,TMH - visite entretien appareil gaz
+,corrective,]16-24],]4-16],]24-48],True,True,True,False,False,True,TMH - dépannage chauffage
+,preventive,]24-48],]0-1],]24-48],True,True,False,False,False,False,TMH - visite entretien ballon thermodynamique
+,corrective,]2-4],]72--[,]72--[,True,True,True,True,False,True,TMH - dépannage chauffage
+,preventive,]48-72],0,]48-72],True,True,True,False,False,False,TMH - visite entretien Pompe à Chaleur (PAC)
+,preventive,]16-24],]1-2],]24-48],True,True,False,False,False,False,TMH - visite entretien appareil gaz
+,corrective,]1-2],]72--[,]72--[,True,False,True,True,False,True,TMH - dépannage chauffage
+,corrective,]48-72],]0-1],]48-72],True,True,True,False,False,True,TMH - dépannage chauffage
+,preventive,]48-72],]0-1],]48-72],True,True,True,False,False,False,TMH - visite entretien appareil gaz
+,corrective,]0-1],]0-1],]1-2],True,True,False,False,False,True,TMH - dépannage chauffage
+,corrective,]72--[,]0-1],]72--[,True,True,False,False,False,True,Dépannage
+,corrective,]72--[,]48-72],]72--[,True,True,True,False,False,True,TMH - dépannage chauffage
+,preventive,]72--[,]16-24],]72--[,True,True,True,False,False,True,TMH - visite entretien appareil gaz
+,preventive,]72--[,]72--[,]72--[,True,True,True,True,True,False,TMH - visite entretien appareil gaz
+,corrective,]48-72],0,]48-72],True,True,True,False,False,True,Dépannage
+,corrective,]4-16],]0-1],]4-16],True,False,True,False,False,True,TMH - dépannage chauffage
+,preventive,]4-16],]0-1],]4-16],True,False,False,False,False,True,TMH - visite entretien appareil gaz
+,corrective,]24-48],]72--[,]72--[,True,True,True,True,False,True,TMH - dépannage chauffage
+,preventive,]72--[,]0-1],]72--[,True,True,False,False,False,False,TMH - visite entretien ballon thermodynamique
+,corrective,]4-16],]72--[,]72--[,True,False,True,True,False,True,TMH - dépannage chauffage
+,corrective,]24-48],]0-1],]24-48],True,True,True,False,False,True,Dépannage
+,preventive,]48-72],]0-1],]48-72],True,True,False,False,False,False,TMH - visite entretien appareil gaz
+,corrective,]24-48],]1-2],]24-48],True,False,True,False,False,True,TMH - dépannage chauffage
+,corrective,]72--[,]72--[,]72--[,True,True,True,True,False,True,Dépannage
+,corrective,]72--[,]4-16],]72--[,True,False,True,True,False,True,TMH - dépannage chauffage
+,preventive,0,]4-16],]4-16],True,False,True,False,False,False,TMH - visite entretien appareil gaz
+,corrective,]16-24],]2-4],]16-24],True,True,False,False,False,True,TMH - dépannage chauffage
+,preventive,]72--[,]72--[,]72--[,True,True,True,True,False,True,TMH - visite entretien appareil gaz
+,preventive,]72--[,]0-1],]72--[,True,False,False,False,False,True,TMH - visite entretien appareil gaz
+,preventive,]24-48],]72--[,]72--[,True,True,True,False,True,False,TMH - visite entretien appareil gaz
+,preventive,0,0,0,False,False,False,True,False,False,TMH - visite entretien appareil gaz
+,corrective,]72--[,]24-48],]72--[,True,True,True,False,False,True,TMH - dépannage chauffage
+,corrective,]24-48],]48-72],]72--[,True,True,True,False,False,True,TMH - dépannage chauffage
+,preventive,]4-16],]72--[,]72--[,True,True,True,False,False,True,TMH - visite entretien appareil gaz
+,corrective,]2-4],]0-1],]2-4],True,False,True,False,False,True,TMH - dépannage chauffage
+,preventive,]0-1],]0-1],]0-1],True,True,False,False,False,False,TMH - visite entretien ballon thermodynamique
+,corrective,]48-72],]2-4],]48-72],True,True,True,False,False,True,TMH - dépannage chauffage
+,preventive,]72--[,]48-72],]72--[,True,True,True,False,False,False,TMH - visite entretien ballon thermodynamique
+,corrective,0,]16-24],]16-24],True,True,True,False,False,False,TMH - dépannage chauffage
+,corrective,]72--[,]72--[,]72--[,True,False,True,False,False,True,TMH - dépannage chauffage
+,preventive,]4-16],]72--[,]72--[,True,True,True,False,True,False,TMH - visite entretien appareil gaz
+,preventive,]24-48],]72--[,]72--[,True,True,True,False,False,True,TMH - visite entretien appareil gaz
+,corrective,]24-48],]0-1],]24-48],True,True,False,False,False,True,ALTEAL - dépannage chauffage
+,corrective,]24-48],]0-1],]48-72],True,True,True,False,True,True,TMH - dépannage chauffage
+,corrective,]24-48],]0-1],]24-48],True,False,False,False,False,True,TMH - dépannage chauffage
+,corrective,]72--[,]4-16],]72--[,True,False,True,False,False,True,TMH - dépannage chauffage
+,preventive,]2-4],]72--[,]72--[,True,True,True,False,False,False,TMH - visite entretien appareil gaz
+,preventive,]4-16],]0-1],]4-16],True,True,True,False,False,False,TMH - visite entretien appareil gaz
+,corrective,]16-24],]1-2],]24-48],True,False,True,False,False,True,TMH - dépannage chauffage
+,corrective,]0-1],]72--[,]72--[,True,True,True,True,False,True,TMH - dépannage chauffage
+,corrective,]16-24],]1-2],]16-24],True,True,True,False,False,True,Dépannage
+,preventive,]48-72],]0-1],]72--[,True,True,False,False,False,False,TMH - visite entretien appareil gaz
+,corrective,]72--[,]0-1],]72--[,True,True,False,False,False,True,Dépannage
+,corrective,]72--[,]72--[,]72--[,True,False,True,False,False,True,Dépannage
+,corrective,]24-48],]72--[,]72--[,True,False,True,True,False,True,TMH - dépannage chauffage
+,corrective,]24-48],]2-4],]24-48],False,False,True,False,False,True,TMH - dépannage chauffage
+,preventive,0,0,0,False,False,False,False,False,False,TMH - visite entretien appareil gaz
+,corrective,]0-1],]72--[,]72--[,True,False,True,True,False,True,TMH - dépannage chauffage
+,preventive,]72--[,]72--[,]72--[,True,True,False,True,False,False,TMH - visite entretien appareil gaz
+,preventive,]24-48],]0-1],]24-48],True,True,True,False,False,False,TMH - visite entretien appareil gaz
+,preventive,]48-72],]0-1],]48-72],True,True,True,False,False,False,TMH - visite entretien Pompe à Chaleur (PAC)
+,preventive,]72--[,]24-48],]72--[,True,True,True,False,False,False,TMH - visite entretien ballon thermodynamique
+,corrective,]16-24],]0-1],]24-48],True,True,False,False,False,True,TMH - dépannage chauffage
+,corrective,]24-48],]0-1],]24-48],True,False,True,False,False,True,TMH - dépannage chauffage
+,corrective,]72--[,]1-2],]72--[,True,True,True,False,False,True,TMH - dépannage chauffage
+,corrective,]24-48],0,]24-48],True,True,True,False,False,True,TMH - dépannage chauffage
+,corrective,]24-48],]1-2],]24-48],True,True,True,False,False,True,TMH - dépannage chauffage
+,preventive,]0-1],]72--[,]72--[,True,True,True,False,True,False,TMH - visite entretien appareil gaz
+,corrective,]16-24],]72--[,]72--[,True,False,True,False,False,True,TMH - dépannage chauffage
+,corrective,]24-48],]4-16],]24-48],True,True,True,False,False,True,TMH - dépannage chauffage
+,preventive,]72--[,]4-16],]72--[,False,True,True,False,False,False,TMH - visite entretien Pompe à Chaleur (PAC)
+,corrective,]72--[,]2-4],]72--[,True,True,False,False,False,True,TMH - dépannage chauffage
+,corrective,]2-4],]0-1],]2-4],True,True,False,False,False,True,Dépannage
+,corrective,]24-48],]24-48],]48-72],True,True,True,False,False,True,TMH - dépannage chauffage
+,preventive,]48-72],]72--[,]72--[,True,True,True,False,False,False,TMH - visite entretien appareil gaz
+,corrective,]16-24],]1-2],]24-48],True,True,True,False,False,True,TMH - dépannage chauffage
+,preventive,0,]48-72],]48-72],True,False,False,False,True,False,TMH - visite entretien appareil gaz
+,preventive,0,]72--[,]72--[,False,False,True,True,False,False,TMH - visite entretien appareil gaz
+,corrective,]0-1],]16-24],]16-24],True,True,True,False,False,True,TMH - dépannage chauffage
+,preventive,0,]72--[,]72--[,False,False,True,False,False,False,TMH - visite entretien appareil gaz
+,preventive,0,]1-2],]1-2],True,False,False,False,False,False,TMH - visite entretien appareil gaz
+,preventive,]24-48],0,]24-48],True,True,True,False,False,False,TMH - visite entretien appareil gaz
+,corrective,]2-4],]1-2],]4-16],True,True,True,False,False,True,TMH - dépannage chauffage
+,corrective,]16-24],]1-2],]24-48],True,True,False,False,False,True,TMH - dépannage chauffage
+,preventive,]72--[,]4-16],]72--[,True,True,True,False,True,False,TMH - visite entretien appareil gaz
+,corrective,]16-24],]0-1],]16-24],True,True,True,False,False,True,TMH - dépannage chauffage
+,preventive,]0-1],]72--[,]72--[,True,True,True,False,False,True,TMH - visite entretien appareil gaz
+,corrective,]24-48],]2-4],]24-48],True,False,True,True,False,True,TMH - dépannage chauffage
+,preventive,]72--[,]72--[,]72--[,True,True,True,False,True,False,TMH - visite entretien appareil gaz
+,preventive,]1-2],]0-1],]2-4],True,True,False,False,False,False,TMH - visite entretien appareil gaz
+,preventive,]48-72],]2-4],]48-72],True,True,True,False,False,False,TMH - visite entretien appareil gaz
+,preventive,0,]4-16],]4-16],True,False,False,False,False,False,TMH - visite entretien appareil gaz
+,corrective,]0-1],]48-72],]48-72],True,False,False,True,False,True,TMH - dépannage chauffage
+,corrective,]24-48],]72--[,]72--[,True,True,True,False,True,True,TMH - dépannage chauffage
+,preventive,]72--[,]72--[,]72--[,True,True,True,False,False,False,TMH - visite entretien appareil gaz
+,corrective,]4-16],0,]4-16],True,True,True,False,False,True,TMH - dépannage chauffage
+,corrective,]72--[,]72--[,]72--[,True,True,True,False,False,True,TMH - dépannage chauffage
+,preventive,]72--[,]24-48],]72--[,True,True,True,False,False,True,TMH - visite entretien appareil gaz
+,corrective,]16-24],0,]16-24],False,True,False,False,False,True,TMH - dépannage chauffage
+,corrective,]0-1],]1-2],]1-2],True,False,True,False,False,True,TMH - dépannage chauffage
+,corrective,]24-48],]72--[,]72--[,True,True,True,False,False,True,TMH - dépannage chauffage
+,preventive,]72--[,]72--[,]72--[,True,True,True,False,True,False,TMH - visite entretien Pompe à Chaleur (PAC)
+,preventive,]48-72],]72--[,]72--[,True,True,True,True,True,False,TMH - visite entretien appareil gaz
+,preventive,]72--[,]1-2],]72--[,True,True,True,False,True,False,TMH - visite entretien appareil gaz
+,preventive,0,]0-1],]0-1],True,False,False,False,False,False,TMH - visite entretien appareil gaz
+,preventive,]72--[,]2-4],]72--[,True,True,True,False,True,True,TMH - visite entretien appareil gaz
+,corrective,]72--[,]2-4],]72--[,True,False,True,False,False,True,TMH - dépannage chauffage
+,preventive,]72--[,0,]72--[,True,True,True,False,False,False,TMH - visite entretien ballon thermodynamique
+,preventive,]72--[,]72--[,]72--[,True,True,False,False,False,False,TMH - visite entretien appareil gaz
+,corrective,]24-48],]1-2],]24-48],True,True,True,False,False,True,Dépannage
+,preventive,]4-16],]72--[,]72--[,True,True,True,False,True,True,TMH - visite entretien appareil gaz
+,preventive,]2-4],]1-2],]4-16],True,True,False,False,False,False,TMH - visite entretien appareil gaz
+,corrective,]72--[,]72--[,]72--[,True,True,True,False,False,True,TMH - dépannage chauffage
+,corrective,]72--[,]2-4],]72--[,True,True,True,False,False,True,Dépannage
+,corrective,]0-1],]24-48],]24-48],True,False,True,False,False,True,TMH - dépannage chauffage
+,corrective,]72--[,]0-1],]72--[,True,False,False,False,False,True,Dépannage
+,corrective,]2-4],0,]2-4],True,True,True,False,False,True,TMH - dépannage chauffage
+,preventive,]72--[,]72--[,]72--[,True,True,True,False,False,True,TMH - visite entretien appareil gaz
+,corrective,]16-24],]4-16],]24-48],True,True,True,False,False,True,TMH - dépannage chauffage
+,preventive,]0-1],0,]0-1],False,True,False,False,False,False,TMH - visite entretien appareil gaz
+,preventive,]1-2],]0-1],]1-2],True,True,False,False,False,False,TMH - visite entretien appareil gaz
+,preventive,]72--[,]4-16],]72--[,True,True,True,False,False,True,TMH - visite entretien appareil gaz
+,corrective,]24-48],]0-1],]24-48],True,True,False,False,False,True,Dépannage
+,corrective,]24-48],]72--[,]72--[,True,True,True,True,False,True,Dépannage
+,corrective,]1-2],]0-1],]2-4],True,True,True,True,False,True,TMH - dépannage chauffage
+,corrective,]48-72],]0-1],]48-72],True,True,True,False,False,True,Dépannage
+,corrective,]72--[,]1-2],]72--[,True,True,False,False,False,True,TMH - dépannage chauffage
+,corrective,]48-72],]72--[,]72--[,True,True,True,False,True,True,TMH - dépannage chauffage
+,preventive,]4-16],]1-2],]4-16],True,True,True,False,False,False,TMH - visite entretien appareil gaz
+,corrective,]72--[,]2-4],]72--[,True,True,True,False,False,True,TMH - dépannage chauffage
+,corrective,]2-4],]0-1],]4-16],True,False,True,False,False,True,TMH - dépannage chauffage
+,corrective,]4-16],]4-16],]4-16],True,True,True,False,False,True,TMH - dépannage chauffage
+,preventive,0,0,0,True,False,True,False,False,False,TMH - visite entretien appareil gaz
+,corrective,]4-16],]0-1],]4-16],True,True,True,False,False,True,TMH - dépannage chauffage
+,corrective,]0-1],]0-1],]1-2],True,False,True,False,False,True,TMH - dépannage chauffage
+,preventive,0,]0-1],]0-1],True,False,False,False,False,False,TMH - visite entretien Pompe à Chaleur (PAC)
+,corrective,]0-1],]1-2],]1-2],True,True,True,False,False,True,TMH - dépannage chauffage
+,preventive,0,]2-4],]2-4],True,False,True,False,False,False,TMH - visite entretien appareil gaz
+,corrective,]16-24],]72--[,]72--[,True,False,True,True,False,True,TMH - dépannage chauffage
+,corrective,]72--[,]0-1],]72--[,True,True,True,False,False,True,TMH - dépannage chauffage
+,preventive,]72--[,]1-2],]72--[,True,True,False,False,False,False,TMH - visite entretien appareil gaz
+,corrective,]24-48],]0-1],]24-48],True,True,True,False,False,True,TMH - dépannage chauffage
+,corrective,]24-48],]0-1],]24-48],True,False,False,False,False,True,TMH - dépannage chauffage
+,preventive,]16-24],]48-72],]48-72],False,True,True,False,False,True,TMH - visite entretien appareil gaz
+,preventive,]2-4],]4-16],]4-16],True,True,False,False,False,False,TMH - visite entretien appareil gaz
+,preventive,]72--[,]1-2],]72--[,True,True,True,False,False,True,TMH - visite entretien ballon thermodynamique
+,corrective,]48-72],]1-2],]72--[,True,True,True,False,False,True,TMH - dépannage chauffage
+,preventive,]72--[,]72--[,]72--[,True,True,True,False,True,False,TMH - visite entretien appareil gaz
+,corrective,]48-72],]24-48],]72--[,True,True,True,True,False,True,TMH - dépannage chauffage
+,preventive,]16-24],]2-4],]16-24],True,True,True,False,False,False,TMH - visite entretien ballon solaire
+,preventive,]16-24],]16-24],]24-48],True,True,True,False,False,False,TMH - visite entretien appareil gaz
+,corrective,]48-72],]2-4],]72--[,True,True,True,False,False,True,TMH - dépannage chauffage
+,corrective,]0-1],]48-72],]48-72],True,True,True,False,False,True,TMH - dépannage chauffage
+,preventive,]72--[,]24-48],]72--[,True,True,True,False,False,False,TMH - visite entretien appareil gaz
+,corrective,]48-72],]0-1],]48-72],True,True,False,False,False,True,Dépannage
+,preventive,]72--[,]72--[,]72--[,True,True,True,True,True,False,TMH - visite entretien appareil gaz
+,corrective,0,]2-4],]2-4],True,False,True,False,False,False,TMH - dépannage chauffage
+,corrective,]72--[,]0-1],]72--[,True,True,False,False,False,True,TMH - dépannage chauffage
+,preventive,]72--[,]72--[,]72--[,True,True,True,False,False,False,TMH - visite entretien appareil gaz
+,corrective,]16-24],]48-72],]72--[,True,True,True,False,False,True,TMH - dépannage chauffage
+,corrective,]1-2],]1-2],]2-4],True,True,False,False,False,True,TMH - dépannage chauffage
+,corrective,]4-16],]24-48],]24-48],True,True,True,False,False,True,TMH - dépannage chauffage
+,corrective,]2-4],]2-4],]4-16],True,False,True,False,False,True,TMH - dépannage chauffage
+,corrective,]24-48],]72--[,]72--[,True,True,True,False,False,True,TMH - dépannage chauffage
+,corrective,]4-16],]0-1],]4-16],True,True,False,False,False,True,Dépannage
+,corrective,]16-24],]0-1],]24-48],True,False,False,False,False,True,TMH - dépannage chauffage
+,corrective,]24-48],]48-72],]72--[,True,True,True,False,False,True,TMH - dépannage chauffage
+,corrective,]4-16],0,]4-16],True,False,True,False,False,True,TMH - dépannage chauffage
+,corrective,]1-2],]0-1],]2-4],True,True,False,False,False,True,TMH - dépannage chauffage
+,preventive,0,]48-72],]48-72],False,False,True,True,False,False,TMH - visite entretien appareil gaz
+,corrective,]24-48],0,]24-48],True,True,True,False,False,True,Dépannage
+,corrective,]24-48],]48-72],]72--[,True,False,True,False,False,True,TMH - dépannage chauffage
+,corrective,]24-48],]72--[,]72--[,True,True,True,True,True,True,TMH - dépannage chauffage
+,corrective,]24-48],]1-2],]48-72],True,True,True,False,False,True,TMH - dépannage chauffage
+,corrective,]48-72],]1-2],]72--[,True,True,True,False,False,True,TMH - dépannage chauffage
+,corrective,]16-24],0,]16-24],True,True,True,False,False,True,Dépannage
+,corrective,]0-1],]0-1],]0-1],True,True,False,False,False,True,Dépannage
+,preventive,]0-1],0,]0-1],False,False,False,False,False,True,TMH - visite entretien Pompe à Chaleur (PAC)
+,corrective,]4-16],]2-4],]4-16],True,True,False,False,False,True,TMH - dépannage chauffage
+,preventive,]72--[,]0-1],]72--[,True,True,True,True,False,False,TMH - visite entretien appareil gaz
+,corrective,]16-24],]0-1],]24-48],True,True,True,False,False,True,Dépannage
+,preventive,]72--[,]24-48],]72--[,True,True,False,False,False,False,TMH - visite entretien appareil gaz
+,preventive,]72--[,]72--[,]72--[,True,True,True,False,False,False,TMH - visite entretien ballon thermodynamique
+,corrective,]24-48],0,]24-48],True,True,True,False,False,True,TMH - dépannage chauffage
+,preventive,]72--[,]72--[,]72--[,True,True,False,False,True,True,TMH - visite entretien appareil gaz
+,preventive,0,]72--[,]72--[,False,False,False,True,False,False,TMH - visite entretien appareil gaz
+,preventive,]48-72],]16-24],]48-72],True,True,True,False,False,False,TMH - visite entretien appareil gaz
+,corrective,]4-16],]0-1],]4-16],True,False,True,False,False,True,TMH - dépannage chauffage
+,preventive,0,]72--[,]72--[,True,False,True,True,True,False,TMH - visite entretien appareil gaz
+,corrective,0,]48-72],]48-72],True,False,True,False,False,False,TMH - dépannage chauffage
+,corrective,]4-16],]1-2],]4-16],True,True,True,False,False,True,TMH - dépannage chauffage
+,corrective,]16-24],]16-24],]24-48],True,True,True,True,False,True,TMH - dépannage chauffage
+,preventive,]72--[,]48-72],]72--[,True,True,True,True,True,False,TMH - visite entretien appareil gaz
+,preventive,]2-4],]72--[,]72--[,True,True,True,False,False,False,TMH - visite entretien appareil gaz
+,corrective,0,]2-4],]2-4],True,True,True,False,False,False,TMH - dépannage chauffage
+,preventive,]72--[,]48-72],]72--[,True,True,True,False,True,False,TMH - visite entretien appareil gaz
+,preventive,]72--[,]72--[,]72--[,True,True,True,False,False,False,TMH - visite entretien appareil gaz
+,corrective,]2-4],]0-1],]2-4],True,False,False,False,False,True,TMH - dépannage chauffage
+,corrective,]72--[,]0-1],]72--[,True,False,True,False,False,True,TMH - dépannage chauffage
+,corrective,]48-72],]72--[,]72--[,True,True,True,False,False,True,TMH - dépannage chauffage
+,corrective,]16-24],]72--[,]72--[,True,True,True,False,True,True,TMH - dépannage chauffage
+,preventive,]72--[,]48-72],]72--[,True,True,False,False,False,False,TMH - visite entretien appareil gaz
+,corrective,0,]72--[,]72--[,True,True,True,False,True,False,TMH - dépannage chauffage
+,corrective,]72--[,]72--[,]72--[,True,True,True,False,False,True,TMH - dépannage chauffage
+,corrective,]72--[,]0-1],]72--[,True,False,False,False,False,True,TMH - dépannage chauffage
+,corrective,]0-1],]24-48],]24-48],True,True,True,False,False,True,TMH - dépannage chauffage
+,corrective,]24-48],]4-16],]48-72],True,True,False,False,False,True,TMH - dépannage chauffage
+,corrective,]2-4],]2-4],]4-16],True,False,True,False,False,True,TMH - dépannage chauffage
+,corrective,]16-24],]2-4],]16-24],True,True,True,False,False,True,TMH - dépannage chauffage
+,corrective,]72--[,0,]72--[,True,True,True,False,False,True,TMH - dépannage chauffage
+,preventive,]72--[,]72--[,]72--[,True,True,True,False,True,True,TMH - visite entretien ballon thermodynamique
+,preventive,]72--[,0,]72--[,True,True,True,False,False,False,TMH - visite entretien appareil gaz
+,corrective,]2-4],]0-1],]2-4],True,False,True,False,False,True,TMH - dépannage chauffage
+,preventive,]24-48],]72--[,]72--[,True,True,True,False,False,False,TMH - visite entretien appareil gaz
+,corrective,]72--[,]24-48],]72--[,True,True,True,True,True,True,TMH - dépannage chauffage
+,preventive,]72--[,]72--[,]72--[,True,True,True,True,True,False,TMH - visite entretien appareil gaz
+,preventive,]72--[,]0-1],]72--[,True,True,True,False,False,True,TMH - visite entretien Pompe à Chaleur (PAC)
+,preventive,]72--[,]72--[,]72--[,True,True,False,False,False,False,TMH - visite entretien appareil gaz
+,preventive,]72--[,0,]72--[,True,True,False,False,False,False,TMH - visite entretien appareil gaz
+,corrective,]1-2],]0-1],]2-4],True,True,True,False,False,True,TMH - dépannage chauffage
+,corrective,]24-48],0,]24-48],False,True,True,False,False,True,TMH - dépannage chauffage
+,preventive,]72--[,]0-1],]72--[,True,True,True,True,False,False,TMH - visite entretien appareil gaz
+,preventive,]72--[,]2-4],]72--[,True,True,True,False,False,False,TMH - visite entretien appareil gaz
+,preventive,]4-16],]72--[,]72--[,True,True,True,False,False,False,TMH - visite entretien appareil gaz
+,preventive,]0-1],]1-2],]1-2],True,True,False,False,False,False,TMH - visite entretien appareil gaz
+,preventive,0,]0-1],]0-1],False,False,False,True,False,False,TMH - visite entretien appareil gaz
+,preventive,]72--[,]0-1],]72--[,False,True,False,True,False,False,TMH - visite entretien appareil gaz
+,preventive,]16-24],]0-1],]16-24],True,True,True,False,False,False,TMH - visite entretien appareil gaz
+,corrective,]72--[,]2-4],]72--[,True,False,True,False,False,True,Dépannage
+,corrective,]4-16],]48-72],]72--[,True,True,True,False,False,True,TMH - dépannage chauffage
+,preventive,]72--[,]2-4],]72--[,True,True,True,False,False,True,TMH - visite entretien appareil gaz
+,corrective,]72--[,]72--[,]72--[,True,True,True,True,False,True,TMH - dépannage chauffage
+,corrective,]48-72],]0-1],]48-72],True,True,False,False,False,True,TMH - dépannage chauffage
+,preventive,]0-1],]24-48],]24-48],True,True,False,False,False,False,TMH - visite entretien ballon thermodynamique
+,corrective,]4-16],]0-1],]4-16],True,True,True,False,False,True,TMH - dépannage chauffage
+,preventive,]72--[,]72--[,]72--[,True,True,True,False,True,False,TMH - visite entretien appareil gaz
+,corrective,]24-48],]0-1],]24-48],True,True,False,False,False,True,TMH - dépannage chauffage
+,preventive,0,]0-1],]0-1],False,False,False,False,True,False,TMH - visite entretien appareil gaz
+,preventive,]0-1],]0-1],]1-2],True,True,True,False,False,False,TMH - visite entretien appareil gaz
+,preventive,]2-4],]72--[,]72--[,True,True,True,False,True,False,TMH - visite entretien appareil gaz
+,preventive,]72--[,]72--[,]72--[,True,True,True,False,False,False,TMH - visite entretien ballon thermodynamique
+,preventive,]72--[,]4-16],]72--[,True,True,True,True,False,True,TMH - visite entretien appareil gaz
+,corrective,]24-48],]72--[,]72--[,True,True,True,True,False,True,TMH - dépannage chauffage
+,preventive,0,]1-2],]1-2],False,False,True,False,False,False,TMH - visite entretien appareil gaz
+,preventive,]2-4],]1-2],]2-4],True,True,False,False,False,False,TMH - visite entretien appareil gaz
+,preventive,]72--[,]24-48],]72--[,True,True,True,True,True,False,TMH - visite entretien appareil gaz
+,corrective,]72--[,]2-4],]72--[,True,True,True,False,False,True,TMH - dépannage chauffage
+,preventive,]0-1],]16-24],]16-24],True,True,True,False,False,False,TMH - visite entretien appareil gaz
+,preventive,0,]24-48],]24-48],True,False,True,False,False,False,TMH - visite entretien appareil gaz
+,preventive,]16-24],]0-1],]16-24],True,True,False,False,False,False,TMH - visite entretien Pompe à Chaleur (PAC)
+,preventive,]0-1],0,]0-1],False,True,False,False,False,True,TMH - visite entretien Pompe à Chaleur (PAC)
+,corrective,]2-4],]72--[,]72--[,True,True,True,True,False,True,TMH - dépannage chauffage
+,preventive,]72--[,]4-16],]72--[,True,True,True,False,False,False,TMH - visite entretien appareil gaz
+,corrective,]4-16],]72--[,]72--[,True,True,True,False,False,True,TMH - dépannage chauffage
+,corrective,]72--[,]48-72],]72--[,True,True,True,False,False,True,TMH - dépannage chauffage
+,preventive,]72--[,]1-2],]72--[,True,True,True,False,False,True,TMH - visite entretien appareil gaz
+,preventive,]72--[,]72--[,]72--[,True,True,False,False,True,False,TMH - visite entretien ballon thermodynamique
+,preventive,]72--[,]72--[,]72--[,True,True,True,True,False,True,TMH - visite entretien appareil gaz
+,corrective,]16-24],]48-72],]72--[,True,True,True,False,False,True,TMH - dépannage chauffage
+,corrective,0,]0-1],]0-1],True,True,True,False,False,False,TMH - dépannage chauffage
+,preventive,]48-72],]72--[,]72--[,True,True,True,False,True,False,TMH - visite entretien appareil gaz
+,preventive,0,]1-2],]1-2],False,False,True,True,False,False,TMH - visite entretien appareil gaz
+,corrective,]0-1],]0-1],]1-2],True,True,False,False,False,True,TMH - dépannage chauffage
+,corrective,]0-1],]1-2],]2-4],True,True,True,False,False,True,TMH - dépannage chauffage
+,preventive,]72--[,0,]72--[,False,True,False,False,False,False,TMH - visite entretien appareil gaz
+,preventive,]48-72],0,]48-72],False,True,False,False,False,False,TMH - visite entretien appareil gaz
+,preventive,]72--[,]72--[,]72--[,True,True,True,True,False,False,TMH - visite entretien Pompe à Chaleur (PAC)
+,preventive,0,]72--[,]72--[,True,True,True,True,False,False,TMH - visite entretien appareil gaz
+,preventive,]72--[,]1-2],]72--[,True,True,True,False,False,False,TMH - visite entretien appareil gaz
+,preventive,]72--[,]4-16],]72--[,True,True,True,False,False,False,TMH - visite entretien Pompe à Chaleur (PAC)
+,preventive,]0-1],0,]0-1],False,True,False,False,False,True,TMH - visite entretien appareil gaz
+,preventive,]72--[,]2-4],]72--[,True,True,True,False,False,True,TMH - visite entretien appareil gaz
+,corrective,]48-72],]1-2],]72--[,True,True,False,False,False,True,TMH - dépannage chauffage
+,corrective,]48-72],]48-72],]72--[,True,True,True,False,True,True,TMH - dépannage chauffage
+,preventive,]72--[,]24-48],]72--[,False,True,True,False,False,True,TMH - visite entretien appareil gaz
+,corrective,]2-4],]72--[,]72--[,True,True,True,False,False,True,TMH - dépannage chauffage
+,corrective,]16-24],]0-1],]16-24],True,True,True,False,False,True,TMH - dépannage chauffage
+,corrective,]0-1],]0-1],]0-1],True,True,True,False,False,True,TMH - dépannage chauffage
+,corrective,]0-1],]48-72],]48-72],True,True,True,False,False,True,Dépannage
+,preventive,]72--[,]0-1],]72--[,True,True,True,True,False,False,TMH - visite entretien appareil gaz
+,preventive,0,0,0,True,False,False,False,False,False,TMH - visite entretien appareil gaz
+,preventive,]4-16],]0-1],]16-24],True,True,False,False,False,False,TMH - visite entretien appareil gaz
+,preventive,]72--[,]4-16],]72--[,True,True,True,False,False,True,TMH - visite entretien appareil gaz
+,corrective,]72--[,]72--[,]72--[,True,True,True,False,False,True,TMH - dépannage chauffage
+,corrective,]16-24],]24-48],]48-72],True,True,True,True,False,True,TMH - dépannage chauffage
+,corrective,]24-48],]0-1],]24-48],True,False,False,False,False,True,TMH - dépannage chauffage
+,preventive,]72--[,]72--[,]72--[,True,True,True,False,False,False,TMH - visite entretien appareil gaz
+,preventive,]72--[,]24-48],]72--[,True,True,True,False,True,False,TMH - visite entretien appareil gaz
+,corrective,]2-4],0,]2-4],True,False,True,False,False,True,TMH - dépannage chauffage
+,preventive,]72--[,]24-48],]72--[,True,True,True,False,False,False,TMH - visite entretien appareil gaz
+,preventive,]16-24],0,]16-24],False,True,False,False,False,False,TMH - visite entretien appareil gaz
+,preventive,]24-48],0,]24-48],True,True,True,False,False,True,TMH - visite entretien appareil gaz
+,corrective,]16-24],]1-2],]24-48],True,True,True,True,False,True,TMH - dépannage chauffage
+,preventive,]0-1],]0-1],]0-1],True,False,False,False,False,True,TMH - visite entretien appareil gaz
+,preventive,]0-1],]24-48],]24-48],True,True,True,False,False,False,TMH - visite entretien appareil gaz
+,preventive,]72--[,0,]72--[,False,True,False,False,False,True,TMH - visite entretien appareil gaz
+,preventive,]48-72],]72--[,]72--[,True,True,False,False,False,False,TMH - visite entretien appareil gaz
+,corrective,]48-72],]1-2],]48-72],True,True,True,False,False,True,TMH - dépannage chauffage
+,corrective,]48-72],]0-1],]48-72],True,False,True,False,False,True,TMH - dépannage chauffage
+,preventive,]72--[,]72--[,]72--[,True,True,True,False,True,False,TMH - visite entretien ballon thermodynamique
+,corrective,]72--[,]24-48],]72--[,True,True,True,False,False,True,TMH - dépannage chauffage
+,corrective,]24-48],]72--[,]72--[,True,True,True,False,False,True,TMH - dépannage chauffage
+,corrective,]72--[,]1-2],]72--[,True,True,False,False,False,True,Dépannage
+,corrective,]72--[,]24-48],]72--[,True,True,True,False,True,True,TMH - dépannage chauffage
+,corrective,]16-24],]72--[,]72--[,True,True,True,False,False,True,TMH - dépannage chauffage
+,corrective,]24-48],]0-1],]24-48],True,True,False,False,False,True,TMH - dépannage chauffage
+,preventive,]72--[,0,]72--[,True,True,True,False,False,True,TMH - visite entretien Pompe à Chaleur (PAC)
+,corrective,]24-48],]1-2],]24-48],True,False,True,False,False,True,Dépannage
+,corrective,]16-24],]48-72],]72--[,True,True,True,False,False,True,TMH - dépannage chauffage
+,preventive,]72--[,]24-48],]72--[,True,True,False,False,False,False,TMH - visite entretien appareil gaz
+,corrective,]0-1],0,]0-1],True,True,True,False,False,True,TMH - dépannage chauffage
+,preventive,]16-24],]72--[,]72--[,True,True,True,True,False,False,TMH - visite entretien appareil gaz
+,corrective,]24-48],]2-4],]24-48],True,True,True,False,False,True,TMH - dépannage chauffage
+,corrective,]48-72],0,]48-72],True,True,True,False,False,True,TMH - dépannage chauffage
+,corrective,]48-72],]72--[,]72--[,True,True,True,False,False,True,TMH - dépannage chauffage
+,corrective,0,]0-1],]0-1],True,False,False,False,False,False,TMH - dépannage chauffage
+,corrective,]16-24],]48-72],]48-72],True,True,True,False,False,True,Dépannage
+,corrective,]48-72],]0-1],]48-72],True,True,True,False,False,True,TMH - dépannage chauffage
+,preventive,]0-1],]2-4],]2-4],True,True,False,False,False,False,TMH - visite entretien appareil gaz
+,preventive,]72--[,]4-16],]72--[,True,True,False,False,False,False,TMH - visite entretien appareil gaz
+,preventive,]72--[,]72--[,]72--[,True,True,True,True,True,False,TMH - visite entretien appareil gaz
+,preventive,]72--[,]72--[,]72--[,True,True,True,True,False,False,TMH - visite entretien appareil gaz
+,corrective,]0-1],]72--[,]72--[,True,True,True,False,False,True,TMH - dépannage chauffage
+,preventive,]72--[,]72--[,]72--[,True,True,True,True,False,False,TMH - visite entretien appareil gaz
+,corrective,]16-24],]24-48],]48-72],True,False,True,False,False,True,TMH - dépannage chauffage
+,corrective,]16-24],0,]16-24],True,False,True,False,False,True,TMH - dépannage chauffage
+,corrective,]24-48],]48-72],]72--[,True,False,True,True,False,True,TMH - dépannage chauffage
+,preventive,]72--[,]72--[,]72--[,True,True,True,True,False,False,TMH - visite entretien appareil gaz
+,corrective,]4-16],]0-1],]16-24],True,True,False,False,False,True,TMH - dépannage chauffage
+,corrective,]48-72],]72--[,]72--[,True,False,True,False,False,True,TMH - dépannage chauffage
+,corrective,]72--[,]4-16],]72--[,True,True,True,False,False,True,TMH - dépannage chauffage
+,preventive,]48-72],0,]48-72],True,True,True,False,False,False,TMH - visite entretien appareil gaz
+,preventive,]0-1],]1-2],]2-4],True,True,False,False,False,False,TMH - visite entretien appareil gaz
+,preventive,]1-2],]72--[,]72--[,True,True,True,True,True,False,TMH - visite entretien appareil gaz
+,corrective,]24-48],]72--[,]72--[,True,True,True,False,False,True,TMH - dépannage chauffage
+,corrective,]2-4],]0-1],]2-4],True,True,True,False,False,True,TMH - dépannage chauffage
+,corrective,]0-1],]0-1],]1-2],True,False,False,False,False,True,TMH - dépannage chauffage
+,corrective,0,]72--[,]72--[,True,False,True,False,False,False,TMH - dépannage chauffage
+,corrective,]2-4],]1-2],]2-4],True,True,True,False,False,True,Dépannage
+,corrective,]24-48],]4-16],]48-72],True,True,False,False,False,True,TMH - dépannage chauffage
+,corrective,]16-24],]72--[,]72--[,True,True,True,False,False,True,TMH - dépannage chauffage
+,preventive,]24-48],]48-72],]72--[,True,True,True,False,True,False,TMH - visite entretien appareil gaz
+,corrective,]2-4],]0-1],]2-4],True,True,False,False,False,True,Dépannage
+,preventive,]72--[,]72--[,]72--[,True,True,True,False,False,False,TMH - visite entretien Pompe à Chaleur (PAC)
+,corrective,]72--[,]4-16],]72--[,True,False,True,False,False,True,TMH - dépannage chauffage
+,preventive,]72--[,]72--[,]72--[,True,True,True,True,False,False,TMH - visite entretien appareil gaz
+,corrective,]2-4],]0-1],]4-16],True,True,False,False,False,True,TMH - dépannage chauffage
+,preventive,]72--[,]16-24],]72--[,True,True,True,False,True,False,TMH - visite entretien appareil gaz
+,corrective,]24-48],]4-16],]48-72],True,False,True,False,False,True,TMH - dépannage chauffage
+,corrective,]72--[,]0-1],]72--[,True,True,False,False,False,True,TMH - dépannage chauffage
+,corrective,]4-16],]1-2],]4-16],True,True,True,False,False,True,TMH - dépannage chauffage
+,corrective,]4-16],]1-2],]4-16],True,True,True,False,False,True,ALTEAL - dépannage chauffage
+,corrective,]1-2],0,]1-2],True,True,True,False,False,True,TMH - dépannage chauffage
+,corrective,]16-24],]0-1],]16-24],True,True,False,False,False,True,TMH - dépannage chauffage
+,corrective,]16-24],]72--[,]72--[,True,True,True,True,False,True,TMH - dépannage chauffage
+,corrective,]0-1],]0-1],]1-2],True,True,True,False,False,True,Dépannage
+,preventive,]16-24],]72--[,]72--[,True,True,True,True,True,False,TMH - visite entretien appareil gaz
+,preventive,0,]72--[,]72--[,True,False,True,False,False,False,TMH - visite entretien appareil gaz
+,preventive,]72--[,]72--[,]72--[,False,True,True,False,False,False,TMH - visite entretien appareil gaz
+,corrective,]16-24],]0-1],]24-48],True,True,True,False,False,True,TMH - dépannage chauffage
+,corrective,]48-72],0,]48-72],True,True,True,False,False,True,TMH - dépannage chauffage
+,preventive,0,]72--[,]72--[,True,True,True,True,True,False,TMH - visite entretien appareil gaz
+,corrective,]72--[,]1-2],]72--[,True,False,True,False,False,True,TMH - dépannage chauffage
+,corrective,]2-4],]72--[,]72--[,True,False,True,False,False,True,OPH31 dépannage chauffage

@@ -1,0 +1,110 @@
+criticalLevel,workType,responseTime,processingDuration,resolutionDuration,planned,occupant_absent,requested,canceled,class
+one,corrective,0,0,0,True,False,True,False,Panne chauff ind
+one,corrective,0,]2-4],]2-4],False,False,False,False,Panne chauff ind
+one,corrective,]48-72],]1-2],]48-72],True,False,True,False,Panne chauff ind
+one,corrective,0,]1-2],]1-2],True,False,True,False,Panne chauff ind
+one,corrective,]24-48],]0-1],]24-48],True,False,True,False,Entretien pompes à chaleur
+three,corrective,]72--[,]1-2],]72--[,True,False,True,True,Panne chauff ind
+five,corrective,]24-48],]0-1],]24-48],True,False,True,False,Panne chauff ind
+one,preventive,0,]2-4],]2-4],False,False,False,False,Visite entretien ventilation coll
+one,corrective,]72--[,]1-2],]72--[,True,False,True,False,Panne chauff ind
+five,corrective,]72--[,]1-2],]72--[,True,False,True,True,Panne chauff ind
+three,corrective,]48-72],]0-1],]48-72],True,False,True,False,Panne chauff ind
+one,corrective,]16-24],]0-1],]24-48],True,False,True,False,Panne chauff ind
+one,corrective,0,0,0,True,True,True,False,Panne Solaire Thermique autres interventions
+one,corrective,]48-72],]0-1],]48-72],True,True,True,False,Panne chauff ind
+five,corrective,]24-48],]0-1],]48-72],True,False,True,False,Panne chauff ind
+one,preventive,0,0,0,False,True,False,False,Visite entretien ECS
+one,corrective,]72--[,]72--[,]72--[,True,True,True,False,Panne chauff ind
+one,corrective,]24-48],]0-1],]24-48],True,False,True,False,Panne Electrique
+one,corrective,0,]0-1],]0-1],False,False,False,False,Panne Production ECS
+one,corrective,0,0,0,True,True,True,True,Panne Robinetterie
+one,corrective,]0-1],]2-4],]2-4],True,False,True,False,Panne chauff ind
+one,corrective,]24-48],]0-1],]24-48],True,False,True,False,Panne Production ECS
+one,corrective,]72--[,]1-2],]72--[,True,True,True,False,Panne chauff ind
+three,corrective,]72--[,]0-1],]72--[,True,False,True,False,Panne chauff ind
+one,corrective,]72--[,]0-1],]72--[,True,False,True,False,Panne chauff ind
+one,corrective,]4-16],]1-2],]4-16],True,False,True,False,Panne chauff ind
+one,corrective,]4-16],]0-1],]4-16],True,False,True,False,Panne chauff ind
+five,corrective,]2-4],]0-1],]4-16],True,False,True,False,Panne chauff ind
+one,corrective,0,]1-2],]1-2],True,False,True,False,Panne VMC sanitaire
+one,preventive,0,]0-1],]0-1],False,False,False,False,Visite entretien chaudière
+one,corrective,]48-72],]0-1],]48-72],True,False,True,True,Panne Robinetterie
+one,corrective,]72--[,]0-1],]72--[,True,False,True,True,Panne Robinetterie
+five,corrective,]72--[,]0-1],]72--[,True,False,True,True,Panne chauff ind
+one,corrective,0,0,0,True,True,True,True,Panne chauff ind
+five,corrective,]48-72],]0-1],]48-72],True,False,True,False,Panne chauff ind
+one,corrective,0,0,0,True,True,True,False,Panne Robinetterie
+one,preventive,0,]2-4],]2-4],False,False,False,False,Visite entretien robinetterie
+one,corrective,]16-24],]0-1],]16-24],True,False,True,False,Panne Production ECS
+one,preventive,0,]4-16],]4-16],False,False,False,False,Visite entretien chaudière
+one,corrective,]2-4],]1-2],]4-16],True,False,True,False,Panne Production ECS
+one,corrective,]48-72],]0-1],]48-72],True,False,True,False,Panne Production ECS
+one,corrective,]16-24],]0-1],]24-48],True,False,True,False,Panne Robinetterie
+one,corrective,]4-16],]0-1],]4-16],True,False,True,False,Panne Production ECS
+one,corrective,]72--[,]2-4],]72--[,True,False,True,False,Entretien pompes à chaleur
+one,corrective,]24-48],]0-1],]24-48],True,False,True,False,Panne Robinetterie
+one,corrective,]72--[,]4-16],]72--[,True,False,True,True,Panne VMC sanitaire
+one,corrective,]16-24],]1-2],]16-24],True,False,True,False,Panne Robinetterie
+one,corrective,]0-1],]0-1],]0-1],True,False,True,False,Panne Production ECS
+one,corrective,0,0,0,True,True,True,False,Panne Production ECS
+five,corrective,]72--[,]0-1],]72--[,True,True,True,True,Panne chauff ind
+one,corrective,]48-72],]0-1],]48-72],True,False,True,True,Panne chauff ind
+one,corrective,]48-72],]1-2],]48-72],True,False,True,False,Panne VMC sanitaire
+one,corrective,]16-24],]1-2],]16-24],True,False,True,False,Panne chauff ind
+one,corrective,]1-2],]0-1],]2-4],True,False,True,False,Panne Robinetterie
+one,corrective,0,0,0,False,True,False,False,Panne chauff ind
+one,corrective,]72--[,]0-1],]72--[,True,False,True,False,Panne Solaire Thermique autres interventions
+one,corrective,]72--[,]1-2],]72--[,True,False,True,True,Panne Robinetterie
+one,corrective,]72--[,]72--[,]72--[,True,True,True,False,Panne Robinetterie
+one,preventive,0,0,0,False,True,False,False,Visite entretien ventilation coll
+three,corrective,]72--[,]2-4],]72--[,True,False,True,True,Panne chauff ind
+one,corrective,0,0,0,True,True,True,False,Panne VMC gaz
+one,corrective,]72--[,]0-1],]72--[,True,False,True,False,Panne Production ECS
+three,corrective,]72--[,]0-1],]72--[,True,False,True,True,Panne chauff ind
+one,corrective,]72--[,]0-1],]72--[,True,True,True,True,Panne Robinetterie
+one,corrective,]72--[,]0-1],]72--[,True,False,True,True,Panne chauff ind
+one,corrective,]72--[,]4-16],]72--[,True,False,True,False,Entretien pompes à chaleur
+one,preventive,0,]0-1],]0-1],False,False,False,False,Visite entretien ventilation ind
+one,corrective,]1-2],]0-1],]2-4],True,False,True,False,Panne chauff ind
+five,corrective,]72--[,]0-1],]72--[,True,False,True,False,Panne Robinetterie
+one,corrective,0,0,0,True,True,True,True,Panne VMC sanitaire
+five,corrective,]24-48],]1-2],]24-48],True,False,True,False,Panne chauff ind
+three,corrective,]24-48],]0-1],]24-48],True,False,True,True,Panne chauff ind
+one,corrective,]72--[,]0-1],]72--[,True,True,True,True,Panne chauff ind
+three,corrective,]72--[,]1-2],]72--[,True,False,True,False,Panne chauff ind
+five,corrective,0,0,0,True,True,True,True,Panne chauff ind
+one,corrective,]24-48],]1-2],]24-48],True,False,True,True,Panne chauff ind
+five,corrective,]72--[,]1-2],]72--[,True,False,True,False,Panne Robinetterie
+one,corrective,]48-72],]1-2],]48-72],True,False,True,False,Panne Robinetterie
+one,corrective,]72--[,]2-4],]72--[,True,False,True,True,Panne chauff ind
+one,corrective,0,]0-1],]0-1],False,False,False,True,Panne Robinetterie
+one,corrective,0,]1-2],]1-2],True,False,True,False,Panne Robinetterie
+one,corrective,]24-48],]1-2],]24-48],True,False,True,False,Panne chauff ind
+five,corrective,]72--[,]0-1],]72--[,True,False,True,False,Panne chauff ind
+three,corrective,]24-48],]0-1],]24-48],True,False,True,False,Panne chauff ind
+one,corrective,0,]2-4],]2-4],True,False,True,False,Panne chauff ind
+one,corrective,]24-48],]1-2],]48-72],True,False,True,False,Panne Robinetterie
+one,corrective,]24-48],]0-1],]48-72],True,False,True,False,Panne Robinetterie
+one,corrective,]72--[,]0-1],]72--[,True,False,True,False,Panne Electrique
+one,corrective,0,]0-1],]0-1],False,False,False,False,Panne VMC sanitaire
+one,preventive,0,]0-1],]0-1],False,False,False,False,Visite entretien robinetterie
+one,corrective,]2-4],]0-1],]2-4],True,False,True,False,Panne VMC gaz
+one,corrective,0,]1-2],]1-2],False,False,False,False,Panne Robinetterie
+one,corrective,]48-72],]1-2],]72--[,True,False,True,False,Panne VMC sanitaire
+one,preventive,0,]0-1],]0-1],False,False,False,False,Visite entretien convecteur
+five,corrective,]16-24],]0-1],]24-48],True,False,True,False,Panne Robinetterie
+one,corrective,]72--[,]2-4],]72--[,True,False,True,False,Entretien pompes à chaleur
+three,corrective,]72--[,]0-1],]72--[,True,False,True,False,Panne Robinetterie
+one,corrective,]72--[,]2-4],]72--[,True,False,True,False,Panne VMC sanitaire
+five,corrective,]0-1],]0-1],]1-2],True,False,True,False,Panne chauff ind
+one,corrective,]4-16],]0-1],]4-16],True,True,True,False,Panne chauff ind
+one,preventive,0,]1-2],]1-2],False,False,False,False,Visite entretien robinetterie
+three,corrective,]72--[,]72--[,]72--[,True,False,True,True,Panne chauff ind
+one,corrective,]1-2],]0-1],]1-2],True,False,True,False,Panne Robinetterie
+one,corrective,]24-48],]0-1],]48-72],True,False,True,False,Panne chauff ind
+five,corrective,]0-1],]0-1],]1-2],True,False,True,False,Panne Robinetterie
+five,corrective,]4-16],]1-2],]4-16],True,False,True,False,Panne Robinetterie
+one,preventive,0,]0-1],]0-1],False,False,False,False,Visite entretien ECS
+one,preventive,0,]2-4],]2-4],False,False,False,False,Visite entretien ventilation ind
+one,corrective,]48-72],]0-1],]72--[,True,False,True,False,Panne Robinetterie

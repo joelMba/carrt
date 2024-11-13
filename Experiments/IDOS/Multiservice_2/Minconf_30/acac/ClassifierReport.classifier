@@ -1,0 +1,302 @@
+Leak=True => PanneRobinetterie
+criticalLevel=minus-one => PanneRobinetterie
+criticalLevel=zero => Pannechauffind
+workType=corrective => Pannechauffind
+workType=none => PanneRobinetterie
+workType=preventive => Visiteentretienconvecteur
+responseTime=]16-24] => Fuited'eauurgencerÃ©elle
+planned=True => PanneRobinetterie
+replanned=True => PanneRobinetterie
+replanned=True => Pannechauffind
+postponed=True => PanneRobinetterie
+client_planned=True => PanneRobinetterie
+canceled=True => PanneRobinetterie
+canceled=True => Visiteentretienconvecteur
+partial_repair=True => PanneRobinetterie
+workType=preventive processingDuration=]0-1] => PanneVMCsanitaire
+workType=preventive planned=False => PanneVMCsanitaire
+Leak=False responseTime=]72--[ replanned=False => Visiteentretienconvecteur
+Leak=False resolutionDuration=]72--[ replanned=False => Visiteentretienconvecteur
+Leak=False workType=corrective processingDuration=]0-1] => Visiteentretienventilationind
+Leak=False workType=corrective planned=False => Visiteentretienventilationind
+Leak=False responseTime=]72--[ processingDuration=]0-1] => Visiteentretienventilationind
+Leak=False processingDuration=]0-1] resolutionDuration=]72--[ => Visiteentretienventilationind
+Leak=False processingDuration=]0-1] planned=False => Visiteentretienventilationind
+criticalLevel=minus-one processingDuration=]0-1] planned=True => Fuited'eauurgencerÃ©elle
+criticalLevel=minus-one processingDuration=]0-1] client_planned=False => Fuited'eauurgencerÃ©elle
+criticalLevel=minus-one planned=True replanned=False => Fuited'eauurgencerÃ©elle
+criticalLevel=minus-one replanned=False client_planned=False => Fuited'eauurgencerÃ©elle
+criticalLevel=minus-one workType=preventive canceled=False => PanneVMCsanitaire
+criticalLevel=minus-one workType=corrective responseTime=]72--[ => Visiteentretienventilationind
+criticalLevel=minus-one workType=corrective processingDuration=]0-1] => Visiteentretienventilationind
+criticalLevel=minus-one workType=corrective resolutionDuration=]72--[ => Visiteentretienventilationind
+criticalLevel=minus-one workType=corrective planned=False => Visiteentretienventilationind
+criticalLevel=minus-one workType=corrective replanned=False => Visiteentretienventilationind
+criticalLevel=minus-one workType=corrective postponed=False => Visiteentretienventilationind
+criticalLevel=minus-one workType=corrective client_planned=True => Visiteentretienventilationind
+criticalLevel=minus-one workType=corrective canceled=False => Visiteentretienventilationind
+criticalLevel=minus-one workType=corrective partial_repair=False => Visiteentretienventilationind
+criticalLevel=minus-one responseTime=]72--[ processingDuration=]0-1] => Visiteentretienventilationind
+criticalLevel=minus-one processingDuration=]0-1] resolutionDuration=]72--[ => Visiteentretienventilationind
+criticalLevel=minus-one processingDuration=]0-1] planned=False => Visiteentretienventilationind
+workType=corrective responseTime=]72--[ processingDuration=]0-1] => Visiteentretienventilationind
+workType=corrective responseTime=]72--[ planned=False => Visiteentretienventilationind
+workType=corrective responseTime=]72--[ replanned=False => Visiteentretienventilationind
+workType=corrective responseTime=]72--[ postponed=False => Visiteentretienventilationind
+workType=corrective responseTime=]72--[ partial_repair=False => Visiteentretienventilationind
+workType=corrective processingDuration=]0-1] resolutionDuration=]72--[ => Visiteentretienventilationind
+workType=corrective processingDuration=]0-1] planned=False => Visiteentretienventilationind
+workType=corrective processingDuration=]0-1] replanned=False => Visiteentretienventilationind
+workType=corrective processingDuration=]0-1] postponed=False => Visiteentretienventilationind
+workType=corrective processingDuration=]0-1] client_planned=True => Visiteentretienventilationind
+workType=corrective processingDuration=]0-1] missing_item=False => Visiteentretienventilationind
+workType=corrective processingDuration=]0-1] canceled=False => Visiteentretienventilationind
+workType=corrective processingDuration=]0-1] partial_repair=False => Visiteentretienventilationind
+workType=corrective resolutionDuration=]72--[ planned=False => Visiteentretienventilationind
+workType=corrective resolutionDuration=]72--[ replanned=False => Visiteentretienventilationind
+workType=corrective resolutionDuration=]72--[ postponed=False => Visiteentretienventilationind
+workType=corrective resolutionDuration=]72--[ partial_repair=False => Visiteentretienventilationind
+workType=corrective planned=False replanned=False => Visiteentretienventilationind
+workType=corrective planned=False postponed=False => Visiteentretienventilationind
+workType=corrective planned=False missing_item=False => Visiteentretienventilationind
+workType=corrective planned=False canceled=False => Visiteentretienventilationind
+workType=corrective planned=False partial_repair=False => Visiteentretienventilationind
+workType=corrective replanned=False client_planned=True => Visiteentretienventilationind
+workType=preventive replanned=False client_planned=True => PanneVMCsanitaire
+workType=preventive replanned=False canceled=False => PanneVMCsanitaire
+workType=preventive postponed=False client_planned=True => PanneVMCsanitaire
+workType=preventive postponed=False canceled=False => PanneVMCsanitaire
+workType=preventive client_planned=True missing_item=False => PanneVMCsanitaire
+workType=preventive client_planned=True canceled=False => PanneVMCsanitaire
+workType=preventive client_planned=True partial_repair=False => PanneVMCsanitaire
+workType=preventive missing_item=False canceled=False => PanneVMCsanitaire
+workType=preventive canceled=False partial_repair=False => PanneVMCsanitaire
+responseTime=]72--[ replanned=False client_planned=True => Visiteentretienconvecteur
+responseTime=]72--[ processingDuration=]0-1] planned=False => Visiteentretienventilationind
+responseTime=]72--[ processingDuration=]0-1] replanned=False => Visiteentretienventilationind
+responseTime=]72--[ processingDuration=]0-1] postponed=False => Visiteentretienventilationind
+responseTime=]72--[ processingDuration=]0-1] client_planned=True => Visiteentretienventilationind
+responseTime=]72--[ processingDuration=]0-1] missing_item=False => Visiteentretienventilationind
+responseTime=]72--[ processingDuration=]0-1] canceled=False => Visiteentretienventilationind
+responseTime=]72--[ processingDuration=]0-1] partial_repair=False => Visiteentretienventilationind
+responseTime=]72--[ planned=False replanned=False => Visiteentretienventilationind
+responseTime=]72--[ planned=False canceled=False => Visiteentretienventilationind
+responseTime=]72--[ replanned=False canceled=False => Visiteentretienventilationind
+processingDuration=]0-1] planned=True replanned=False => Fuited'eauurgencerÃ©elle
+processingDuration=]0-1] planned=True postponed=False => Fuited'eauurgencerÃ©elle
+processingDuration=]0-1] planned=True partial_repair=False => Fuited'eauurgencerÃ©elle
+processingDuration=]0-1] replanned=False client_planned=False => Fuited'eauurgencerÃ©elle
+processingDuration=]0-1] postponed=False client_planned=False => Fuited'eauurgencerÃ©elle
+processingDuration=]0-1] client_planned=False partial_repair=False => Fuited'eauurgencerÃ©elle
+processingDuration=]0-1] resolutionDuration=]72--[ planned=False => Visiteentretienventilationind
+processingDuration=]0-1] resolutionDuration=]72--[ replanned=False => Visiteentretienventilationind
+processingDuration=]0-1] resolutionDuration=]72--[ postponed=False => Visiteentretienventilationind
+processingDuration=]0-1] resolutionDuration=]72--[ client_planned=True => Visiteentretienventilationind
+processingDuration=]0-1] resolutionDuration=]72--[ missing_item=False => Visiteentretienventilationind
+processingDuration=]0-1] resolutionDuration=]72--[ canceled=False => Visiteentretienventilationind
+processingDuration=]0-1] resolutionDuration=]72--[ partial_repair=False => Visiteentretienventilationind
+processingDuration=]0-1] planned=False canceled=False => Visiteentretienventilationind
+processingDuration=]0-1] planned=False partial_repair=False => Visiteentretienventilationind
+resolutionDuration=]72--[ replanned=False client_planned=True => Visiteentretienconvecteur
+resolutionDuration=]72--[ planned=False replanned=False => Visiteentretienventilationind
+resolutionDuration=]72--[ planned=False canceled=False => Visiteentretienventilationind
+resolutionDuration=]72--[ replanned=False canceled=False => Visiteentretienventilationind
+Leak=False criticalLevel=minus-one responseTime=]72--[ replanned=False => Visiteentretienconvecteur
+Leak=False criticalLevel=minus-one responseTime=]72--[ client_planned=True => Visiteentretienconvecteur
+Leak=False criticalLevel=minus-one resolutionDuration=]72--[ replanned=False => Visiteentretienconvecteur
+Leak=False criticalLevel=minus-one resolutionDuration=]72--[ client_planned=True => Visiteentretienconvecteur
+Leak=False criticalLevel=minus-one replanned=False client_planned=True => Visiteentretienconvecteur
+Leak=False responseTime=]72--[ postponed=False client_planned=True => Visiteentretienconvecteur
+Leak=False responseTime=]72--[ client_planned=True partial_repair=False => Visiteentretienconvecteur
+Leak=False resolutionDuration=]72--[ postponed=False client_planned=True => Visiteentretienconvecteur
+Leak=False resolutionDuration=]72--[ client_planned=True partial_repair=False => Visiteentretienconvecteur
+Leak=False criticalLevel=minus-one workType=corrective missing_item=False => Visiteentretienventilationind
+Leak=False criticalLevel=minus-one responseTime=]72--[ planned=False => Visiteentretienventilationind
+Leak=False criticalLevel=minus-one responseTime=]72--[ canceled=False => Visiteentretienventilationind
+Leak=False criticalLevel=minus-one processingDuration=]0-1] client_planned=True => Visiteentretienventilationind
+Leak=False criticalLevel=minus-one processingDuration=]0-1] canceled=False => Visiteentretienventilationind
+Leak=False criticalLevel=minus-one processingDuration=]0-1] partial_repair=False => Visiteentretienventilationind
+Leak=False criticalLevel=minus-one resolutionDuration=]72--[ planned=False => Visiteentretienventilationind
+Leak=False criticalLevel=minus-one resolutionDuration=]72--[ canceled=False => Visiteentretienventilationind
+Leak=False criticalLevel=minus-one planned=False canceled=False => Visiteentretienventilationind
+Leak=False workType=corrective responseTime=]72--[ client_planned=True => Visiteentretienventilationind
+Leak=False workType=corrective responseTime=]72--[ missing_item=False => Visiteentretienventilationind
+Leak=False workType=corrective responseTime=]72--[ canceled=False => Visiteentretienventilationind
+Leak=False workType=corrective resolutionDuration=]72--[ client_planned=True => Visiteentretienventilationind
+Leak=False workType=corrective resolutionDuration=]72--[ missing_item=False => Visiteentretienventilationind
+Leak=False workType=corrective resolutionDuration=]72--[ canceled=False => Visiteentretienventilationind
+Leak=False workType=corrective postponed=False client_planned=True => Visiteentretienventilationind
+Leak=False workType=corrective client_planned=True canceled=False => Visiteentretienventilationind
+Leak=False workType=corrective client_planned=True partial_repair=False => Visiteentretienventilationind
+Leak=False responseTime=]72--[ planned=False replanned=False => Visiteentretienventilationind
+Leak=False responseTime=]72--[ planned=False canceled=False => Visiteentretienventilationind
+Leak=False responseTime=]72--[ replanned=False client_planned=True => Visiteentretienventilationind
+Leak=False responseTime=]72--[ replanned=False canceled=False => Visiteentretienventilationind
+Leak=False responseTime=]72--[ client_planned=True canceled=False => Visiteentretienventilationind
+Leak=False processingDuration=]0-1] replanned=False client_planned=True => Visiteentretienventilationind
+Leak=False processingDuration=]0-1] postponed=False client_planned=True => Visiteentretienventilationind
+Leak=False processingDuration=]0-1] client_planned=True missing_item=False => Visiteentretienventilationind
+Leak=False processingDuration=]0-1] client_planned=True canceled=False => Visiteentretienventilationind
+Leak=False processingDuration=]0-1] client_planned=True partial_repair=False => Visiteentretienventilationind
+Leak=False resolutionDuration=]72--[ planned=False replanned=False => Visiteentretienventilationind
+Leak=False resolutionDuration=]72--[ planned=False canceled=False => Visiteentretienventilationind
+Leak=False resolutionDuration=]72--[ replanned=False client_planned=True => Visiteentretienventilationind
+Leak=False resolutionDuration=]72--[ replanned=False canceled=False => Visiteentretienventilationind
+Leak=False resolutionDuration=]72--[ client_planned=True canceled=False => Visiteentretienventilationind
+Leak=False planned=False replanned=False canceled=False => Visiteentretienventilationind
+Leak=False planned=False canceled=False partial_repair=False => Visiteentretienventilationind
+Leak=False replanned=False client_planned=True canceled=False => Visiteentretienventilationind
+criticalLevel=minus-one planned=True postponed=False canceled=False => Fuited'eauurgencerÃ©elle
+criticalLevel=minus-one planned=True missing_item=False canceled=False => Fuited'eauurgencerÃ©elle
+criticalLevel=minus-one planned=True canceled=False partial_repair=False => Fuited'eauurgencerÃ©elle
+criticalLevel=minus-one postponed=False client_planned=False canceled=False => Fuited'eauurgencerÃ©elle
+criticalLevel=minus-one client_planned=False missing_item=False canceled=False => Fuited'eauurgencerÃ©elle
+criticalLevel=minus-one client_planned=False canceled=False partial_repair=False => Fuited'eauurgencerÃ©elle
+criticalLevel=minus-one processingDuration=]0-1] client_planned=True partial_repair=False => PanneVMCsanitaire
+criticalLevel=minus-one responseTime=]72--[ replanned=False postponed=False => Visiteentretienconvecteur
+criticalLevel=minus-one responseTime=]72--[ replanned=False client_planned=True => Visiteentretienconvecteur
+criticalLevel=minus-one responseTime=]72--[ replanned=False partial_repair=False => Visiteentretienconvecteur
+criticalLevel=minus-one responseTime=]72--[ postponed=False client_planned=True => Visiteentretienconvecteur
+criticalLevel=minus-one responseTime=]72--[ client_planned=True partial_repair=False => Visiteentretienconvecteur
+criticalLevel=minus-one resolutionDuration=]72--[ replanned=False postponed=False => Visiteentretienconvecteur
+criticalLevel=minus-one resolutionDuration=]72--[ replanned=False client_planned=True => Visiteentretienconvecteur
+criticalLevel=minus-one resolutionDuration=]72--[ replanned=False partial_repair=False => Visiteentretienconvecteur
+criticalLevel=minus-one resolutionDuration=]72--[ postponed=False client_planned=True => Visiteentretienconvecteur
+criticalLevel=minus-one responseTime=]72--[ planned=False replanned=False => Visiteentretienventilationind
+criticalLevel=minus-one responseTime=]72--[ planned=False postponed=False => Visiteentretienventilationind
+criticalLevel=minus-one responseTime=]72--[ planned=False canceled=False => Visiteentretienventilationind
+criticalLevel=minus-one responseTime=]72--[ replanned=False client_planned=True => Visiteentretienventilationind
+criticalLevel=minus-one responseTime=]72--[ replanned=False canceled=False => Visiteentretienventilationind
+criticalLevel=minus-one responseTime=]72--[ postponed=False canceled=False => Visiteentretienventilationind
+criticalLevel=minus-one responseTime=]72--[ client_planned=True canceled=False => Visiteentretienventilationind
+criticalLevel=minus-one resolutionDuration=]72--[ planned=False replanned=False => Visiteentretienventilationind
+criticalLevel=minus-one resolutionDuration=]72--[ planned=False postponed=False => Visiteentretienventilationind
+criticalLevel=minus-one resolutionDuration=]72--[ planned=False canceled=False => Visiteentretienventilationind
+criticalLevel=minus-one resolutionDuration=]72--[ replanned=False client_planned=True => Visiteentretienventilationind
+criticalLevel=minus-one resolutionDuration=]72--[ replanned=False canceled=False => Visiteentretienventilationind
+criticalLevel=minus-one resolutionDuration=]72--[ client_planned=True canceled=False => Visiteentretienventilationind
+criticalLevel=minus-one planned=False replanned=False canceled=False => Visiteentretienventilationind
+criticalLevel=minus-one planned=False postponed=False canceled=False => Visiteentretienventilationind
+criticalLevel=minus-one planned=False canceled=False partial_repair=False => Visiteentretienventilationind
+workType=corrective responseTime=]72--[ client_planned=True missing_item=False => Visiteentretienventilationind
+workType=corrective responseTime=]72--[ client_planned=True canceled=False => Visiteentretienventilationind
+workType=corrective responseTime=]72--[ missing_item=False canceled=False => Visiteentretienventilationind
+workType=corrective resolutionDuration=]72--[ client_planned=True missing_item=False => Visiteentretienventilationind
+workType=corrective resolutionDuration=]72--[ client_planned=True canceled=False => Visiteentretienventilationind
+workType=corrective resolutionDuration=]72--[ missing_item=False canceled=False => Visiteentretienventilationind
+workType=corrective postponed=False client_planned=True missing_item=False => Visiteentretienventilationind
+workType=corrective postponed=False client_planned=True canceled=False => Visiteentretienventilationind
+workType=corrective postponed=False client_planned=True partial_repair=False => Visiteentretienventilationind
+workType=corrective client_planned=True missing_item=False canceled=False => Visiteentretienventilationind
+workType=corrective client_planned=True canceled=False partial_repair=False => Visiteentretienventilationind
+responseTime=]72--[ resolutionDuration=]72--[ replanned=False client_planned=True => Visiteentretienconvecteur
+responseTime=]72--[ planned=False replanned=False client_planned=True => Visiteentretienconvecteur
+responseTime=]72--[ replanned=False postponed=False partial_repair=False => Visiteentretienconvecteur
+responseTime=]72--[ resolutionDuration=]72--[ planned=False replanned=False => Visiteentretienventilationind
+responseTime=]72--[ resolutionDuration=]72--[ planned=False canceled=False => Visiteentretienventilationind
+responseTime=]72--[ resolutionDuration=]72--[ replanned=False canceled=False => Visiteentretienventilationind
+responseTime=]72--[ replanned=False postponed=False client_planned=True => Visiteentretienventilationind
+responseTime=]72--[ client_planned=True canceled=False partial_repair=False => Visiteentretienventilationind
+processingDuration=]0-1] planned=True client_planned=False canceled=False => Fuited'eauurgencerÃ©elle
+processingDuration=]0-1] planned=True missing_item=False canceled=False => Fuited'eauurgencerÃ©elle
+processingDuration=]0-1] client_planned=False missing_item=False canceled=False => Fuited'eauurgencerÃ©elle
+processingDuration=]0-1] planned=False replanned=False postponed=False => Visiteentretienventilationind
+processingDuration=]0-1] planned=False postponed=False missing_item=False => Visiteentretienventilationind
+resolutionDuration=]72--[ planned=False replanned=False client_planned=True => Visiteentretienconvecteur
+resolutionDuration=]72--[ replanned=False postponed=False partial_repair=False => Visiteentretienconvecteur
+resolutionDuration=]72--[ replanned=False postponed=False client_planned=True => Visiteentretienventilationind
+resolutionDuration=]72--[ client_planned=True canceled=False partial_repair=False => Visiteentretienventilationind
+planned=True replanned=False canceled=False partial_repair=False => Fuited'eauurgencerÃ©elle
+replanned=False client_planned=False canceled=False partial_repair=False => Fuited'eauurgencerÃ©elle
+Leak=False criticalLevel=minus-one responseTime=]72--[ postponed=False missing_item=False => Visiteentretienconvecteur
+Leak=False criticalLevel=minus-one responseTime=]72--[ postponed=False partial_repair=False => Visiteentretienconvecteur
+Leak=False criticalLevel=minus-one resolutionDuration=]72--[ postponed=False missing_item=False => Visiteentretienconvecteur
+Leak=False criticalLevel=minus-one resolutionDuration=]72--[ postponed=False partial_repair=False => Visiteentretienconvecteur
+Leak=False criticalLevel=minus-one planned=False replanned=False client_planned=True => Visiteentretienconvecteur
+Leak=False criticalLevel=minus-one postponed=False client_planned=True missing_item=False => Visiteentretienconvecteur
+Leak=False criticalLevel=minus-one postponed=False client_planned=True partial_repair=False => Visiteentretienconvecteur
+Leak=False responseTime=]72--[ resolutionDuration=]72--[ postponed=False client_planned=True => Visiteentretienconvecteur
+Leak=False responseTime=]72--[ resolutionDuration=]72--[ client_planned=True partial_repair=False => Visiteentretienconvecteur
+Leak=False responseTime=]72--[ planned=False postponed=False client_planned=True => Visiteentretienconvecteur
+Leak=False responseTime=]72--[ planned=False client_planned=True partial_repair=False => Visiteentretienconvecteur
+Leak=False resolutionDuration=]72--[ planned=False postponed=False client_planned=True => Visiteentretienconvecteur
+Leak=False resolutionDuration=]72--[ planned=False client_planned=True partial_repair=False => Visiteentretienconvecteur
+Leak=False criticalLevel=minus-one processingDuration=]0-1] postponed=False missing_item=False => Visiteentretienventilationind
+Leak=False criticalLevel=minus-one planned=False replanned=False postponed=False => Visiteentretienventilationind
+Leak=False criticalLevel=minus-one planned=False replanned=False partial_repair=False => Visiteentretienventilationind
+Leak=False criticalLevel=minus-one planned=False postponed=False partial_repair=False => Visiteentretienventilationind
+Leak=False criticalLevel=minus-one postponed=False client_planned=True canceled=False => Visiteentretienventilationind
+Leak=False criticalLevel=minus-one client_planned=True missing_item=False canceled=False => Visiteentretienventilationind
+Leak=False criticalLevel=minus-one client_planned=True canceled=False partial_repair=False => Visiteentretienventilationind
+Leak=False responseTime=]72--[ planned=False postponed=False missing_item=False => Visiteentretienventilationind
+Leak=False responseTime=]72--[ planned=False postponed=False partial_repair=False => Visiteentretienventilationind
+Leak=False responseTime=]72--[ postponed=False missing_item=False canceled=False => Visiteentretienventilationind
+Leak=False responseTime=]72--[ postponed=False canceled=False partial_repair=False => Visiteentretienventilationind
+Leak=False processingDuration=]0-1] postponed=False canceled=False partial_repair=False => Visiteentretienventilationind
+Leak=False resolutionDuration=]72--[ planned=False postponed=False missing_item=False => Visiteentretienventilationind
+Leak=False resolutionDuration=]72--[ planned=False postponed=False partial_repair=False => Visiteentretienventilationind
+Leak=False resolutionDuration=]72--[ postponed=False missing_item=False canceled=False => Visiteentretienventilationind
+Leak=False resolutionDuration=]72--[ postponed=False canceled=False partial_repair=False => Visiteentretienventilationind
+Leak=False planned=False postponed=False missing_item=False canceled=False => Visiteentretienventilationind
+Leak=False postponed=False client_planned=True canceled=False partial_repair=False => Visiteentretienventilationind
+criticalLevel=minus-one processingDuration=]0-1] planned=False client_planned=True partial_repair=False => PanneVMCsanitaire
+criticalLevel=minus-one processingDuration=]0-1] replanned=False client_planned=True canceled=False => PanneVMCsanitaire
+criticalLevel=minus-one processingDuration=]0-1] replanned=False client_planned=True partial_repair=False => PanneVMCsanitaire
+criticalLevel=minus-one processingDuration=]0-1] postponed=False client_planned=True partial_repair=False => PanneVMCsanitaire
+criticalLevel=minus-one processingDuration=]0-1] client_planned=True missing_item=False canceled=False => PanneVMCsanitaire
+criticalLevel=minus-one responseTime=]72--[ resolutionDuration=]72--[ replanned=False postponed=False => Visiteentretienconvecteur
+criticalLevel=minus-one responseTime=]72--[ resolutionDuration=]72--[ replanned=False partial_repair=False => Visiteentretienconvecteur
+criticalLevel=minus-one responseTime=]72--[ resolutionDuration=]72--[ postponed=False client_planned=True => Visiteentretienconvecteur
+criticalLevel=minus-one responseTime=]72--[ resolutionDuration=]72--[ client_planned=True partial_repair=False => Visiteentretienconvecteur
+criticalLevel=minus-one responseTime=]72--[ planned=False replanned=False postponed=False => Visiteentretienconvecteur
+criticalLevel=minus-one responseTime=]72--[ planned=False postponed=False client_planned=True => Visiteentretienconvecteur
+criticalLevel=minus-one responseTime=]72--[ planned=False client_planned=True partial_repair=False => Visiteentretienconvecteur
+criticalLevel=minus-one resolutionDuration=]72--[ planned=False replanned=False postponed=False => Visiteentretienconvecteur
+criticalLevel=minus-one resolutionDuration=]72--[ planned=False postponed=False client_planned=True => Visiteentretienconvecteur
+criticalLevel=minus-one responseTime=]72--[ resolutionDuration=]72--[ planned=False replanned=False => Visiteentretienventilationind
+criticalLevel=minus-one responseTime=]72--[ resolutionDuration=]72--[ planned=False postponed=False => Visiteentretienventilationind
+criticalLevel=minus-one responseTime=]72--[ resolutionDuration=]72--[ replanned=False canceled=False => Visiteentretienventilationind
+criticalLevel=minus-one responseTime=]72--[ resolutionDuration=]72--[ postponed=False canceled=False => Visiteentretienventilationind
+criticalLevel=minus-one processingDuration=]0-1] replanned=False client_planned=True canceled=False => Visiteentretienventilationind
+criticalLevel=minus-one processingDuration=]0-1] replanned=False client_planned=True partial_repair=False => Visiteentretienventilationind
+criticalLevel=minus-one processingDuration=]0-1] postponed=False client_planned=True canceled=False => Visiteentretienventilationind
+criticalLevel=minus-one processingDuration=]0-1] postponed=False client_planned=True partial_repair=False => Visiteentretienventilationind
+criticalLevel=minus-one processingDuration=]0-1] client_planned=True missing_item=False canceled=False => Visiteentretienventilationind
+criticalLevel=minus-one processingDuration=]0-1] client_planned=True canceled=False partial_repair=False => Visiteentretienventilationind
+criticalLevel=minus-one resolutionDuration=]72--[ postponed=False missing_item=False canceled=False => Visiteentretienventilationind
+criticalLevel=minus-one resolutionDuration=]72--[ postponed=False canceled=False partial_repair=False => Visiteentretienventilationind
+criticalLevel=minus-one planned=False missing_item=False canceled=False partial_repair=False => Visiteentretienventilationind
+workType=corrective replanned=False postponed=False canceled=False partial_repair=False => Visiteentretienventilationind
+responseTime=]72--[ resolutionDuration=]72--[ replanned=False postponed=False partial_repair=False => Visiteentretienconvecteur
+responseTime=]72--[ postponed=False client_planned=True missing_item=False canceled=False => Visiteentretienventilationind
+processingDuration=]0-1] replanned=False client_planned=True canceled=False partial_repair=False => PanneVMCsanitaire
+processingDuration=]0-1] replanned=False postponed=False client_planned=True canceled=False => Visiteentretienventilationind
+processingDuration=]0-1] replanned=False client_planned=True canceled=False partial_repair=False => Visiteentretienventilationind
+processingDuration=]0-1] postponed=False client_planned=True canceled=False partial_repair=False => Visiteentretienventilationind
+resolutionDuration=]72--[ postponed=False client_planned=True missing_item=False canceled=False => Visiteentretienventilationind
+planned=False replanned=False postponed=False canceled=False partial_repair=False => Visiteentretienventilationind
+planned=True replanned=False postponed=False client_planned=False canceled=False => Fuited'eauurgencerÃ©elle
+Leak=False criticalLevel=minus-one responseTime=]72--[ resolutionDuration=]72--[ postponed=False missing_item=False => Visiteentretienconvecteur
+Leak=False criticalLevel=minus-one responseTime=]72--[ resolutionDuration=]72--[ postponed=False partial_repair=False => Visiteentretienconvecteur
+Leak=False criticalLevel=minus-one planned=False postponed=False client_planned=True missing_item=False => Visiteentretienconvecteur
+Leak=False criticalLevel=minus-one planned=False postponed=False client_planned=True partial_repair=False => Visiteentretienconvecteur
+Leak=False responseTime=]72--[ resolutionDuration=]72--[ planned=False postponed=False client_planned=True => Visiteentretienconvecteur
+Leak=False responseTime=]72--[ resolutionDuration=]72--[ planned=False client_planned=True partial_repair=False => Visiteentretienconvecteur
+Leak=False planned=False replanned=False postponed=False client_planned=True partial_repair=False => Visiteentretienconvecteur
+Leak=False criticalLevel=minus-one responseTime=]72--[ replanned=False postponed=False partial_repair=False => Visiteentretienventilationind
+Leak=False criticalLevel=minus-one responseTime=]72--[ postponed=False client_planned=True missing_item=False => Visiteentretienventilationind
+Leak=False criticalLevel=minus-one responseTime=]72--[ postponed=False client_planned=True partial_repair=False => Visiteentretienventilationind
+Leak=False criticalLevel=minus-one resolutionDuration=]72--[ postponed=False client_planned=True missing_item=False => Visiteentretienventilationind
+Leak=False criticalLevel=minus-one resolutionDuration=]72--[ postponed=False client_planned=True partial_repair=False => Visiteentretienventilationind
+Leak=False responseTime=]72--[ resolutionDuration=]72--[ planned=False postponed=False missing_item=False => Visiteentretienventilationind
+Leak=False responseTime=]72--[ resolutionDuration=]72--[ planned=False postponed=False partial_repair=False => Visiteentretienventilationind
+Leak=False processingDuration=]0-1] postponed=False missing_item=False canceled=False partial_repair=False => Visiteentretienventilationind
+criticalLevel=minus-one processingDuration=]0-1] replanned=False postponed=False canceled=False partial_repair=False => Fuited'eauurgencerÃ©elle
+criticalLevel=minus-one processingDuration=]0-1] planned=False replanned=False canceled=False partial_repair=False => PanneVMCsanitaire
+criticalLevel=minus-one processingDuration=]0-1] planned=False postponed=False client_planned=True canceled=False => PanneVMCsanitaire
+criticalLevel=minus-one responseTime=]72--[ resolutionDuration=]72--[ planned=False client_planned=True partial_repair=False => Visiteentretienconvecteur
+criticalLevel=minus-one replanned=False postponed=False client_planned=True canceled=False partial_repair=False => Visiteentretienventilationind
+processingDuration=]0-1] postponed=False client_planned=True missing_item=False canceled=False partial_repair=False => Visiteentretienventilationind
+planned=False replanned=False postponed=False missing_item=False canceled=False partial_repair=False => Visiteentretienventilationind
+criticalLevel=minus-one processingDuration=]0-1] replanned=False postponed=False missing_item=False canceled=False partial_repair=False => Fuited'eauurgencerÃ©elle
+criticalLevel=minus-one replanned=False postponed=False client_planned=True missing_item=False canceled=False partial_repair=False => Visiteentretienventilationind

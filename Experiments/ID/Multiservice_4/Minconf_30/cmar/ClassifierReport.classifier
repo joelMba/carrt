@@ -1,0 +1,28 @@
+requested=True canceled=False => Pannechauffind
+workType=corrective requested=True canceled=False => Pannechauffind
+planned=True canceled=False => Pannechauffind
+planned=True requested=True canceled=False => Pannechauffind
+workType=corrective planned=True requested=True canceled=False => Pannechauffind
+criticalLevel=one workType=corrective processingDuration=]0-1] occupant_absent=False requested=True canceled=False => PanneRobinetterie
+criticalLevel=one workType=corrective processingDuration=]0-1] planned=True requested=True canceled=False => PanneRobinetterie
+criticalLevel=one processingDuration=]0-1] planned=True occupant_absent=False requested=True canceled=False => PanneRobinetterie
+criticalLevel=one workType=corrective processingDuration=]0-1] planned=True occupant_absent=False requested=True canceled=False => PanneRobinetterie
+criticalLevel=one canceled=False => Pannechauffind
+criticalLevel=one planned=True occupant_absent=False requested=True canceled=False => PanneRobinetterie
+criticalLevel=one workType=corrective planned=True occupant_absent=False requested=True canceled=False => PanneRobinetterie
+criticalLevel=one occupant_absent=False requested=True canceled=False => PanneRobinetterie
+criticalLevel=one workType=corrective occupant_absent=False requested=True canceled=False => PanneRobinetterie
+criticalLevel=one planned=True requested=True canceled=False => PanneRobinetterie
+criticalLevel=one workType=corrective planned=True requested=True canceled=False => PanneRobinetterie
+criticalLevel=one requested=True canceled=False => PanneRobinetterie
+criticalLevel=one workType=corrective requested=True canceled=False => PanneRobinetterie
+workType=corrective processingDuration=]0-1] occupant_absent=False requested=True canceled=False => PanneRobinetterie
+workType=corrective processingDuration=]0-1] planned=True requested=True canceled=False => PanneRobinetterie
+criticalLevel=one workType=corrective processingDuration=]0-1] planned=True occupant_absent=False requested=True => PanneRobinetterie
+processingDuration=]0-1] planned=True occupant_absent=False requested=True canceled=False => PanneRobinetterie
+workType=corrective processingDuration=]0-1] planned=True occupant_absent=False requested=True canceled=False => PanneRobinetterie
+resolutionDuration=]72--[ planned=True occupant_absent=False requested=True => Pannechauffind
+workType=corrective resolutionDuration=]72--[ planned=True occupant_absent=False requested=True => Pannechauffind
+criticalLevel=one occupant_absent=False canceled=False => PanneRobinetterie
+criticalLevel=one responseTime=]72--[ resolutionDuration=]72--[ planned=True occupant_absent=False requested=True => Pannechauffind
+criticalLevel=one workType=corrective responseTime=]72--[ resolutionDuration=]72--[ planned=True occupant_absent=False requested=True => Pannechauffind

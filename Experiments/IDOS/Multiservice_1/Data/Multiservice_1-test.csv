@@ -1,0 +1,179 @@
+Boiler,Fan,Water,Leak,workType,responseTime,processingDuration,resolutionDuration,start,end,requested,missing_item,class
+False,False,False,True,corrective,]0-1],]0-1],]0-1],True,True,False,False,Panne chauffage
+False,True,False,False,corrective,]4-16],]0-1],]4-16],True,True,False,False,Panne caisson VMC
+True,True,False,False,preventive,]4-16],]1-2],]4-16],True,True,False,False,Visite entretien chauffage collectif
+False,False,False,False,corrective,0,0,0,False,False,True,False,Panne chauffage
+False,False,True,True,corrective,]0-1],]0-1],]1-2],True,True,False,True,Panne fuite d'eau
+False,False,False,False,corrective,]4-16],]0-1],]16-24],True,True,False,False,Panne fuite d'eau
+False,True,False,True,corrective,]0-1],]0-1],]0-1],True,True,False,False,Panne caisson VMC
+False,False,False,False,corrective,]72--[,]0-1],]72--[,True,True,True,False,Panne ECS
+False,True,False,False,preventive,0,]0-1],]72--[,True,True,False,False,Visite de contrôle/entretien
+False,False,False,False,corrective,]72--[,]1-2],]72--[,True,True,True,False,Panne fuite d'eau
+False,False,True,True,preventive,]0-1],]0-1],]1-2],True,True,False,False,Visite de contrôle/entretien
+False,False,False,False,preventive,0,0,0,False,False,False,False,Visite entretien chauffage collectif
+False,True,False,False,corrective,0,]2-4],]2-4],True,True,False,False,Panne chauffage
+False,True,True,True,preventive,0,]0-1],]1-2],True,True,False,False,Visite de contrôle/entretien
+False,False,True,True,corrective,]1-2],]1-2],]1-2],True,True,False,False,Panne fuite d'eau
+True,False,True,True,corrective,]1-2],]0-1],]2-4],True,True,True,False,Panne chauffage
+False,False,False,True,corrective,]0-1],]0-1],]1-2],True,True,True,False,Panne fuite d'eau
+True,False,False,True,corrective,]24-48],]2-4],]24-48],True,True,True,False,Panne chauffage
+False,False,False,True,corrective,0,0,0,False,False,True,False,Panne fuite d'eau
+False,False,False,False,corrective,]0-1],]1-2],]1-2],True,True,True,False,Panne chauffage
+False,False,True,True,corrective,]0-1],]0-1],]0-1],True,True,False,False,Panne ECS
+False,False,True,True,preventive,]0-1],]0-1],]1-2],True,True,False,False,Visite de contrôle/entretien
+False,False,True,True,corrective,]1-2],]1-2],]1-2],True,True,False,False,Panne fuite d'eau
+False,False,False,False,corrective,]72--[,]0-1],]72--[,True,True,True,False,Pannes diverses
+False,True,False,False,preventive,]72--[,]0-1],]72--[,True,True,True,False,Visite entretien ventilation coll
+False,True,True,False,corrective,]72--[,]0-1],]72--[,True,True,False,False,Panne fuite d'eau
+False,False,True,True,preventive,]24-48],]1-2],]1-2],True,True,False,False,Visite entretien chauffage collectif
+True,True,False,True,corrective,]24-48],]0-1],]24-48],True,True,True,False,Panne caisson VMC
+False,True,False,False,preventive,]72--[,]0-1],]72--[,True,True,True,False,Visite entretien ventilation coll
+True,False,False,False,corrective,]24-48],]1-2],]24-48],True,True,False,False,Panne chauffage
+False,False,False,True,corrective,0,]1-2],]1-2],True,True,False,False,Panne fuite d'eau
+False,False,True,True,corrective,]72--[,]4-16],]72--[,True,True,True,False,Panne ECS
+False,False,False,False,corrective,]72--[,]0-1],]72--[,True,True,True,False,Pannes diverses
+False,True,False,False,preventive,0,]0-1],]72--[,True,True,False,False,Visite de contrôle/entretien
+False,False,False,False,corrective,]1-2],]1-2],]2-4],True,True,True,False,Panne chauffage
+False,False,False,False,corrective,]72--[,]1-2],]72--[,True,True,False,True,Panne chauffage
+False,False,False,False,corrective,]72--[,]0-1],]72--[,True,True,True,False,Pannes diverses
+True,False,False,True,preventive,]1-2],]0-1],]2-4],True,True,False,False,Visite entretien chauffage collectif
+False,True,True,False,preventive,0,]0-1],]1-2],True,True,False,False,Visite de contrôle/entretien
+False,True,True,True,corrective,]72--[,]0-1],]72--[,True,True,False,False,Panne ECS
+True,False,True,False,corrective,]48-72],]0-1],]48-72],True,True,True,False,Panne chauffage
+False,True,False,False,preventive,]72--[,]0-1],]72--[,True,True,True,False,Visite entretien ventilation coll
+False,True,False,False,preventive,]0-1],]0-1],]0-1],True,True,False,False,Visite entretien chauffage collectif
+False,True,False,True,corrective,]4-16],]0-1],]4-16],True,True,True,False,Panne caisson VMC
+False,False,True,True,preventive,]0-1],]1-2],]1-2],True,True,False,False,Visite entretien chauffage collectif
+False,False,True,True,corrective,]48-72],]0-1],]48-72],True,True,False,False,Panne chauffage
+False,False,True,True,corrective,0,]0-1],]1-2],True,True,False,False,Panne ECS
+True,False,True,True,corrective,0,]2-4],]2-4],True,True,False,False,Panne fuite d'eau
+False,True,True,True,corrective,]48-72],]0-1],]48-72],True,True,True,False,Panne caisson VMC
+False,False,True,True,preventive,]0-1],]0-1],]1-2],True,True,False,False,Visite de contrôle/entretien
+True,False,True,False,corrective,]16-24],]4-16],]24-48],True,True,True,False,Panne chauffage
+False,False,True,True,corrective,0,0,0,False,False,True,False,Panne chauffage
+False,False,True,True,corrective,]1-2],]1-2],]2-4],True,True,False,False,Panne fuite d'eau
+False,False,True,True,corrective,0,]0-1],]0-1],True,True,False,False,Panne ECS
+False,False,True,True,corrective,]24-48],]0-1],]24-48],True,True,True,False,Panne ECS
+False,False,True,True,corrective,0,]2-4],]2-4],True,True,False,True,Panne chauffage
+True,False,True,True,corrective,]48-72],]1-2],]48-72],True,True,True,False,Panne chauffage
+False,True,False,False,preventive,]72--[,]0-1],]72--[,True,True,True,False,Visite entretien ventilation coll
+True,False,True,False,corrective,]24-48],]1-2],]24-48],True,True,True,False,Panne chauffage
+False,False,True,True,corrective,0,]1-2],]1-2],True,True,False,False,Panne caisson VMC
+False,False,False,False,preventive,]72--[,]1-2],]72--[,True,True,False,True,Visite entretien chauffage collectif
+False,False,True,False,preventive,]0-1],]1-2],]2-4],True,True,False,True,Visite entretien chauffage collectif
+False,False,True,True,preventive,]0-1],]1-2],]1-2],True,True,False,False,Visite de contrôle/entretien
+True,False,True,True,corrective,]48-72],]0-1],]48-72],True,True,False,False,Panne fuite d'eau
+False,False,True,True,corrective,]72--[,]1-2],]72--[,True,True,False,False,Panne fuite d'eau
+False,False,False,True,corrective,]1-2],]2-4],]4-16],True,True,False,False,Panne fuite d'eau
+True,True,True,False,preventive,]72--[,]0-1],]72--[,True,True,True,False,Visite de contrôle/entretien
+False,False,True,True,corrective,]1-2],]0-1],]2-4],True,True,False,False,Panne fuite d'eau
+False,False,False,False,corrective,]72--[,]0-1],]72--[,True,True,True,False,Pannes diverses
+True,False,False,False,corrective,]1-2],]0-1],]2-4],True,True,False,False,Panne chauffage
+False,False,False,True,corrective,]48-72],]2-4],]72--[,True,True,True,False,Panne chauffage
+False,False,True,True,preventive,]24-48],]1-2],]24-48],True,True,False,False,Visite entretien chauffage collectif
+False,True,False,True,corrective,]0-1],]0-1],]0-1],True,True,False,False,Panne caisson VMC
+False,False,True,False,corrective,0,]1-2],]1-2],True,True,False,False,Panne chauffage
+False,False,True,True,preventive,0,]1-2],]1-2],True,True,False,False,Visite entretien chauffage collectif
+False,False,True,True,corrective,0,]0-1],]0-1],True,True,False,False,Panne ECS
+True,False,False,False,corrective,]0-1],]1-2],]1-2],True,True,False,True,Panne chauffage
+True,False,False,True,corrective,]24-48],]0-1],]24-48],True,True,True,False,Panne fuite d'eau
+False,False,False,False,corrective,]72--[,]0-1],]72--[,True,True,True,False,Pannes diverses
+False,False,False,False,corrective,]72--[,]0-1],]72--[,True,True,True,False,Panne chauffage
+False,True,False,False,preventive,]72--[,]0-1],]72--[,True,True,True,False,Visite entretien ventilation coll
+True,False,True,True,corrective,]4-16],]0-1],]4-16],True,True,False,False,Panne chauffage
+False,False,True,True,preventive,]24-48],]1-2],]1-2],True,True,False,False,Visite entretien chauffage collectif
+False,True,True,True,corrective,0,]0-1],]0-1],True,True,False,False,Panne caisson VMC
+True,False,False,False,preventive,]2-4],]1-2],]2-4],True,True,False,False,Visite entretien chauffage collectif
+False,False,False,False,corrective,0,]1-2],]1-2],True,True,False,False,Panne chauffage
+False,True,False,True,corrective,]4-16],]0-1],]4-16],True,True,True,False,Panne caisson VMC
+True,False,True,False,corrective,]2-4],]1-2],]2-4],True,True,False,False,Panne chauffage
+False,False,True,True,corrective,]1-2],]0-1],]1-2],True,True,False,True,Panne fuite d'eau
+False,False,False,False,corrective,]72--[,]0-1],]72--[,True,True,True,False,Pannes diverses
+False,False,True,True,corrective,]48-72],]2-4],]48-72],True,True,False,False,Panne chauffage
+True,False,True,True,preventive,]72--[,]1-2],]72--[,True,True,True,False,Visite entretien chauffage collectif
+False,True,False,False,preventive,]72--[,]0-1],]72--[,True,True,True,False,Visite entretien ventilation coll
+False,False,True,True,corrective,0,]0-1],]2-4],True,True,False,False,Panne ECS
+False,False,False,False,preventive,0,0,0,False,False,False,False,Visite entretien chauffage collectif
+True,False,True,False,preventive,]72--[,]2-4],]72--[,True,True,True,False,Visite entretien chauffage collectif
+False,False,True,True,corrective,]72--[,]2-4],]72--[,True,True,False,False,Panne fuite d'eau
+False,True,False,False,preventive,]72--[,]0-1],]72--[,True,True,False,True,Visite entretien chauffage collectif
+False,False,False,False,preventive,]1-2],]0-1],]1-2],True,True,False,False,Visite entretien chauffage collectif
+False,True,True,True,corrective,]4-16],]0-1],]4-16],True,True,True,False,Panne caisson VMC
+False,False,True,True,preventive,]2-4],]1-2],]4-16],True,True,True,False,Visite entretien chauffage collectif
+False,True,False,False,preventive,]72--[,]0-1],]72--[,True,True,True,False,Visite entretien ventilation coll
+False,True,True,True,corrective,]16-24],]0-1],]16-24],True,True,False,False,Panne fuite d'eau
+False,True,False,False,preventive,]72--[,]0-1],]72--[,True,True,True,False,Visite entretien ventilation coll
+False,False,True,True,corrective,]0-1],]0-1],]1-2],True,True,False,False,Panne ECS
+False,True,False,False,preventive,]72--[,]0-1],]72--[,True,True,True,False,Visite entretien ventilation coll
+False,False,True,True,corrective,]1-2],]1-2],]2-4],True,True,False,False,Panne ECS
+True,False,False,True,preventive,]2-4],]0-1],]2-4],True,True,True,False,Visite entretien chauffage collectif
+True,False,False,True,preventive,]16-24],]0-1],]16-24],True,True,False,False,Visite entretien chauffage collectif
+True,False,False,False,corrective,]16-24],]1-2],]24-48],True,True,True,False,Panne chauffage
+False,False,True,True,preventive,]0-1],]0-1],]1-2],True,True,False,False,Visite de contrôle/entretien
+False,False,False,False,corrective,]72--[,]0-1],]72--[,True,True,True,False,Pannes diverses
+False,False,True,True,corrective,]48-72],]2-4],]72--[,True,True,False,False,Panne chauffage
+True,False,True,True,corrective,]16-24],]0-1],]24-48],True,True,True,False,Panne chauffage
+False,False,True,True,preventive,]0-1],]0-1],]1-2],True,True,False,False,Visite de contrôle/entretien
+True,False,False,True,preventive,]48-72],]0-1],]48-72],True,True,True,False,Visite entretien chauffage collectif
+False,False,True,False,corrective,0,]0-1],]0-1],True,True,True,False,Panne chauffage
+True,False,False,False,preventive,]48-72],]1-2],]48-72],True,True,True,False,Visite entretien chauffage collectif
+False,False,True,False,corrective,]1-2],]0-1],]1-2],True,True,False,False,Panne fuite d'eau
+False,True,False,False,preventive,]72--[,]0-1],]72--[,True,True,True,False,Visite entretien ventilation coll
+False,True,False,True,corrective,]4-16],]0-1],]4-16],True,True,True,False,Panne caisson VMC
+True,False,True,True,preventive,]16-24],]0-1],]24-48],True,True,True,False,Visite entretien chauffage collectif
+False,False,True,True,preventive,]72--[,]0-1],]72--[,True,True,True,False,Visite entretien chauffage collectif
+True,False,True,True,corrective,0,]1-2],]1-2],True,True,True,False,Panne chauffage
+False,False,False,False,corrective,]72--[,]0-1],]72--[,True,True,True,False,Pannes diverses
+False,False,True,True,corrective,0,]0-1],]72--[,True,True,False,False,Panne ECS
+False,False,False,False,corrective,]72--[,]0-1],]72--[,True,True,True,False,Pannes diverses
+False,True,True,True,preventive,]1-2],]0-1],]1-2],True,True,False,False,Visite de contrôle/entretien
+True,False,True,False,corrective,]4-16],]0-1],]4-16],True,True,True,False,Panne fuite d'eau
+False,False,True,True,corrective,]16-24],]0-1],]16-24],True,True,True,False,Panne chauffage
+False,True,True,False,preventive,0,]0-1],]1-2],True,True,False,False,Visite de contrôle/entretien
+False,True,False,False,corrective,]0-1],]0-1],]0-1],True,True,False,False,Panne caisson VMC
+False,False,True,True,corrective,0,]0-1],]0-1],True,True,False,False,Panne ECS
+False,False,True,True,corrective,]0-1],]0-1],]0-1],True,True,True,False,Panne fuite d'eau
+False,True,False,True,corrective,]72--[,]0-1],]72--[,True,True,False,False,Panne fuite d'eau
+False,True,False,False,corrective,0,]0-1],]0-1],True,True,False,False,Panne caisson VMC
+False,False,True,True,corrective,]0-1],]1-2],]1-2],True,True,False,False,Panne fuite d'eau
+False,False,True,True,corrective,]72--[,]1-2],]72--[,True,True,True,False,Pannes diverses
+False,False,True,True,corrective,]16-24],]0-1],]16-24],True,True,True,False,Panne fuite d'eau
+False,True,False,False,corrective,]4-16],]1-2],]4-16],True,True,True,False,Panne chauffage
+True,False,False,False,preventive,]0-1],]0-1],]1-2],True,True,False,False,Visite entretien chauffage collectif
+False,False,False,True,corrective,]0-1],]0-1],]1-2],True,True,True,False,Panne ECS
+False,True,True,True,corrective,0,]0-1],]0-1],True,True,True,False,Panne caisson VMC
+False,True,False,False,preventive,]72--[,]0-1],]72--[,True,True,True,False,Visite entretien ventilation coll
+False,True,False,False,preventive,]72--[,]0-1],]72--[,True,True,True,False,Visite entretien ventilation coll
+False,True,True,True,corrective,]16-24],]0-1],]16-24],True,True,True,False,Panne caisson VMC
+False,False,True,True,corrective,0,]0-1],]0-1],True,True,False,False,Panne ECS
+False,False,False,False,corrective,]72--[,]0-1],]72--[,True,True,True,False,Pannes diverses
+False,True,False,False,preventive,]72--[,]0-1],]72--[,True,True,True,False,Visite entretien ventilation coll
+False,False,False,True,corrective,]1-2],]1-2],]2-4],True,True,False,True,Panne chauffage
+True,False,False,False,preventive,]72--[,]2-4],]72--[,True,True,False,True,Visite entretien chauffage collectif
+True,False,False,False,corrective,]0-1],]0-1],]0-1],True,True,False,False,Panne fuite d'eau
+True,False,True,True,corrective,]2-4],]2-4],]4-16],True,True,True,False,Panne chauffage
+False,False,True,True,corrective,]72--[,]2-4],]72--[,True,True,True,False,Panne fuite d'eau
+False,False,True,False,preventive,]24-48],]1-2],]24-48],True,True,False,True,Visite entretien chauffage collectif
+False,False,True,True,corrective,]72--[,]0-1],]72--[,True,True,True,False,Panne fuite d'eau
+False,False,True,True,preventive,0,]1-2],]1-2],True,True,False,False,Visite entretien chauffage collectif
+False,True,False,True,corrective,]0-1],]0-1],]0-1],True,True,False,False,Panne caisson VMC
+False,False,True,True,preventive,]0-1],]0-1],]1-2],True,True,False,False,Visite de contrôle/entretien
+True,False,False,False,preventive,]72--[,]1-2],]72--[,True,True,False,False,Visite entretien chauffage collectif
+True,False,False,True,corrective,]24-48],]0-1],]24-48],True,True,False,False,Panne fuite d'eau
+False,False,False,False,corrective,]72--[,]0-1],]72--[,True,True,True,False,Pannes diverses
+False,False,False,False,corrective,]2-4],]0-1],]2-4],True,True,False,False,Panne chauffage
+False,False,False,False,preventive,]4-16],]0-1],]4-16],True,True,False,False,Visite entretien chauffage collectif
+False,False,False,False,corrective,]72--[,]0-1],]72--[,True,True,True,False,Pannes diverses
+False,False,False,False,corrective,]72--[,]0-1],]72--[,True,True,True,False,Pannes diverses
+False,False,False,False,preventive,]2-4],]1-2],]4-16],True,True,False,False,Visite entretien chauffage collectif
+False,True,True,True,preventive,]0-1],]0-1],]0-1],True,True,False,False,Visite entretien ventilation coll
+True,False,False,False,preventive,]72--[,]1-2],]72--[,True,True,False,False,Visite entretien chauffage collectif
+True,False,True,False,corrective,]0-1],]0-1],]0-1],True,True,False,False,Panne fuite d'eau
+False,False,True,True,corrective,0,]0-1],]72--[,True,True,False,False,Panne ECS
+False,False,False,True,corrective,]1-2],]1-2],]1-2],True,True,False,False,Panne fuite d'eau
+False,False,False,True,corrective,]1-2],]1-2],]2-4],True,True,False,False,Panne fuite d'eau
+True,False,False,True,corrective,]0-1],]1-2],]1-2],True,True,False,False,Panne chauffage
+False,True,False,False,preventive,0,]0-1],]0-1],True,True,False,False,Visite de contrôle/entretien
+False,False,True,True,corrective,]0-1],]0-1],]1-2],True,True,False,False,Panne chauffage
+False,False,True,True,corrective,]0-1],]0-1],]1-2],True,True,True,False,Panne fuite d'eau
+False,False,True,True,corrective,]72--[,]0-1],]72--[,True,True,False,False,Panne ECS

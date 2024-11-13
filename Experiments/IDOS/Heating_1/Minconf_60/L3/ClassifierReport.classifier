@@ -1,0 +1,108 @@
+Boiler=True Fan=False Water=False Leak=False criticalLevel=one workType=preventive responseTime=0 planned=False requested=False => VPP2_Chauffageindivuduel
+Boiler=True Fan=False criticalLevel=one workType=preventive responseTime=0 planned=False requested=False => VPP2_Chauffageindivuduel
+Boiler=False Fan=True Water=False Leak=False criticalLevel=one workType=preventive responseTime=0 processingDuration=]1-2] resolutionDuration=]1-2] start=True done=True planned=False end=True requested=False => VPCaissonsan.
+Boiler=False Water=False Leak=False criticalLevel=one workType=corrective responseTime=0 resolutionDuration=0 planned=True requested=True => Boucheauto_SDB
+Boiler=False Fan=True Water=False Leak=False criticalLevel=one workType=corrective resolutionDuration=]2-4] start=True done=True planned=True end=True requested=True => EntretienVMCcaissonscollgaz
+Boiler=False Fan=True Water=False Leak=False criticalLevel=one workType=corrective processingDuration=]0-1] resolutionDuration=]24-48] start=True done=True planned=True end=True requested=True => Caissonventilmanch
+Boiler=True Fan=False Water=False Leak=False criticalLevel=one responseTime=0 processingDuration=]0-1] start=True done=True end=True => ChaudiÃ¨resurdevis
+Boiler=False Fan=True Water=False Leak=False criticalLevel=one workType=preventive responseTime=0 processingDuration=]0-1] resolutionDuration=]0-1] start=True done=True planned=False end=True requested=False => VPCaissongaz
+Boiler=False Fan=True Water=False Leak=False criticalLevel=one workType=corrective responseTime=0 start=True done=True planned=True end=True requested=True => EntretienVMCcaissonscollgaz
+Boiler=False Fan=False Water=False Leak=False criticalLevel=one workType=corrective responseTime=]72--[ processingDuration=]0-1] resolutionDuration=]72--[ start=True done=True planned=True end=True requested=True => Bouchehydro_SDB
+Boiler=True workType=corrective processingDuration=]1-2] start=True done=True end=True => DÃ©pannageP2_Chauffageindividuel
+Boiler=True workType=corrective resolutionDuration=]72--[ start=True done=True planned=True end=True requested=True => DÃ©pannageP2_Chauffageindividuel
+Boiler=False Water=False Leak=False criticalLevel=one workType=corrective responseTime=0 processingDuration=]0-1] start=True done=True planned=True end=True requested=True => Boucheauto_SDB
+Boiler=True Fan=False Water=False Leak=False criticalLevel=one workType=preventive responseTime=0 planned=False => VPP2_Chauffageindivuduel
+Boiler=True Fan=False Water=False Leak=False criticalLevel=one workType=preventive responseTime=0 requested=False => VPP2_Chauffageindivuduel
+Boiler=True Fan=False Water=False Leak=False criticalLevel=one workType=preventive planned=False requested=False => VPP2_Chauffageindivuduel
+Boiler=True Fan=False Water=False Leak=False workType=preventive responseTime=0 planned=False requested=False => VPP2_Chauffageindivuduel
+Boiler=True Fan=False Water=False criticalLevel=one workType=preventive responseTime=0 planned=False requested=False => VPP2_Chauffageindivuduel
+Boiler=True Fan=False Leak=False criticalLevel=one workType=preventive responseTime=0 planned=False requested=False => VPP2_Chauffageindivuduel
+Boiler=True Water=False Leak=False criticalLevel=one workType=preventive responseTime=0 planned=False requested=False => VPP2_Chauffageindivuduel
+Boiler=True Fan=False Water=False Leak=False criticalLevel=one workType=preventive responseTime=0 => VPP2_Chauffageindivuduel
+Boiler=True Fan=False Water=False Leak=False criticalLevel=one workType=preventive planned=False => VPP2_Chauffageindivuduel
+Boiler=True Fan=False Water=False Leak=False criticalLevel=one workType=preventive requested=False => VPP2_Chauffageindivuduel
+Boiler=True Fan=False Water=False Leak=False workType=preventive responseTime=0 planned=False => VPP2_Chauffageindivuduel
+Boiler=True Fan=False Water=False Leak=False workType=preventive responseTime=0 requested=False => VPP2_Chauffageindivuduel
+Boiler=True Fan=False Water=False Leak=False workType=preventive planned=False requested=False => VPP2_Chauffageindivuduel
+Boiler=True Fan=False Water=False criticalLevel=one workType=preventive responseTime=0 planned=False => VPP2_Chauffageindivuduel
+Boiler=True Fan=False Water=False criticalLevel=one workType=preventive responseTime=0 requested=False => VPP2_Chauffageindivuduel
+Boiler=True Fan=False Water=False criticalLevel=one workType=preventive planned=False requested=False => VPP2_Chauffageindivuduel
+Boiler=True Fan=False Water=False workType=preventive responseTime=0 planned=False requested=False => VPP2_Chauffageindivuduel
+Boiler=True Fan=False Leak=False criticalLevel=one workType=preventive responseTime=0 planned=False => VPP2_Chauffageindivuduel
+Boiler=True Fan=False Leak=False criticalLevel=one workType=preventive responseTime=0 requested=False => VPP2_Chauffageindivuduel
+Boiler=True Fan=False Leak=False criticalLevel=one workType=preventive planned=False requested=False => VPP2_Chauffageindivuduel
+Boiler=True Fan=False Leak=False workType=preventive responseTime=0 planned=False requested=False => VPP2_Chauffageindivuduel
+Boiler=True Water=False Leak=False criticalLevel=one workType=preventive responseTime=0 planned=False => VPP2_Chauffageindivuduel
+Boiler=True Water=False Leak=False criticalLevel=one workType=preventive responseTime=0 requested=False => VPP2_Chauffageindivuduel
+Boiler=True Water=False Leak=False criticalLevel=one workType=preventive planned=False requested=False => VPP2_Chauffageindivuduel
+Boiler=True Water=False Leak=False workType=preventive responseTime=0 planned=False requested=False => VPP2_Chauffageindivuduel
+Boiler=True Water=False criticalLevel=one workType=preventive responseTime=0 planned=False requested=False => VPP2_Chauffageindivuduel
+Boiler=True Leak=False criticalLevel=one workType=preventive responseTime=0 planned=False requested=False => VPP2_Chauffageindivuduel
+Boiler=True Fan=False Water=False Leak=False criticalLevel=one workType=preventive => VPP2_Chauffageindivuduel
+Boiler=True Fan=False Water=False Leak=False workType=preventive responseTime=0 => VPP2_Chauffageindivuduel
+Boiler=True Fan=False Water=False Leak=False workType=preventive planned=False => VPP2_Chauffageindivuduel
+Boiler=True Fan=False Water=False Leak=False workType=preventive requested=False => VPP2_Chauffageindivuduel
+Boiler=True Fan=False Water=False criticalLevel=one workType=preventive responseTime=0 => VPP2_Chauffageindivuduel
+Boiler=True Fan=False Water=False criticalLevel=one workType=preventive planned=False => VPP2_Chauffageindivuduel
+Boiler=True Fan=False Water=False criticalLevel=one workType=preventive requested=False => VPP2_Chauffageindivuduel
+Boiler=True Fan=False Water=False workType=preventive responseTime=0 planned=False => VPP2_Chauffageindivuduel
+Boiler=True Fan=False Water=False workType=preventive responseTime=0 requested=False => VPP2_Chauffageindivuduel
+Boiler=True Fan=False Water=False workType=preventive planned=False requested=False => VPP2_Chauffageindivuduel
+Boiler=True Fan=False Leak=False criticalLevel=one workType=preventive responseTime=0 => VPP2_Chauffageindivuduel
+Boiler=True Fan=False Leak=False criticalLevel=one workType=preventive planned=False => VPP2_Chauffageindivuduel
+Boiler=True Fan=False Leak=False criticalLevel=one workType=preventive requested=False => VPP2_Chauffageindivuduel
+Boiler=True Fan=False Leak=False workType=preventive responseTime=0 planned=False => VPP2_Chauffageindivuduel
+Boiler=True Fan=False Leak=False workType=preventive responseTime=0 requested=False => VPP2_Chauffageindivuduel
+Boiler=True Fan=False Leak=False workType=preventive planned=False requested=False => VPP2_Chauffageindivuduel
+Boiler=True Water=False Leak=False criticalLevel=one workType=preventive responseTime=0 => VPP2_Chauffageindivuduel
+Boiler=True Water=False Leak=False criticalLevel=one workType=preventive planned=False => VPP2_Chauffageindivuduel
+Boiler=True Water=False Leak=False criticalLevel=one workType=preventive requested=False => VPP2_Chauffageindivuduel
+Boiler=True Water=False Leak=False workType=preventive responseTime=0 planned=False => VPP2_Chauffageindivuduel
+Boiler=True Water=False Leak=False workType=preventive responseTime=0 requested=False => VPP2_Chauffageindivuduel
+Boiler=True Water=False Leak=False workType=preventive planned=False requested=False => VPP2_Chauffageindivuduel
+Boiler=True Water=False criticalLevel=one workType=preventive responseTime=0 planned=False => VPP2_Chauffageindivuduel
+Boiler=True Water=False criticalLevel=one workType=preventive responseTime=0 requested=False => VPP2_Chauffageindivuduel
+Boiler=True Water=False criticalLevel=one workType=preventive planned=False requested=False => VPP2_Chauffageindivuduel
+Boiler=True Water=False workType=preventive responseTime=0 planned=False requested=False => VPP2_Chauffageindivuduel
+Boiler=True Leak=False criticalLevel=one workType=preventive responseTime=0 planned=False => VPP2_Chauffageindivuduel
+Boiler=True Leak=False criticalLevel=one workType=preventive responseTime=0 requested=False => VPP2_Chauffageindivuduel
+Boiler=True Leak=False criticalLevel=one workType=preventive planned=False requested=False => VPP2_Chauffageindivuduel
+Boiler=True Leak=False workType=preventive responseTime=0 planned=False requested=False => VPP2_Chauffageindivuduel
+Boiler=True Fan=False Water=False Leak=False workType=preventive => VPP2_Chauffageindivuduel
+Boiler=True Fan=False Water=False criticalLevel=one workType=preventive => VPP2_Chauffageindivuduel
+Boiler=True Fan=False Water=False workType=preventive responseTime=0 => VPP2_Chauffageindivuduel
+Boiler=True Fan=False Water=False workType=preventive planned=False => VPP2_Chauffageindivuduel
+Boiler=True Fan=False Water=False workType=preventive requested=False => VPP2_Chauffageindivuduel
+Boiler=True Fan=False Leak=False criticalLevel=one workType=preventive => VPP2_Chauffageindivuduel
+Boiler=True Fan=False Leak=False workType=preventive responseTime=0 => VPP2_Chauffageindivuduel
+Boiler=True Fan=False Leak=False workType=preventive planned=False => VPP2_Chauffageindivuduel
+Boiler=True Fan=False Leak=False workType=preventive requested=False => VPP2_Chauffageindivuduel
+Boiler=True Water=False Leak=False criticalLevel=one workType=preventive => VPP2_Chauffageindivuduel
+Boiler=True Water=False Leak=False workType=preventive responseTime=0 => VPP2_Chauffageindivuduel
+Boiler=True Water=False Leak=False workType=preventive planned=False => VPP2_Chauffageindivuduel
+Boiler=True Water=False Leak=False workType=preventive requested=False => VPP2_Chauffageindivuduel
+Boiler=True Water=False criticalLevel=one workType=preventive responseTime=0 => VPP2_Chauffageindivuduel
+Boiler=True Water=False criticalLevel=one workType=preventive planned=False => VPP2_Chauffageindivuduel
+Boiler=True Water=False criticalLevel=one workType=preventive requested=False => VPP2_Chauffageindivuduel
+Boiler=True Water=False workType=preventive responseTime=0 planned=False => VPP2_Chauffageindivuduel
+Boiler=True Water=False workType=preventive responseTime=0 requested=False => VPP2_Chauffageindivuduel
+Boiler=True Water=False workType=preventive planned=False requested=False => VPP2_Chauffageindivuduel
+Boiler=True Leak=False criticalLevel=one workType=preventive responseTime=0 => VPP2_Chauffageindivuduel
+Boiler=True Leak=False criticalLevel=one workType=preventive planned=False => VPP2_Chauffageindivuduel
+Boiler=True Leak=False criticalLevel=one workType=preventive requested=False => VPP2_Chauffageindivuduel
+Boiler=True Leak=False workType=preventive responseTime=0 planned=False => VPP2_Chauffageindivuduel
+Boiler=True Leak=False workType=preventive responseTime=0 requested=False => VPP2_Chauffageindivuduel
+Boiler=True Leak=False workType=preventive planned=False requested=False => VPP2_Chauffageindivuduel
+Boiler=True Fan=False Water=False workType=preventive => VPP2_Chauffageindivuduel
+Boiler=True Fan=False Leak=False workType=preventive => VPP2_Chauffageindivuduel
+Boiler=True Water=False Leak=False workType=preventive => VPP2_Chauffageindivuduel
+Boiler=True Water=False criticalLevel=one workType=preventive => VPP2_Chauffageindivuduel
+Boiler=True Water=False workType=preventive responseTime=0 => VPP2_Chauffageindivuduel
+Boiler=True Water=False workType=preventive planned=False => VPP2_Chauffageindivuduel
+Boiler=True Water=False workType=preventive requested=False => VPP2_Chauffageindivuduel
+Boiler=True Leak=False criticalLevel=one workType=preventive => VPP2_Chauffageindivuduel
+Boiler=True Leak=False workType=preventive responseTime=0 => VPP2_Chauffageindivuduel
+Boiler=True Leak=False workType=preventive planned=False => VPP2_Chauffageindivuduel
+Boiler=True Leak=False workType=preventive requested=False => VPP2_Chauffageindivuduel
+Boiler=True Water=False workType=preventive => VPP2_Chauffageindivuduel
+Boiler=True Leak=False workType=preventive => VPP2_Chauffageindivuduel

@@ -1,0 +1,42 @@
+criticalLevel=five responseTime=]2-4] => DÃ©pannage_VMCGaz
+processingDuration=]1-2] resolutionDuration=]72--[ => DÃ©pannageP2_Chauffageindividuel
+criticalLevel=five responseTime=]16-24] => DÃ©pannageP2_Chauffageindividuel
+responseTime=]0-1] resolutionDuration=]1-2] => DÃ©pannageP2_Chauffageindividuel
+responseTime=]24-48] processingDuration=]4-16] => DÃ©pannageP2_Chauffageindividuel
+processingDuration=]1-2] resolutionDuration=]16-24] => DÃ©pannageP2_Chauffageindividuel
+criticalLevel=five responseTime=]0-1] => DÃ©pannage_VMCGaz
+workType=preventive processingDuration=]2-4] => VPNettreseauetbouche
+responseTime=]1-2] processingDuration=]4-16] => DÃ©pannage_VMCGaz
+responseTime=]24-48] planned=False => RemplacementpiÃ¨ceP3
+responseTime=]4-16] processingDuration=]2-4] => DÃ©pannage_VMCGaz
+criticalLevel=one processingDuration=]1-2] resolutionDuration=]4-16] => RemplacementpiÃ¨ceP3
+workType=corrective processingDuration=]2-4] planned=False => DÃ©pannage_VMCGaz
+responseTime=]0-1] processingDuration=]1-2] resolutionDuration=]2-4] => DÃ©pannage_VMCGaz
+responseTime=]1-2] processingDuration=]0-1] resolutionDuration=]2-4] => RemplacementpiÃ¨ceP3
+responseTime=]24-48] processingDuration=]1-2] resolutionDuration=]48-72] => DÃ©pannage_VMCGaz
+responseTime=]48-72] processingDuration=]0-1] resolutionDuration=]72--[ => RemplacementpiÃ¨ceP3
+criticalLevel=one responseTime=]2-4] processingDuration=]1-2] resolutionDuration=]2-4] => EntretienVMCcaissonscollgaz
+resolutionDuration=]16-24] => DÃ©pannageP2_Chauffageindividuel
+responseTime=]48-72] processingDuration=]1-2] => DÃ©pannageP2_Chauffageindividuel
+processingDuration=]4-16] => DÃ©pannageP2_Chauffageindividuel
+resolutionDuration=]1-2] planned=True => DÃ©pannageP2_Chauffageindividuel
+criticalLevel=five resolutionDuration=]4-16] => DÃ©pannage_VMCGaz
+responseTime=]0-1] resolutionDuration=]0-1] => DÃ©pannage_VMCGaz
+criticalLevel=one responseTime=]4-16] processingDuration=]0-1] => DÃ©pannageP2_Chauffageindividuel
+responseTime=]16-24] processingDuration=]0-1] resolutionDuration=]24-48] => DÃ©pannageP2_Chauffageindividuel
+processingDuration=]2-4] resolutionDuration=]2-4] planned=True => DÃ©pannageP2_Chauffageindividuel
+responseTime=]48-72] => DÃ©pannageP2_Chauffageindividuel
+workType=corrective resolutionDuration=]1-2] => DÃ©pannageP2_Chauffageindividuel
+processingDuration=]2-4] planned=True => DÃ©pannageP2_Chauffageindividuel
+processingDuration=]1-2] resolutionDuration=]2-4] => DÃ©pannage_VMCGaz
+responseTime=0 start=True planned=True => DÃ©pannageP2_Chauffageindividuel
+workType=corrective processingDuration=0 => DÃ©pannageP2_Chauffageindividuel
+resolutionDuration=]48-72] => DÃ©pannageP2_Chauffageindividuel
+resolutionDuration=]72--[ => DÃ©pannageP2_Chauffageindividuel
+workType=corrective responseTime=0 => DÃ©pannageP2_Chauffageindividuel
+responseTime=]24-48] processingDuration=]0-1] => RemplacementpiÃ¨ceP3
+criticalLevel=one responseTime=]2-4] => DÃ©pannageP2_Chauffageindividuel
+workType=preventive processingDuration=]1-2] => Visited'entretienannuelle-Ent.DispositifSÃ©curitÃ©Collectif
+responseTime=]16-24] processingDuration=]1-2] resolutionDuration=]24-48] => Boucheauto_Cuisine
+planned=True => DÃ©pannageP2_Chauffageindividuel
+ => VPCaissongaz

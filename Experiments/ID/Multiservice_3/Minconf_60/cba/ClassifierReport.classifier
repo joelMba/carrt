@@ -1,0 +1,14 @@
+criticalLevel=five => PanneRobinetterie
+processingDuration=]4-16] => PanneRobinetterie
+canceled=True => PanneRobinetterie
+resolutionDuration=]16-24] temporary_repair=False => PanneRobinetterie
+resolutionDuration=]16-24] done=True => PanneRobinetterie
+responseTime=]24-48] temporary_repair=False => PanneRobinetterie
+responseTime=]4-16] => PanneRobinetterie
+occupant_absent=True => PanneRobinetterie
+resolutionDuration=]4-16] done=True => PanneRobinetterie
+responseTime=]24-48] => PanneRobinetterie
+done=True temporary_repair=True => PanneRobinetterie
+criticalLevel=minus-one responseTime=]72--[ temporary_repair=True => PanneRobinetterie
+done=True => PanneRobinetterie
+ => Pannechauffind

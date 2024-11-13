@@ -1,0 +1,34 @@
+workType=preventive responseTime=0 replanned=True => TMH-visiteentretienappareilgaz
+workType=preventive postponed=True => TMH-visiteentretienappareilgaz
+workType=preventive responseTime=0 => TMH-visiteentretienappareilgaz
+workType=preventive planned=False => TMH-visiteentretienappareilgaz
+workType=corrective planned=False replanned=True postponed=False => TMH-dÃ©pannagechauffage
+workType=corrective processingDuration=]72--[ planned=True => TMH-dÃ©pannagechauffage
+workType=preventive replanned=True occupant_absent=True requested=False => TMH-visiteentretienappareilgaz
+workType=preventive occupant_absent=True requested=False => TMH-visiteentretienappareilgaz
+workType=corrective planned=False postponed=False => TMH-dÃ©pannagechauffage
+workType=corrective resolutionDuration=]72--[ planned=True replanned=True postponed=False => TMH-dÃ©pannagechauffage
+workType=corrective responseTime=]16-24] replanned=True => TMH-dÃ©pannagechauffage
+workType=corrective resolutionDuration=]72--[ planned=True replanned=True => TMH-dÃ©pannagechauffage
+workType=corrective planned=False replanned=True => TMH-dÃ©pannagechauffage
+workType=corrective planned=False => TMH-dÃ©pannagechauffage
+workType=preventive occupant_absent=True => TMH-visiteentretienappareilgaz
+workType=corrective responseTime=]16-24] => TMH-dÃ©pannagechauffage
+workType=preventive start=True occupant_absent=False requested=True => TMH-visiteentretienappareilgaz
+workType=corrective resolutionDuration=]72--[ planned=True => TMH-dÃ©pannagechauffage
+workType=preventive processingDuration=]72--[ start=True occupant_absent=False => TMH-visiteentretienappareilgaz
+workType=corrective replanned=True postponed=False => TMH-dÃ©pannagechauffage
+workType=corrective resolutionDuration=]48-72] => TMH-dÃ©pannagechauffage
+workType=preventive resolutionDuration=]72--[ replanned=False => TMH-visiteentretienappareilgaz
+workType=corrective replanned=True => TMH-dÃ©pannagechauffage
+workType=preventive processingDuration=]72--[ requested=False => TMH-visiteentretienappareilgaz
+workType=preventive processingDuration=]72--[ occupant_absent=False => TMH-visiteentretienappareilgaz
+workType=corrective responseTime=]0-1] => TMH-dÃ©pannagechauffage
+workType=preventive start=True replanned=False occupant_absent=False => TMH-visiteentretienappareilgaz
+workType=preventive occupant_absent=False requested=True => TMH-visiteentretienappareilgaz
+workType=preventive replanned=False => TMH-visiteentretienappareilgaz
+workType=preventive start=False => TMH-visiteentretienappareilgaz
+workType=corrective start=True => TMH-dÃ©pannagechauffage
+workType=corrective => TMH-dÃ©pannagechauffage
+workType=preventive requested=False => TMH-visiteentretienappareilgaz
+ => Class

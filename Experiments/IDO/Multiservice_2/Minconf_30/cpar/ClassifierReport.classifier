@@ -1,0 +1,64 @@
+Leak=True workType=preventive processingDuration=]0-1] resolutionDuration=]24-48] planned=True => Fuited'eauurgencerÃ©elle
+Leak=True processingDuration=]0-1] resolutionDuration=]24-48] planned=True => Fuited'eauurgencerÃ©elle
+workType=none responseTime=]16-24] processingDuration=]0-1] partial_repair=False => Fuited'eauurgencerÃ©elle
+Leak=True processingDuration=]0-1] planned=True => Fuited'eauurgencerÃ©elle
+responseTime=]16-24] processingDuration=]0-1] => Fuited'eauurgencerÃ©elle
+processingDuration=]0-1] resolutionDuration=]4-16] => Fuited'eauurgencerÃ©elle
+Leak=True processingDuration=]48-72] => Fuited'eauurgencerÃ©elle
+responseTime=]16-24] => Fuited'eauurgencerÃ©elle
+Leak=True => Fuited'eauurgencerÃ©elle
+workType=none resolutionDuration=]72--[ partial_repair=True => PanneRobinetterie
+workType=none resolutionDuration=]72--[ postponed=True => PanneRobinetterie
+workType=none partial_repair=True => PanneRobinetterie
+workType=none processingDuration=0 => PanneRobinetterie
+workType=none resolutionDuration=]48-72] => PanneRobinetterie
+workType=none processingDuration=]2-4] => PanneRobinetterie
+workType=none processingDuration=]72--[ => PanneRobinetterie
+workType=none postponed=True => PanneRobinetterie
+workType=none => PanneRobinetterie
+Leak=True processingDuration=]2-4] => PanneRobinetterie
+workType=preventive processingDuration=]4-16] replanned=True => PanneRobinetterie
+workType=none replanned=True => PanneRobinetterie
+responseTime=]48-72] replanned=True => PanneRobinetterie
+replanned=True => PanneRobinetterie
+responseTime=]0-1] processingDuration=]72--[ => PanneRobinetterie
+responseTime=]0-1] resolutionDuration=]72--[ => PanneRobinetterie
+processingDuration=0 => PanneRobinetterie
+Leak=True workType=preventive processingDuration=]0-1] resolutionDuration=]16-24] => PanneVMCsanitaire
+Leak=True workType=preventive responseTime=0 processingDuration=]0-1] => PanneVMCsanitaire
+Leak=True workType=preventive processingDuration=]0-1] resolutionDuration=]0-1] => PanneVMCsanitaire
+Leak=True workType=preventive processingDuration=]0-1] client_planned=True => PanneVMCsanitaire
+workType=preventive responseTime=]2-4] processingDuration=]0-1] client_planned=True => PanneVMCsanitaire
+workType=preventive responseTime=]24-48] processingDuration=]0-1] planned=True client_planned=True => PanneVMCsanitaire
+workType=preventive responseTime=]24-48] processingDuration=]0-1] client_planned=True partial_repair=True => PanneVMCsanitaire
+workType=preventive responseTime=0 processingDuration=]0-1] => PanneVMCsanitaire
+Leak=True workType=preventive processingDuration=]0-1] => PanneVMCsanitaire
+workType=corrective responseTime=]1-2] => PanneVMCsanitaire
+workType=preventive processingDuration=]0-1] => PanneVMCsanitaire
+responseTime=]1-2] => PanneVMCsanitaire
+resolutionDuration=]0-1] planned=False => PanneVMCsanitaire
+processingDuration=]24-48] missing_item=True => PanneVMCsanitaire
+processingDuration=]24-48] partial_repair=True => PanneVMCsanitaire
+workType=corrective responseTime=]24-48] planned=False => Pannechauffind
+workType=corrective responseTime=]24-48] postponed=True => Pannechauffind
+workType=corrective responseTime=]24-48] => Pannechauffind
+workType=corrective resolutionDuration=]4-16] partial_repair=True => Pannechauffind
+workType=corrective processingDuration=]2-4] resolutionDuration=]4-16] => Pannechauffind
+Leak=True workType=corrective processingDuration=]1-2] canceled=False => Pannechauffind
+workType=corrective responseTime=]4-16] canceled=True => Pannechauffind
+workType=corrective resolutionDuration=]1-2] => Pannechauffind
+workType=corrective responseTime=0 processingDuration=]16-24] => Pannechauffind
+workType=corrective responseTime=0 resolutionDuration=]16-24] => Pannechauffind
+workType=corrective responseTime=]48-72] replanned=False canceled=True partial_repair=False => Pannechauffind
+workType=corrective responseTime=]48-72] postponed=False canceled=True partial_repair=False => Pannechauffind
+Leak=True workType=corrective => Pannechauffind
+workType=corrective responseTime=]4-16] processingDuration=]2-4] => Pannechauffind
+workType=corrective => Pannechauffind
+Leak=False workType=preventive responseTime=]72--[ canceled=True => Visiteentretienconvecteur
+workType=preventive canceled=True => Visiteentretienconvecteur
+workType=preventive processingDuration=0 replanned=False => Visiteentretienconvecteur
+workType=preventive => Visiteentretienconvecteur
+Leak=False responseTime=]72--[ processingDuration=]0-1] planned=False postponed=False => Visiteentretienventilationind
+workType=corrective responseTime=]72--[ processingDuration=]24-48] => Visiteentretienventilationind
+responseTime=]72--[ processingDuration=]0-1] => Visiteentretienventilationind
+responseTime=]72--[ => Visiteentretienventilationind

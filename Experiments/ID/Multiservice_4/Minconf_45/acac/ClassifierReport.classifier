@@ -1,0 +1,10 @@
+criticalLevel=five => Pannechauffind
+criticalLevel=three => Pannechauffind
+workType=corrective => Pannechauffind
+responseTime=]16-24] => Pannechauffind
+processingDuration=]1-2] => Pannechauffind
+resolutionDuration=]16-24] => Pannechauffind
+resolutionDuration=]24-48] => Pannechauffind
+planned=True => Pannechauffind
+requested=True => Pannechauffind
+canceled=True => Pannechauffind

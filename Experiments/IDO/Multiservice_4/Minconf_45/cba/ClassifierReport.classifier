@@ -1,0 +1,15 @@
+Boiler=True processingDuration=]0-1] planned=True => Pannechauffind
+Boiler=True Water=True requested=True => Pannechauffind
+Boiler=True Leak=True workType=corrective => Pannechauffind
+Boiler=True canceled=True => Pannechauffind
+Boiler=True criticalLevel=five => Pannechauffind
+Boiler=True Radiator=True workType=corrective => Pannechauffind
+Boiler=True workType=corrective occupant_absent=True => Pannechauffind
+Boiler=True Water=False workType=corrective responseTime=0 => Pannechauffind
+Boiler=True processingDuration=]0-1] => Pannechauffind
+Boiler=True planned=True => Pannechauffind
+Boiler=False Radiator=False Fan=False criticalLevel=one workType=corrective canceled=False => PanneRobinetterie
+Boiler=False Fan=False Water=False planned=True canceled=False => PanneRobinetterie
+Boiler=False Radiator=False Fan=False criticalLevel=one workType=corrective => PanneRobinetterie
+Boiler=False Fan=False Water=False planned=True => PanneRobinetterie
+ => PanneVMCsanitaire

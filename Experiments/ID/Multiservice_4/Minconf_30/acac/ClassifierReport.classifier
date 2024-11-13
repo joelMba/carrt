@@ -1,0 +1,24 @@
+criticalLevel=five => Pannechauffind
+criticalLevel=one => Pannechauffind
+criticalLevel=three => Pannechauffind
+workType=corrective => Pannechauffind
+responseTime=0 => Pannechauffind
+responseTime=]16-24] => Pannechauffind
+responseTime=]72--[ => Pannechauffind
+processingDuration=]0-1] => Pannechauffind
+processingDuration=]1-2] => Pannechauffind
+resolutionDuration=]16-24] => Pannechauffind
+resolutionDuration=]24-48] => Pannechauffind
+resolutionDuration=]72--[ => Pannechauffind
+planned=True => Pannechauffind
+occupant_absent=False => Pannechauffind
+occupant_absent=True => Pannechauffind
+requested=True => Pannechauffind
+canceled=False => Pannechauffind
+canceled=True => Pannechauffind
+criticalLevel=one workType=corrective => PanneRobinetterie
+criticalLevel=one processingDuration=]0-1] => PanneRobinetterie
+criticalLevel=one planned=True => PanneRobinetterie
+criticalLevel=one requested=True => PanneRobinetterie
+processingDuration=]0-1] canceled=False => PanneRobinetterie
+criticalLevel=one occupant_absent=False canceled=False => PanneRobinetterie

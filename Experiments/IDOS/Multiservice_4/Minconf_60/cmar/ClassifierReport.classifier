@@ -1,0 +1,84 @@
+Boiler=True canceled=True => Pannechauffind
+Boiler=True Radiator=False canceled=True => Pannechauffind
+Boiler=True Fan=False canceled=True => Pannechauffind
+Boiler=True Radiator=False Fan=False canceled=True => Pannechauffind
+Boiler=True Radiator=False Leak=False canceled=True => Pannechauffind
+Boiler=True Fan=False Leak=False canceled=True => Pannechauffind
+Boiler=True Radiator=False Fan=False Leak=False canceled=True => Pannechauffind
+Boiler=True Radiator=False Fan=False workType=corrective canceled=True => Pannechauffind
+Boiler=True Radiator=False Leak=False workType=corrective canceled=True => Pannechauffind
+Boiler=True Fan=False Leak=False workType=corrective canceled=True => Pannechauffind
+Boiler=True Radiator=False Fan=False Leak=False workType=corrective canceled=True => Pannechauffind
+Boiler=True Water=True Leak=True criticalLevel=one workType=preventive responseTime=0 planned=False occupant_absent=False requested=False canceled=False => VisiteentretienchaudiÃ¨re
+Boiler=True Radiator=False Fan=False occupant_absent=True => Pannechauffind
+Boiler=True Radiator=False workType=corrective occupant_absent=True => Pannechauffind
+Boiler=True Fan=False workType=corrective occupant_absent=True => Pannechauffind
+Boiler=True Radiator=False Fan=False workType=corrective occupant_absent=True => Pannechauffind
+Boiler=True Fan=False Leak=True criticalLevel=one workType=preventive responseTime=0 planned=False occupant_absent=False requested=False canceled=False => VisiteentretienchaudiÃ¨re
+Boiler=True Fan=False Water=True Leak=True criticalLevel=one workType=preventive responseTime=0 planned=False occupant_absent=False requested=False => VisiteentretienchaudiÃ¨re
+Boiler=True Fan=False Water=True Leak=True criticalLevel=one workType=preventive responseTime=0 planned=False requested=False canceled=False => VisiteentretienchaudiÃ¨re
+Boiler=True Fan=False Water=True Leak=True workType=preventive responseTime=0 planned=False occupant_absent=False requested=False canceled=False => VisiteentretienchaudiÃ¨re
+Boiler=True Fan=False Water=True Leak=True criticalLevel=one workType=preventive responseTime=0 planned=False occupant_absent=False requested=False canceled=False => VisiteentretienchaudiÃ¨re
+Boiler=True Radiator=False processingDuration=]1-2] occupant_absent=False => Pannechauffind
+Boiler=True Fan=False processingDuration=]1-2] occupant_absent=False => Pannechauffind
+Boiler=True Radiator=False Fan=False processingDuration=]1-2] => Pannechauffind
+Boiler=True Radiator=False Fan=False processingDuration=]1-2] occupant_absent=False => Pannechauffind
+Boiler=True Radiator=False workType=corrective processingDuration=]1-2] occupant_absent=False => Pannechauffind
+Boiler=True Fan=False workType=corrective processingDuration=]1-2] occupant_absent=False => Pannechauffind
+Boiler=True Radiator=False Fan=False workType=corrective processingDuration=]1-2] => Pannechauffind
+Boiler=True Radiator=False Fan=False workType=corrective processingDuration=]1-2] occupant_absent=False => Pannechauffind
+Boiler=True Radiator=False Fan=False processingDuration=]1-2] occupant_absent=False requested=True => Pannechauffind
+Boiler=True Radiator=False workType=corrective processingDuration=]1-2] occupant_absent=False requested=True => Pannechauffind
+Boiler=True Fan=False workType=corrective processingDuration=]1-2] occupant_absent=False requested=True => Pannechauffind
+Boiler=True Radiator=False Fan=False workType=corrective processingDuration=]1-2] requested=True => Pannechauffind
+Boiler=True Radiator=False Fan=False workType=corrective processingDuration=]1-2] occupant_absent=False requested=True => Pannechauffind
+Boiler=True Radiator=False Fan=False workType=corrective processingDuration=]1-2] planned=True occupant_absent=False => Pannechauffind
+Boiler=True Radiator=False Fan=False processingDuration=]1-2] planned=True occupant_absent=False requested=True => Pannechauffind
+Boiler=True Radiator=False workType=corrective processingDuration=]1-2] planned=True occupant_absent=False requested=True => Pannechauffind
+Boiler=True Fan=False workType=corrective processingDuration=]1-2] planned=True occupant_absent=False requested=True => Pannechauffind
+Boiler=True Radiator=False Fan=False workType=corrective processingDuration=]1-2] planned=True requested=True => Pannechauffind
+Boiler=True Radiator=False Fan=False workType=corrective processingDuration=]1-2] planned=True occupant_absent=False requested=True => Pannechauffind
+Boiler=True Leak=True criticalLevel=one responseTime=0 planned=False occupant_absent=False requested=False canceled=False => VisiteentretienchaudiÃ¨re
+Boiler=True Water=True Leak=True criticalLevel=one responseTime=0 planned=False occupant_absent=False requested=False canceled=False => VisiteentretienchaudiÃ¨re
+Boiler=True Radiator=False Fan=False Water=False Leak=False criticalLevel=one workType=corrective planned=True occupant_absent=False requested=True => Pannechauffind
+Boiler=True Fan=False Leak=True criticalLevel=one responseTime=0 planned=False occupant_absent=False requested=False => VisiteentretienchaudiÃ¨re
+Boiler=True Fan=False Leak=True criticalLevel=one responseTime=0 planned=False requested=False canceled=False => VisiteentretienchaudiÃ¨re
+Boiler=True Fan=False Leak=True responseTime=0 planned=False occupant_absent=False requested=False canceled=False => VisiteentretienchaudiÃ¨re
+Boiler=True Fan=False Leak=True criticalLevel=one responseTime=0 planned=False occupant_absent=False requested=False canceled=False => VisiteentretienchaudiÃ¨re
+Boiler=True Fan=False Water=True Leak=True criticalLevel=one responseTime=0 planned=False occupant_absent=False requested=False => VisiteentretienchaudiÃ¨re
+Boiler=True Fan=False Water=True Leak=True criticalLevel=one responseTime=0 planned=False requested=False canceled=False => VisiteentretienchaudiÃ¨re
+Boiler=True Fan=False Water=True Leak=True responseTime=0 planned=False occupant_absent=False requested=False canceled=False => VisiteentretienchaudiÃ¨re
+Boiler=True Fan=False Water=True Leak=True criticalLevel=one responseTime=0 planned=False occupant_absent=False requested=False canceled=False => VisiteentretienchaudiÃ¨re
+Boiler=True Radiator=False Fan=False Water=False Leak=False criticalLevel=one workType=corrective planned=True requested=True canceled=False => Pannechauffind
+Boiler=True Radiator=False Fan=False Leak=False criticalLevel=one workType=corrective requested=True canceled=False => Pannechauffind
+Boiler=True Radiator=False Fan=False Leak=False criticalLevel=one workType=corrective occupant_absent=False requested=True => Pannechauffind
+Boiler=True Radiator=False Fan=False Leak=False workType=corrective occupant_absent=False requested=True canceled=False => Pannechauffind
+Boiler=True Water=True criticalLevel=one responseTime=0 planned=False occupant_absent=False requested=False canceled=False => VisiteentretienchaudiÃ¨re
+Boiler=True Radiator=False Fan=False Water=False Leak=False criticalLevel=one workType=corrective occupant_absent=False requested=True => Pannechauffind
+Fan=False workType=corrective occupant_absent=True => Pannechauffind
+Radiator=False Fan=False workType=corrective occupant_absent=True => Pannechauffind
+Boiler=False Radiator=False Fan=False Leak=True workType=corrective requested=True => PanneRobinetterie
+Boiler=False Radiator=False Fan=False Leak=True workType=corrective occupant_absent=False requested=True => PanneRobinetterie
+Boiler=False Radiator=False Fan=False Leak=True workType=corrective planned=True requested=True => PanneRobinetterie
+Boiler=False Radiator=False Fan=False Leak=True workType=corrective planned=True occupant_absent=False requested=True => PanneRobinetterie
+Boiler=True Radiator=False Fan=False criticalLevel=one workType=corrective occupant_absent=False requested=True canceled=False => Pannechauffind
+Boiler=True Fan=False Water=True criticalLevel=one responseTime=0 planned=False requested=False canceled=False => VisiteentretienchaudiÃ¨re
+Boiler=True Fan=False Water=True responseTime=0 planned=False occupant_absent=False requested=False canceled=False => VisiteentretienchaudiÃ¨re
+Boiler=True Fan=False Water=True criticalLevel=one responseTime=0 planned=False occupant_absent=False requested=False canceled=False => VisiteentretienchaudiÃ¨re
+Boiler=True Radiator=False Fan=False Water=False Leak=False criticalLevel=one workType=corrective requested=True canceled=False => Pannechauffind
+Boiler=True criticalLevel=one responseTime=0 planned=False occupant_absent=False requested=False canceled=False => VisiteentretienchaudiÃ¨re
+workType=corrective occupant_absent=True => Pannechauffind
+Radiator=False workType=corrective occupant_absent=True => Pannechauffind
+Boiler=False Fan=False Leak=True workType=corrective occupant_absent=False requested=True => PanneRobinetterie
+Boiler=False Fan=False Leak=True workType=corrective planned=True occupant_absent=False requested=True => PanneRobinetterie
+Boiler=True Fan=False responseTime=0 planned=False occupant_absent=False requested=False canceled=False => VisiteentretienchaudiÃ¨re
+Boiler=True Fan=False criticalLevel=one responseTime=0 planned=False occupant_absent=False requested=False canceled=False => VisiteentretienchaudiÃ¨re
+Boiler=True Fan=False Water=True Leak=True criticalLevel=one occupant_absent=False canceled=False => VisiteentretienchaudiÃ¨re
+Boiler=True Fan=False criticalLevel=one responseTime=0 planned=False requested=False canceled=False => VisiteentretienchaudiÃ¨re
+Radiator=False Fan=False Leak=True workType=corrective occupant_absent=False requested=True => PanneRobinetterie
+Radiator=False Fan=False Leak=True workType=corrective planned=True occupant_absent=False requested=True => PanneRobinetterie
+Radiator=False Fan=False Leak=True workType=corrective requested=True => PanneRobinetterie
+Radiator=False Fan=False Leak=True workType=corrective planned=True requested=True => PanneRobinetterie
+Boiler=True Fan=False occupant_absent=False canceled=False => Pannechauffind
+Boiler=True Leak=True occupant_absent=False canceled=False => VisiteentretienchaudiÃ¨re
+Boiler=True Radiator=False Fan=False criticalLevel=one occupant_absent=False canceled=False => Pannechauffind

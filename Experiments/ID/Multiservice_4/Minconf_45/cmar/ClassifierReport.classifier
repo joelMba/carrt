@@ -1,0 +1,18 @@
+workType=corrective responseTime=]16-24] planned=True occupant_absent=False requested=True => Pannechauffind
+criticalLevel=five workType=corrective planned=True occupant_absent=False requested=True => Pannechauffind
+workType=corrective processingDuration=]1-2] occupant_absent=False requested=True => Pannechauffind
+workType=corrective processingDuration=]1-2] occupant_absent=False canceled=False => Pannechauffind
+workType=corrective processingDuration=]1-2] planned=True occupant_absent=False => Pannechauffind
+workType=corrective processingDuration=]1-2] planned=True requested=True => Pannechauffind
+processingDuration=]1-2] planned=True occupant_absent=False requested=True => Pannechauffind
+workType=corrective processingDuration=]1-2] planned=True occupant_absent=False requested=True => Pannechauffind
+requested=True canceled=False => Pannechauffind
+workType=corrective requested=True canceled=False => Pannechauffind
+planned=True canceled=False => Pannechauffind
+planned=True requested=True canceled=False => Pannechauffind
+workType=corrective planned=True requested=True canceled=False => Pannechauffind
+requested=True => Pannechauffind
+workType=corrective requested=True => Pannechauffind
+planned=True requested=True => Pannechauffind
+workType=corrective planned=True requested=True => Pannechauffind
+workType=corrective occupant_absent=False => Pannechauffind

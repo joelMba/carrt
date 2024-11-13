@@ -1,0 +1,13 @@
+workType=corrective occupant_absent=True => Pannechauffind
+workType=corrective responseTime=]16-24] requested=True => Pannechauffind
+responseTime=]16-24] occupant_absent=False requested=True => Pannechauffind
+workType=corrective responseTime=]16-24] occupant_absent=False requested=True => Pannechauffind
+workType=corrective responseTime=]16-24] planned=True occupant_absent=False => Pannechauffind
+workType=corrective responseTime=]16-24] planned=True requested=True => Pannechauffind
+responseTime=]16-24] planned=True occupant_absent=False requested=True => Pannechauffind
+workType=corrective responseTime=]16-24] planned=True occupant_absent=False requested=True => Pannechauffind
+workType=corrective processingDuration=]1-2] occupant_absent=False => Pannechauffind
+criticalLevel=five occupant_absent=False requested=True => Pannechauffind
+criticalLevel=five workType=corrective occupant_absent=False requested=True => Pannechauffind
+criticalLevel=five planned=True occupant_absent=False requested=True => Pannechauffind
+criticalLevel=five workType=corrective planned=True occupant_absent=False requested=True => Pannechauffind

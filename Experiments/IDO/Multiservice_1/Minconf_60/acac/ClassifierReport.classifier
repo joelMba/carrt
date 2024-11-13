@@ -1,0 +1,9 @@
+workType=preventive => Visiteentretienchauffagecollectif
+processingDuration=]2-4] => Pannechauffage
+Boiler=True Water=True => Pannechauffage
+Water=False workType=corrective => Pannechauffage
+Water=False processingDuration=]1-2] => Pannechauffage
+Leak=False workType=corrective => Pannechauffage
+Leak=False processingDuration=]1-2] => Pannechauffage
+processingDuration=]1-2] requested=True => Pannechauffage
+Boiler=False Water=True workType=corrective processingDuration=]0-1] requested=False => Pannefuited'eau

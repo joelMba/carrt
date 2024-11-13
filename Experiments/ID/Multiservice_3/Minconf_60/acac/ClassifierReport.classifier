@@ -1,0 +1,26 @@
+criticalLevel=five => PanneRobinetterie
+criticalLevel=minus-one => PanneRobinetterie
+criticalLevel=one => PanneRobinetterie
+workType=corrective => PanneRobinetterie
+responseTime=]16-24] => PanneRobinetterie
+responseTime=]24-48] => PanneRobinetterie
+responseTime=]4-16] => PanneRobinetterie
+responseTime=]72--[ => PanneRobinetterie
+processingDuration=]0-1] => PanneRobinetterie
+processingDuration=]4-16] => PanneRobinetterie
+resolutionDuration=]16-24] => PanneRobinetterie
+resolutionDuration=]24-48] => PanneRobinetterie
+resolutionDuration=]4-16] => PanneRobinetterie
+resolutionDuration=]48-72] => PanneRobinetterie
+resolutionDuration=]72--[ => PanneRobinetterie
+done=True => PanneRobinetterie
+replanned=False => PanneRobinetterie
+occupant_absent=False => PanneRobinetterie
+occupant_absent=True => PanneRobinetterie
+temporary_repair=False => PanneRobinetterie
+canceled=False => PanneRobinetterie
+canceled=True => PanneRobinetterie
+criticalLevel=minus-one done=False replanned=False occupant_absent=False => Pannechauffind
+criticalLevel=minus-one done=False replanned=False temporary_repair=True => Pannechauffind
+done=False replanned=False occupant_absent=False canceled=False => Pannechauffind
+done=False replanned=False temporary_repair=True canceled=False => Pannechauffind

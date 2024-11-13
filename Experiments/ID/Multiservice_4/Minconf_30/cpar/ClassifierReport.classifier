@@ -1,0 +1,43 @@
+responseTime=]72--[ processingDuration=]0-1] => EntretienpompesÃ chaleur
+responseTime=]72--[ => EntretienpompesÃ chaleur
+responseTime=]72--[ processingDuration=]0-1] canceled=True => PanneElectrique
+resolutionDuration=]0-1] => PanneElectrique
+responseTime=]2-4] canceled=True => PanneProductionECS
+resolutionDuration=]4-16] canceled=True => PanneProductionECS
+canceled=True => PanneProductionECS
+responseTime=]24-48] => PanneProductionECS
+responseTime=]0-1] => PanneRobinetterie
+criticalLevel=one responseTime=]4-16] processingDuration=]0-1] => PanneRobinetterie
+criticalLevel=one processingDuration=]0-1] => PanneRobinetterie
+processingDuration=]2-4] => PanneRobinetterie
+resolutionDuration=]16-24] canceled=True => PanneSolaireThermiqueautresinterventions
+responseTime=]72--[ => PanneVMCgaz
+criticalLevel=one resolutionDuration=0 planned=True => PanneVMCsanitaire
+responseTime=]72--[ => PanneVMCsanitaire
+responseTime=]48-72] processingDuration=]2-4] => PanneVMCsanitaire
+processingDuration=]2-4] resolutionDuration=]48-72] => PanneVMCsanitaire
+criticalLevel=five workType=corrective processingDuration=]1-2] => Pannechauffind
+criticalLevel=three workType=corrective responseTime=]16-24] => Pannechauffind
+criticalLevel=three workType=corrective responseTime=]4-16] => Pannechauffind
+criticalLevel=three workType=corrective processingDuration=]1-2] => Pannechauffind
+criticalLevel=three workType=corrective resolutionDuration=]16-24] => Pannechauffind
+criticalLevel=three workType=corrective resolutionDuration=]4-16] => Pannechauffind
+criticalLevel=five processingDuration=]1-2] => Pannechauffind
+criticalLevel=five responseTime=0 => Pannechauffind
+responseTime=]1-2] => Pannechauffind
+processingDuration=]4-16] => Pannechauffind
+criticalLevel=five => Pannechauffind
+responseTime=]2-4] => Pannechauffind
+criticalLevel=three => Pannechauffind
+processingDuration=]72--[ => Pannechauffind
+workType=preventive resolutionDuration=]1-2] => VisiteentretienECS
+workType=preventive processingDuration=]2-4] => VisiteentretienchaudiÃ¨re
+workType=preventive resolutionDuration=]2-4] => VisiteentretienchaudiÃ¨re
+workType=preventive => VisiteentretienchaudiÃ¨re
+workType=preventive => Visiteentretienconvecteur
+workType=preventive processingDuration=]0-1] occupant_absent=True => Visiteentretienrobinetterie
+workType=preventive resolutionDuration=]0-1] occupant_absent=True => Visiteentretienrobinetterie
+workType=preventive occupant_absent=True => Visiteentretienrobinetterie
+workType=preventive processingDuration=]0-1] => Visiteentretienventilationcoll
+workType=preventive => Visiteentretienventilationcoll
+workType=preventive => Visiteentretienventilationind

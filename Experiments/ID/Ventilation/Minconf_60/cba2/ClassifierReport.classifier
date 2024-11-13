@@ -1,0 +1,37 @@
+workType=preventive planned=False => TMH-visiteentretienventilation
+workType=preventive occupant_absent=True => TMH-visiteentretienventilation
+workType=preventive start=True requested=True => TMH-visiteentretienventilation
+criticalLevel=one planned=True replanned=True => TMH-dÃ©pannageventilation
+workType=preventive replanned=True requested=True => TMH-visiteentretienventilation
+workType=corrective responseTime=]24-48] => TMH-dÃ©pannageventilation
+start=False requested=False => TMH-visiteentretienventilation
+workType=corrective responseTime=]48-72] => TMH-dÃ©pannageventilation
+workType=corrective resolutionDuration=]48-72] => TMH-dÃ©pannageventilation
+criticalLevel=one processingDuration=]72--[ => TMH-dÃ©pannageventilation
+workType=preventive processingDuration=]4-16] => TMH-visiteentretienventilation
+workType=corrective postponed=True => TMH-dÃ©pannageventilation
+criticalLevel=zero responseTime=]2-4] => TMH-visiteentretienventilation
+workType=corrective responseTime=]16-24] => TMH-dÃ©pannageventilation
+workType=preventive processingDuration=]2-4] => TMH-visiteentretienventilation
+workType=corrective processingDuration=]4-16] => TMH-dÃ©pannageventilation
+workType=preventive processingDuration=]48-72] => TMH-visiteentretienventilation
+workType=preventive responseTime=]48-72] replanned=True => TMH-visiteentretienventilation
+workType=preventive resolutionDuration=]48-72] replanned=True => TMH-visiteentretienventilation
+workType=corrective processingDuration=]1-2] => TMH-dÃ©pannageventilation
+workType=corrective processingDuration=]48-72] => TMH-dÃ©pannageventilation
+workType=corrective processingDuration=]24-48] => TMH-dÃ©pannageventilation
+workType=corrective resolutionDuration=]16-24] => TMH-dÃ©pannageventilation
+workType=corrective responseTime=]4-16] => TMH-dÃ©pannageventilation
+workType=corrective processingDuration=]16-24] => TMH-dÃ©pannageventilation
+criticalLevel=zero workType=corrective processingDuration=]0-1] => TMH-dÃ©pannageventilation
+criticalLevel=zero responseTime=]72--[ processingDuration=]72--[ planned=False postponed=False => DÃ©pannage
+criticalLevel=zero responseTime=]0-1] processingDuration=]0-1] => TMH-visiteentretiencaissonVMCsanitaire
+criticalLevel=one responseTime=]72--[ processingDuration=]0-1] planned=False => DÃ©pannage
+criticalLevel=zero responseTime=]16-24] processingDuration=]0-1] replanned=False => TMH-visiteentretiencaissonVMCsanitaire
+workType=preventive responseTime=]24-48] processingDuration=]72--[ postponed=True occupant_absent=False => TMH-visiteentretiencaissonVMCsanitaire
+responseTime=]72--[ processingDuration=0 start=True postponed=False requested=False => TMH-visiteentretiencaissonVMCsanitaire
+workType=corrective planned=True replanned=True => TMH-dÃ©pannageventilation
+criticalLevel=one planned=True => TMH-dÃ©pannageventilation
+workType=preventive requested=True => TMH-visiteentretienventilation
+criticalLevel=one => TMH-dÃ©pannageventilation
+ => TMH-visiteentretienventilation

@@ -1,0 +1,253 @@
+Fan,replace,criticalLevel,workType,responseTime,processingDuration,resolutionDuration,start,planned,replanned,postponed,occupant_absent,requested,class
+False,False,zero,preventive,]1-2],]1-2],]2-4],True,True,True,False,False,False,TMH - visite entretien ventilation
+True,False,five,corrective,]72--[,]72--[,]72--[,True,True,True,False,False,True,TMH - dépannage ventilation
+False,False,zero,preventive,]72--[,]72--[,]72--[,True,True,False,False,True,True,TMH - visite entretien ventilation
+False,False,zero,preventive,]72--[,]16-24],]72--[,True,True,True,False,True,False,TMH - visite entretien ventilation
+False,False,zero,preventive,]0-1],]16-24],]16-24],True,True,True,False,False,False,TMH - visite entretien ventilation
+False,False,zero,preventive,]72--[,0,]72--[,True,True,True,False,False,False,TMH - visite entretien ventilation
+False,False,zero,preventive,]16-24],]0-1],]16-24],True,True,False,False,False,False,TMH - visite entretien ventilation
+False,True,zero,corrective,]72--[,]0-1],]72--[,True,False,True,False,False,True,TMH - dépannage ventilation
+False,False,zero,preventive,]4-16],]4-16],]24-48],True,True,True,False,False,False,TMH - visite entretien ventilation
+False,False,one,corrective,]48-72],]0-1],]48-72],True,True,True,False,False,True,TMH - dépannage ventilation
+True,False,one,corrective,]72--[,]72--[,]72--[,True,True,False,False,False,True,TMH - dépannage ventilation
+False,False,zero,preventive,]16-24],]72--[,]72--[,True,True,True,True,True,False,TMH - visite entretien ventilation
+False,False,zero,preventive,]24-48],0,]24-48],True,True,True,False,False,False,TMH - visite entretien ventilation
+False,False,zero,preventive,0,0,0,True,False,True,False,True,False,TMH - visite entretien ventilation
+False,False,zero,preventive,]48-72],]48-72],]72--[,True,True,True,False,False,False,TMH - visite entretien ventilation
+False,False,zero,preventive,]72--[,]4-16],]72--[,True,True,True,False,False,False,TMH - visite entretien caisson VMC sanitaire
+False,False,zero,preventive,0,]4-16],]4-16],False,False,True,True,False,False,TMH - visite entretien ventilation
+False,False,zero,preventive,]72--[,]72--[,]72--[,False,True,True,True,True,False,TMH - visite entretien ventilation
+False,False,zero,preventive,]72--[,]72--[,]72--[,True,True,False,False,False,False,TMH - visite entretien ventilation
+False,False,zero,preventive,]24-48],]72--[,]72--[,False,True,True,False,False,False,TMH - visite entretien ventilation
+False,False,zero,preventive,]24-48],]0-1],]24-48],True,True,True,False,False,False,TMH - visite entretien caisson VMC sanitaire
+False,False,zero,preventive,]1-2],]0-1],]1-2],True,True,False,False,False,False,TMH - visite entretien caisson VMC sanitaire
+False,False,zero,preventive,]4-16],]72--[,]72--[,True,True,True,False,True,True,TMH - visite entretien ventilation
+False,False,zero,preventive,0,]48-72],]48-72],False,False,False,True,False,False,TMH - visite entretien ventilation
+False,False,zero,preventive,0,0,0,False,False,False,False,False,False,TMH - visite entretien ventilation
+False,False,zero,preventive,]72--[,]1-2],]72--[,True,True,True,False,True,False,TMH - visite entretien ventilation
+True,False,one,corrective,]24-48],]0-1],]24-48],True,True,True,True,False,True,TMH - dépannage ventilation
+False,False,zero,preventive,]48-72],]72--[,]72--[,True,True,True,False,False,False,TMH - visite entretien ventilation
+False,False,zero,preventive,]4-16],]0-1],]4-16],True,True,True,True,False,False,TMH - visite entretien ventilation
+False,False,zero,preventive,0,]72--[,]72--[,True,True,True,True,False,False,TMH - visite entretien ventilation
+False,False,zero,preventive,]4-16],0,]4-16],True,True,True,False,False,False,TMH - visite entretien ventilation
+False,False,zero,preventive,]0-1],]0-1],]1-2],True,False,False,False,False,True,TMH - visite entretien ventilation
+False,False,zero,preventive,]24-48],]72--[,]72--[,True,True,True,False,True,False,TMH - visite entretien ventilation
+False,False,zero,preventive,]16-24],]24-48],]48-72],True,True,True,False,False,False,TMH - visite entretien ventilation
+True,True,zero,corrective,]16-24],]16-24],]24-48],True,False,True,False,False,True,TMH - dépannage ventilation
+False,False,one,corrective,]72--[,]72--[,]72--[,True,False,True,False,False,True,TMH - dépannage ventilation
+True,False,one,corrective,]24-48],]0-1],]24-48],True,True,True,False,False,True,TMH - dépannage ventilation
+False,False,zero,preventive,]72--[,]72--[,]72--[,True,True,True,False,False,False,TMH - visite entretien ventilation
+False,False,zero,preventive,]72--[,]0-1],]72--[,True,True,False,False,False,True,TMH - visite entretien ventilation
+False,False,zero,preventive,]72--[,]72--[,]72--[,True,True,True,False,False,False,TMH - visite entretien ventilation
+True,True,zero,corrective,]48-72],0,]48-72],True,True,True,False,False,True,TMH - dépannage ventilation
+False,False,zero,preventive,]72--[,]72--[,]72--[,True,True,False,True,True,False,TMH - visite entretien ventilation
+False,False,zero,preventive,]72--[,]1-2],]72--[,True,True,False,False,False,True,TMH - visite entretien ventilation
+False,False,zero,preventive,0,]72--[,]72--[,True,True,True,True,True,False,TMH - visite entretien ventilation
+False,False,zero,preventive,]72--[,]72--[,]72--[,True,True,False,False,False,False,TMH - visite entretien ventilation
+False,False,zero,preventive,0,]48-72],]48-72],True,False,True,False,True,False,TMH - visite entretien ventilation
+False,False,zero,preventive,]16-24],]0-1],]16-24],True,True,True,False,False,False,TMH - visite entretien ventilation
+False,False,zero,preventive,0,]24-48],]24-48],True,False,True,False,False,False,TMH - visite entretien ventilation
+False,False,zero,preventive,]48-72],]72--[,]72--[,False,True,True,False,False,False,TMH - visite entretien ventilation
+False,False,zero,corrective,]48-72],]0-1],]48-72],True,True,True,False,False,True,TMH - dépannage ventilation
+False,False,zero,preventive,]72--[,]4-16],]72--[,False,True,True,False,False,False,TMH - visite entretien ventilation
+False,False,zero,corrective,]24-48],0,]24-48],True,False,True,False,False,True,TMH - dépannage ventilation
+True,False,zero,corrective,]24-48],]2-4],]48-72],True,False,True,False,False,True,Dépannage
+False,False,zero,preventive,]72--[,]16-24],]72--[,True,True,True,False,False,False,TMH - visite entretien ventilation
+True,False,one,corrective,]24-48],]24-48],]48-72],True,True,True,False,False,True,TMH - dépannage ventilation
+False,False,zero,preventive,]72--[,]72--[,]72--[,True,True,True,True,True,False,TMH - visite entretien ventilation
+False,False,zero,preventive,]72--[,0,]72--[,False,True,False,False,False,False,TMH - visite entretien ventilation
+False,True,zero,corrective,]24-48],]24-48],]48-72],True,True,True,False,False,True,TMH - dépannage ventilation
+True,False,one,corrective,]48-72],]72--[,]72--[,True,True,True,False,False,True,TMH - dépannage ventilation
+True,False,one,corrective,]72--[,]72--[,]72--[,True,True,True,False,False,True,TMH - dépannage ventilation
+False,False,zero,preventive,]72--[,]72--[,]72--[,True,True,True,True,False,True,TMH - visite entretien ventilation
+False,False,zero,preventive,]24-48],]4-16],]48-72],True,True,True,False,False,False,TMH - visite entretien ventilation
+False,True,zero,corrective,]72--[,]1-2],]72--[,True,True,False,False,False,True,TMH - dépannage ventilation
+False,True,zero,corrective,]48-72],]2-4],]72--[,True,True,True,False,False,True,TMH - dépannage ventilation
+False,False,zero,corrective,0,]0-1],]0-1],True,False,False,False,False,False,TMH - dépannage ventilation
+True,False,one,corrective,]24-48],]24-48],]72--[,True,False,True,False,False,True,TMH - dépannage ventilation
+False,False,zero,preventive,]48-72],]0-1],]72--[,True,True,False,False,False,False,TMH - visite entretien ventilation
+True,False,one,corrective,]48-72],]48-72],]72--[,True,True,True,False,False,True,TMH - dépannage ventilation
+False,False,zero,corrective,]72--[,]72--[,]72--[,True,True,True,False,True,True,Dépannage
+True,True,zero,corrective,]72--[,]72--[,]72--[,True,False,True,True,False,True,TMH - dépannage ventilation
+True,False,one,corrective,]48-72],]2-4],]48-72],True,True,False,False,False,True,TMH - dépannage ventilation
+False,False,zero,preventive,]72--[,]2-4],]72--[,True,True,True,False,False,True,TMH - visite entretien ventilation
+False,False,zero,preventive,0,]1-2],]1-2],False,False,False,True,False,False,TMH - visite entretien ventilation
+False,False,zero,preventive,0,]72--[,]72--[,True,True,True,True,False,False,TMH - visite entretien ventilation
+False,True,zero,corrective,]0-1],]0-1],]0-1],True,True,False,False,False,True,TMH - dépannage ventilation
+False,False,zero,preventive,]0-1],]24-48],]24-48],True,True,False,False,False,False,TMH - visite entretien ventilation
+False,False,zero,preventive,]72--[,]1-2],]72--[,True,True,False,False,False,False,TMH - visite entretien ventilation
+False,False,zero,preventive,]24-48],]2-4],]24-48],True,True,True,False,False,False,TMH - visite entretien ventilation
+False,False,zero,preventive,]72--[,]2-4],]72--[,True,True,True,False,False,True,TMH - visite entretien ventilation
+False,False,zero,preventive,]72--[,]1-2],]72--[,True,True,True,False,False,True,TMH - visite entretien ventilation
+False,False,zero,preventive,]0-1],]4-16],]4-16],True,True,True,False,False,False,TMH - visite entretien ventilation
+False,False,zero,preventive,]72--[,]72--[,]72--[,True,True,True,False,False,True,TMH - visite entretien ventilation
+False,False,zero,preventive,]24-48],]16-24],]24-48],True,True,True,False,False,False,TMH - visite entretien ventilation
+False,True,zero,corrective,]72--[,]1-2],]72--[,True,False,True,False,False,True,TMH - dépannage ventilation
+True,True,zero,corrective,]72--[,]2-4],]72--[,True,False,True,False,False,True,TMH - dépannage ventilation
+True,False,one,corrective,]72--[,]72--[,]72--[,True,True,True,False,False,True,TMH - dépannage ventilation
+True,False,one,corrective,]4-16],]72--[,]72--[,True,True,True,True,False,True,TMH - dépannage ventilation
+False,False,zero,preventive,]72--[,]72--[,]72--[,True,True,True,True,False,False,TMH - visite entretien ventilation
+False,False,zero,preventive,0,]0-1],]0-1],False,False,False,False,True,False,TMH - visite entretien ventilation
+False,False,zero,preventive,]72--[,]72--[,]72--[,True,True,False,False,True,False,TMH - visite entretien caisson VMC sanitaire
+False,False,zero,preventive,]16-24],]72--[,]72--[,True,True,True,True,False,False,TMH - visite entretien ventilation
+True,False,one,corrective,]48-72],]1-2],]48-72],True,True,False,False,False,True,TMH - dépannage ventilation
+True,True,zero,corrective,]72--[,]0-1],]72--[,True,True,True,False,False,True,TMH - dépannage ventilation
+True,True,zero,corrective,]24-48],]72--[,]72--[,True,True,True,False,True,True,TMH - dépannage ventilation
+False,False,zero,preventive,]0-1],]0-1],]1-2],True,True,False,False,False,False,TMH - visite entretien ventilation
+False,False,zero,preventive,]72--[,]72--[,]72--[,True,True,True,True,False,False,TMH - visite entretien ventilation
+True,False,zero,corrective,]48-72],]4-16],]48-72],True,False,True,False,False,True,TMH - dépannage ventilation
+False,False,zero,preventive,0,]16-24],]16-24],False,False,False,False,True,False,TMH - visite entretien ventilation
+False,False,zero,preventive,]24-48],]72--[,]72--[,True,True,True,False,False,False,TMH - visite entretien ventilation
+True,False,one,corrective,]72--[,]4-16],]72--[,True,False,True,False,False,True,TMH - dépannage ventilation
+False,False,zero,preventive,]4-16],]0-1],]4-16],True,True,True,False,False,False,TMH - visite entretien ventilation
+True,False,one,corrective,]48-72],]4-16],]72--[,True,False,True,False,False,True,TMH - dépannage ventilation
+False,False,zero,preventive,]72--[,]72--[,]72--[,True,True,True,True,False,True,TMH - visite entretien ventilation
+False,False,zero,preventive,]72--[,]48-72],]72--[,True,True,True,False,False,True,TMH - visite entretien ventilation
+False,False,zero,preventive,]0-1],]0-1],]0-1],True,True,False,False,False,True,TMH - visite entretien ventilation
+False,False,zero,preventive,]16-24],]1-2],]24-48],True,True,False,False,False,False,TMH - visite entretien ventilation
+False,False,zero,preventive,]0-1],0,]0-1],False,True,False,False,False,False,TMH - visite entretien ventilation
+False,False,zero,preventive,]16-24],]2-4],]16-24],True,True,True,False,False,False,TMH - visite entretien ventilation
+False,False,zero,preventive,]72--[,]2-4],]72--[,True,True,True,False,False,False,TMH - visite entretien caisson VMC sanitaire
+True,False,one,corrective,]48-72],]4-16],]48-72],True,True,True,False,False,True,TMH - dépannage ventilation
+True,False,one,corrective,]24-48],]0-1],]48-72],True,True,False,False,False,True,TMH - dépannage ventilation
+False,False,one,corrective,]24-48],]4-16],]48-72],True,True,True,False,False,True,TMH - dépannage ventilation
+False,False,zero,preventive,]72--[,]0-1],]72--[,False,True,True,True,False,False,TMH - visite entretien ventilation
+False,False,zero,preventive,0,0,0,False,False,False,True,False,False,TMH - visite entretien ventilation
+True,False,zero,corrective,]24-48],]4-16],]24-48],True,True,False,False,False,True,TMH - dépannage ventilation
+False,False,zero,preventive,]72--[,]4-16],]72--[,True,True,True,False,False,False,TMH - visite entretien ventilation
+False,False,zero,preventive,]1-2],]0-1],]2-4],True,True,False,False,False,False,TMH - visite entretien ventilation
+False,False,zero,preventive,]72--[,]2-4],]72--[,True,True,False,False,False,False,TMH - visite entretien ventilation
+False,False,zero,preventive,]48-72],]72--[,]72--[,True,True,True,True,False,False,TMH - visite entretien ventilation
+True,False,one,corrective,0,]72--[,]72--[,True,False,True,True,False,True,TMH - dépannage ventilation
+False,False,zero,preventive,]72--[,]72--[,]72--[,True,True,True,False,True,False,TMH - visite entretien ventilation
+False,False,zero,preventive,0,]0-1],]0-1],False,False,True,True,False,False,TMH - visite entretien ventilation
+False,True,zero,corrective,]24-48],]4-16],]24-48],True,False,True,False,False,True,TMH - dépannage ventilation
+False,False,zero,preventive,]72--[,]24-48],]72--[,True,True,False,False,False,False,TMH - visite entretien ventilation
+False,False,zero,preventive,]24-48],]0-1],]24-48],True,True,False,False,False,False,TMH - visite entretien ventilation
+True,False,one,corrective,]72--[,]2-4],]72--[,True,False,True,False,False,True,TMH - dépannage ventilation
+False,False,zero,preventive,]72--[,]72--[,]72--[,True,True,False,False,False,True,TMH - visite entretien ventilation
+False,False,zero,preventive,]72--[,]72--[,]72--[,True,True,True,False,True,False,TMH - visite entretien ventilation
+False,False,zero,preventive,]72--[,]72--[,]72--[,True,True,False,False,True,False,TMH - visite entretien ventilation
+False,False,zero,preventive,]4-16],]4-16],]4-16],True,True,True,False,False,False,TMH - visite entretien ventilation
+False,False,zero,preventive,]72--[,]0-1],]72--[,True,True,True,True,False,False,TMH - visite entretien ventilation
+False,False,one,corrective,]48-72],]72--[,]72--[,True,True,True,True,True,True,TMH - dépannage ventilation
+True,True,zero,corrective,]72--[,]2-4],]72--[,True,True,False,False,False,True,TMH - dépannage ventilation
+False,False,zero,preventive,]72--[,]72--[,]72--[,False,True,False,False,False,False,TMH - visite entretien ventilation
+False,False,zero,preventive,0,0,0,False,False,False,False,True,False,TMH - visite entretien ventilation
+False,False,zero,preventive,]16-24],0,]16-24],False,True,False,False,False,False,TMH - visite entretien ventilation
+False,False,zero,preventive,]2-4],]0-1],]2-4],True,True,False,False,False,False,TMH - visite entretien caisson VMC sanitaire
+False,False,zero,preventive,]72--[,]16-24],]72--[,True,True,False,False,False,False,TMH - visite entretien ventilation
+False,False,zero,preventive,]72--[,]1-2],]72--[,True,True,True,False,False,True,TMH - visite entretien ventilation
+False,False,zero,preventive,]72--[,]72--[,]72--[,True,True,True,False,False,False,TMH - visite entretien ventilation
+True,False,one,corrective,]2-4],]72--[,]72--[,True,True,True,True,False,True,TMH - dépannage ventilation
+False,False,zero,preventive,]16-24],]72--[,]72--[,True,True,True,True,False,False,TMH - visite entretien ventilation
+False,False,zero,preventive,]0-1],]0-1],]1-2],True,True,True,False,False,False,TMH - visite entretien ventilation
+False,False,zero,preventive,]24-48],]24-48],]72--[,True,True,True,False,False,False,TMH - visite entretien ventilation
+False,False,one,corrective,]16-24],]24-48],]48-72],True,True,False,False,False,True,TMH - dépannage ventilation
+True,False,one,corrective,]16-24],]16-24],]24-48],True,True,True,True,False,True,TMH - dépannage ventilation
+False,False,zero,preventive,]24-48],]4-16],]24-48],True,True,True,False,False,False,TMH - visite entretien caisson VMC sanitaire
+False,False,zero,preventive,]72--[,]0-1],]72--[,True,True,False,False,False,False,TMH - visite entretien caisson VMC sanitaire
+True,True,zero,corrective,]48-72],]24-48],]72--[,True,False,True,False,False,True,TMH - dépannage ventilation
+False,False,zero,preventive,]0-1],]2-4],]2-4],True,True,False,False,False,False,TMH - visite entretien ventilation
+False,False,zero,preventive,]0-1],]2-4],]2-4],True,True,True,False,False,False,TMH - visite entretien ventilation
+False,True,zero,corrective,]72--[,]2-4],]72--[,True,True,True,False,False,True,TMH - dépannage ventilation
+True,False,one,corrective,]16-24],]0-1],]24-48],True,True,False,False,False,True,TMH - dépannage ventilation
+True,False,zero,corrective,]4-16],]0-1],]4-16],True,False,True,False,False,True,TMH - dépannage ventilation
+False,True,zero,corrective,]72--[,]72--[,]72--[,True,True,True,False,False,True,TMH - dépannage ventilation
+False,False,zero,preventive,]72--[,]0-1],]72--[,True,True,True,True,False,False,TMH - visite entretien ventilation
+True,False,zero,corrective,]48-72],]72--[,]72--[,True,True,True,False,False,True,TMH - dépannage ventilation
+True,False,one,corrective,0,]4-16],]4-16],True,False,True,False,False,True,TMH - dépannage ventilation
+False,False,zero,preventive,]72--[,]24-48],]72--[,True,True,True,False,False,True,TMH - visite entretien ventilation
+False,False,zero,preventive,0,]24-48],]24-48],True,True,True,True,True,False,TMH - visite entretien ventilation
+True,False,one,corrective,]72--[,]72--[,]72--[,True,True,True,False,False,True,ALTEAL - dépannage multiservice
+True,False,zero,corrective,]48-72],]4-16],]72--[,True,True,True,False,False,True,TMH - dépannage ventilation
+False,False,zero,preventive,]0-1],0,]0-1],False,False,False,False,False,True,TMH - visite entretien ventilation
+False,False,one,corrective,]16-24],]16-24],]24-48],True,True,False,False,False,True,TMH - dépannage ventilation
+False,False,zero,preventive,0,]0-1],]0-1],True,False,False,False,False,False,TMH - visite entretien ventilation
+False,True,zero,corrective,]24-48],]72--[,]72--[,True,True,True,False,False,True,TMH - dépannage ventilation
+True,False,zero,corrective,]72--[,]1-2],]72--[,True,True,True,False,False,True,Dépannage
+True,False,one,corrective,]4-16],]72--[,]72--[,True,True,False,False,False,True,TMH - dépannage ventilation
+False,False,zero,preventive,]0-1],]0-1],]0-1],True,True,False,False,False,False,TMH - visite entretien ventilation
+False,False,zero,preventive,]24-48],]2-4],]48-72],True,True,True,False,False,False,TMH - visite entretien ventilation
+False,False,zero,preventive,0,]24-48],]24-48],False,False,True,True,False,False,TMH - visite entretien ventilation
+False,False,one,corrective,]72--[,]72--[,]72--[,True,True,True,False,False,True,TMH - dépannage ventilation
+False,False,zero,preventive,]72--[,]0-1],]72--[,True,True,True,False,False,True,TMH - visite entretien ventilation
+False,False,zero,preventive,]24-48],]0-1],]24-48],True,True,False,False,False,False,TMH - visite entretien caisson VMC sanitaire
+False,False,zero,preventive,]48-72],]72--[,]72--[,True,True,True,True,True,False,TMH - visite entretien ventilation
+False,False,zero,preventive,]72--[,]4-16],]72--[,True,True,False,False,False,False,TMH - visite entretien caisson VMC sanitaire
+False,False,one,corrective,]24-48],]72--[,]72--[,True,True,True,False,False,True,TMH - dépannage ventilation
+False,False,zero,preventive,0,]48-72],]48-72],False,False,True,True,False,False,TMH - visite entretien ventilation
+False,False,zero,preventive,]72--[,]16-24],]72--[,True,True,True,False,False,False,TMH - visite entretien caisson VMC sanitaire
+False,False,zero,preventive,]0-1],]1-2],]1-2],True,True,False,False,False,False,TMH - visite entretien ventilation
+False,True,zero,corrective,]72--[,]4-16],]72--[,True,False,True,False,False,True,TMH - dépannage ventilation
+False,False,zero,preventive,]0-1],]72--[,]72--[,True,True,True,False,True,False,TMH - visite entretien ventilation
+False,False,zero,preventive,0,]24-48],]24-48],True,False,False,False,False,False,TMH - visite entretien ventilation
+False,False,zero,preventive,]2-4],]1-2],]2-4],True,True,False,False,False,False,TMH - visite entretien ventilation
+False,True,zero,corrective,]24-48],]0-1],]24-48],True,True,False,False,False,True,TMH - dépannage ventilation
+False,False,zero,preventive,]1-2],]1-2],]2-4],True,True,False,False,False,False,TMH - visite entretien ventilation
+False,False,zero,preventive,]0-1],]72--[,]72--[,True,True,True,False,True,False,TMH - visite entretien ventilation
+False,False,zero,preventive,]1-2],]72--[,]72--[,True,True,True,False,True,False,TMH - visite entretien ventilation
+False,False,zero,preventive,]2-4],]72--[,]72--[,True,True,True,False,True,False,TMH - visite entretien ventilation
+True,False,one,corrective,]48-72],]72--[,]72--[,True,True,True,False,False,True,TMH - dépannage ventilation
+False,False,zero,preventive,0,]72--[,]72--[,False,False,False,False,True,False,TMH - visite entretien ventilation
+True,False,one,corrective,]24-48],]72--[,]72--[,True,False,True,False,False,True,TMH - dépannage ventilation
+True,False,one,corrective,]72--[,]72--[,]72--[,True,True,True,False,False,True,TGH82 - dépannage ventilation
+True,False,one,corrective,]24-48],]1-2],]24-48],True,True,True,False,False,True,TMH - dépannage ventilation
+True,False,one,corrective,]24-48],]72--[,]72--[,True,False,True,False,False,True,TMH - dépannage ventilation
+True,False,one,corrective,]24-48],]72--[,]72--[,True,False,True,True,False,True,TMH - dépannage ventilation
+True,True,zero,corrective,]72--[,]72--[,]72--[,True,False,True,False,False,True,TMH - dépannage ventilation
+False,True,zero,corrective,]48-72],]0-1],]48-72],True,True,False,False,False,True,TMH - dépannage ventilation
+False,False,zero,preventive,]4-16],]72--[,]72--[,True,True,True,False,False,False,TMH - visite entretien ventilation
+False,False,zero,preventive,]72--[,0,]72--[,False,True,True,True,False,False,TMH - visite entretien ventilation
+False,False,zero,preventive,]0-1],]72--[,]72--[,True,True,True,False,False,False,TMH - visite entretien ventilation
+False,False,zero,preventive,0,]72--[,]72--[,True,False,True,True,False,False,TMH - visite entretien ventilation
+True,True,zero,corrective,]48-72],]72--[,]72--[,True,True,True,False,True,True,TMH - dépannage ventilation
+False,False,zero,preventive,]48-72],]72--[,]72--[,False,True,True,False,False,True,TMH - visite entretien ventilation
+True,False,one,corrective,]24-48],]16-24],]24-48],True,True,True,False,False,True,TMH - dépannage ventilation
+False,False,one,corrective,]72--[,]72--[,]72--[,True,True,True,False,False,True,TMH - dépannage ventilation
+False,False,zero,preventive,]72--[,0,]72--[,False,True,False,False,False,False,TMH - visite entretien caisson VMC sanitaire
+False,False,zero,preventive,]72--[,0,]72--[,True,True,False,False,False,False,TMH - visite entretien ventilation
+False,False,zero,preventive,0,0,0,True,False,True,False,False,False,TMH - visite entretien ventilation
+False,False,zero,preventive,0,]16-24],]16-24],True,False,True,True,False,False,TMH - visite entretien ventilation
+True,True,zero,corrective,]48-72],]1-2],]48-72],True,False,True,False,False,True,TMH - dépannage ventilation
+False,False,zero,preventive,0,0,0,True,False,True,False,False,False,TMH - visite entretien ventilation
+False,False,zero,preventive,]0-1],]24-48],]24-48],True,True,True,False,False,False,TMH - visite entretien ventilation
+True,False,one,corrective,]48-72],]72--[,]72--[,True,False,True,False,False,True,TMH - dépannage ventilation
+True,False,one,corrective,]72--[,]72--[,]72--[,True,True,True,False,True,True,TMH - dépannage ventilation
+True,False,zero,corrective,]72--[,]0-1],]72--[,True,True,True,True,False,True,TMH - dépannage ventilation
+False,False,zero,corrective,0,]4-16],]4-16],True,False,True,False,False,False,TMH - dépannage ventilation
+False,False,zero,preventive,]72--[,]72--[,]72--[,False,True,True,False,False,False,TMH - visite entretien caisson VMC sanitaire
+False,False,zero,preventive,0,]48-72],]48-72],True,False,True,False,False,False,TMH - visite entretien ventilation
+True,True,zero,corrective,]72--[,0,]72--[,True,False,True,False,False,True,TMH - dépannage ventilation
+False,False,zero,preventive,0,]72--[,]72--[,True,False,True,True,True,False,TMH - visite entretien ventilation
+False,False,zero,preventive,]72--[,]72--[,]72--[,False,True,True,False,False,False,TMH - visite entretien ventilation
+False,False,zero,preventive,]24-48],]2-4],]24-48],True,True,True,False,False,False,TMH - visite entretien caisson VMC sanitaire
+False,False,zero,preventive,]16-24],]1-2],]16-24],True,True,True,False,False,False,TMH - visite entretien ventilation
+False,False,zero,corrective,]72--[,]2-4],]72--[,True,False,True,True,False,True,TMH - dépannage ventilation
+True,True,zero,corrective,0,]0-1],]0-1],True,False,True,False,False,False,TMH - dépannage ventilation
+False,False,zero,preventive,0,]4-16],]4-16],True,False,False,False,False,False,TMH - visite entretien ventilation
+False,False,zero,corrective,]16-24],]16-24],]24-48],True,True,True,False,False,True,TMH - dépannage ventilation
+False,False,zero,preventive,]72--[,0,]72--[,True,True,True,False,False,True,TMH - visite entretien ventilation
+False,False,zero,preventive,]72--[,]0-1],]72--[,True,True,False,False,False,False,TMH - visite entretien ventilation
+False,False,zero,preventive,]72--[,]24-48],]72--[,True,True,False,False,False,False,TMH - visite entretien ventilation
+True,True,zero,corrective,]16-24],]4-16],]24-48],True,False,True,False,False,True,TMH - dépannage ventilation
+False,False,zero,preventive,]2-4],]4-16],]4-16],True,True,False,False,False,False,TMH - visite entretien ventilation
+False,False,zero,preventive,0,]72--[,]72--[,True,False,True,True,False,False,TMH - visite entretien ventilation
+False,True,zero,corrective,]72--[,]72--[,]72--[,True,True,True,False,False,True,TMH - dépannage ventilation
+False,False,zero,preventive,]72--[,]72--[,]72--[,True,True,True,True,True,True,TMH - visite entretien ventilation
+False,False,zero,preventive,]72--[,0,]72--[,True,True,True,False,True,False,TMH - visite entretien ventilation
+False,False,zero,preventive,]72--[,]72--[,]72--[,True,True,True,True,True,False,TMH - visite entretien ventilation
+False,False,zero,preventive,]72--[,]72--[,]72--[,True,True,True,True,False,False,TMH - visite entretien ventilation
+True,False,one,corrective,]72--[,0,]72--[,True,False,True,False,False,True,TMH - dépannage ventilation
+False,False,zero,preventive,]72--[,]72--[,]72--[,True,True,True,True,True,False,TMH - visite entretien ventilation
+True,False,one,corrective,]48-72],]48-72],]72--[,True,False,True,False,False,True,TMH - dépannage ventilation
+True,True,zero,corrective,]48-72],]24-48],]72--[,True,True,True,True,False,True,TMH - dépannage ventilation
+False,False,zero,preventive,]2-4],]72--[,]72--[,True,True,True,False,False,False,TMH - visite entretien ventilation
+False,True,zero,corrective,]72--[,]16-24],]72--[,True,True,True,False,False,True,Dépannage
+False,False,zero,preventive,0,]72--[,]72--[,False,False,True,True,True,False,TMH - visite entretien ventilation
+False,False,zero,preventive,0,]72--[,]72--[,False,False,True,True,True,False,TMH - visite entretien ventilation
+False,False,zero,preventive,]72--[,]72--[,]72--[,False,True,False,False,True,False,TMH - visite entretien ventilation
+False,False,zero,preventive,]72--[,]24-48],]72--[,True,True,False,False,False,False,TMH - visite entretien ventilation
+False,False,one,corrective,]72--[,]1-2],]72--[,True,False,True,False,False,True,TMH - dépannage ventilation
+False,False,one,corrective,]72--[,]72--[,]72--[,True,True,True,True,False,True,TMH - dépannage ventilation
+False,False,zero,preventive,]72--[,]1-2],]72--[,True,True,True,False,False,False,TMH - visite entretien caisson VMC sanitaire

@@ -1,0 +1,14 @@
+Boiler=True processingDuration=]4-16] => DÃ©pannageP2_Chauffageindividuel
+Boiler=True criticalLevel=five => DÃ©pannageP2_Chauffageindividuel
+Boiler=False workType=corrective resolutionDuration=]4-16] => DÃ©pannage_VMCGaz
+Boiler=True processingDuration=]2-4] => DÃ©pannageP2_Chauffageindividuel
+Water=True workType=corrective => DÃ©pannageP2_Chauffageindividuel
+Boiler=True Water=False Leak=True => DÃ©pannageP2_Chauffageindividuel
+Boiler=True responseTime=]24-48] => DÃ©pannageP2_Chauffageindividuel
+Boiler=True resolutionDuration=]16-24] => DÃ©pannageP2_Chauffageindividuel
+Boiler=True resolutionDuration=]2-4] => DÃ©pannageP2_Chauffageindividuel
+Boiler=True workType=corrective responseTime=0 => DÃ©pannageP2_Chauffageindividuel
+Boiler=True resolutionDuration=]72--[ => DÃ©pannageP2_Chauffageindividuel
+Boiler=True workType=corrective start=True => DÃ©pannageP2_Chauffageindividuel
+Boiler=False Fan=True workType=corrective start=True => DÃ©pannage_VMCGaz
+ => Boucheauto_Cuisine

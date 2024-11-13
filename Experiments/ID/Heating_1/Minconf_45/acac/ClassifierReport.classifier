@@ -1,0 +1,11 @@
+criticalLevel=five => DÃ©pannageP2_Chauffageindividuel
+criticalLevel=five => DÃ©pannage_VMCGaz
+workType=corrective => DÃ©pannageP2_Chauffageindividuel
+responseTime=]16-24] => DÃ©pannageP2_Chauffageindividuel
+responseTime=]48-72] => DÃ©pannageP2_Chauffageindividuel
+processingDuration=]2-4] => DÃ©pannageP2_Chauffageindividuel
+resolutionDuration=]1-2] => DÃ©pannageP2_Chauffageindividuel
+resolutionDuration=]48-72] => DÃ©pannageP2_Chauffageindividuel
+resolutionDuration=]72--[ => DÃ©pannageP2_Chauffageindividuel
+planned=True => DÃ©pannageP2_Chauffageindividuel
+requested=True => DÃ©pannageP2_Chauffageindividuel

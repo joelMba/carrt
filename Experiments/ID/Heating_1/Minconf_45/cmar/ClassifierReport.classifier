@@ -1,0 +1,16 @@
+criticalLevel=five workType=corrective start=True done=True planned=True end=True requested=True => DÃ©pannage_VMCGaz
+workType=corrective start=True done=True planned=True end=True requested=True => DÃ©pannageP2_Chauffageindividuel
+requested=True => DÃ©pannageP2_Chauffageindividuel
+criticalLevel=one workType=corrective start=True done=True planned=True end=True requested=True => DÃ©pannageP2_Chauffageindividuel
+end=True requested=True => DÃ©pannageP2_Chauffageindividuel
+done=True end=True requested=True => DÃ©pannageP2_Chauffageindividuel
+start=True done=True end=True requested=True => DÃ©pannageP2_Chauffageindividuel
+workType=corrective start=True done=True end=True requested=True => DÃ©pannageP2_Chauffageindividuel
+criticalLevel=one workType=corrective start=True done=True end=True requested=True => DÃ©pannageP2_Chauffageindividuel
+criticalLevel=one workType=corrective requested=True => DÃ©pannageP2_Chauffageindividuel
+criticalLevel=one workType=corrective start=True done=True end=True => DÃ©pannageP2_Chauffageindividuel
+criticalLevel=five => DÃ©pannage_VMCGaz
+criticalLevel=five requested=True => DÃ©pannage_VMCGaz
+criticalLevel=five workType=corrective requested=True => DÃ©pannage_VMCGaz
+criticalLevel=five planned=True requested=True => DÃ©pannage_VMCGaz
+criticalLevel=five workType=corrective planned=True requested=True => DÃ©pannage_VMCGaz

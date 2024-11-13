@@ -1,0 +1,41 @@
+criticalLevel=minus-one => PanneRobinetterie
+criticalLevel=zero => Pannechauffind
+workType=corrective => PanneRobinetterie
+workType=corrective => Pannechauffind
+workType=none => PanneRobinetterie
+workType=preventive => PanneRobinetterie
+responseTime=]16-24] => PanneRobinetterie
+responseTime=]48-72] => PanneRobinetterie
+responseTime=]72--[ => PanneRobinetterie
+processingDuration=0 => PanneRobinetterie
+processingDuration=]0-1] => PanneRobinetterie
+processingDuration=]1-2] => PanneRobinetterie
+processingDuration=]1-2] => Pannechauffind
+processingDuration=]2-4] => PanneRobinetterie
+resolutionDuration=]48-72] => PanneRobinetterie
+resolutionDuration=]72--[ => PanneRobinetterie
+planned=False => PanneRobinetterie
+planned=True => PanneRobinetterie
+replanned=False => PanneRobinetterie
+replanned=True => PanneRobinetterie
+postponed=False => PanneRobinetterie
+postponed=True => PanneRobinetterie
+postponed=True => Pannechauffind
+client_planned=False => PanneRobinetterie
+client_planned=True => PanneRobinetterie
+missing_item=False => PanneRobinetterie
+missing_item=True => PanneRobinetterie
+canceled=False => PanneRobinetterie
+canceled=True => PanneRobinetterie
+partial_repair=False => PanneRobinetterie
+partial_repair=True => PanneRobinetterie
+criticalLevel=minus-one canceled=True => Visiteentretienconvecteur
+workType=preventive responseTime=]72--[ => Visiteentretienconvecteur
+workType=preventive resolutionDuration=]72--[ => Visiteentretienconvecteur
+workType=preventive missing_item=False => Visiteentretienconvecteur
+workType=preventive canceled=True => Visiteentretienconvecteur
+workType=preventive partial_repair=False => Visiteentretienconvecteur
+responseTime=]72--[ canceled=True => Visiteentretienconvecteur
+resolutionDuration=]72--[ canceled=True => Visiteentretienconvecteur
+workType=preventive replanned=False postponed=False => Visiteentretienconvecteur
+postponed=False canceled=True partial_repair=False => Visiteentretienconvecteur

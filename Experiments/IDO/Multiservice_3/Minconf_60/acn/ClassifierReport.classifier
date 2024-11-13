@@ -1,0 +1,283 @@
+criticalLevel=five workType=corrective replanned=False occupant_absent=False => PanneRobinetterie
+criticalLevel=five workType=corrective replanned=False => PanneRobinetterie
+criticalLevel=five workType=corrective occupant_absent=False => PanneRobinetterie
+criticalLevel=five replanned=False occupant_absent=False => PanneRobinetterie
+criticalLevel=five workType=corrective => PanneRobinetterie
+criticalLevel=five replanned=False => PanneRobinetterie
+criticalLevel=five occupant_absent=False => PanneRobinetterie
+criticalLevel=five => PanneRobinetterie
+criticalLevel=five workType=corrective done=True replanned=False occupant_absent=False canceled=False => PanneRobinetterie
+Water=False criticalLevel=five workType=corrective replanned=False occupant_absent=False => PanneRobinetterie
+criticalLevel=five workType=corrective done=True replanned=False occupant_absent=False => PanneRobinetterie
+criticalLevel=five workType=corrective done=True replanned=False canceled=False => PanneRobinetterie
+criticalLevel=five workType=corrective done=True occupant_absent=False canceled=False => PanneRobinetterie
+criticalLevel=five workType=corrective replanned=False occupant_absent=False canceled=False => PanneRobinetterie
+criticalLevel=five done=True replanned=False occupant_absent=False canceled=False => PanneRobinetterie
+Water=False criticalLevel=five workType=corrective replanned=False => PanneRobinetterie
+Water=False criticalLevel=five workType=corrective occupant_absent=False => PanneRobinetterie
+Water=False criticalLevel=five replanned=False occupant_absent=False => PanneRobinetterie
+criticalLevel=five workType=corrective done=True replanned=False => PanneRobinetterie
+criticalLevel=five workType=corrective done=True occupant_absent=False => PanneRobinetterie
+criticalLevel=five workType=corrective done=True canceled=False => PanneRobinetterie
+criticalLevel=five workType=corrective replanned=False canceled=False => PanneRobinetterie
+criticalLevel=five workType=corrective occupant_absent=False canceled=False => PanneRobinetterie
+criticalLevel=five done=True replanned=False occupant_absent=False => PanneRobinetterie
+criticalLevel=five done=True replanned=False canceled=False => PanneRobinetterie
+criticalLevel=five done=True occupant_absent=False canceled=False => PanneRobinetterie
+criticalLevel=five replanned=False occupant_absent=False canceled=False => PanneRobinetterie
+Water=False criticalLevel=five workType=corrective => PanneRobinetterie
+Water=False criticalLevel=five replanned=False => PanneRobinetterie
+Water=False criticalLevel=five occupant_absent=False => PanneRobinetterie
+criticalLevel=five workType=corrective done=True => PanneRobinetterie
+criticalLevel=five workType=corrective canceled=False => PanneRobinetterie
+criticalLevel=five done=True replanned=False => PanneRobinetterie
+criticalLevel=five done=True occupant_absent=False => PanneRobinetterie
+criticalLevel=five done=True canceled=False => PanneRobinetterie
+criticalLevel=five replanned=False canceled=False => PanneRobinetterie
+criticalLevel=five occupant_absent=False canceled=False => PanneRobinetterie
+Water=False criticalLevel=five => PanneRobinetterie
+criticalLevel=five done=True => PanneRobinetterie
+criticalLevel=five canceled=False => PanneRobinetterie
+Water=False criticalLevel=five workType=corrective done=True replanned=False occupant_absent=False temporary_repair=False canceled=False => PanneRobinetterie
+Water=False criticalLevel=five workType=corrective done=True replanned=False occupant_absent=False temporary_repair=False => PanneRobinetterie
+Water=False criticalLevel=five workType=corrective done=True replanned=False occupant_absent=False canceled=False => PanneRobinetterie
+Water=False criticalLevel=five workType=corrective done=True replanned=False temporary_repair=False canceled=False => PanneRobinetterie
+Water=False criticalLevel=five workType=corrective done=True occupant_absent=False temporary_repair=False canceled=False => PanneRobinetterie
+Water=False criticalLevel=five workType=corrective replanned=False occupant_absent=False temporary_repair=False canceled=False => PanneRobinetterie
+Water=False criticalLevel=five done=True replanned=False occupant_absent=False temporary_repair=False canceled=False => PanneRobinetterie
+criticalLevel=five workType=corrective done=True replanned=False occupant_absent=False temporary_repair=False canceled=False => PanneRobinetterie
+Water=False Leak=False criticalLevel=five workType=corrective replanned=False occupant_absent=False => PanneRobinetterie
+Water=False criticalLevel=five workType=corrective done=True replanned=False occupant_absent=False => PanneRobinetterie
+Water=False criticalLevel=five workType=corrective done=True replanned=False temporary_repair=False => PanneRobinetterie
+Water=False criticalLevel=five workType=corrective done=True replanned=False canceled=False => PanneRobinetterie
+Water=False criticalLevel=five workType=corrective done=True occupant_absent=False temporary_repair=False => PanneRobinetterie
+Water=False criticalLevel=five workType=corrective done=True occupant_absent=False canceled=False => PanneRobinetterie
+Water=False criticalLevel=five workType=corrective done=True temporary_repair=False canceled=False => PanneRobinetterie
+Water=False criticalLevel=five workType=corrective replanned=False occupant_absent=False temporary_repair=False => PanneRobinetterie
+Water=False criticalLevel=five workType=corrective replanned=False occupant_absent=False canceled=False => PanneRobinetterie
+Water=False criticalLevel=five workType=corrective replanned=False temporary_repair=False canceled=False => PanneRobinetterie
+Water=False criticalLevel=five workType=corrective occupant_absent=False temporary_repair=False canceled=False => PanneRobinetterie
+Water=False criticalLevel=five done=True replanned=False occupant_absent=False temporary_repair=False => PanneRobinetterie
+Water=False criticalLevel=five done=True replanned=False occupant_absent=False canceled=False => PanneRobinetterie
+Water=False criticalLevel=five done=True replanned=False temporary_repair=False canceled=False => PanneRobinetterie
+Water=False criticalLevel=five done=True occupant_absent=False temporary_repair=False canceled=False => PanneRobinetterie
+Water=False criticalLevel=five replanned=False occupant_absent=False temporary_repair=False canceled=False => PanneRobinetterie
+criticalLevel=five workType=corrective done=True replanned=False occupant_absent=False temporary_repair=False => PanneRobinetterie
+criticalLevel=five workType=corrective done=True replanned=False temporary_repair=False canceled=False => PanneRobinetterie
+criticalLevel=five workType=corrective done=True occupant_absent=False temporary_repair=False canceled=False => PanneRobinetterie
+criticalLevel=five workType=corrective replanned=False occupant_absent=False temporary_repair=False canceled=False => PanneRobinetterie
+criticalLevel=five done=True replanned=False occupant_absent=False temporary_repair=False canceled=False => PanneRobinetterie
+Water=False Leak=False criticalLevel=five workType=corrective replanned=False => PanneRobinetterie
+Water=False Leak=False criticalLevel=five workType=corrective occupant_absent=False => PanneRobinetterie
+Water=False Leak=False criticalLevel=five replanned=False occupant_absent=False => PanneRobinetterie
+Water=False criticalLevel=five workType=corrective done=True replanned=False => PanneRobinetterie
+Water=False criticalLevel=five workType=corrective done=True occupant_absent=False => PanneRobinetterie
+Water=False criticalLevel=five workType=corrective done=True temporary_repair=False => PanneRobinetterie
+Water=False criticalLevel=five workType=corrective done=True canceled=False => PanneRobinetterie
+Water=False criticalLevel=five workType=corrective replanned=False temporary_repair=False => PanneRobinetterie
+Water=False criticalLevel=five workType=corrective replanned=False canceled=False => PanneRobinetterie
+Water=False criticalLevel=five workType=corrective occupant_absent=False temporary_repair=False => PanneRobinetterie
+Water=False criticalLevel=five workType=corrective occupant_absent=False canceled=False => PanneRobinetterie
+Water=False criticalLevel=five workType=corrective temporary_repair=False canceled=False => PanneRobinetterie
+Water=False criticalLevel=five done=True replanned=False occupant_absent=False => PanneRobinetterie
+Water=False criticalLevel=five done=True replanned=False temporary_repair=False => PanneRobinetterie
+Water=False criticalLevel=five done=True replanned=False canceled=False => PanneRobinetterie
+Water=False criticalLevel=five done=True occupant_absent=False temporary_repair=False => PanneRobinetterie
+Water=False criticalLevel=five done=True occupant_absent=False canceled=False => PanneRobinetterie
+Water=False criticalLevel=five done=True temporary_repair=False canceled=False => PanneRobinetterie
+Water=False criticalLevel=five replanned=False occupant_absent=False temporary_repair=False => PanneRobinetterie
+Water=False criticalLevel=five replanned=False occupant_absent=False canceled=False => PanneRobinetterie
+Water=False criticalLevel=five replanned=False temporary_repair=False canceled=False => PanneRobinetterie
+Water=False criticalLevel=five occupant_absent=False temporary_repair=False canceled=False => PanneRobinetterie
+Leak=False criticalLevel=five workType=corrective replanned=False occupant_absent=False => PanneRobinetterie
+criticalLevel=five workType=corrective done=True replanned=False temporary_repair=False => PanneRobinetterie
+criticalLevel=five workType=corrective done=True occupant_absent=False temporary_repair=False => PanneRobinetterie
+criticalLevel=five workType=corrective done=True temporary_repair=False canceled=False => PanneRobinetterie
+criticalLevel=five workType=corrective replanned=False occupant_absent=False temporary_repair=False => PanneRobinetterie
+criticalLevel=five workType=corrective replanned=False temporary_repair=False canceled=False => PanneRobinetterie
+criticalLevel=five workType=corrective occupant_absent=False temporary_repair=False canceled=False => PanneRobinetterie
+criticalLevel=five done=True replanned=False occupant_absent=False temporary_repair=False => PanneRobinetterie
+criticalLevel=five done=True replanned=False temporary_repair=False canceled=False => PanneRobinetterie
+criticalLevel=five done=True occupant_absent=False temporary_repair=False canceled=False => PanneRobinetterie
+criticalLevel=five replanned=False occupant_absent=False temporary_repair=False canceled=False => PanneRobinetterie
+Water=False Leak=False criticalLevel=five workType=corrective => PanneRobinetterie
+Water=False Leak=False criticalLevel=five replanned=False => PanneRobinetterie
+Water=False Leak=False criticalLevel=five occupant_absent=False => PanneRobinetterie
+Water=False criticalLevel=five workType=corrective done=True => PanneRobinetterie
+Water=False criticalLevel=five workType=corrective temporary_repair=False => PanneRobinetterie
+Water=False criticalLevel=five workType=corrective canceled=False => PanneRobinetterie
+Water=False criticalLevel=five done=True replanned=False => PanneRobinetterie
+Water=False criticalLevel=five done=True occupant_absent=False => PanneRobinetterie
+Water=False criticalLevel=five done=True temporary_repair=False => PanneRobinetterie
+Water=False criticalLevel=five done=True canceled=False => PanneRobinetterie
+Water=False criticalLevel=five replanned=False temporary_repair=False => PanneRobinetterie
+Water=False criticalLevel=five replanned=False canceled=False => PanneRobinetterie
+Water=False criticalLevel=five occupant_absent=False temporary_repair=False => PanneRobinetterie
+Water=False criticalLevel=five occupant_absent=False canceled=False => PanneRobinetterie
+Water=False criticalLevel=five temporary_repair=False canceled=False => PanneRobinetterie
+Leak=False criticalLevel=five workType=corrective replanned=False => PanneRobinetterie
+Leak=False criticalLevel=five workType=corrective occupant_absent=False => PanneRobinetterie
+Leak=False criticalLevel=five replanned=False occupant_absent=False => PanneRobinetterie
+criticalLevel=five workType=corrective done=True temporary_repair=False => PanneRobinetterie
+criticalLevel=five workType=corrective replanned=False temporary_repair=False => PanneRobinetterie
+criticalLevel=five workType=corrective occupant_absent=False temporary_repair=False => PanneRobinetterie
+criticalLevel=five workType=corrective temporary_repair=False canceled=False => PanneRobinetterie
+criticalLevel=five done=True replanned=False temporary_repair=False => PanneRobinetterie
+criticalLevel=five done=True occupant_absent=False temporary_repair=False => PanneRobinetterie
+criticalLevel=five done=True temporary_repair=False canceled=False => PanneRobinetterie
+criticalLevel=five replanned=False occupant_absent=False temporary_repair=False => PanneRobinetterie
+criticalLevel=five replanned=False temporary_repair=False canceled=False => PanneRobinetterie
+criticalLevel=five occupant_absent=False temporary_repair=False canceled=False => PanneRobinetterie
+Water=False Leak=False criticalLevel=five => PanneRobinetterie
+Water=False criticalLevel=five done=True => PanneRobinetterie
+Water=False criticalLevel=five temporary_repair=False => PanneRobinetterie
+Water=False criticalLevel=five canceled=False => PanneRobinetterie
+Leak=False criticalLevel=five workType=corrective => PanneRobinetterie
+Leak=False criticalLevel=five replanned=False => PanneRobinetterie
+Leak=False criticalLevel=five occupant_absent=False => PanneRobinetterie
+criticalLevel=five workType=corrective temporary_repair=False => PanneRobinetterie
+criticalLevel=five done=True temporary_repair=False => PanneRobinetterie
+criticalLevel=five replanned=False temporary_repair=False => PanneRobinetterie
+criticalLevel=five occupant_absent=False temporary_repair=False => PanneRobinetterie
+criticalLevel=five temporary_repair=False canceled=False => PanneRobinetterie
+Leak=False criticalLevel=five => PanneRobinetterie
+criticalLevel=five temporary_repair=False => PanneRobinetterie
+Water=False Leak=False criticalLevel=five workType=corrective done=True replanned=False occupant_absent=False temporary_repair=False canceled=False => PanneRobinetterie
+Water=False Leak=False criticalLevel=five workType=corrective done=True replanned=False occupant_absent=False temporary_repair=False => PanneRobinetterie
+Water=False Leak=False criticalLevel=five workType=corrective done=True replanned=False occupant_absent=False canceled=False => PanneRobinetterie
+Water=False Leak=False criticalLevel=five workType=corrective done=True replanned=False temporary_repair=False canceled=False => PanneRobinetterie
+Water=False Leak=False criticalLevel=five workType=corrective done=True occupant_absent=False temporary_repair=False canceled=False => PanneRobinetterie
+Water=False Leak=False criticalLevel=five workType=corrective replanned=False occupant_absent=False temporary_repair=False canceled=False => PanneRobinetterie
+Water=False Leak=False criticalLevel=five done=True replanned=False occupant_absent=False temporary_repair=False canceled=False => PanneRobinetterie
+Leak=False criticalLevel=five workType=corrective done=True replanned=False occupant_absent=False temporary_repair=False canceled=False => PanneRobinetterie
+Water=False Leak=False criticalLevel=five workType=corrective done=True replanned=False occupant_absent=False => PanneRobinetterie
+Water=False Leak=False criticalLevel=five workType=corrective done=True replanned=False temporary_repair=False => PanneRobinetterie
+Water=False Leak=False criticalLevel=five workType=corrective done=True replanned=False canceled=False => PanneRobinetterie
+Water=False Leak=False criticalLevel=five workType=corrective done=True occupant_absent=False temporary_repair=False => PanneRobinetterie
+Water=False Leak=False criticalLevel=five workType=corrective done=True occupant_absent=False canceled=False => PanneRobinetterie
+Water=False Leak=False criticalLevel=five workType=corrective done=True temporary_repair=False canceled=False => PanneRobinetterie
+Water=False Leak=False criticalLevel=five workType=corrective replanned=False occupant_absent=False temporary_repair=False => PanneRobinetterie
+Water=False Leak=False criticalLevel=five workType=corrective replanned=False occupant_absent=False canceled=False => PanneRobinetterie
+Water=False Leak=False criticalLevel=five workType=corrective replanned=False temporary_repair=False canceled=False => PanneRobinetterie
+Water=False Leak=False criticalLevel=five workType=corrective occupant_absent=False temporary_repair=False canceled=False => PanneRobinetterie
+Water=False Leak=False criticalLevel=five done=True replanned=False occupant_absent=False temporary_repair=False => PanneRobinetterie
+Water=False Leak=False criticalLevel=five done=True replanned=False occupant_absent=False canceled=False => PanneRobinetterie
+Water=False Leak=False criticalLevel=five done=True replanned=False temporary_repair=False canceled=False => PanneRobinetterie
+Water=False Leak=False criticalLevel=five done=True occupant_absent=False temporary_repair=False canceled=False => PanneRobinetterie
+Water=False Leak=False criticalLevel=five replanned=False occupant_absent=False temporary_repair=False canceled=False => PanneRobinetterie
+Leak=False criticalLevel=five workType=corrective done=True replanned=False occupant_absent=False temporary_repair=False => PanneRobinetterie
+Leak=False criticalLevel=five workType=corrective done=True replanned=False occupant_absent=False canceled=False => PanneRobinetterie
+Leak=False criticalLevel=five workType=corrective done=True replanned=False temporary_repair=False canceled=False => PanneRobinetterie
+Leak=False criticalLevel=five workType=corrective done=True occupant_absent=False temporary_repair=False canceled=False => PanneRobinetterie
+Leak=False criticalLevel=five workType=corrective replanned=False occupant_absent=False temporary_repair=False canceled=False => PanneRobinetterie
+Leak=False criticalLevel=five done=True replanned=False occupant_absent=False temporary_repair=False canceled=False => PanneRobinetterie
+Water=False Leak=False criticalLevel=five workType=corrective done=True replanned=False => PanneRobinetterie
+Water=False Leak=False criticalLevel=five workType=corrective done=True occupant_absent=False => PanneRobinetterie
+Water=False Leak=False criticalLevel=five workType=corrective done=True temporary_repair=False => PanneRobinetterie
+Water=False Leak=False criticalLevel=five workType=corrective done=True canceled=False => PanneRobinetterie
+Water=False Leak=False criticalLevel=five workType=corrective replanned=False temporary_repair=False => PanneRobinetterie
+Water=False Leak=False criticalLevel=five workType=corrective replanned=False canceled=False => PanneRobinetterie
+Water=False Leak=False criticalLevel=five workType=corrective occupant_absent=False temporary_repair=False => PanneRobinetterie
+Water=False Leak=False criticalLevel=five workType=corrective occupant_absent=False canceled=False => PanneRobinetterie
+Water=False Leak=False criticalLevel=five workType=corrective temporary_repair=False canceled=False => PanneRobinetterie
+Water=False Leak=False criticalLevel=five done=True replanned=False occupant_absent=False => PanneRobinetterie
+Water=False Leak=False criticalLevel=five done=True replanned=False temporary_repair=False => PanneRobinetterie
+Water=False Leak=False criticalLevel=five done=True replanned=False canceled=False => PanneRobinetterie
+Water=False Leak=False criticalLevel=five done=True occupant_absent=False temporary_repair=False => PanneRobinetterie
+Water=False Leak=False criticalLevel=five done=True occupant_absent=False canceled=False => PanneRobinetterie
+Water=False Leak=False criticalLevel=five done=True temporary_repair=False canceled=False => PanneRobinetterie
+Water=False Leak=False criticalLevel=five replanned=False occupant_absent=False temporary_repair=False => PanneRobinetterie
+Water=False Leak=False criticalLevel=five replanned=False occupant_absent=False canceled=False => PanneRobinetterie
+Water=False Leak=False criticalLevel=five replanned=False temporary_repair=False canceled=False => PanneRobinetterie
+Water=False Leak=False criticalLevel=five occupant_absent=False temporary_repair=False canceled=False => PanneRobinetterie
+Leak=False criticalLevel=five workType=corrective done=True replanned=False occupant_absent=False => PanneRobinetterie
+Leak=False criticalLevel=five workType=corrective done=True replanned=False temporary_repair=False => PanneRobinetterie
+Leak=False criticalLevel=five workType=corrective done=True replanned=False canceled=False => PanneRobinetterie
+Leak=False criticalLevel=five workType=corrective done=True occupant_absent=False temporary_repair=False => PanneRobinetterie
+Leak=False criticalLevel=five workType=corrective done=True occupant_absent=False canceled=False => PanneRobinetterie
+Leak=False criticalLevel=five workType=corrective done=True temporary_repair=False canceled=False => PanneRobinetterie
+Leak=False criticalLevel=five workType=corrective replanned=False occupant_absent=False temporary_repair=False => PanneRobinetterie
+Leak=False criticalLevel=five workType=corrective replanned=False occupant_absent=False canceled=False => PanneRobinetterie
+Leak=False criticalLevel=five workType=corrective replanned=False temporary_repair=False canceled=False => PanneRobinetterie
+Leak=False criticalLevel=five workType=corrective occupant_absent=False temporary_repair=False canceled=False => PanneRobinetterie
+Leak=False criticalLevel=five done=True replanned=False occupant_absent=False temporary_repair=False => PanneRobinetterie
+Leak=False criticalLevel=five done=True replanned=False occupant_absent=False canceled=False => PanneRobinetterie
+Leak=False criticalLevel=five done=True replanned=False temporary_repair=False canceled=False => PanneRobinetterie
+Leak=False criticalLevel=five done=True occupant_absent=False temporary_repair=False canceled=False => PanneRobinetterie
+Leak=False criticalLevel=five replanned=False occupant_absent=False temporary_repair=False canceled=False => PanneRobinetterie
+criticalLevel=five workType=corrective responseTime=]72--[ resolutionDuration=]72--[ replanned=False occupant_absent=False => PanneRobinetterie
+Water=False Leak=False criticalLevel=five workType=corrective done=True => PanneRobinetterie
+Water=False Leak=False criticalLevel=five workType=corrective temporary_repair=False => PanneRobinetterie
+Water=False Leak=False criticalLevel=five workType=corrective canceled=False => PanneRobinetterie
+Water=False Leak=False criticalLevel=five done=True replanned=False => PanneRobinetterie
+Water=False Leak=False criticalLevel=five done=True occupant_absent=False => PanneRobinetterie
+Water=False Leak=False criticalLevel=five done=True temporary_repair=False => PanneRobinetterie
+Water=False Leak=False criticalLevel=five done=True canceled=False => PanneRobinetterie
+Water=False Leak=False criticalLevel=five replanned=False temporary_repair=False => PanneRobinetterie
+Water=False Leak=False criticalLevel=five replanned=False canceled=False => PanneRobinetterie
+Water=False Leak=False criticalLevel=five occupant_absent=False temporary_repair=False => PanneRobinetterie
+Water=False Leak=False criticalLevel=five occupant_absent=False canceled=False => PanneRobinetterie
+Water=False Leak=False criticalLevel=five temporary_repair=False canceled=False => PanneRobinetterie
+Leak=False criticalLevel=five workType=corrective done=True replanned=False => PanneRobinetterie
+Leak=False criticalLevel=five workType=corrective done=True occupant_absent=False => PanneRobinetterie
+Leak=False criticalLevel=five workType=corrective done=True temporary_repair=False => PanneRobinetterie
+Leak=False criticalLevel=five workType=corrective done=True canceled=False => PanneRobinetterie
+Leak=False criticalLevel=five workType=corrective replanned=False temporary_repair=False => PanneRobinetterie
+Leak=False criticalLevel=five workType=corrective replanned=False canceled=False => PanneRobinetterie
+Leak=False criticalLevel=five workType=corrective occupant_absent=False temporary_repair=False => PanneRobinetterie
+Leak=False criticalLevel=five workType=corrective occupant_absent=False canceled=False => PanneRobinetterie
+Leak=False criticalLevel=five workType=corrective temporary_repair=False canceled=False => PanneRobinetterie
+Leak=False criticalLevel=five done=True replanned=False occupant_absent=False => PanneRobinetterie
+Leak=False criticalLevel=five done=True replanned=False temporary_repair=False => PanneRobinetterie
+Leak=False criticalLevel=five done=True replanned=False canceled=False => PanneRobinetterie
+Leak=False criticalLevel=five done=True occupant_absent=False temporary_repair=False => PanneRobinetterie
+Leak=False criticalLevel=five done=True occupant_absent=False canceled=False => PanneRobinetterie
+Leak=False criticalLevel=five done=True temporary_repair=False canceled=False => PanneRobinetterie
+Leak=False criticalLevel=five replanned=False occupant_absent=False temporary_repair=False => PanneRobinetterie
+Leak=False criticalLevel=five replanned=False occupant_absent=False canceled=False => PanneRobinetterie
+Leak=False criticalLevel=five replanned=False temporary_repair=False canceled=False => PanneRobinetterie
+Leak=False criticalLevel=five occupant_absent=False temporary_repair=False canceled=False => PanneRobinetterie
+criticalLevel=five workType=corrective responseTime=]72--[ resolutionDuration=]72--[ replanned=False => PanneRobinetterie
+criticalLevel=five workType=corrective responseTime=]72--[ resolutionDuration=]72--[ occupant_absent=False => PanneRobinetterie
+criticalLevel=five workType=corrective responseTime=]72--[ replanned=False occupant_absent=False => PanneRobinetterie
+criticalLevel=five workType=corrective resolutionDuration=]72--[ replanned=False occupant_absent=False => PanneRobinetterie
+criticalLevel=five responseTime=]72--[ resolutionDuration=]72--[ replanned=False occupant_absent=False => PanneRobinetterie
+Water=False Leak=False criticalLevel=five done=True => PanneRobinetterie
+Water=False Leak=False criticalLevel=five temporary_repair=False => PanneRobinetterie
+Water=False Leak=False criticalLevel=five canceled=False => PanneRobinetterie
+Leak=False criticalLevel=five workType=corrective done=True => PanneRobinetterie
+Leak=False criticalLevel=five workType=corrective temporary_repair=False => PanneRobinetterie
+Leak=False criticalLevel=five workType=corrective canceled=False => PanneRobinetterie
+Leak=False criticalLevel=five done=True replanned=False => PanneRobinetterie
+Leak=False criticalLevel=five done=True occupant_absent=False => PanneRobinetterie
+Leak=False criticalLevel=five done=True temporary_repair=False => PanneRobinetterie
+Leak=False criticalLevel=five done=True canceled=False => PanneRobinetterie
+Leak=False criticalLevel=five replanned=False temporary_repair=False => PanneRobinetterie
+Leak=False criticalLevel=five replanned=False canceled=False => PanneRobinetterie
+Leak=False criticalLevel=five occupant_absent=False temporary_repair=False => PanneRobinetterie
+Leak=False criticalLevel=five occupant_absent=False canceled=False => PanneRobinetterie
+Leak=False criticalLevel=five temporary_repair=False canceled=False => PanneRobinetterie
+criticalLevel=five workType=corrective responseTime=]72--[ resolutionDuration=]72--[ => PanneRobinetterie
+criticalLevel=five workType=corrective responseTime=]72--[ replanned=False => PanneRobinetterie
+criticalLevel=five workType=corrective responseTime=]72--[ occupant_absent=False => PanneRobinetterie
+criticalLevel=five workType=corrective resolutionDuration=]72--[ replanned=False => PanneRobinetterie
+criticalLevel=five workType=corrective resolutionDuration=]72--[ occupant_absent=False => PanneRobinetterie
+criticalLevel=five responseTime=]72--[ resolutionDuration=]72--[ replanned=False => PanneRobinetterie
+criticalLevel=five responseTime=]72--[ resolutionDuration=]72--[ occupant_absent=False => PanneRobinetterie
+criticalLevel=five responseTime=]72--[ replanned=False occupant_absent=False => PanneRobinetterie
+criticalLevel=five resolutionDuration=]72--[ replanned=False occupant_absent=False => PanneRobinetterie
+Leak=False criticalLevel=five done=True => PanneRobinetterie
+Leak=False criticalLevel=five temporary_repair=False => PanneRobinetterie
+Leak=False criticalLevel=five canceled=False => PanneRobinetterie
+criticalLevel=five workType=corrective responseTime=]72--[ => PanneRobinetterie
+criticalLevel=five workType=corrective resolutionDuration=]72--[ => PanneRobinetterie
+criticalLevel=five responseTime=]72--[ resolutionDuration=]72--[ => PanneRobinetterie
+criticalLevel=five responseTime=]72--[ replanned=False => PanneRobinetterie
+criticalLevel=five responseTime=]72--[ occupant_absent=False => PanneRobinetterie
+criticalLevel=five resolutionDuration=]72--[ replanned=False => PanneRobinetterie
+criticalLevel=five resolutionDuration=]72--[ occupant_absent=False => PanneRobinetterie
+criticalLevel=five responseTime=]72--[ => PanneRobinetterie
+criticalLevel=five resolutionDuration=]72--[ => PanneRobinetterie
+Water=False workType=corrective temporary_repair=False => PanneRobinetterie
+Water=False temporary_repair=False => PanneRobinetterie
+ => PanneRobinetterie

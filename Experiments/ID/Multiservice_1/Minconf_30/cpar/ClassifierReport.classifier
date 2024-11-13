@@ -1,0 +1,33 @@
+workType=corrective resolutionDuration=]0-1] => PanneECS
+responseTime=]2-4] => PanneECS
+processingDuration=]1-2] resolutionDuration=]1-2] => PanneECS
+resolutionDuration=]0-1] => PanneECS
+resolutionDuration=]48-72] => PanneECS
+workType=corrective resolutionDuration=]0-1] => PannecaissonVMC
+resolutionDuration=]0-1] => PannecaissonVMC
+resolutionDuration=]4-16] => PannecaissonVMC
+responseTime=0 => PannecaissonVMC
+workType=corrective processingDuration=]1-2] requested=True => Pannechauffage
+workType=corrective processingDuration=]2-4] => Pannechauffage
+workType=corrective processingDuration=]1-2] missing_item=True => Pannechauffage
+workType=corrective processingDuration=]1-2] resolutionDuration=]24-48] => Pannechauffage
+workType=corrective processingDuration=]1-2] => Pannechauffage
+workType=corrective => Pannechauffage
+workType=corrective processingDuration=]0-1] resolutionDuration=]24-48] => Pannefuited'eau
+workType=corrective processingDuration=]0-1] missing_item=True => Pannefuited'eau
+workType=corrective processingDuration=]0-1] resolutionDuration=]16-24] => Pannefuited'eau
+workType=corrective processingDuration=]0-1] resolutionDuration=]48-72] => Pannefuited'eau
+workType=corrective processingDuration=]0-1] => Pannefuited'eau
+workType=corrective responseTime=]72--[ => Pannesdiverses
+workType=preventive responseTime=]2-4] processingDuration=]0-1] => VisitedecontrÃ´le/entretien
+workType=preventive responseTime=]48-72] processingDuration=]0-1] => VisitedecontrÃ´le/entretien
+workType=preventive processingDuration=]0-1] resolutionDuration=]48-72] => VisitedecontrÃ´le/entretien
+workType=preventive resolutionDuration=]1-2] => VisitedecontrÃ´le/entretien
+workType=preventive => VisitedecontrÃ´le/entretien
+workType=preventive responseTime=]1-2] => Visiteentretienchauffagecollectif
+workType=preventive responseTime=]16-24] => Visiteentretienchauffagecollectif
+workType=preventive processingDuration=]1-2] => Visiteentretienchauffagecollectif
+workType=preventive => Visiteentretienchauffagecollectif
+workType=preventive responseTime=]0-1] => Visiteentretienventilationcoll
+workType=preventive processingDuration=]2-4] => Visiteentretienventilationcoll
+workType=preventive => Visiteentretienventilationcoll

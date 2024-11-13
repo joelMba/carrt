@@ -1,0 +1,10 @@
+criticalLevel=minus-one => PanneRobinetterie
+criticalLevel=zero => Pannechauffind
+workType=none => PanneRobinetterie
+responseTime=]48-72] => PanneRobinetterie
+replanned=True => PanneRobinetterie
+missing_item=True => PanneRobinetterie
+partial_repair=True => PanneRobinetterie
+workType=preventive canceled=True => Visiteentretienconvecteur
+resolutionDuration=]72--[ planned=True canceled=False => PanneRobinetterie
+resolutionDuration=]72--[ postponed=False canceled=False => PanneRobinetterie

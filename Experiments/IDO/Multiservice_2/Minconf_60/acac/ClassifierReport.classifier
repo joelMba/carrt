@@ -1,0 +1,9 @@
+Leak=True => PanneRobinetterie
+workType=none => PanneRobinetterie
+processingDuration=0 => PanneRobinetterie
+replanned=True => PanneRobinetterie
+missing_item=True => PanneRobinetterie
+workType=preventive canceled=True => Visiteentretienconvecteur
+Leak=False workType=preventive responseTime=]72--[ replanned=False => Visiteentretienconvecteur
+Leak=False workType=preventive resolutionDuration=]72--[ replanned=False => Visiteentretienconvecteur
+workType=preventive responseTime=]72--[ replanned=False postponed=False => Visiteentretienconvecteur

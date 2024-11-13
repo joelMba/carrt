@@ -1,0 +1,93 @@
+Leak=False criticalLevel= workType=preventive responseTime=]72--[ resolutionDuration=]72--[ postponed=False missing_item=False canceled=True => Visiteentretienconvecteur
+Leak=False criticalLevel= workType=preventive responseTime=]72--[ resolutionDuration=]72--[ missing_item=False canceled=True partial_repair=False => Visiteentretienconvecteur
+Leak=False criticalLevel= workType=preventive responseTime=]72--[ resolutionDuration=]72--[ postponed=False canceled=True partial_repair=False => Visiteentretienconvecteur
+Leak=False workType=preventive responseTime=]72--[ resolutionDuration=]72--[ postponed=False missing_item=False canceled=True partial_repair=False => Visiteentretienconvecteur
+Leak=False criticalLevel= workType=preventive responseTime=]72--[ resolutionDuration=]72--[ postponed=False missing_item=False canceled=True partial_repair=False => Visiteentretienconvecteur
+Leak=False criticalLevel= workType=preventive resolutionDuration=]72--[ postponed=False missing_item=False canceled=True => Visiteentretienconvecteur
+Leak=False criticalLevel= workType=preventive resolutionDuration=]72--[ missing_item=False canceled=True partial_repair=False => Visiteentretienconvecteur
+Leak=False criticalLevel= workType=preventive resolutionDuration=]72--[ postponed=False canceled=True partial_repair=False => Visiteentretienconvecteur
+Leak=False workType=preventive resolutionDuration=]72--[ postponed=False missing_item=False canceled=True partial_repair=False => Visiteentretienconvecteur
+Leak=False criticalLevel= workType=preventive resolutionDuration=]72--[ postponed=False missing_item=False canceled=True partial_repair=False => Visiteentretienconvecteur
+criticalLevel= workType=preventive responseTime=]72--[ resolutionDuration=]72--[ postponed=False missing_item=False canceled=True partial_repair=False => Visiteentretienconvecteur
+criticalLevel= workType=preventive postponed=False missing_item=False canceled=True partial_repair=False => Visiteentretienconvecteur
+criticalLevel= workType=preventive resolutionDuration=]72--[ postponed=False missing_item=False canceled=True => Visiteentretienconvecteur
+criticalLevel= workType=preventive resolutionDuration=]72--[ missing_item=False canceled=True partial_repair=False => Visiteentretienconvecteur
+criticalLevel= workType=preventive resolutionDuration=]72--[ postponed=False canceled=True partial_repair=False => Visiteentretienconvecteur
+workType=preventive resolutionDuration=]72--[ postponed=False missing_item=False canceled=True partial_repair=False => Visiteentretienconvecteur
+criticalLevel= workType=preventive resolutionDuration=]72--[ postponed=False missing_item=False canceled=True partial_repair=False => Visiteentretienconvecteur
+Leak=False criticalLevel= workType=preventive responseTime=]72--[ resolutionDuration=]72--[ replanned=False postponed=False missing_item=False partial_repair=False => Visiteentretienconvecteur
+criticalLevel= resolutionDuration=]72--[ planned=False replanned=True client_planned=True missing_item=False canceled=False partial_repair=False => PanneRobinetterie
+criticalLevel= responseTime=]72--[ planned=False replanned=True client_planned=True missing_item=False canceled=False partial_repair=False => PanneRobinetterie
+criticalLevel= responseTime=]72--[ resolutionDuration=]72--[ planned=False replanned=True client_planned=True missing_item=False canceled=False partial_repair=False => PanneRobinetterie
+criticalLevel= resolutionDuration=]72--[ replanned=True client_planned=True missing_item=False canceled=False partial_repair=False => PanneRobinetterie
+criticalLevel= responseTime=]72--[ replanned=True client_planned=True missing_item=False canceled=False partial_repair=False => PanneRobinetterie
+criticalLevel= responseTime=]72--[ resolutionDuration=]72--[ replanned=True client_planned=True missing_item=False canceled=False partial_repair=False => PanneRobinetterie
+criticalLevel= responseTime=]72--[ resolutionDuration=]72--[ replanned=True client_planned=True missing_item=False partial_repair=False => PanneRobinetterie
+criticalLevel= responseTime=]72--[ resolutionDuration=]72--[ planned=False replanned=True client_planned=True missing_item=False partial_repair=False => PanneRobinetterie
+criticalLevel= resolutionDuration=]72--[ planned=False replanned=True postponed=False client_planned=True missing_item=False partial_repair=False => PanneRobinetterie
+criticalLevel= resolutionDuration=]72--[ replanned=True postponed=False client_planned=True missing_item=False partial_repair=False => PanneRobinetterie
+Leak=False criticalLevel= resolutionDuration=]72--[ replanned=True missing_item=True partial_repair=True => PanneRobinetterie
+Leak=False criticalLevel= responseTime=]72--[ resolutionDuration=]72--[ replanned=True missing_item=True partial_repair=True => PanneRobinetterie
+criticalLevel= responseTime=]72--[ planned=False replanned=True postponed=False client_planned=True missing_item=False partial_repair=False => PanneRobinetterie
+criticalLevel= responseTime=]72--[ resolutionDuration=]72--[ planned=False replanned=True postponed=False client_planned=True partial_repair=False => PanneRobinetterie
+responseTime=]72--[ resolutionDuration=]72--[ planned=False replanned=True postponed=False client_planned=True missing_item=False partial_repair=False => PanneRobinetterie
+criticalLevel= responseTime=]72--[ resolutionDuration=]72--[ planned=False replanned=True postponed=False client_planned=True missing_item=False partial_repair=False => PanneRobinetterie
+criticalLevel= resolutionDuration=]72--[ replanned=True missing_item=True canceled=False partial_repair=True => PanneRobinetterie
+criticalLevel= responseTime=]72--[ replanned=True missing_item=True canceled=False partial_repair=True => PanneRobinetterie
+responseTime=]72--[ resolutionDuration=]72--[ replanned=True missing_item=True canceled=False partial_repair=True => PanneRobinetterie
+criticalLevel= responseTime=]72--[ resolutionDuration=]72--[ replanned=True missing_item=True canceled=False partial_repair=True => PanneRobinetterie
+criticalLevel= responseTime=]72--[ replanned=True postponed=False client_planned=True partial_repair=False => PanneRobinetterie
+responseTime=]72--[ replanned=True postponed=False client_planned=True missing_item=False partial_repair=False => PanneRobinetterie
+criticalLevel= responseTime=]72--[ replanned=True postponed=False client_planned=True missing_item=False partial_repair=False => PanneRobinetterie
+criticalLevel= responseTime=]72--[ resolutionDuration=]72--[ replanned=True postponed=False client_planned=True partial_repair=False => PanneRobinetterie
+responseTime=]72--[ resolutionDuration=]72--[ replanned=True postponed=False client_planned=True missing_item=False partial_repair=False => PanneRobinetterie
+criticalLevel= responseTime=]72--[ resolutionDuration=]72--[ replanned=True postponed=False client_planned=True missing_item=False partial_repair=False => PanneRobinetterie
+criticalLevel= replanned=True postponed=False client_planned=True missing_item=False partial_repair=False => PanneRobinetterie
+criticalLevel= responseTime=]72--[ resolutionDuration=]72--[ missing_item=True canceled=False partial_repair=True => PanneRobinetterie
+criticalLevel= postponed=False client_planned=True partial_repair=True => PanneRobinetterie
+Leak=False criticalLevel= responseTime=]72--[ resolutionDuration=]72--[ missing_item=True partial_repair=True => PanneRobinetterie
+criticalLevel= client_planned=False canceled=False partial_repair=True => PanneRobinetterie
+planned=True client_planned=False canceled=False partial_repair=True => PanneRobinetterie
+criticalLevel= planned=True client_planned=False canceled=False partial_repair=True => PanneRobinetterie
+criticalLevel= resolutionDuration=]72--[ planned=True replanned=True client_planned=False missing_item=False partial_repair=False => PanneRobinetterie
+criticalLevel= responseTime=]72--[ resolutionDuration=]72--[ planned=True replanned=True client_planned=False missing_item=False partial_repair=False => PanneRobinetterie
+criticalLevel= responseTime=]72--[ resolutionDuration=]72--[ planned=True replanned=True postponed=False client_planned=False canceled=False => PanneRobinetterie
+criticalLevel= resolutionDuration=]72--[ replanned=True postponed=False client_planned=True canceled=False => PanneRobinetterie
+criticalLevel= responseTime=]72--[ replanned=True postponed=False client_planned=True canceled=False => PanneRobinetterie
+criticalLevel= responseTime=]72--[ resolutionDuration=]72--[ replanned=True postponed=False client_planned=True canceled=False => PanneRobinetterie
+criticalLevel= resolutionDuration=]72--[ planned=True replanned=True client_planned=False missing_item=False canceled=False partial_repair=False => PanneRobinetterie
+criticalLevel= workType=preventive responseTime=]72--[ resolutionDuration=]72--[ replanned=False postponed=False missing_item=False partial_repair=False => Visiteentretienconvecteur
+criticalLevel= responseTime=]72--[ resolutionDuration=]72--[ planned=False replanned=True client_planned=True missing_item=False canceled=False => PanneRobinetterie
+criticalLevel= responseTime=]72--[ resolutionDuration=]72--[ planned=False replanned=True postponed=False client_planned=True canceled=False => PanneRobinetterie
+criticalLevel= planned=True canceled=False partial_repair=True => PanneRobinetterie
+criticalLevel= planned=True replanned=True postponed=False client_planned=False missing_item=False partial_repair=False => PanneRobinetterie
+criticalLevel= planned=True replanned=True client_planned=False missing_item=False canceled=False partial_repair=False => PanneRobinetterie
+criticalLevel= responseTime=]72--[ resolutionDuration=]72--[ replanned=True postponed=True canceled=False => PanneRobinetterie
+criticalLevel= resolutionDuration=]72--[ replanned=True client_planned=True missing_item=False canceled=False => PanneRobinetterie
+criticalLevel= responseTime=]72--[ replanned=True client_planned=True missing_item=False canceled=False => PanneRobinetterie
+responseTime=]72--[ resolutionDuration=]72--[ replanned=True client_planned=True missing_item=False canceled=False => PanneRobinetterie
+criticalLevel= responseTime=]72--[ resolutionDuration=]72--[ replanned=True client_planned=True missing_item=False canceled=False => PanneRobinetterie
+criticalLevel= resolutionDuration=]72--[ planned=True replanned=True postponed=False client_planned=False partial_repair=False => PanneRobinetterie
+resolutionDuration=]72--[ planned=True replanned=True postponed=False client_planned=False missing_item=False partial_repair=False => PanneRobinetterie
+criticalLevel= resolutionDuration=]72--[ planned=True replanned=True postponed=False client_planned=False missing_item=False partial_repair=False => PanneRobinetterie
+criticalLevel= responseTime=]72--[ resolutionDuration=]72--[ postponed=True missing_item=False partial_repair=False => PanneRobinetterie
+criticalLevel= planned=True replanned=True postponed=False missing_item=False partial_repair=False => PanneRobinetterie
+criticalLevel= planned=True replanned=True missing_item=False canceled=False partial_repair=False => PanneRobinetterie
+criticalLevel= resolutionDuration=]72--[ planned=True replanned=True client_planned=False missing_item=False => PanneRobinetterie
+postponed=False canceled=False partial_repair=True => PanneRobinetterie
+criticalLevel= postponed=False canceled=False partial_repair=True => PanneRobinetterie
+criticalLevel= responseTime=]72--[ replanned=True postponed=False missing_item=False canceled=False partial_repair=False => PanneRobinetterie
+criticalLevel= responseTime=]72--[ resolutionDuration=]72--[ replanned=True postponed=False canceled=False partial_repair=False => PanneRobinetterie
+responseTime=]72--[ resolutionDuration=]72--[ replanned=True postponed=False missing_item=False canceled=False partial_repair=False => PanneRobinetterie
+criticalLevel= responseTime=]72--[ resolutionDuration=]72--[ replanned=True postponed=False missing_item=False canceled=False partial_repair=False => PanneRobinetterie
+criticalLevel= resolutionDuration=]72--[ planned=True replanned=True postponed=False partial_repair=False => PanneRobinetterie
+resolutionDuration=]72--[ planned=True replanned=True postponed=False missing_item=False partial_repair=False => PanneRobinetterie
+criticalLevel= resolutionDuration=]72--[ planned=True replanned=True postponed=False missing_item=False partial_repair=False => PanneRobinetterie
+criticalLevel= workType=preventive responseTime=]72--[ resolutionDuration=]72--[ replanned=False postponed=False missing_item=False => Visiteentretienconvecteur
+resolutionDuration=]72--[ postponed=False canceled=False partial_repair=True => PanneRobinetterie
+criticalLevel= resolutionDuration=]72--[ postponed=False canceled=False partial_repair=True => PanneRobinetterie
+criticalLevel= responseTime=]72--[ postponed=False canceled=False partial_repair=True => PanneRobinetterie
+responseTime=]72--[ resolutionDuration=]72--[ postponed=False canceled=False partial_repair=True => PanneRobinetterie
+criticalLevel= responseTime=]72--[ resolutionDuration=]72--[ postponed=False canceled=False partial_repair=True => PanneRobinetterie
+criticalLevel= resolutionDuration=]72--[ postponed=True missing_item=False canceled=False partial_repair=False => PanneRobinetterie
+Leak=False criticalLevel= replanned=True client_planned=True missing_item=False partial_repair=False => PanneRobinetterie

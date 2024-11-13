@@ -1,0 +1,168 @@
+Boiler=True => TMH-dÃ©pannagechauffage
+Water=True => TMH-dÃ©pannagechauffage
+criticalLevel=one => TMH-dÃ©pannagechauffage
+criticalLevel=three => ALTEAL-dÃ©pannagechauffage
+criticalLevel=zero => TMH-visiteentretienappareilgaz
+workType=corrective => TMH-dÃ©pannagechauffage
+workType=preventive => TMH-visiteentretienappareilgaz
+responseTime=0 => TMH-visiteentretienappareilgaz
+responseTime=]2-4] => OPH31dÃ©pannagechauffage
+resolutionDuration=]16-24] => TMH-visiteentretienballonsolaire
+resolutionDuration=]2-4] => OPH31dÃ©pannagechauffage
+postponed=True => TMH-visiteentretienappareilgaz
+occupant_absent=True => TMH-visiteentretienappareilgaz
+requested=False => TMH-visiteentretienappareilgaz
+requested=True => TMH-dÃ©pannagechauffage
+Boiler=False Water=True => ALTEAL-dÃ©pannagechauffage
+Boiler=False responseTime=]24-48] => ALTEAL-dÃ©pannagechauffage
+Boiler=False resolutionDuration=]24-48] => ALTEAL-dÃ©pannagechauffage
+Boiler=False resolutionDuration=]72--[ => TMH-visiteentretienappareilgaz
+Boiler=False replanned=True => TMH-visiteentretienappareilgaz
+Boiler=False responseTime=]16-24] => TMH-visiteentretienballonsolaire
+Water=True responseTime=]24-48] => ALTEAL-dÃ©pannagechauffage
+Water=True processingDuration=]0-1] => ALTEAL-dÃ©pannagechauffage
+Water=True resolutionDuration=]24-48] => ALTEAL-dÃ©pannagechauffage
+Water=True replanned=False => ALTEAL-dÃ©pannagechauffage
+criticalLevel=one replanned=False => OPH31dÃ©pannagechauffage
+criticalLevel=zero responseTime=]16-24] => TMH-visiteentretienballonsolaire
+criticalLevel=zero processingDuration=0 => TMH-visiteentretienballonsolaire
+criticalLevel=zero start=False => TMH-visiteentretienballonsolaire
+workType=preventive responseTime=]16-24] => TMH-visiteentretienballonsolaire
+workType=preventive processingDuration=0 => TMH-visiteentretienballonsolaire
+workType=preventive start=False => TMH-visiteentretienballonsolaire
+responseTime=]16-24] processingDuration=0 => TMH-visiteentretienballonsolaire
+responseTime=]16-24] start=False => TMH-visiteentretienballonsolaire
+responseTime=]16-24] planned=True => TMH-visiteentretienballonsolaire
+responseTime=]16-24] replanned=False => TMH-visiteentretienballonsolaire
+responseTime=]16-24] requested=False => TMH-visiteentretienballonsolaire
+responseTime=]24-48] processingDuration=]0-1] => ALTEAL-dÃ©pannagechauffage
+responseTime=]24-48] replanned=False => ALTEAL-dÃ©pannagechauffage
+processingDuration=0 start=False => TMH-visiteentretienballonsolaire
+processingDuration=0 replanned=False => TMH-visiteentretienballonsolaire
+processingDuration=0 requested=False => TMH-visiteentretienballonsolaire
+processingDuration=]0-1] resolutionDuration=]24-48] => ALTEAL-dÃ©pannagechauffage
+processingDuration=]0-1] planned=False => OPH31dÃ©pannagechauffage
+resolutionDuration=]24-48] replanned=False => ALTEAL-dÃ©pannagechauffage
+start=False planned=True => TMH-visiteentretienballonsolaire
+start=False replanned=False => TMH-visiteentretienballonsolaire
+start=False postponed=False => TMH-visiteentretienballonsolaire
+start=False occupant_absent=False => TMH-visiteentretienballonsolaire
+start=False requested=False => TMH-visiteentretienballonsolaire
+planned=False replanned=False => OPH31dÃ©pannagechauffage
+Radiator=False workType=corrective resolutionDuration=]24-48] => ALTEAL-dÃ©pannagechauffage
+Radiator=False responseTime=]24-48] resolutionDuration=]24-48] => ALTEAL-dÃ©pannagechauffage
+Radiator=False resolutionDuration=]24-48] planned=True => ALTEAL-dÃ©pannagechauffage
+Radiator=False criticalLevel=one planned=False => OPH31dÃ©pannagechauffage
+Radiator=False Boiler=False resolutionDuration=]72--[ => TMH-visiteentretienappareilgaz
+Radiator=False Boiler=False replanned=True => TMH-visiteentretienappareilgaz
+Radiator=False Water=False responseTime=]16-24] => TMH-visiteentretienballonsolaire
+Radiator=False Water=False start=False => TMH-visiteentretienballonsolaire
+Radiator=False Leak=False responseTime=]16-24] => TMH-visiteentretienballonsolaire
+Radiator=False responseTime=]16-24] postponed=False => TMH-visiteentretienballonsolaire
+Boiler=False criticalLevel=one processingDuration=]0-1] => OPH31dÃ©pannagechauffage
+Boiler=False criticalLevel=one planned=False => OPH31dÃ©pannagechauffage
+Boiler=False workType=corrective planned=False => OPH31dÃ©pannagechauffage
+Boiler=False planned=False requested=True => OPH31dÃ©pannagechauffage
+Boiler=False Water=False planned=True => TMH-visiteentretienappareilgaz
+Water=False criticalLevel=one processingDuration=]0-1] => OPH31dÃ©pannagechauffage
+Water=False criticalLevel=one planned=False => OPH31dÃ©pannagechauffage
+Water=False workType=corrective processingDuration=]0-1] => OPH31dÃ©pannagechauffage
+Water=False workType=corrective replanned=False => OPH31dÃ©pannagechauffage
+Water=False replanned=False requested=True => OPH31dÃ©pannagechauffage
+Water=False Leak=False responseTime=]16-24] => TMH-visiteentretienballonsolaire
+Water=False responseTime=]16-24] postponed=False => TMH-visiteentretienballonsolaire
+Water=False responseTime=]16-24] occupant_absent=False => TMH-visiteentretienballonsolaire
+Leak=False workType=corrective resolutionDuration=]24-48] => ALTEAL-dÃ©pannagechauffage
+Leak=False responseTime=]24-48] resolutionDuration=]24-48] => ALTEAL-dÃ©pannagechauffage
+Leak=False resolutionDuration=]24-48] planned=True => ALTEAL-dÃ©pannagechauffage
+Leak=False criticalLevel=one planned=False => OPH31dÃ©pannagechauffage
+Leak=False responseTime=]16-24] postponed=False => TMH-visiteentretienballonsolaire
+criticalLevel=one planned=False postponed=False => OPH31dÃ©pannagechauffage
+criticalLevel=one planned=False requested=True => OPH31dÃ©pannagechauffage
+workType=corrective responseTime=]24-48] resolutionDuration=]24-48] => ALTEAL-dÃ©pannagechauffage
+workType=corrective responseTime=]24-48] planned=True => ALTEAL-dÃ©pannagechauffage
+workType=corrective resolutionDuration=]24-48] planned=True => ALTEAL-dÃ©pannagechauffage
+responseTime=]24-48] resolutionDuration=]24-48] start=True => ALTEAL-dÃ©pannagechauffage
+responseTime=]24-48] resolutionDuration=]24-48] planned=True => ALTEAL-dÃ©pannagechauffage
+responseTime=]24-48] resolutionDuration=]24-48] requested=True => ALTEAL-dÃ©pannagechauffage
+resolutionDuration=]24-48] start=True planned=True => ALTEAL-dÃ©pannagechauffage
+resolutionDuration=]24-48] planned=True requested=True => ALTEAL-dÃ©pannagechauffage
+Radiator=False Leak=False resolutionDuration=]24-48] requested=True => ALTEAL-dÃ©pannagechauffage
+Radiator=False workType=corrective planned=True replanned=False => ALTEAL-dÃ©pannagechauffage
+Radiator=False Boiler=False Water=False criticalLevel=one => OPH31dÃ©pannagechauffage
+Radiator=False Boiler=False Water=False workType=corrective => OPH31dÃ©pannagechauffage
+Radiator=False Water=False workType=corrective planned=False => OPH31dÃ©pannagechauffage
+Radiator=False Boiler=False Water=False Leak=False => TMH-visiteentretienappareilgaz
+Radiator=False Boiler=False Water=False start=True => TMH-visiteentretienappareilgaz
+Radiator=False Boiler=False Water=False planned=True => TMH-visiteentretienappareilgaz
+Radiator=False Water=False Leak=False resolutionDuration=]72--[ => TMH-visiteentretienappareilgaz
+Radiator=False Boiler=False processingDuration=0 planned=True => TMH-visiteentretienballonsolaire
+Boiler=False workType=corrective processingDuration=]0-1] planned=True => ALTEAL-dÃ©pannagechauffage
+Boiler=False workType=corrective planned=True replanned=False => ALTEAL-dÃ©pannagechauffage
+Boiler=False processingDuration=]0-1] planned=True replanned=False => ALTEAL-dÃ©pannagechauffage
+Boiler=False processingDuration=]0-1] planned=True requested=True => ALTEAL-dÃ©pannagechauffage
+Boiler=False planned=True replanned=False requested=True => ALTEAL-dÃ©pannagechauffage
+Boiler=False Water=False Leak=False criticalLevel=one => OPH31dÃ©pannagechauffage
+Boiler=False Water=False criticalLevel=one start=True => OPH31dÃ©pannagechauffage
+Boiler=False Water=False criticalLevel=one postponed=False => OPH31dÃ©pannagechauffage
+Boiler=False Water=False criticalLevel=one occupant_absent=False => OPH31dÃ©pannagechauffage
+Boiler=False Water=False criticalLevel=one requested=True => OPH31dÃ©pannagechauffage
+Boiler=False Water=False processingDuration=]0-1] replanned=False => OPH31dÃ©pannagechauffage
+Boiler=False Water=False processingDuration=]0-1] requested=True => OPH31dÃ©pannagechauffage
+Boiler=False Water=False processingDuration=0 planned=True => TMH-visiteentretienballonsolaire
+Boiler=True Leak=False planned=True postponed=False => DÃ©pannage
+Boiler=True Leak=False planned=True occupant_absent=False => DÃ©pannage
+Water=False Leak=False workType=corrective planned=False => OPH31dÃ©pannagechauffage
+Water=False Leak=False processingDuration=]0-1] requested=True => OPH31dÃ©pannagechauffage
+Water=False Leak=False planned=False requested=True => OPH31dÃ©pannagechauffage
+Water=False workType=corrective planned=False postponed=False => OPH31dÃ©pannagechauffage
+Leak=False workType=corrective planned=True replanned=False => ALTEAL-dÃ©pannagechauffage
+Leak=False responseTime=]24-48] planned=True requested=True => ALTEAL-dÃ©pannagechauffage
+Leak=False resolutionDuration=]24-48] start=True requested=True => ALTEAL-dÃ©pannagechauffage
+workType=corrective processingDuration=]0-1] planned=True replanned=False => ALTEAL-dÃ©pannagechauffage
+workType=corrective resolutionDuration=]24-48] start=True postponed=False => ALTEAL-dÃ©pannagechauffage
+workType=corrective start=True planned=True replanned=False => ALTEAL-dÃ©pannagechauffage
+responseTime=]24-48] start=True planned=True requested=True => ALTEAL-dÃ©pannagechauffage
+responseTime=]24-48] planned=True postponed=False requested=True => ALTEAL-dÃ©pannagechauffage
+responseTime=]24-48] planned=True occupant_absent=False requested=True => ALTEAL-dÃ©pannagechauffage
+processingDuration=]0-1] planned=True replanned=False requested=True => ALTEAL-dÃ©pannagechauffage
+start=True planned=True replanned=False requested=True => ALTEAL-dÃ©pannagechauffage
+planned=True replanned=False postponed=False requested=False => TMH-visiteentretienballonsolaire
+planned=True replanned=False occupant_absent=False requested=False => TMH-visiteentretienballonsolaire
+Radiator=False Boiler=False workType=corrective start=True planned=True => ALTEAL-dÃ©pannagechauffage
+Radiator=False Boiler=False workType=corrective planned=True postponed=False => ALTEAL-dÃ©pannagechauffage
+Radiator=False Boiler=False workType=corrective planned=True occupant_absent=False => ALTEAL-dÃ©pannagechauffage
+Radiator=False Boiler=True Leak=False planned=True requested=True => DÃ©pannage
+Radiator=False Water=False Leak=False processingDuration=]0-1] replanned=False => OPH31dÃ©pannagechauffage
+Radiator=False Water=False planned=False postponed=False requested=True => OPH31dÃ©pannagechauffage
+Radiator=False Leak=False criticalLevel=one processingDuration=]0-1] postponed=False => OPH31dÃ©pannagechauffage
+Radiator=False Leak=False workType=corrective planned=False postponed=False => OPH31dÃ©pannagechauffage
+Boiler=False workType=corrective start=True planned=True postponed=False => ALTEAL-dÃ©pannagechauffage
+Boiler=False workType=corrective planned=True postponed=False occupant_absent=False => ALTEAL-dÃ©pannagechauffage
+Boiler=False Water=False start=True planned=False postponed=False => OPH31dÃ©pannagechauffage
+Boiler=False Water=False start=True planned=False occupant_absent=False => OPH31dÃ©pannagechauffage
+Boiler=False Water=False planned=False postponed=False occupant_absent=False => OPH31dÃ©pannagechauffage
+Water=False start=True planned=False postponed=False requested=True => OPH31dÃ©pannagechauffage
+criticalLevel=zero replanned=False postponed=False occupant_absent=False requested=False => TMH-visiteentretienballonsolaire
+workType=preventive replanned=False postponed=False occupant_absent=False requested=False => TMH-visiteentretienballonsolaire
+responseTime=]72--[ start=True replanned=True postponed=False requested=False => TMH-visiteentretienballonthermodynamique
+responseTime=]72--[ start=True replanned=True occupant_absent=False requested=False => TMH-visiteentretienballonthermodynamique
+responseTime=]72--[ start=True postponed=False occupant_absent=False requested=False => TMH-visiteentretienballonthermodynamique
+Radiator=False Leak=False workType=corrective responseTime=]24-48] start=True postponed=False => ALTEAL-dÃ©pannagechauffage
+Radiator=False Leak=False workType=corrective responseTime=]24-48] postponed=False occupant_absent=False => ALTEAL-dÃ©pannagechauffage
+Radiator=False Leak=False planned=True replanned=False occupant_absent=False requested=True => ALTEAL-dÃ©pannagechauffage
+Radiator=False Boiler=True planned=True postponed=False occupant_absent=False requested=True => DÃ©pannage
+Radiator=False Boiler=False Water=False Leak=False start=True planned=False => OPH31dÃ©pannagechauffage
+Radiator=False Boiler=False start=True planned=False postponed=False occupant_absent=False => OPH31dÃ©pannagechauffage
+Radiator=False Leak=False criticalLevel=one processingDuration=]0-1] occupant_absent=False requested=True => OPH31dÃ©pannagechauffage
+Boiler=False Leak=False workType=corrective start=True planned=True occupant_absent=False => ALTEAL-dÃ©pannagechauffage
+Boiler=False Water=False Leak=False workType=corrective start=True postponed=False => OPH31dÃ©pannagechauffage
+Boiler=False Water=False Leak=False workType=corrective start=True occupant_absent=False => OPH31dÃ©pannagechauffage
+Boiler=False Water=False Leak=False workType=corrective start=True requested=True => OPH31dÃ©pannagechauffage
+Boiler=False Water=False Leak=False workType=corrective postponed=False occupant_absent=False => OPH31dÃ©pannagechauffage
+Boiler=False Water=False Leak=False workType=corrective occupant_absent=False requested=True => OPH31dÃ©pannagechauffage
+Boiler=False Water=False workType=corrective start=True postponed=False occupant_absent=False => OPH31dÃ©pannagechauffage
+Boiler=False Water=False workType=corrective start=True occupant_absent=False requested=True => OPH31dÃ©pannagechauffage
+Boiler=False Leak=False start=True planned=False postponed=False occupant_absent=False => OPH31dÃ©pannagechauffage
+Leak=False workType=corrective responseTime=]24-48] start=True postponed=False occupant_absent=False => ALTEAL-dÃ©pannagechauffage
+Leak=False criticalLevel=one processingDuration=]0-1] postponed=False occupant_absent=False requested=True => OPH31dÃ©pannagechauffage

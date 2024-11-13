@@ -1,0 +1,14 @@
+workType=corrective resolutionDuration=]16-24] start=True done=True planned=True end=True requested=True => DÃ©pannageP2_Chauffageindividuel
+criticalLevel=one workType=corrective processingDuration=]4-16] start=True done=True planned=True end=True requested=True => DÃ©pannageP2_Chauffageindividuel
+criticalLevel=one workType=corrective resolutionDuration=]1-2] start=True done=True planned=True end=True requested=True => DÃ©pannageP2_Chauffageindividuel
+criticalLevel=one workType=corrective processingDuration=]2-4] start=True done=True planned=True end=True requested=True => DÃ©pannageP2_Chauffageindividuel
+workType=corrective responseTime=]48-72] start=True done=True planned=True end=True requested=True => DÃ©pannageP2_Chauffageindividuel
+criticalLevel=one workType=corrective resolutionDuration=]1-2] start=True done=True end=True => DÃ©pannageP2_Chauffageindividuel
+workType=corrective responseTime=]4-16] processingDuration=]0-1] start=True done=True planned=True end=True requested=True => DÃ©pannageP2_Chauffageindividuel
+workType=corrective responseTime=]48-72] resolutionDuration=]48-72] start=True done=True planned=True end=True requested=True => DÃ©pannageP2_Chauffageindividuel
+criticalLevel=five workType=corrective processingDuration=]1-2] start=True done=True planned=True end=True requested=True => DÃ©pannageP2_Chauffageindividuel
+criticalLevel=five workType=corrective processingDuration=]0-1] start=True done=True planned=True end=True requested=True => DÃ©pannage_VMCGaz
+workType=corrective responseTime=]16-24] processingDuration=]0-1] start=True done=True planned=True end=True requested=True => DÃ©pannageP2_Chauffageindividuel
+workType=corrective processingDuration=]1-2] resolutionDuration=]2-4] start=True done=True planned=True end=True requested=True => DÃ©pannage_VMCGaz
+criticalLevel=one workType=corrective responseTime=0 start=True done=True planned=True end=True requested=True => DÃ©pannageP2_Chauffageindividuel
+criticalLevel=one workType=corrective processingDuration=]1-2] resolutionDuration=]1-2] start=True done=True end=True => DÃ©pannageP2_Chauffageindividuel

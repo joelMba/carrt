@@ -1,0 +1,32 @@
+workType=preventive done=True => VisitepÃ©riodique
+workType=corrective processingDuration=]0-1] client_planned=True => DÃ©pannageChauffageindividuel
+criticalLevel=minus-one workType=corrective => RemplacementChaudiÃ¨reoucaisson
+workType=preventive planned=True => VisitepÃ©riodique
+criticalLevel=one done=False client_planned=True => DÃ©pannageChauffageindividuel
+criticalLevel=one processingDuration=]1-2] done=False => DÃ©pannageChauffageindividuel
+responseTime=]2-4] planned=False => DÃ©pannageChauffageindividuel
+criticalLevel=one responseTime=]1-2] done=False => DÃ©pannageChauffageindividuel
+criticalLevel=one responseTime=]2-4] resolutionDuration=]4-16] done=False => DÃ©pannageChauffageindividuel
+resolutionDuration=]0-1] => DÃ©pannageChauffageindividuel
+criticalLevel=one processingDuration=]0-1] resolutionDuration=]1-2] => DÃ©pannageChauffageindividuel
+criticalLevel=one responseTime=]2-4] processingDuration=]0-1] resolutionDuration=]4-16] => DÃ©pannageChauffageindividuel
+criticalLevel=one processingDuration=]0-1] resolutionDuration=]4-16] done=True => DÃ©pannageChauffageindividuel
+responseTime=]16-24] => DÃ©pannageChauffageindividuel
+responseTime=]48-72] processingDuration=]1-2] => DÃ©pannageChauffageindividuel
+resolutionDuration=]48-72] done=False => DÃ©pannageChauffageindividuel
+criticalLevel=one processingDuration=]2-4] planned=False => DÃ©pannageChauffageindividuel
+criticalLevel=one processingDuration=]1-2] resolutionDuration=]4-16] planned=True => DÃ©pannageChauffageindividuel
+responseTime=]0-1] processingDuration=]2-4] => Boucheventilation
+responseTime=]4-16] processingDuration=]4-16] => Boucheventilation
+criticalLevel=minus-one processingDuration=]1-2] done=False => HorsPÃ©rimÃ¨tre
+criticalLevel=one responseTime=]2-4] processingDuration=]4-16] => Boucheventilation
+criticalLevel=one responseTime=]1-2] processingDuration=]4-16] => DÃ©pannage_VMCGazousanitaire
+responseTime=]4-16] processingDuration=]1-2] planned=False => Boucheventilation
+criticalLevel=one responseTime=]1-2] processingDuration=]1-2] done=True => Boucheventilation
+criticalLevel=one responseTime=]0-1] processingDuration=]1-2] resolutionDuration=]1-2] => Boucheventilation
+criticalLevel=one responseTime=]48-72] processingDuration=]0-1] client_planned=False => Boucheventilation
+criticalLevel=one responseTime=]24-48] done=True planned=True => Boucheventilation
+criticalLevel=one responseTime=]4-16] processingDuration=]2-4] planned=True => Boucheventilation
+criticalLevel=one responseTime=]2-4] processingDuration=]1-2] resolutionDuration=]2-4] planned=True => Boucheventilation
+workType=preventive partial_repair=False => VisitepÃ©riodique
+ => DÃ©pannageChauffageindividuel

@@ -1,0 +1,25 @@
+done=False Fan=False Leak=False criticalLevel=one partial_repair=True workType=corrective => DÃ©pannageChauffageindividuel
+Fan=False client_planned=True criticalLevel=one workType=corrective => DÃ©pannageChauffageindividuel
+Fan=False done=True Leak=False partial_repair=False workType=preventive => VisitepÃ©riodique
+Fan=False Leak=False criticalLevel=one workType=corrective resolutionDuration=]4-16] => DÃ©pannageChauffageindividuel
+Fan=False Leak=False planned=True criticalLevel=minus-one workType=preventive => VisitepÃ©riodique
+Fan=False planned=True criticalLevel=minus-one client_planned=False workType=corrective => RemplacementChaudiÃ¨reoucaisson
+Fan=False Leak=False criticalLevel=one workType=corrective responseTime=]1-2] => DÃ©pannageChauffageindividuel
+done=False processingDuration=]1-2] criticalLevel=one partial_repair=True workType=corrective => DÃ©pannageChauffageindividuel
+Fan=False Leak=False criticalLevel=one workType=corrective resolutionDuration=]48-72] => DÃ©pannageChauffageindividuel
+Fan=False processingDuration=]0-1] criticalLevel=one workType=corrective => DÃ©pannageChauffageindividuel
+client_planned=True criticalLevel=one workType=corrective => DÃ©pannageChauffageindividuel
+Fan=False planned=False workType=corrective => DÃ©pannageChauffageindividuel
+Fan=False Leak=False partial_repair=False workType=preventive => VisitepÃ©riodique
+Fan=False Leak=False criticalLevel=minus-one workType=preventive => VisitepÃ©riodique
+Fan=False criticalLevel=one workType=corrective => DÃ©pannageChauffageindividuel
+done=False Leak=False criticalLevel=one partial_repair=True workType=corrective resolutionDuration=]4-16] => DÃ©pannageChauffageindividuel
+done=False criticalLevel=one partial_repair=True workType=corrective => DÃ©pannageChauffageindividuel
+Leak=False criticalLevel=one workType=corrective responseTime=]2-4] resolutionDuration=]4-16] => DÃ©pannageChauffageindividuel
+Leak=False processingDuration=]0-1] criticalLevel=one workType=corrective responseTime=]1-2] => DÃ©pannageChauffageindividuel
+Leak=False criticalLevel=one workType=corrective resolutionDuration=]48-72] => DÃ©pannageChauffageindividuel
+processingDuration=]0-1] criticalLevel=one workType=corrective => DÃ©pannageChauffageindividuel
+Leak=False criticalLevel=one workType=corrective responseTime=]1-2] => DÃ©pannageChauffageindividuel
+processingDuration=]1-2] criticalLevel=one workType=corrective => DÃ©pannageChauffageindividuel
+Fan=True done=True Leak=False criticalLevel=one partial_repair=False workType=corrective => Boucheventilation
+ => DÃ©pannageChauffageindividuel

@@ -1,0 +1,111 @@
+workType=corrective responseTime=]24-48] processingDuration=]0-1] planned=True replanned=False => ALTEAL-dÃ©pannagechauffage
+responseTime=]4-16] processingDuration=]1-2] => ALTEAL-dÃ©pannagechauffage
+responseTime=]24-48] replanned=False => ALTEAL-dÃ©pannagechauffage
+workType=workType => Class
+responseTime=responseTime => Class
+processingDuration=processingDuration => Class
+resolutionDuration=resolutionDuration => Class
+start=start => Class
+planned=planned => Class
+replanned=replanned => Class
+postponed=postponed => Class
+occupant_absent=occupant_absent => Class
+requested=requested => Class
+workType=corrective responseTime=]24-48] processingDuration=]0-1] resolutionDuration=]24-48] planned=True => DÃ©pannage
+workType=corrective responseTime=]16-24] processingDuration=]0-1] resolutionDuration=]16-24] planned=True replanned=False => DÃ©pannage
+workType=corrective processingDuration=]0-1] resolutionDuration=]24-48] planned=True => DÃ©pannage
+workType=corrective processingDuration=]0-1] resolutionDuration=]16-24] planned=True replanned=False => DÃ©pannage
+workType=corrective responseTime=]4-16] processingDuration=]1-2] planned=False => DÃ©pannage
+workType=corrective responseTime=]72--[ processingDuration=]0-1] planned=True replanned=False => DÃ©pannage
+workType=corrective responseTime=]4-16] processingDuration=]1-2] => DÃ©pannage
+workType=corrective processingDuration=]0-1] planned=True => DÃ©pannage
+workType=corrective responseTime=]2-4] processingDuration=]1-2] resolutionDuration=]2-4] replanned=True => DÃ©pannage
+workType=corrective responseTime=]24-48] processingDuration=]1-2] resolutionDuration=]24-48] planned=True => DÃ©pannage
+workType=corrective responseTime=]72--[ processingDuration=]72--[ planned=False postponed=True => DÃ©pannage
+workType=corrective responseTime=]72--[ processingDuration=]1-2] planned=True occupant_absent=False => DÃ©pannage
+workType=corrective resolutionDuration=]0-1] start=False => DÃ©pannage
+workType=corrective replanned=False => DÃ©pannage
+workType=corrective responseTime=]72--[ processingDuration=0 planned=True => DÃ©pannage
+workType=corrective => DÃ©pannage
+responseTime=]2-4] processingDuration=]72--[ planned=False => OPH31dÃ©pannagechauffage
+responseTime=]2-4] resolutionDuration=]72--[ planned=False => OPH31dÃ©pannagechauffage
+responseTime=]2-4] resolutionDuration=]2-4] planned=False replanned=False => OPH31dÃ©pannagechauffage
+responseTime=]2-4] planned=False replanned=False => OPH31dÃ©pannagechauffage
+workType=corrective responseTime=]72--[ processingDuration=]0-1] planned=True => OPH31dÃ©pannagechauffage
+responseTime=]2-4] planned=False => OPH31dÃ©pannagechauffage
+responseTime=]2-4] => OPH31dÃ©pannagechauffage
+workType=corrective responseTime=]72--[ processingDuration=]0-1] => OPH31dÃ©pannagechauffage
+workType=corrective processingDuration=]0-1] planned=False replanned=True postponed=False => TMH-dÃ©pannagechauffage
+workType=corrective processingDuration=0 planned=False replanned=True postponed=False => TMH-dÃ©pannagechauffage
+workType=corrective resolutionDuration=]72--[ planned=True replanned=True occupant_absent=True => TMH-dÃ©pannagechauffage
+workType=corrective responseTime=]16-24] planned=False => TMH-dÃ©pannagechauffage
+workType=corrective responseTime=]16-24] resolutionDuration=]72--[ planned=True replanned=True => TMH-dÃ©pannagechauffage
+workType=corrective processingDuration=]48-72] resolutionDuration=]72--[ planned=True replanned=True => TMH-dÃ©pannagechauffage
+workType=corrective resolutionDuration=]48-72] planned=False => TMH-dÃ©pannagechauffage
+workType=corrective responseTime=]0-1] planned=False => TMH-dÃ©pannagechauffage
+workType=corrective processingDuration=0 planned=False => TMH-dÃ©pannagechauffage
+workType=corrective responseTime=]1-2] planned=False => TMH-dÃ©pannagechauffage
+workType=corrective processingDuration=]24-48] => TMH-dÃ©pannagechauffage
+workType=corrective responseTime=]72--[ processingDuration=]72--[ planned=True postponed=False => TMH-dÃ©pannagechauffage
+workType=corrective responseTime=0 planned=False => TMH-dÃ©pannagechauffage
+workType=corrective processingDuration=]4-16] planned=False => TMH-dÃ©pannagechauffage
+workType=corrective planned=False requested=False => TMH-dÃ©pannagechauffage
+workType=corrective processingDuration=]72--[ planned=True postponed=False => TMH-dÃ©pannagechauffage
+workType=corrective processingDuration=]16-24] => TMH-dÃ©pannagechauffage
+workType=corrective resolutionDuration=]1-2] replanned=False => TMH-dÃ©pannagechauffage
+workType=corrective processingDuration=]2-4] resolutionDuration=]4-16] => TMH-dÃ©pannagechauffage
+workType=corrective occupant_absent=True => TMH-dÃ©pannagechauffage
+workType=corrective responseTime=]1-2] processingDuration=]0-1] => TMH-dÃ©pannagechauffage
+workType=corrective responseTime=]16-24] processingDuration=]4-16] postponed=False => TMH-dÃ©pannagechauffage
+workType=corrective processingDuration=]2-4] resolutionDuration=]24-48] => TMH-dÃ©pannagechauffage
+workType=corrective requested=False => TMH-dÃ©pannagechauffage
+workType=corrective resolutionDuration=]1-2] => TMH-dÃ©pannagechauffage
+workType=corrective responseTime=]48-72] resolutionDuration=]72--[ => TMH-dÃ©pannagechauffage
+workType=corrective processingDuration=]4-16] resolutionDuration=]72--[ => TMH-dÃ©pannagechauffage
+workType=corrective responseTime=]1-2] => TMH-dÃ©pannagechauffage
+workType=corrective => TMH-dÃ©pannagechauffage
+workType=preventive responseTime=]72--[ processingDuration=]72--[ replanned=True postponed=False occupant_absent=True => TMH-visiteentretienPompeÃ Chaleur(PAC)
+workType=preventive responseTime=]0-1] processingDuration=0 => TMH-visiteentretienPompeÃ Chaleur(PAC)
+workType=preventive responseTime=]72--[ processingDuration=0 start=True replanned=True postponed=False => TMH-visiteentretienPompeÃ Chaleur(PAC)
+workType=preventive responseTime=]72--[ processingDuration=]0-1] planned=True replanned=True postponed=False occupant_absent=False => TMH-visiteentretienPompeÃ Chaleur(PAC)
+workType=preventive responseTime=]72--[ processingDuration=]4-16] start=False => TMH-visiteentretienPompeÃ Chaleur(PAC)
+workType=preventive processingDuration=0 resolutionDuration=]0-1] => TMH-visiteentretienPompeÃ Chaleur(PAC)
+workType=preventive responseTime=]72--[ processingDuration=]0-1] => TMH-visiteentretienPompeÃ Chaleur(PAC)
+workType=preventive resolutionDuration=]0-1] => TMH-visiteentretienPompeÃ Chaleur(PAC)
+workType=preventive responseTime=]72--[ processingDuration=]4-16] => TMH-visiteentretienPompeÃ Chaleur(PAC)
+workType=preventive responseTime=]48-72] processingDuration=0 start=True requested=False => TMH-visiteentretienPompeÃ Chaleur(PAC)
+workType=preventive responseTime=]72--[ => TMH-visiteentretienPompeÃ Chaleur(PAC)
+workType=preventive responseTime=]48-72] processingDuration=]0-1] replanned=True => TMH-visiteentretienPompeÃ Chaleur(PAC)
+workType=preventive responseTime=0 resolutionDuration=]1-2] start=True replanned=True occupant_absent=False => TMH-visiteentretienPompeÃ Chaleur(PAC)
+workType=preventive => TMH-visiteentretienPompeÃ Chaleur(PAC)
+workType=preventive postponed=True occupant_absent=True => TMH-visiteentretienappareilgaz
+workType=preventive responseTime=0 postponed=True => TMH-visiteentretienappareilgaz
+workType=preventive resolutionDuration=]72--[ planned=False => TMH-visiteentretienappareilgaz
+workType=preventive planned=False occupant_absent=True => TMH-visiteentretienappareilgaz
+workType=preventive planned=False postponed=True => TMH-visiteentretienappareilgaz
+workType=preventive postponed=True => TMH-visiteentretienappareilgaz
+workType=preventive planned=False => TMH-visiteentretienappareilgaz
+workType=preventive processingDuration=]16-24] => TMH-visiteentretienappareilgaz
+workType=preventive responseTime=]2-4] => TMH-visiteentretienappareilgaz
+workType=preventive responseTime=]24-48] replanned=True => TMH-visiteentretienappareilgaz
+workType=preventive resolutionDuration=]2-4] => TMH-visiteentretienappareilgaz
+workType=preventive responseTime=]16-24] processingDuration=]1-2] => TMH-visiteentretienappareilgaz
+workType=preventive responseTime=]1-2] => TMH-visiteentretienappareilgaz
+workType=preventive responseTime=]16-24] => TMH-visiteentretienappareilgaz
+workType=preventive responseTime=]4-16] replanned=True => TMH-visiteentretienappareilgaz
+workType=preventive resolutionDuration=0 => TMH-visiteentretienappareilgaz
+workType=preventive => TMH-visiteentretienappareilgaz
+responseTime=]72--[ processingDuration=0 start=False replanned=False requested=False => TMH-visiteentretienballonsolaire
+workType=preventive processingDuration=]2-4] resolutionDuration=]16-24] replanned=True => TMH-visiteentretienballonsolaire
+responseTime=]72--[ start=False replanned=False => TMH-visiteentretienballonsolaire
+workType=preventive processingDuration=]2-4] resolutionDuration=]16-24] => TMH-visiteentretienballonsolaire
+start=False => TMH-visiteentretienballonsolaire
+responseTime=]72--[ processingDuration=]72--[ start=True replanned=True postponed=False occupant_absent=False requested=False => TMH-visiteentretienballonthermodynamique
+responseTime=]72--[ processingDuration=]0-1] postponed=False occupant_absent=False requested=False => TMH-visiteentretienballonthermodynamique
+responseTime=]72--[ processingDuration=]48-72] replanned=True occupant_absent=False requested=False => TMH-visiteentretienballonthermodynamique
+responseTime=]72--[ processingDuration=]1-2] requested=False => TMH-visiteentretienballonthermodynamique
+workType=preventive responseTime=]72--[ processingDuration=]1-2] => TMH-visiteentretienballonthermodynamique
+workType=preventive responseTime=]72--[ => TMH-visiteentretienballonthermodynamique
+workType=preventive responseTime=]0-1] processingDuration=]24-48] replanned=False => TMH-visiteentretienballonthermodynamique
+workType=preventive resolutionDuration=]0-1] start=True planned=True => TMH-visiteentretienballonthermodynamique
+responseTime=]72--[ => TMH-visiteentretienballonthermodynamique

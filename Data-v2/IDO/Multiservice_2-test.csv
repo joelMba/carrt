@@ -1,0 +1,523 @@
+Leak,criticalLevel,workType,responseTime,processingDuration,resolutionDuration,planned,replanned,postponed,client_planned,missing_item,canceled,partial_repair,class
+False,minus-one,corrective,]4-16],0,]4-16],True,False,False,False,False,True,False,Panne Robinetterie
+False,minus-one,corrective,]72--[,]2-4],]72--[,True,True,False,False,False,False,False,Panne VMC sanitaire
+True,minus-one,none,]16-24],]0-1],]16-24],True,False,False,False,False,False,False,Fuite d'eau urgence réelle
+False,minus-one,corrective,]72--[,]0-1],]72--[,False,False,True,True,False,False,False,Fuite d'eau urgence réelle
+False,minus-one,preventive,]72--[,]4-16],]72--[,False,False,False,True,False,True,False,Visite entretien convecteur
+False,minus-one,corrective,]72--[,]1-2],]72--[,True,False,False,False,False,False,False,Panne VMC sanitaire
+False,minus-one,preventive,]72--[,]2-4],]72--[,False,False,False,True,False,True,False,Visite entretien convecteur
+True,minus-one,preventive,]16-24],]2-4],]24-48],True,False,False,False,False,False,False,Panne Robinetterie
+False,minus-one,corrective,]72--[,]0-1],]72--[,False,False,False,True,False,True,True,Panne Robinetterie
+False,minus-one,corrective,]72--[,]1-2],]72--[,True,False,False,False,False,False,False,Panne Robinetterie
+False,minus-one,preventive,]72--[,]48-72],]72--[,False,False,False,True,False,True,False,Visite entretien convecteur
+False,minus-one,preventive,]72--[,]72--[,]72--[,True,True,False,False,False,False,False,Panne Robinetterie
+False,minus-one,corrective,]72--[,]0-1],]72--[,False,True,False,False,False,False,False,Visite entretien ventilation ind
+False,minus-one,preventive,]72--[,]72--[,]72--[,True,False,False,False,False,True,False,Visite entretien convecteur
+False,zero,corrective,]24-48],]2-4],]48-72],True,False,False,False,False,False,False,Panne chauff ind
+False,minus-one,none,]72--[,0,]72--[,True,False,False,False,False,True,False,Panne Robinetterie
+False,minus-one,corrective,]72--[,]0-1],]72--[,False,False,False,True,False,False,False,Fuite d'eau urgence réelle
+False,minus-one,preventive,]72--[,]1-2],]72--[,True,True,False,False,False,True,False,Visite entretien convecteur
+False,minus-one,corrective,]16-24],]1-2],]24-48],True,False,False,False,False,False,False,Fuite d'eau urgence réelle
+False,minus-one,corrective,]72--[,0,]72--[,True,True,True,True,True,False,True,Fuite d'eau urgence réelle
+False,minus-one,none,]72--[,]2-4],]72--[,False,True,False,True,True,False,True,Panne Robinetterie
+False,minus-one,corrective,]72--[,]2-4],]72--[,True,True,False,False,False,False,False,Panne VMC sanitaire
+False,minus-one,preventive,]72--[,]0-1],]72--[,False,False,False,True,False,True,False,Visite entretien convecteur
+False,minus-one,preventive,]24-48],]0-1],]24-48],False,False,False,True,False,False,False,Panne VMC sanitaire
+False,minus-one,preventive,]72--[,]0-1],]72--[,True,True,False,False,False,True,False,Visite entretien convecteur
+False,zero,corrective,]24-48],]1-2],]24-48],True,False,False,False,False,False,False,Panne chauff ind
+False,minus-one,preventive,]48-72],0,]48-72],True,False,False,False,False,False,False,Visite entretien convecteur
+True,minus-one,preventive,]16-24],]0-1],]16-24],False,False,False,True,False,False,False,Panne VMC sanitaire
+False,minus-one,corrective,]72--[,]1-2],]72--[,False,False,False,True,False,False,False,Panne Robinetterie
+False,zero,corrective,]24-48],]0-1],]48-72],True,False,False,False,False,False,False,Panne chauff ind
+False,minus-one,corrective,]16-24],]0-1],]16-24],True,False,False,False,False,False,False,Fuite d'eau urgence réelle
+False,minus-one,corrective,]72--[,]0-1],]72--[,False,False,False,False,False,False,False,Visite entretien ventilation ind
+False,zero,corrective,]72--[,]2-4],]72--[,True,True,True,False,True,False,True,Panne chauff ind
+False,minus-one,preventive,]72--[,]2-4],]72--[,False,False,False,True,False,True,False,Visite entretien convecteur
+True,minus-one,none,]16-24],]0-1],]24-48],True,False,False,False,False,False,False,Fuite d'eau urgence réelle
+False,minus-one,preventive,]72--[,]72--[,]72--[,True,True,False,False,True,False,True,Panne Robinetterie
+False,minus-one,corrective,]72--[,]0-1],]72--[,False,False,False,True,False,False,False,Visite entretien ventilation ind
+False,minus-one,corrective,]72--[,]0-1],]72--[,False,False,False,True,False,False,False,Visite entretien ventilation ind
+False,minus-one,corrective,]24-48],]4-16],]24-48],True,False,False,False,False,False,False,Fuite d'eau urgence réelle
+False,minus-one,corrective,]72--[,]0-1],]72--[,True,False,False,False,False,False,False,Panne VMC sanitaire
+False,minus-one,corrective,]72--[,]0-1],]72--[,False,False,False,True,False,False,False,Visite entretien ventilation ind
+True,minus-one,preventive,]72--[,]2-4],]72--[,True,True,False,False,False,False,False,Panne Robinetterie
+False,zero,corrective,]72--[,]2-4],]72--[,False,True,False,True,True,False,True,Panne chauff ind
+True,minus-one,preventive,]48-72],]1-2],]48-72],True,False,False,False,False,False,False,Panne Robinetterie
+False,minus-one,corrective,]16-24],]0-1],]16-24],True,False,False,False,False,False,False,Fuite d'eau urgence réelle
+False,minus-one,preventive,]72--[,]2-4],]72--[,False,True,False,True,False,True,False,Visite entretien convecteur
+False,zero,corrective,]4-16],]0-1],]4-16],True,False,False,False,False,False,False,Panne chauff ind
+False,minus-one,preventive,]16-24],]0-1],]24-48],True,False,False,False,False,False,False,Panne Robinetterie
+True,minus-one,none,]16-24],]0-1],]24-48],True,False,False,False,False,False,False,Panne Robinetterie
+False,zero,corrective,]48-72],]0-1],]48-72],False,False,False,False,False,False,False,Panne chauff ind
+False,minus-one,corrective,]72--[,]0-1],]72--[,False,False,False,False,False,False,False,Fuite d'eau urgence réelle
+False,minus-one,corrective,]24-48],]1-2],]24-48],False,False,False,True,False,False,False,Panne Robinetterie
+False,minus-one,corrective,]16-24],]0-1],]16-24],True,False,False,False,False,False,False,Panne VMC sanitaire
+False,minus-one,corrective,]72--[,]0-1],]72--[,False,False,False,True,False,False,False,Panne VMC sanitaire
+False,minus-one,corrective,]72--[,]0-1],]72--[,True,False,False,False,False,False,False,Visite entretien ventilation ind
+True,minus-one,none,]72--[,]1-2],]72--[,True,False,False,False,False,False,False,Panne Robinetterie
+False,minus-one,corrective,]72--[,]2-4],]72--[,False,False,False,True,False,False,False,Panne Robinetterie
+False,minus-one,corrective,]72--[,]4-16],]72--[,True,True,False,False,True,False,True,Panne Robinetterie
+False,minus-one,corrective,]16-24],]1-2],]16-24],True,False,False,False,False,False,False,Panne VMC sanitaire
+False,zero,corrective,]16-24],]2-4],]16-24],True,False,False,False,False,False,False,Panne chauff ind
+False,minus-one,preventive,]72--[,]0-1],]72--[,False,False,False,True,False,False,False,Panne VMC sanitaire
+False,minus-one,preventive,]72--[,]48-72],]72--[,False,False,False,True,False,True,False,Visite entretien convecteur
+False,zero,corrective,]72--[,]0-1],]72--[,False,False,False,True,False,True,False,Panne chauff ind
+True,minus-one,preventive,]72--[,]0-1],]72--[,False,True,False,True,False,False,False,Panne Robinetterie
+False,minus-one,preventive,]72--[,]72--[,]72--[,True,False,False,True,False,True,False,Visite entretien convecteur
+False,zero,corrective,]72--[,0,]72--[,False,True,False,True,False,False,False,Panne chauff ind
+False,minus-one,preventive,]24-48],]0-1],]24-48],False,False,False,True,False,False,True,Panne VMC sanitaire
+True,zero,corrective,]72--[,]72--[,]72--[,False,True,True,True,False,False,True,Panne chauff ind
+False,minus-one,corrective,]72--[,]1-2],]72--[,True,False,False,False,False,False,False,Panne VMC sanitaire
+False,minus-one,corrective,]16-24],]0-1],]16-24],True,False,False,False,False,False,False,Panne VMC sanitaire
+False,zero,corrective,]72--[,]2-4],]72--[,False,False,False,True,False,False,False,Panne chauff ind
+False,zero,corrective,]16-24],]0-1],]16-24],True,False,False,False,False,False,False,Panne chauff ind
+False,minus-one,preventive,]72--[,]72--[,]72--[,False,False,False,True,False,True,False,Visite entretien convecteur
+False,minus-one,corrective,]72--[,]0-1],]72--[,False,True,False,False,False,False,False,Visite entretien ventilation ind
+False,minus-one,preventive,]72--[,]0-1],]72--[,False,False,False,False,False,False,False,Panne VMC sanitaire
+False,zero,corrective,]24-48],]1-2],]24-48],False,False,False,False,False,False,False,Panne chauff ind
+False,minus-one,preventive,]48-72],]1-2],]48-72],True,True,False,False,False,False,False,Panne Robinetterie
+False,zero,corrective,]72--[,]72--[,]72--[,False,True,False,True,False,False,False,Panne chauff ind
+False,zero,corrective,]4-16],]1-2],]4-16],True,False,False,False,False,False,False,Panne chauff ind
+False,minus-one,none,]72--[,]4-16],]72--[,False,True,False,True,True,True,True,Panne Robinetterie
+False,minus-one,corrective,]72--[,]0-1],]72--[,True,True,False,True,True,False,True,Panne Robinetterie
+False,minus-one,preventive,]24-48],]0-1],]24-48],False,False,False,True,False,False,False,Panne VMC sanitaire
+True,minus-one,preventive,]72--[,]0-1],]72--[,False,False,False,True,False,False,True,Panne Robinetterie
+True,minus-one,preventive,]16-24],]0-1],]16-24],False,False,False,True,False,False,False,Panne VMC sanitaire
+False,minus-one,preventive,]72--[,]0-1],]72--[,False,True,False,True,False,False,False,Panne VMC sanitaire
+False,minus-one,corrective,]4-16],]0-1],]4-16],True,False,False,False,False,False,False,Fuite d'eau urgence réelle
+True,minus-one,none,]48-72],0,]48-72],False,True,False,True,False,False,False,Panne Robinetterie
+False,minus-one,preventive,]4-16],]0-1],]4-16],True,True,False,False,True,False,True,Panne Robinetterie
+False,zero,corrective,]72--[,]4-16],]72--[,True,True,False,False,False,False,False,Panne chauff ind
+False,minus-one,corrective,]72--[,]0-1],]72--[,False,False,False,True,False,False,False,Visite entretien ventilation ind
+False,minus-one,preventive,]72--[,]0-1],]72--[,True,False,False,False,False,True,False,Visite entretien convecteur
+False,minus-one,corrective,]72--[,]72--[,]72--[,False,False,False,True,False,False,False,Panne Robinetterie
+False,minus-one,corrective,]48-72],]2-4],]48-72],True,True,False,False,False,False,False,Panne Robinetterie
+False,minus-one,corrective,]72--[,]0-1],]72--[,False,True,False,False,False,False,False,Visite entretien ventilation ind
+False,zero,corrective,]72--[,]0-1],]72--[,False,False,True,True,False,False,False,Panne chauff ind
+False,minus-one,corrective,]2-4],]0-1],]4-16],True,False,False,False,False,False,False,Panne Robinetterie
+False,minus-one,preventive,]4-16],]72--[,]72--[,False,False,False,True,False,True,False,Panne Robinetterie
+False,zero,corrective,]72--[,]0-1],]72--[,False,False,False,True,False,True,False,Panne chauff ind
+False,zero,corrective,]72--[,]72--[,]72--[,False,True,True,True,True,False,True,Panne chauff ind
+True,minus-one,none,]16-24],]0-1],]16-24],True,False,False,False,False,False,False,Fuite d'eau urgence réelle
+True,minus-one,none,]72--[,]2-4],]72--[,True,True,True,False,False,False,False,Panne Robinetterie
+False,minus-one,corrective,]48-72],]1-2],]48-72],True,False,False,False,False,False,False,Panne Robinetterie
+True,minus-one,preventive,]24-48],]0-1],]24-48],True,False,False,False,False,False,False,Fuite d'eau urgence réelle
+False,zero,corrective,]24-48],]0-1],]48-72],False,False,True,True,False,False,False,Panne chauff ind
+False,minus-one,corrective,]72--[,]0-1],]72--[,False,True,False,False,False,False,False,Visite entretien ventilation ind
+False,minus-one,corrective,]72--[,]0-1],]72--[,False,False,False,True,False,True,False,Panne Robinetterie
+False,minus-one,corrective,]16-24],]0-1],]16-24],True,False,False,False,False,False,False,Fuite d'eau urgence réelle
+False,minus-one,corrective,]72--[,0,]72--[,True,True,False,False,False,False,False,Panne Robinetterie
+False,minus-one,corrective,]48-72],]0-1],]48-72],False,False,False,True,False,True,True,Panne Robinetterie
+True,minus-one,preventive,]4-16],]1-2],]4-16],True,False,False,False,False,False,False,Panne Robinetterie
+False,minus-one,corrective,]72--[,]0-1],]72--[,False,False,False,False,False,False,False,Visite entretien ventilation ind
+True,minus-one,none,]72--[,0,]72--[,True,False,False,False,False,True,False,Panne Robinetterie
+False,zero,corrective,]72--[,]1-2],]72--[,True,False,False,False,False,False,False,Panne chauff ind
+False,minus-one,corrective,]72--[,]1-2],]72--[,True,False,False,False,False,False,False,Panne VMC sanitaire
+False,minus-one,corrective,]72--[,]0-1],]72--[,False,True,False,False,False,False,False,Visite entretien ventilation ind
+False,minus-one,preventive,]72--[,]0-1],]72--[,False,False,False,False,False,False,False,Fuite d'eau urgence réelle
+False,minus-one,corrective,]16-24],]0-1],]16-24],True,False,False,False,False,False,False,Fuite d'eau urgence réelle
+False,zero,corrective,]24-48],]0-1],]24-48],False,False,True,True,False,True,False,Panne chauff ind
+False,minus-one,preventive,]72--[,]0-1],]72--[,False,False,False,True,False,True,False,Visite entretien convecteur
+True,minus-one,preventive,]72--[,]1-2],]72--[,False,False,True,True,False,False,False,Fuite d'eau urgence réelle
+False,minus-one,preventive,]72--[,]72--[,]72--[,False,False,False,True,False,True,False,Visite entretien convecteur
+False,minus-one,preventive,]72--[,]48-72],]72--[,False,False,False,True,False,True,False,Visite entretien convecteur
+False,minus-one,corrective,]72--[,]0-1],]72--[,False,False,False,False,False,False,False,Fuite d'eau urgence réelle
+True,minus-one,none,]72--[,]1-2],]72--[,True,True,False,False,False,False,False,Panne Robinetterie
+False,minus-one,preventive,]72--[,]0-1],]72--[,True,False,False,False,False,False,False,Visite entretien convecteur
+False,zero,corrective,]72--[,]1-2],]72--[,False,True,False,False,False,False,False,Panne chauff ind
+False,minus-one,corrective,]72--[,]0-1],]72--[,True,False,True,False,False,False,False,Fuite d'eau urgence réelle
+False,zero,corrective,]72--[,]1-2],]72--[,False,True,False,False,False,False,False,Panne chauff ind
+False,minus-one,none,]72--[,]0-1],]72--[,True,False,False,False,False,False,False,Fuite d'eau urgence réelle
+False,minus-one,preventive,]72--[,]72--[,]72--[,True,False,False,True,False,True,False,Visite entretien convecteur
+False,minus-one,preventive,]16-24],]0-1],]16-24],False,False,False,True,False,False,False,Fuite d'eau urgence réelle
+False,minus-one,corrective,]72--[,]1-2],]72--[,False,True,True,True,True,False,True,Visite entretien ventilation ind
+False,minus-one,preventive,]72--[,]72--[,]72--[,True,False,False,False,False,True,False,Visite entretien convecteur
+True,minus-one,preventive,]24-48],]0-1],]24-48],True,False,False,False,False,False,False,Fuite d'eau urgence réelle
+True,zero,corrective,]4-16],]0-1],]4-16],False,False,False,True,False,False,False,Panne chauff ind
+False,minus-one,preventive,]72--[,0,]72--[,True,False,False,False,False,False,False,Visite entretien convecteur
+False,minus-one,preventive,]72--[,]48-72],]72--[,False,True,False,True,False,True,False,Visite entretien convecteur
+False,minus-one,corrective,]72--[,]0-1],]72--[,True,False,False,False,False,False,False,Panne VMC sanitaire
+False,minus-one,corrective,]72--[,]0-1],]72--[,False,False,False,False,False,False,False,Panne VMC sanitaire
+False,zero,corrective,]72--[,0,]72--[,True,True,False,False,False,False,False,Panne chauff ind
+False,zero,corrective,]72--[,]0-1],]72--[,True,False,True,False,False,False,False,Panne chauff ind
+False,zero,corrective,]72--[,]1-2],]72--[,False,False,True,True,False,False,False,Panne chauff ind
+True,minus-one,none,]16-24],]0-1],]16-24],True,False,False,False,False,False,False,Fuite d'eau urgence réelle
+True,minus-one,preventive,]24-48],]2-4],]48-72],False,False,False,True,False,False,False,Panne Robinetterie
+False,zero,corrective,]72--[,]2-4],]72--[,True,False,True,False,False,False,False,Panne chauff ind
+True,minus-one,preventive,]16-24],]0-1],]16-24],False,False,False,True,False,False,False,Panne VMC sanitaire
+True,minus-one,preventive,]48-72],]1-2],]72--[,False,False,False,True,False,False,False,Panne Robinetterie
+False,zero,corrective,]72--[,]2-4],]72--[,False,True,False,True,True,False,True,Panne chauff ind
+True,minus-one,corrective,]72--[,]0-1],]72--[,False,True,True,False,False,False,False,Fuite d'eau urgence réelle
+True,minus-one,preventive,]48-72],]1-2],]48-72],False,False,False,True,False,False,False,Panne Robinetterie
+False,minus-one,corrective,]72--[,]2-4],]72--[,False,True,False,True,True,False,True,Panne Robinetterie
+False,minus-one,corrective,]72--[,]2-4],]72--[,False,True,True,True,True,False,True,Panne VMC sanitaire
+False,minus-one,preventive,]72--[,]48-72],]72--[,False,False,False,True,False,True,False,Visite entretien convecteur
+False,zero,corrective,]72--[,]72--[,]72--[,False,True,True,True,False,False,False,Panne chauff ind
+False,minus-one,corrective,]72--[,]0-1],]72--[,False,False,False,False,False,False,False,Panne VMC sanitaire
+False,zero,corrective,]48-72],]1-2],]48-72],True,False,False,False,False,False,False,Panne chauff ind
+False,minus-one,preventive,]72--[,]72--[,]72--[,False,False,False,True,False,True,False,Visite entretien convecteur
+False,minus-one,preventive,]16-24],]0-1],]16-24],True,False,False,False,False,False,False,Fuite d'eau urgence réelle
+False,minus-one,corrective,]72--[,]0-1],]72--[,True,False,False,False,False,False,False,Panne VMC sanitaire
+False,zero,corrective,]48-72],]2-4],]48-72],True,False,True,False,False,False,False,Panne chauff ind
+False,minus-one,corrective,]72--[,]1-2],]72--[,False,False,False,True,False,True,False,Panne Robinetterie
+False,minus-one,preventive,]72--[,]1-2],]72--[,False,False,False,True,False,True,False,Visite entretien convecteur
+False,zero,corrective,]16-24],]72--[,]72--[,True,True,False,False,False,False,False,Panne chauff ind
+False,minus-one,preventive,]72--[,]1-2],]72--[,False,False,False,True,False,False,False,Panne VMC sanitaire
+True,minus-one,corrective,]72--[,]0-1],]72--[,True,True,True,False,True,False,True,Panne Robinetterie
+False,minus-one,corrective,]72--[,]0-1],]72--[,False,False,False,True,False,False,False,Visite entretien ventilation ind
+False,zero,corrective,]24-48],]0-1],]24-48],True,False,False,False,False,False,False,Panne chauff ind
+True,minus-one,none,]16-24],]0-1],]16-24],True,False,False,False,False,False,False,Fuite d'eau urgence réelle
+False,minus-one,corrective,]24-48],]2-4],]48-72],True,True,False,False,False,True,False,Panne Robinetterie
+False,minus-one,corrective,]72--[,]0-1],]72--[,False,True,False,False,False,False,False,Visite entretien ventilation ind
+False,zero,corrective,]24-48],]1-2],]24-48],False,False,False,True,False,False,False,Panne chauff ind
+False,zero,corrective,]72--[,]72--[,]72--[,False,True,False,True,False,False,False,Panne chauff ind
+False,zero,corrective,]4-16],]0-1],]4-16],True,False,False,False,False,True,False,Panne chauff ind
+False,minus-one,corrective,]72--[,]0-1],]72--[,False,True,False,False,False,False,False,Visite entretien ventilation ind
+False,minus-one,corrective,0,0,0,True,False,False,False,False,True,False,Panne Robinetterie
+False,minus-one,preventive,]16-24],]0-1],]16-24],False,False,False,True,False,False,False,Fuite d'eau urgence réelle
+False,minus-one,preventive,]24-48],]0-1],]48-72],True,False,False,False,False,False,False,Panne Robinetterie
+True,minus-one,preventive,]24-48],]0-1],]48-72],False,False,False,True,False,False,False,Panne Robinetterie
+False,minus-one,preventive,]72--[,]72--[,]72--[,True,False,False,False,False,True,False,Visite entretien convecteur
+False,zero,corrective,]48-72],]1-2],]48-72],True,False,False,False,False,False,False,Panne chauff ind
+False,minus-one,corrective,]72--[,]1-2],]72--[,True,False,False,False,False,False,False,Panne VMC sanitaire
+False,zero,corrective,]16-24],]1-2],]16-24],True,False,False,False,False,False,False,Panne chauff ind
+True,minus-one,none,]72--[,0,]72--[,False,True,True,True,False,False,False,Panne Robinetterie
+False,minus-one,corrective,]72--[,]72--[,]72--[,True,True,False,False,False,False,False,Panne Robinetterie
+False,minus-one,preventive,]16-24],]0-1],]16-24],False,False,False,False,False,False,False,Fuite d'eau urgence réelle
+True,minus-one,preventive,]16-24],]0-1],]16-24],False,False,False,True,False,False,False,Panne VMC sanitaire
+True,minus-one,none,]48-72],]0-1],]48-72],True,False,False,False,False,False,False,Panne Robinetterie
+False,minus-one,corrective,]72--[,0,]72--[,True,True,True,False,True,False,True,Panne Robinetterie
+False,minus-one,corrective,]72--[,]1-2],]72--[,True,True,False,False,True,False,True,Panne Robinetterie
+False,zero,corrective,]72--[,]72--[,]72--[,False,True,True,False,False,False,False,Panne chauff ind
+True,minus-one,preventive,]72--[,]1-2],]72--[,True,False,False,False,False,False,False,Panne Robinetterie
+False,minus-one,corrective,]16-24],]0-1],]16-24],True,False,False,False,False,False,False,Fuite d'eau urgence réelle
+False,minus-one,corrective,]24-48],]0-1],]24-48],True,False,False,False,False,True,False,Panne Robinetterie
+False,minus-one,preventive,]72--[,]4-16],]72--[,True,True,False,False,False,False,False,Panne Robinetterie
+False,minus-one,preventive,]72--[,]48-72],]72--[,True,False,False,False,False,True,False,Visite entretien convecteur
+False,minus-one,corrective,]4-16],]0-1],]16-24],True,False,False,False,False,False,False,Panne Robinetterie
+False,minus-one,preventive,]72--[,]24-48],]72--[,False,False,False,True,False,True,False,Visite entretien convecteur
+False,minus-one,preventive,]72--[,0,]72--[,True,True,False,False,True,False,True,Panne Robinetterie
+False,zero,corrective,0,]16-24],]16-24],False,True,False,False,False,False,True,Panne chauff ind
+True,minus-one,preventive,]24-48],]72--[,]72--[,True,True,False,False,False,False,False,Panne Robinetterie
+True,minus-one,none,]72--[,]4-16],]72--[,False,True,False,True,False,True,False,Panne Robinetterie
+True,minus-one,none,]72--[,0,]72--[,True,True,True,False,True,False,True,Panne Robinetterie
+False,minus-one,preventive,]72--[,]1-2],]72--[,False,False,False,True,False,True,False,Visite entretien convecteur
+True,minus-one,preventive,]72--[,]2-4],]72--[,True,False,False,False,False,False,False,Fuite d'eau urgence réelle
+True,minus-one,none,]16-24],]0-1],]16-24],True,False,False,False,False,False,False,Fuite d'eau urgence réelle
+False,zero,corrective,]48-72],]0-1],]72--[,False,False,False,True,False,True,False,Panne chauff ind
+False,minus-one,preventive,]72--[,]72--[,]72--[,True,True,True,False,False,False,False,Panne Robinetterie
+False,minus-one,corrective,]72--[,]0-1],]72--[,False,False,False,True,False,False,False,Fuite d'eau urgence réelle
+False,minus-one,preventive,]24-48],]1-2],]48-72],False,False,False,True,False,False,False,Panne Robinetterie
+True,minus-one,none,]72--[,]4-16],]72--[,False,True,False,True,False,False,False,Panne Robinetterie
+False,minus-one,corrective,]48-72],]0-1],]48-72],False,False,False,True,False,False,True,Panne Robinetterie
+False,minus-one,preventive,]72--[,]4-16],]72--[,False,True,False,True,False,False,False,Panne Robinetterie
+True,minus-one,none,]24-48],]0-1],]24-48],False,False,False,True,False,False,False,Fuite d'eau urgence réelle
+False,zero,corrective,]72--[,]0-1],]72--[,True,False,False,False,False,False,False,Panne chauff ind
+False,minus-one,corrective,]72--[,]2-4],]72--[,True,True,False,False,False,False,False,Visite entretien ventilation ind
+False,minus-one,preventive,]24-48],]0-1],]24-48],True,False,False,False,False,False,False,Visite entretien convecteur
+False,minus-one,corrective,]72--[,]0-1],]72--[,False,False,False,True,False,False,False,Visite entretien ventilation ind
+True,minus-one,none,]72--[,]0-1],]72--[,True,True,False,False,True,False,True,Panne Robinetterie
+False,minus-one,corrective,]72--[,]2-4],]72--[,True,False,False,False,False,False,False,Panne Robinetterie
+True,minus-one,none,]72--[,]1-2],]72--[,False,True,True,True,False,False,False,Panne Robinetterie
+False,zero,corrective,]24-48],]1-2],]48-72],True,False,False,False,False,False,False,Panne chauff ind
+False,zero,corrective,]48-72],]0-1],]72--[,False,False,False,True,False,True,False,Panne chauff ind
+False,minus-one,preventive,]72--[,]0-1],]72--[,True,False,False,False,False,False,False,Panne VMC sanitaire
+True,minus-one,none,]16-24],]0-1],]16-24],True,False,False,False,False,False,False,Fuite d'eau urgence réelle
+True,minus-one,preventive,]16-24],]0-1],]16-24],False,False,False,True,False,False,False,Panne VMC sanitaire
+False,minus-one,preventive,]72--[,]48-72],]72--[,False,False,False,True,False,True,False,Visite entretien convecteur
+False,zero,corrective,0,]16-24],]16-24],False,True,False,False,False,False,True,Panne chauff ind
+False,minus-one,corrective,]72--[,]0-1],]72--[,False,False,False,False,False,False,False,Panne VMC sanitaire
+False,minus-one,corrective,]72--[,]0-1],]72--[,False,False,False,True,False,False,False,Visite entretien ventilation ind
+False,minus-one,corrective,]16-24],]1-2],]16-24],True,False,False,False,False,False,False,Panne VMC sanitaire
+False,minus-one,corrective,]16-24],]0-1],]16-24],True,False,False,False,False,False,False,Panne VMC sanitaire
+False,minus-one,preventive,]72--[,]72--[,]72--[,False,False,False,True,False,True,False,Visite entretien convecteur
+False,zero,corrective,]72--[,]0-1],]72--[,False,True,True,True,False,True,False,Panne chauff ind
+False,zero,corrective,]72--[,]4-16],]72--[,True,True,True,False,True,False,True,Panne chauff ind
+True,minus-one,none,]72--[,]0-1],]72--[,True,False,False,True,False,False,False,Panne Robinetterie
+False,zero,corrective,]72--[,]2-4],]72--[,False,True,False,True,True,False,True,Panne chauff ind
+True,minus-one,preventive,]16-24],]0-1],]16-24],False,False,False,True,False,False,False,Panne VMC sanitaire
+True,minus-one,preventive,]72--[,]1-2],]72--[,False,False,True,True,False,False,False,Panne Robinetterie
+False,zero,corrective,]16-24],]0-1],]24-48],False,False,False,True,False,False,False,Panne chauff ind
+False,minus-one,preventive,]72--[,]1-2],]72--[,False,True,False,True,False,False,False,Panne Robinetterie
+False,minus-one,corrective,]16-24],]0-1],]24-48],True,False,False,False,False,False,False,Panne Robinetterie
+False,minus-one,corrective,]72--[,0,]72--[,False,True,False,True,False,False,False,Panne VMC sanitaire
+False,zero,corrective,]48-72],]0-1],]48-72],True,False,False,False,False,True,False,Panne chauff ind
+False,minus-one,preventive,]72--[,]0-1],]72--[,False,False,False,False,False,False,False,Fuite d'eau urgence réelle
+False,minus-one,preventive,]72--[,]72--[,]72--[,False,False,False,True,False,True,False,Visite entretien convecteur
+False,minus-one,corrective,]72--[,]0-1],]72--[,False,False,False,True,False,False,False,Panne Robinetterie
+False,zero,corrective,]72--[,]72--[,]72--[,True,True,False,False,False,False,False,Panne chauff ind
+False,zero,corrective,0,]0-1],]0-1],True,False,False,False,False,False,False,Panne chauff ind
+False,zero,corrective,]72--[,]0-1],]72--[,True,False,False,False,False,True,False,Panne chauff ind
+False,minus-one,corrective,]72--[,]0-1],]72--[,False,False,False,False,False,False,False,Visite entretien ventilation ind
+True,minus-one,preventive,]16-24],]0-1],]16-24],False,False,False,True,False,False,False,Panne VMC sanitaire
+False,zero,corrective,]72--[,]4-16],]72--[,True,True,True,False,False,False,False,Panne chauff ind
+False,minus-one,preventive,]24-48],]0-1],]48-72],True,False,False,False,False,False,False,Visite entretien convecteur
+True,minus-one,preventive,0,]0-1],]0-1],False,False,False,False,False,False,False,Panne VMC sanitaire
+True,minus-one,none,]16-24],]1-2],]24-48],False,False,False,True,False,False,False,Panne Robinetterie
+False,minus-one,corrective,]2-4],]0-1],]2-4],True,False,False,False,False,False,False,Fuite d'eau urgence réelle
+False,minus-one,preventive,]72--[,]0-1],]72--[,True,False,False,False,False,False,False,Visite entretien convecteur
+False,minus-one,corrective,]72--[,]0-1],]72--[,False,False,False,True,False,False,False,Visite entretien ventilation ind
+False,minus-one,preventive,]72--[,]2-4],]72--[,True,False,False,True,False,False,False,Panne Robinetterie
+False,minus-one,corrective,]72--[,]1-2],]72--[,True,False,False,False,False,True,False,Panne Robinetterie
+True,minus-one,preventive,]16-24],]1-2],]16-24],False,False,False,True,False,False,False,Panne Robinetterie
+False,zero,corrective,]72--[,]0-1],]72--[,False,False,False,True,False,False,False,Panne chauff ind
+False,minus-one,corrective,]72--[,]0-1],]72--[,False,True,False,False,False,False,False,Visite entretien ventilation ind
+False,zero,corrective,]4-16],]1-2],]4-16],False,False,False,True,False,False,False,Panne chauff ind
+False,minus-one,corrective,]72--[,]1-2],]72--[,False,True,True,True,False,True,False,Panne Robinetterie
+False,minus-one,preventive,]1-2],]0-1],]1-2],True,False,False,False,False,False,False,Panne Robinetterie
+False,minus-one,preventive,]24-48],]2-4],]48-72],True,False,False,False,False,False,False,Panne Robinetterie
+False,minus-one,corrective,]16-24],]0-1],]16-24],True,False,False,False,False,False,False,Panne Robinetterie
+False,minus-one,preventive,]72--[,]48-72],]72--[,False,False,False,True,False,True,False,Visite entretien convecteur
+False,zero,corrective,]72--[,]0-1],]72--[,False,False,False,True,False,False,False,Panne chauff ind
+False,minus-one,preventive,0,]0-1],]0-1],False,False,False,True,False,False,False,Panne VMC sanitaire
+False,minus-one,corrective,]16-24],]0-1],]24-48],True,False,False,False,False,False,False,Fuite d'eau urgence réelle
+False,minus-one,corrective,]72--[,]0-1],]72--[,False,False,False,False,False,False,False,Visite entretien ventilation ind
+False,minus-one,preventive,]24-48],]0-1],]24-48],False,False,True,True,False,False,False,Panne Robinetterie
+False,minus-one,none,]48-72],]1-2],]48-72],False,True,False,True,False,False,False,Panne Robinetterie
+True,minus-one,none,]24-48],]0-1],]24-48],True,False,False,False,False,True,False,Panne Robinetterie
+False,minus-one,preventive,]72--[,]1-2],]72--[,False,False,False,True,False,True,False,Visite entretien convecteur
+False,minus-one,corrective,]72--[,]0-1],]72--[,True,True,False,False,False,False,False,Panne Robinetterie
+True,minus-one,preventive,]72--[,]24-48],]72--[,False,True,False,True,False,False,False,Panne Robinetterie
+False,minus-one,preventive,]72--[,]2-4],]72--[,True,True,False,False,False,True,False,Visite entretien convecteur
+False,zero,corrective,]24-48],]0-1],]24-48],False,False,True,True,False,False,False,Panne chauff ind
+False,minus-one,corrective,]72--[,0,]72--[,True,False,False,False,False,True,False,Panne Robinetterie
+True,minus-one,preventive,]48-72],]0-1],]48-72],True,False,False,False,False,False,False,Fuite d'eau urgence réelle
+False,minus-one,corrective,]2-4],]1-2],]4-16],True,False,False,False,False,False,False,Panne Robinetterie
+False,minus-one,preventive,]72--[,]2-4],]72--[,True,False,False,False,False,False,False,Panne Robinetterie
+True,zero,corrective,]72--[,]0-1],]72--[,False,True,True,True,True,False,True,Panne chauff ind
+False,minus-one,corrective,]72--[,]0-1],]72--[,False,False,False,True,False,False,False,Visite entretien ventilation ind
+False,minus-one,none,]72--[,]72--[,]72--[,False,True,True,True,False,False,False,Panne Robinetterie
+True,minus-one,none,]72--[,]0-1],]72--[,True,True,False,False,False,False,False,Panne Robinetterie
+False,minus-one,none,]72--[,]0-1],]72--[,True,True,False,False,False,False,False,Fuite d'eau urgence réelle
+True,minus-one,corrective,]72--[,]72--[,]72--[,False,True,True,True,True,False,True,Fuite d'eau urgence réelle
+False,zero,corrective,]72--[,]1-2],]72--[,False,True,False,True,False,False,False,Panne chauff ind
+False,minus-one,corrective,]72--[,]2-4],]72--[,True,True,True,False,True,False,True,Panne Robinetterie
+False,minus-one,corrective,]72--[,]0-1],]72--[,False,False,False,False,False,False,False,Visite entretien ventilation ind
+False,minus-one,preventive,]72--[,]0-1],]72--[,False,False,False,False,False,False,False,Panne VMC sanitaire
+False,zero,corrective,]24-48],]1-2],]24-48],False,False,True,False,False,False,False,Panne chauff ind
+True,minus-one,none,]4-16],0,]4-16],True,False,False,False,False,False,False,Panne Robinetterie
+True,minus-one,preventive,]48-72],]0-1],]48-72],True,False,False,False,False,False,False,Panne Robinetterie
+False,minus-one,preventive,]72--[,]0-1],]72--[,False,False,False,True,False,False,False,Fuite d'eau urgence réelle
+False,zero,corrective,0,]0-1],]0-1],True,False,False,False,False,True,False,Panne chauff ind
+True,minus-one,preventive,]72--[,]0-1],]72--[,True,False,True,False,False,False,False,Panne Robinetterie
+False,minus-one,preventive,]16-24],]1-2],]24-48],False,False,False,True,False,False,True,Panne Robinetterie
+True,minus-one,preventive,]72--[,]2-4],]72--[,False,True,False,True,False,False,False,Panne Robinetterie
+False,minus-one,corrective,]72--[,]0-1],]72--[,False,False,False,True,False,False,False,Visite entretien ventilation ind
+False,minus-one,corrective,]72--[,]0-1],]72--[,False,False,False,False,False,False,False,Panne VMC sanitaire
+False,minus-one,preventive,]72--[,]48-72],]72--[,False,False,False,True,False,True,False,Visite entretien convecteur
+False,minus-one,corrective,]72--[,]0-1],]72--[,False,False,False,False,False,False,False,Panne VMC sanitaire
+False,minus-one,preventive,]72--[,]72--[,]72--[,False,False,False,True,False,True,False,Visite entretien convecteur
+False,minus-one,preventive,]72--[,]0-1],]72--[,True,False,False,False,False,False,False,Visite entretien convecteur
+True,minus-one,none,]16-24],]0-1],]16-24],True,False,False,False,False,True,False,Panne Robinetterie
+False,minus-one,preventive,]72--[,]2-4],]72--[,False,False,False,True,False,True,False,Visite entretien convecteur
+False,minus-one,preventive,]24-48],]0-1],]24-48],True,False,False,False,False,False,False,Visite entretien convecteur
+False,minus-one,corrective,]24-48],]0-1],]24-48],True,False,False,False,False,False,False,Fuite d'eau urgence réelle
+False,minus-one,preventive,]72--[,]72--[,]72--[,True,False,False,True,False,True,False,Visite entretien convecteur
+False,minus-one,none,0,0,0,False,False,True,True,False,False,False,Panne Robinetterie
+False,minus-one,preventive,]4-16],]0-1],]4-16],True,False,False,False,False,False,False,Fuite d'eau urgence réelle
+False,minus-one,corrective,]16-24],]1-2],]24-48],True,False,False,False,False,False,False,Panne Robinetterie
+False,zero,corrective,]72--[,]0-1],]72--[,False,False,False,True,False,True,False,Panne chauff ind
+True,zero,corrective,]72--[,]1-2],]72--[,False,False,False,True,False,False,True,Panne chauff ind
+True,minus-one,preventive,]72--[,]0-1],]72--[,True,False,False,False,False,False,False,Fuite d'eau urgence réelle
+True,zero,corrective,]72--[,]72--[,]72--[,True,True,True,False,False,False,False,Panne chauff ind
+True,minus-one,none,]24-48],]0-1],]24-48],True,False,False,False,False,False,False,Panne Robinetterie
+False,minus-one,preventive,]72--[,]0-1],]72--[,False,False,False,True,False,False,False,Visite entretien ventilation ind
+False,zero,corrective,]72--[,]0-1],]72--[,False,False,False,True,False,False,True,Panne chauff ind
+True,minus-one,preventive,]24-48],]1-2],]24-48],True,False,False,False,False,False,False,Panne Robinetterie
+False,zero,corrective,]4-16],]0-1],]4-16],True,False,False,False,False,False,False,Panne chauff ind
+False,minus-one,corrective,]16-24],]0-1],]16-24],False,False,False,True,False,False,False,Panne Robinetterie
+False,minus-one,corrective,]72--[,]0-1],]72--[,False,False,False,False,False,False,False,Visite entretien ventilation ind
+False,minus-one,preventive,]72--[,]72--[,]72--[,False,True,False,True,False,False,False,Panne VMC sanitaire
+False,zero,corrective,]24-48],]1-2],]24-48],False,False,False,True,False,False,False,Panne chauff ind
+True,minus-one,preventive,]48-72],]0-1],]48-72],True,False,False,False,False,False,False,Panne VMC sanitaire
+False,minus-one,preventive,]24-48],]0-1],]24-48],False,False,False,True,False,False,False,Panne VMC sanitaire
+False,zero,corrective,]72--[,0,]72--[,True,True,False,False,False,False,False,Panne chauff ind
+False,minus-one,corrective,]72--[,]0-1],]72--[,False,False,False,False,False,False,False,Visite entretien ventilation ind
+False,minus-one,corrective,]72--[,0,]72--[,True,False,False,False,False,True,False,Panne Robinetterie
+False,minus-one,corrective,]16-24],]0-1],]16-24],True,False,False,False,False,False,False,Fuite d'eau urgence réelle
+False,zero,corrective,]72--[,]1-2],]72--[,True,False,True,False,False,False,False,Panne chauff ind
+False,minus-one,corrective,]72--[,]2-4],]72--[,True,True,False,False,False,False,False,Panne VMC sanitaire
+False,minus-one,preventive,]72--[,0,]72--[,True,False,False,False,False,False,False,Visite entretien convecteur
+False,minus-one,preventive,]72--[,]0-1],]72--[,False,False,False,False,False,True,False,Visite entretien convecteur
+False,zero,corrective,]72--[,]2-4],]72--[,True,False,False,False,False,False,False,Panne chauff ind
+False,zero,corrective,]48-72],]0-1],]72--[,False,False,False,True,False,False,False,Panne chauff ind
+False,minus-one,corrective,]72--[,]0-1],]72--[,False,False,False,True,False,False,False,Fuite d'eau urgence réelle
+False,minus-one,corrective,]72--[,]24-48],]72--[,True,True,False,False,False,False,False,Visite entretien ventilation ind
+False,minus-one,preventive,]24-48],]0-1],]24-48],False,False,False,True,False,False,False,Panne VMC sanitaire
+False,zero,corrective,]72--[,]1-2],]72--[,False,True,True,True,False,False,False,Panne chauff ind
+False,minus-one,corrective,]72--[,]0-1],]72--[,False,False,False,True,False,True,False,Visite entretien ventilation ind
+True,minus-one,none,]72--[,]1-2],]72--[,True,True,False,False,False,False,False,Fuite d'eau urgence réelle
+False,zero,corrective,]72--[,]1-2],]72--[,False,True,False,False,False,False,False,Panne chauff ind
+False,minus-one,corrective,]72--[,]72--[,]72--[,False,True,False,True,False,False,False,Panne Robinetterie
+False,zero,corrective,]72--[,0,]72--[,False,True,False,True,True,False,True,Panne chauff ind
+True,minus-one,none,]72--[,0,]72--[,True,True,False,False,False,False,False,Panne Robinetterie
+False,minus-one,preventive,]72--[,]0-1],]72--[,False,False,False,False,False,False,False,Panne VMC sanitaire
+False,minus-one,preventive,]48-72],]2-4],]48-72],False,False,False,True,False,False,False,Panne Robinetterie
+True,minus-one,none,]72--[,]1-2],]72--[,False,False,False,True,True,True,True,Panne Robinetterie
+False,zero,corrective,]72--[,]0-1],]72--[,False,False,False,True,False,True,False,Panne chauff ind
+False,minus-one,preventive,]24-48],]0-1],]24-48],False,False,False,True,False,False,False,Panne VMC sanitaire
+False,minus-one,preventive,]72--[,]48-72],]72--[,False,False,False,True,False,True,False,Visite entretien convecteur
+True,minus-one,none,]72--[,]72--[,]72--[,False,True,False,True,False,True,False,Panne Robinetterie
+False,minus-one,corrective,]16-24],]0-1],]24-48],True,False,False,False,False,False,False,Fuite d'eau urgence réelle
+False,zero,corrective,]16-24],]0-1],]24-48],True,False,True,False,False,False,False,Panne chauff ind
+False,minus-one,corrective,]72--[,]0-1],]72--[,False,False,False,False,False,False,False,Visite entretien ventilation ind
+True,minus-one,preventive,]72--[,]0-1],]72--[,True,False,False,False,False,False,False,Fuite d'eau urgence réelle
+False,minus-one,corrective,]72--[,]0-1],]72--[,False,False,True,True,False,False,False,Fuite d'eau urgence réelle
+False,minus-one,corrective,]72--[,]1-2],]72--[,True,False,False,True,False,False,False,Panne Robinetterie
+False,minus-one,preventive,]16-24],]0-1],]16-24],True,False,False,False,False,False,True,Panne Robinetterie
+False,minus-one,corrective,]72--[,]0-1],]72--[,False,False,False,True,False,False,False,Fuite d'eau urgence réelle
+False,minus-one,corrective,]72--[,]0-1],]72--[,False,False,False,False,False,False,False,Visite entretien ventilation ind
+False,minus-one,preventive,]72--[,]0-1],]72--[,True,False,False,False,False,False,False,Visite entretien convecteur
+False,minus-one,preventive,]72--[,]0-1],]72--[,False,False,False,True,False,False,False,Panne VMC sanitaire
+False,minus-one,corrective,]72--[,]0-1],]72--[,False,False,False,True,False,False,False,Visite entretien ventilation ind
+False,minus-one,preventive,]48-72],]0-1],]48-72],True,False,False,True,False,False,False,Panne Robinetterie
+False,minus-one,preventive,]16-24],]0-1],]16-24],False,False,False,True,False,False,False,Panne Robinetterie
+True,minus-one,preventive,]48-72],]0-1],]48-72],False,False,False,True,False,False,False,Panne VMC sanitaire
+False,minus-one,corrective,]16-24],]0-1],]16-24],False,False,False,True,False,True,False,Panne Robinetterie
+False,zero,corrective,]4-16],]0-1],]4-16],True,False,False,False,False,True,False,Panne chauff ind
+False,minus-one,preventive,]72--[,]0-1],]72--[,False,False,False,True,False,False,False,Panne VMC sanitaire
+False,zero,corrective,]48-72],]1-2],]48-72],False,False,False,False,False,False,False,Panne chauff ind
+False,minus-one,corrective,]0-1],]72--[,]72--[,True,False,False,False,False,False,False,Panne Robinetterie
+False,minus-one,corrective,]72--[,]0-1],]72--[,False,False,False,False,False,False,False,Visite entretien ventilation ind
+False,minus-one,preventive,]72--[,]2-4],]72--[,True,True,False,False,False,False,False,Fuite d'eau urgence réelle
+False,minus-one,corrective,]72--[,]0-1],]72--[,False,False,True,True,False,False,False,Panne Robinetterie
+False,zero,corrective,]48-72],]0-1],]72--[,False,False,False,True,False,False,False,Panne chauff ind
+False,minus-one,preventive,]72--[,]72--[,]72--[,False,False,False,True,False,True,False,Visite entretien convecteur
+False,minus-one,corrective,]72--[,]0-1],]72--[,False,False,False,False,False,False,False,Visite entretien ventilation ind
+True,minus-one,none,]72--[,]72--[,]72--[,True,True,False,False,False,True,False,Panne Robinetterie
+False,minus-one,corrective,]72--[,]72--[,]72--[,True,True,True,False,False,False,False,Panne Robinetterie
+False,zero,corrective,]4-16],]0-1],]4-16],False,False,False,True,False,False,False,Panne chauff ind
+False,minus-one,preventive,]4-16],]0-1],]16-24],True,False,False,False,False,False,False,Panne VMC sanitaire
+True,zero,corrective,]72--[,]0-1],]72--[,False,True,False,True,False,False,False,Panne chauff ind
+True,minus-one,none,]72--[,0,]72--[,False,False,False,True,False,False,False,Panne Robinetterie
+False,minus-one,corrective,]72--[,]1-2],]72--[,True,False,False,False,False,False,False,Panne VMC sanitaire
+False,minus-one,corrective,]72--[,]0-1],]72--[,False,False,False,False,False,False,False,Visite entretien ventilation ind
+True,minus-one,none,]72--[,]0-1],]72--[,False,False,False,True,False,False,True,Panne Robinetterie
+False,zero,corrective,]24-48],]1-2],]24-48],False,False,False,False,False,False,False,Panne chauff ind
+True,minus-one,none,]16-24],]0-1],]24-48],True,False,False,False,False,False,False,Fuite d'eau urgence réelle
+False,zero,corrective,]72--[,0,]72--[,False,True,False,True,False,True,False,Panne chauff ind
+False,minus-one,preventive,]72--[,]0-1],]72--[,False,False,False,True,False,False,False,Visite entretien convecteur
+False,minus-one,preventive,]72--[,0,]72--[,True,False,False,False,False,False,False,Visite entretien convecteur
+False,minus-one,none,]16-24],]0-1],]16-24],True,True,True,False,True,False,True,Panne Robinetterie
+False,zero,corrective,]72--[,]0-1],]72--[,True,False,True,False,False,True,False,Panne chauff ind
+True,minus-one,none,]72--[,0,]72--[,True,True,False,False,False,True,False,Panne Robinetterie
+False,zero,corrective,]4-16],]0-1],]4-16],True,False,False,False,False,False,True,Panne chauff ind
+False,zero,corrective,]72--[,]4-16],]72--[,False,True,False,True,False,False,False,Panne chauff ind
+False,minus-one,preventive,]72--[,]48-72],]72--[,False,False,False,True,False,True,False,Visite entretien convecteur
+False,minus-one,preventive,]72--[,]0-1],]72--[,False,False,False,True,False,True,False,Visite entretien convecteur
+False,minus-one,preventive,]72--[,]0-1],]72--[,False,False,False,False,False,False,False,Panne VMC sanitaire
+False,zero,corrective,]72--[,]2-4],]72--[,True,True,True,False,False,False,False,Panne chauff ind
+False,minus-one,corrective,]72--[,]0-1],]72--[,False,False,True,True,False,False,False,Fuite d'eau urgence réelle
+False,minus-one,preventive,]24-48],]0-1],]24-48],False,False,False,True,False,False,False,Panne VMC sanitaire
+False,minus-one,preventive,]24-48],]4-16],]24-48],False,False,False,True,False,False,False,Panne Robinetterie
+False,one,preventive,]72--[,]0-1],]72--[,True,True,True,False,True,False,True,Visite entretien convecteur
+False,minus-one,corrective,]4-16],]0-1],]4-16],True,False,False,False,False,False,False,Fuite d'eau urgence réelle
+False,minus-one,preventive,]16-24],]0-1],]16-24],False,False,False,True,False,False,False,Fuite d'eau urgence réelle
+False,minus-one,preventive,]72--[,]0-1],]72--[,True,False,False,False,False,True,False,Visite entretien convecteur
+False,zero,corrective,]24-48],]1-2],]48-72],True,False,False,False,False,False,False,Panne chauff ind
+False,minus-one,preventive,]24-48],]0-1],]24-48],False,False,False,True,False,False,False,Fuite d'eau urgence réelle
+False,minus-one,corrective,]72--[,]1-2],]72--[,False,False,True,True,False,False,False,Panne Robinetterie
+False,minus-one,corrective,]4-16],]16-24],]24-48],True,True,False,False,False,False,False,Panne Robinetterie
+False,minus-one,corrective,]72--[,]0-1],]72--[,False,False,False,True,False,True,False,Panne VMC sanitaire
+False,minus-one,preventive,]72--[,]72--[,]72--[,True,False,False,True,False,True,False,Visite entretien convecteur
+False,minus-one,preventive,]72--[,]0-1],]72--[,True,False,False,False,False,False,False,Panne Robinetterie
+False,minus-one,preventive,]72--[,]4-16],]72--[,False,False,False,True,False,True,False,Visite entretien convecteur
+False,minus-one,preventive,]72--[,]0-1],]72--[,False,False,False,True,False,False,False,Fuite d'eau urgence réelle
+False,minus-one,preventive,]2-4],]0-1],]2-4],True,False,False,False,False,False,False,Panne Robinetterie
+False,minus-one,preventive,]72--[,]48-72],]72--[,False,False,False,True,False,True,False,Visite entretien convecteur
+False,minus-one,corrective,]72--[,]0-1],]72--[,False,False,False,True,False,False,False,Visite entretien ventilation ind
+True,zero,corrective,]72--[,]0-1],]72--[,True,True,False,True,False,False,False,Panne chauff ind
+False,minus-one,preventive,]24-48],0,]24-48],True,False,False,False,False,False,False,Visite entretien convecteur
+False,minus-one,corrective,]72--[,]0-1],]72--[,True,False,False,False,False,False,False,Fuite d'eau urgence réelle
+False,minus-one,preventive,]16-24],]0-1],]16-24],False,False,False,True,False,False,False,Fuite d'eau urgence réelle
+False,minus-one,corrective,]72--[,]1-2],]72--[,True,False,False,False,False,False,False,Panne VMC sanitaire
+False,zero,corrective,]72--[,]1-2],]72--[,False,False,True,False,False,False,False,Panne chauff ind
+False,minus-one,preventive,]48-72],]0-1],]48-72],True,False,False,False,False,False,False,Visite entretien convecteur
+False,minus-one,preventive,]2-4],]0-1],]4-16],False,False,False,True,False,False,False,Panne VMC sanitaire
+False,minus-one,corrective,]72--[,0,]72--[,True,False,False,False,False,False,False,Panne Robinetterie
+False,minus-one,corrective,]72--[,]16-24],]72--[,False,True,False,True,False,False,False,Fuite d'eau urgence réelle
+False,minus-one,corrective,]24-48],]0-1],]24-48],False,False,False,True,False,False,False,Panne Robinetterie
+False,minus-one,preventive,]72--[,]0-1],]72--[,True,True,False,False,False,True,False,Visite entretien convecteur
+False,minus-one,preventive,]72--[,]0-1],]72--[,False,False,False,True,False,False,False,Panne Robinetterie
+True,minus-one,none,]24-48],]1-2],]24-48],False,False,False,True,False,False,False,Panne Robinetterie
+False,zero,corrective,]4-16],]0-1],]4-16],True,False,False,False,False,True,False,Panne chauff ind
+False,minus-one,corrective,]72--[,]0-1],]72--[,False,True,False,False,False,False,False,Visite entretien ventilation ind
+False,minus-one,corrective,]72--[,]4-16],]72--[,False,True,False,True,False,False,False,Panne Robinetterie
+False,zero,corrective,]72--[,]1-2],]72--[,False,True,False,False,False,False,False,Panne chauff ind
+False,minus-one,preventive,]16-24],]0-1],]16-24],False,False,False,True,False,False,False,Fuite d'eau urgence réelle
+False,zero,corrective,]24-48],]16-24],]48-72],False,True,False,True,False,False,False,Panne chauff ind
+False,minus-one,preventive,0,]0-1],]0-1],False,False,False,True,False,False,False,Panne VMC sanitaire
+False,minus-one,none,]72--[,0,]72--[,True,True,False,False,True,False,True,Panne Robinetterie
+False,zero,corrective,]72--[,]72--[,]72--[,False,True,False,False,False,False,False,Panne chauff ind
+False,minus-one,preventive,]72--[,]48-72],]72--[,False,False,False,True,False,True,False,Visite entretien convecteur
+False,minus-one,preventive,]24-48],]72--[,]72--[,True,True,False,False,False,False,False,Fuite d'eau urgence réelle
+False,zero,corrective,]24-48],]1-2],]24-48],True,False,False,False,False,False,True,Panne chauff ind
+False,minus-one,corrective,]72--[,]1-2],]72--[,True,True,False,False,True,True,True,Panne Robinetterie
+False,minus-one,preventive,]24-48],]1-2],]24-48],True,False,True,False,False,False,False,Panne Robinetterie
+True,zero,corrective,]72--[,]1-2],]72--[,False,True,False,True,False,False,True,Panne chauff ind
+False,minus-one,preventive,]72--[,0,]72--[,False,True,False,True,False,False,False,Panne Robinetterie
+False,minus-one,corrective,]72--[,]0-1],]72--[,False,False,False,False,False,False,False,Visite entretien ventilation ind
+False,minus-one,preventive,]72--[,]0-1],]72--[,False,False,False,False,False,False,False,Panne VMC sanitaire
+False,zero,corrective,]16-24],]1-2],]16-24],True,True,True,False,True,False,True,Panne chauff ind
+False,minus-one,preventive,]72--[,]24-48],]72--[,True,True,False,False,True,False,True,Panne VMC sanitaire
+False,minus-one,corrective,]72--[,]0-1],]72--[,False,False,False,True,False,False,False,Visite entretien ventilation ind
+False,zero,corrective,]16-24],]0-1],]16-24],True,False,False,False,False,False,True,Panne chauff ind
+False,minus-one,preventive,]72--[,]72--[,]72--[,False,False,False,True,False,True,False,Visite entretien convecteur
+False,zero,corrective,]48-72],]0-1],]48-72],False,False,False,True,False,False,False,Panne chauff ind
+False,minus-one,corrective,]72--[,]0-1],]72--[,False,True,False,False,False,False,False,Visite entretien ventilation ind
+True,minus-one,preventive,]24-48],]0-1],]24-48],True,False,False,False,False,False,False,Fuite d'eau urgence réelle
+False,minus-one,corrective,]72--[,]0-1],]72--[,False,False,False,True,False,False,False,Visite entretien ventilation ind
+True,minus-one,none,]72--[,]72--[,]72--[,True,True,False,False,False,False,False,Panne Robinetterie
+False,minus-one,preventive,]24-48],]72--[,]72--[,False,False,False,True,False,False,False,Panne Robinetterie
+False,zero,corrective,]24-48],]1-2],]24-48],False,False,False,True,False,False,False,Panne chauff ind
+False,zero,corrective,]48-72],]1-2],]4-16],True,False,False,False,False,False,False,Panne chauff ind
+False,minus-one,corrective,]72--[,]0-1],]72--[,False,False,False,False,False,False,False,Panne VMC sanitaire
+False,zero,corrective,]72--[,]1-2],]72--[,True,False,False,False,False,False,False,Panne chauff ind
+False,minus-one,corrective,]72--[,]0-1],]72--[,False,True,False,True,True,False,True,Visite entretien ventilation ind
+False,minus-one,preventive,]72--[,]72--[,]72--[,False,True,True,True,False,False,False,Panne Robinetterie
+False,minus-one,corrective,]72--[,]2-4],]72--[,True,True,False,False,True,False,True,Panne Robinetterie
+False,minus-one,corrective,]72--[,]0-1],]72--[,False,False,False,True,False,False,False,Visite entretien ventilation ind
+False,minus-one,preventive,]72--[,]48-72],]72--[,False,False,False,True,False,True,False,Visite entretien convecteur
+False,minus-one,corrective,]72--[,]1-2],]72--[,True,False,False,False,False,False,False,Panne VMC sanitaire
+False,minus-one,preventive,]72--[,]0-1],]72--[,True,True,False,False,False,True,False,Visite entretien convecteur
+False,minus-one,corrective,]72--[,]0-1],]72--[,False,True,False,False,False,False,False,Visite entretien ventilation ind
+False,zero,corrective,]72--[,]72--[,]72--[,False,False,False,True,False,False,False,Panne chauff ind
+False,minus-one,corrective,]48-72],]0-1],]48-72],True,False,False,False,False,False,False,Fuite d'eau urgence réelle
+False,one,preventive,]72--[,]72--[,]72--[,False,True,True,True,False,False,False,Visite entretien convecteur
+False,zero,corrective,]24-48],]16-24],]48-72],False,True,False,False,False,False,False,Panne chauff ind
+False,minus-one,preventive,]72--[,]0-1],]72--[,True,True,False,False,False,False,False,Panne Robinetterie
+False,minus-one,preventive,]72--[,]1-2],]72--[,True,False,False,True,False,False,False,Panne Robinetterie
+False,zero,corrective,]72--[,]1-2],]72--[,True,False,False,False,False,False,True,Panne chauff ind
+False,minus-one,corrective,]0-1],]0-1],]0-1],False,False,False,True,False,False,True,Panne VMC sanitaire
+False,zero,corrective,]4-16],]0-1],]4-16],True,False,False,False,False,True,False,Panne chauff ind
+False,minus-one,preventive,]72--[,]0-1],]72--[,False,False,False,True,False,False,False,Fuite d'eau urgence réelle
+False,minus-one,corrective,]72--[,]0-1],]72--[,False,True,False,False,False,False,False,Visite entretien ventilation ind
+False,minus-one,preventive,]72--[,]1-2],]72--[,True,True,True,False,True,False,True,Panne Robinetterie
+False,minus-one,preventive,]72--[,]0-1],]72--[,True,False,False,False,False,False,False,Visite entretien convecteur
+False,minus-one,corrective,]72--[,]0-1],]72--[,False,False,False,True,False,False,False,Visite entretien ventilation ind
+False,minus-one,preventive,]72--[,0,]72--[,True,False,False,False,False,False,False,Visite entretien convecteur
+False,zero,corrective,]72--[,]1-2],]72--[,True,False,False,False,False,False,False,Panne chauff ind
+False,minus-one,corrective,]16-24],]1-2],]16-24],True,False,False,False,False,False,False,Panne VMC sanitaire
+True,minus-one,none,]16-24],]0-1],]16-24],True,False,False,False,False,False,False,Fuite d'eau urgence réelle
+False,minus-one,corrective,]72--[,]0-1],]72--[,True,False,True,False,False,False,False,Fuite d'eau urgence réelle
+False,minus-one,preventive,]72--[,]72--[,]72--[,False,False,False,True,False,True,False,Visite entretien convecteur
+True,minus-one,corrective,]72--[,]0-1],]72--[,True,False,False,False,False,True,False,Fuite d'eau urgence réelle
+True,minus-one,none,]24-48],]0-1],]48-72],True,False,False,False,False,False,False,Panne Robinetterie
+False,zero,corrective,0,]16-24],]16-24],False,True,False,True,False,False,True,Panne chauff ind
+False,minus-one,preventive,]72--[,]0-1],]72--[,False,False,False,True,False,False,False,Panne VMC sanitaire
+False,minus-one,preventive,]72--[,]0-1],]72--[,False,False,False,True,False,True,False,Visite entretien convecteur
+False,minus-one,corrective,]24-48],]4-16],]48-72],True,True,False,False,False,False,False,Panne Robinetterie
+False,minus-one,corrective,]72--[,]0-1],]72--[,False,False,True,True,False,True,False,Panne Robinetterie
+True,minus-one,none,]24-48],]0-1],]24-48],True,False,False,False,False,False,False,Fuite d'eau urgence réelle
+False,minus-one,corrective,]72--[,]0-1],]72--[,False,False,False,True,False,False,False,Visite entretien ventilation ind
+True,minus-one,none,]48-72],]1-2],]48-72],True,False,False,False,False,False,False,Panne Robinetterie
+False,zero,corrective,]4-16],]0-1],]4-16],True,False,False,False,False,False,False,Panne chauff ind
+False,minus-one,preventive,]72--[,]0-1],]72--[,False,False,False,False,False,False,False,Panne VMC sanitaire
+False,zero,corrective,]24-48],]0-1],]24-48],True,False,False,False,False,False,False,Panne chauff ind
+False,zero,corrective,]72--[,]72--[,]72--[,False,True,False,True,False,False,False,Panne chauff ind
+True,minus-one,none,]72--[,]1-2],]72--[,False,False,False,True,False,False,True,Panne Robinetterie
+False,minus-one,corrective,]24-48],]1-2],]24-48],True,False,False,False,False,False,False,Panne Robinetterie
+True,minus-one,none,]72--[,0,]72--[,False,True,False,True,True,False,True,Panne Robinetterie
+True,minus-one,none,]16-24],]0-1],]24-48],True,False,False,False,False,True,False,Fuite d'eau urgence réelle
+True,minus-one,none,]72--[,]1-2],]72--[,False,False,False,True,False,False,False,Panne Robinetterie
+False,minus-one,preventive,]72--[,0,]72--[,True,True,False,False,False,False,False,Panne Robinetterie

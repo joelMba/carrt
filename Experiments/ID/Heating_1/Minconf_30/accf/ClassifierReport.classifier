@@ -1,0 +1,138 @@
+workType=corrective resolutionDuration=]16-24] start=True done=True planned=True end=True requested=True => DÃ©pannageP2_Chauffageindividuel
+criticalLevel=one workType=corrective processingDuration=]4-16] start=True done=True planned=True end=True requested=True => DÃ©pannageP2_Chauffageindividuel
+criticalLevel=one workType=corrective resolutionDuration=]1-2] start=True done=True planned=True end=True requested=True => DÃ©pannageP2_Chauffageindividuel
+criticalLevel=one workType=corrective processingDuration=]2-4] start=True done=True planned=True end=True requested=True => DÃ©pannageP2_Chauffageindividuel
+workType=corrective responseTime=]48-72] start=True done=True planned=True end=True requested=True => DÃ©pannageP2_Chauffageindividuel
+criticalLevel=one workType=corrective resolutionDuration=]1-2] start=True done=True end=True => DÃ©pannageP2_Chauffageindividuel
+workType=corrective responseTime=]4-16] processingDuration=]0-1] start=True done=True planned=True end=True requested=True => DÃ©pannageP2_Chauffageindividuel
+workType=corrective responseTime=]48-72] resolutionDuration=]48-72] start=True done=True planned=True end=True requested=True => DÃ©pannageP2_Chauffageindividuel
+criticalLevel=five workType=corrective processingDuration=]1-2] start=True done=True planned=True end=True requested=True => DÃ©pannageP2_Chauffageindividuel
+criticalLevel=five workType=corrective processingDuration=]0-1] start=True done=True planned=True end=True requested=True => DÃ©pannage_VMCGaz
+workType=corrective responseTime=]16-24] processingDuration=]0-1] start=True done=True planned=True end=True requested=True => DÃ©pannageP2_Chauffageindividuel
+workType=corrective processingDuration=]1-2] resolutionDuration=]2-4] start=True done=True planned=True end=True requested=True => DÃ©pannage_VMCGaz
+criticalLevel=one workType=corrective responseTime=0 start=True done=True planned=True end=True requested=True => DÃ©pannageP2_Chauffageindividuel
+criticalLevel=one workType=corrective processingDuration=]1-2] resolutionDuration=]1-2] start=True done=True end=True => DÃ©pannageP2_Chauffageindividuel
+criticalLevel=one workType=corrective responseTime=]48-72] start=True done=True planned=True end=True requested=True => DÃ©pannageP2_Chauffageindividuel
+workType=corrective responseTime=0 processingDuration=0 resolutionDuration=0 start=False done=False end=False => DÃ©pannageP2_Chauffageindividuel
+workType=corrective resolutionDuration=]48-72] start=True done=True planned=True end=True requested=True => DÃ©pannageP2_Chauffageindividuel
+criticalLevel=one workType=corrective processingDuration=]2-4] start=True done=True end=True => DÃ©pannageP2_Chauffageindividuel
+workType=corrective responseTime=]16-24] start=True done=True planned=True end=True requested=True => DÃ©pannageP2_Chauffageindividuel
+workType=corrective resolutionDuration=]72--[ start=True done=True planned=True end=True requested=True => DÃ©pannageP2_Chauffageindividuel
+criticalLevel=five workType=corrective planned=True requested=True => DÃ©pannageP2_Chauffageindividuel
+workType=corrective responseTime=0 planned=True requested=True => DÃ©pannageP2_Chauffageindividuel
+workType=corrective responseTime=0 => DÃ©pannageP2_Chauffageindividuel
+criticalLevel=one workType=corrective responseTime=0 => DÃ©pannageP2_Chauffageindividuel
+criticalLevel=one workType=corrective resolutionDuration=]72--[ start=True done=True planned=True end=True requested=True => DÃ©pannageP2_Chauffageindividuel
+criticalLevel=five workType=corrective start=True done=True planned=True end=True requested=True => DÃ©pannageP2_Chauffageindividuel
+criticalLevel=five workType=corrective start=True done=True planned=True end=True requested=True => DÃ©pannage_VMCGaz
+criticalLevel=one workType=corrective responseTime=0 start=True done=True end=True => DÃ©pannageP2_Chauffageindividuel
+criticalLevel=one processingDuration=]2-4] start=True done=True end=True => DÃ©pannageP2_Chauffageindividuel
+criticalLevel=one resolutionDuration=]1-2] start=True done=True end=True => DÃ©pannageP2_Chauffageindividuel
+criticalLevel=one workType=corrective responseTime=0 planned=True requested=True => DÃ©pannageP2_Chauffageindividuel
+workType=corrective responseTime=]72--[ resolutionDuration=]72--[ start=True done=True planned=True end=True requested=True => DÃ©pannageP2_Chauffageindividuel
+criticalLevel=one workType=corrective resolutionDuration=]48-72] start=True done=True planned=True end=True requested=True => DÃ©pannageP2_Chauffageindividuel
+workType=corrective responseTime=0 processingDuration=0 resolutionDuration=0 start=False done=False planned=True end=False requested=True => DÃ©pannageP2_Chauffageindividuel
+criticalLevel=one workType=corrective responseTime=]1-2] start=True done=True planned=True end=True requested=True => DÃ©pannage_VMCGaz
+criticalLevel=one workType=corrective responseTime=0 processingDuration=0 resolutionDuration=0 start=False done=False end=False => DÃ©pannageP2_Chauffageindividuel
+criticalLevel=one workType=corrective responseTime=]24-48] processingDuration=]0-1] start=True done=True end=True requested=True => RemplacementpiÃ¨ceP3
+workType=corrective processingDuration=]0-1] resolutionDuration=]24-48] start=True done=True planned=True end=True requested=True => DÃ©pannageP2_Chauffageindividuel
+workType=corrective responseTime=]4-16] start=True done=True planned=True end=True requested=True => DÃ©pannageP2_Chauffageindividuel
+criticalLevel=one workType=corrective responseTime=0 planned=False requested=False => DÃ©pannageP2_Chauffageindividuel
+workType=corrective planned=True requested=True => DÃ©pannageP2_Chauffageindividuel
+workType=corrective start=True done=True planned=True end=True requested=True => DÃ©pannageP2_Chauffageindividuel
+workType=corrective => DÃ©pannageP2_Chauffageindividuel
+workType=corrective requested=True => DÃ©pannageP2_Chauffageindividuel
+criticalLevel=one workType=corrective start=True done=True planned=True end=True requested=True => DÃ©pannageP2_Chauffageindividuel
+workType=corrective start=True done=True end=True requested=True => DÃ©pannageP2_Chauffageindividuel
+criticalLevel=one workType=corrective planned=True requested=True => DÃ©pannageP2_Chauffageindividuel
+workType=corrective start=True done=True end=True => DÃ©pannageP2_Chauffageindividuel
+criticalLevel=one workType=corrective responseTime=]24-48] start=True done=True planned=True end=True requested=True => DÃ©pannageP2_Chauffageindividuel
+criticalLevel=one workType=corrective start=True done=True end=True requested=True => DÃ©pannageP2_Chauffageindividuel
+criticalLevel=one workType=corrective => DÃ©pannageP2_Chauffageindividuel
+criticalLevel=one workType=corrective start=True done=True end=True => DÃ©pannageP2_Chauffageindividuel
+criticalLevel=one workType=corrective requested=True => DÃ©pannageP2_Chauffageindividuel
+criticalLevel=five workType=corrective planned=True requested=True => DÃ©pannage_VMCGaz
+workType=corrective processingDuration=]1-2] start=True done=True end=True => DÃ©pannageP2_Chauffageindividuel
+criticalLevel=one workType=corrective responseTime=]24-48] resolutionDuration=]24-48] start=True done=True planned=True end=True requested=True => DÃ©pannageP2_Chauffageindividuel
+criticalLevel=one workType=corrective responseTime=]16-24] start=True done=True planned=True end=True requested=True => DÃ©pannageP2_Chauffageindividuel
+criticalLevel=one workType=corrective resolutionDuration=]2-4] start=True done=True planned=True end=True requested=True => DÃ©pannageP2_Chauffageindividuel
+workType=corrective resolutionDuration=]4-16] start=True done=True planned=True end=True requested=True => DÃ©pannage_VMCGaz
+workType=corrective processingDuration=]1-2] start=True done=True planned=True end=True requested=True => DÃ©pannageP2_Chauffageindividuel
+workType=corrective resolutionDuration=]24-48] start=True done=True planned=True end=True requested=True => DÃ©pannageP2_Chauffageindividuel
+criticalLevel=one workType=corrective processingDuration=]0-1] start=True done=True planned=True end=True requested=True => DÃ©pannageP2_Chauffageindividuel
+criticalLevel=one workType=corrective responseTime=]24-48] start=True done=True end=True requested=True => DÃ©pannageP2_Chauffageindividuel
+criticalLevel=one workType=corrective responseTime=]72--[ resolutionDuration=]72--[ start=True done=True planned=True end=True requested=True => DÃ©pannageP2_Chauffageindividuel
+criticalLevel=one workType=corrective responseTime=]0-1] start=True done=True planned=True end=True requested=True => DÃ©pannageP2_Chauffageindividuel
+workType=corrective responseTime=]16-24] resolutionDuration=]24-48] start=True done=True planned=True end=True requested=True => DÃ©pannageP2_Chauffageindividuel
+workType=corrective responseTime=]2-4] start=True done=True planned=True end=True requested=True => DÃ©pannage_VMCGaz
+workType=corrective processingDuration=]0-1] resolutionDuration=]24-48] start=True done=True end=True requested=True => DÃ©pannageP2_Chauffageindividuel
+criticalLevel=one processingDuration=]1-2] resolutionDuration=]1-2] start=True done=True end=True => DÃ©pannageP2_Chauffageindividuel
+criticalLevel=one workType=corrective planned=False => DÃ©pannageP2_Chauffageindividuel
+workType=corrective processingDuration=]0-1] start=True done=True planned=True end=True requested=True => DÃ©pannageP2_Chauffageindividuel
+start=True done=True end=True => DÃ©pannageP2_Chauffageindividuel
+criticalLevel=one workType=corrective processingDuration=]0-1] start=True done=True end=True => DÃ©pannageP2_Chauffageindividuel
+workType=corrective processingDuration=]0-1] start=True done=True end=True => DÃ©pannageP2_Chauffageindividuel
+workType=corrective resolutionDuration=]2-4] start=True done=True end=True => DÃ©pannage_VMCGaz
+criticalLevel=one workType=corrective processingDuration=]0-1] start=True done=True end=True requested=True => DÃ©pannageP2_Chauffageindividuel
+processingDuration=]1-2] start=True done=True end=True => DÃ©pannageP2_Chauffageindividuel
+criticalLevel=one start=True done=True end=True => DÃ©pannageP2_Chauffageindividuel
+workType=corrective processingDuration=]0-1] start=True done=True end=True requested=True => DÃ©pannageP2_Chauffageindividuel
+workType=corrective resolutionDuration=]24-48] start=True done=True end=True requested=True => DÃ©pannageP2_Chauffageindividuel
+criticalLevel=one workType=corrective processingDuration=]1-2] start=True done=True end=True => DÃ©pannageP2_Chauffageindividuel
+criticalLevel=one workType=corrective processingDuration=]1-2] start=True done=True planned=True end=True requested=True => DÃ©pannageP2_Chauffageindividuel
+criticalLevel=one workType=corrective resolutionDuration=]24-48] start=True done=True planned=True end=True requested=True => DÃ©pannageP2_Chauffageindividuel
+criticalLevel=one workType=corrective responseTime=]24-48] resolutionDuration=]24-48] start=True done=True end=True requested=True => DÃ©pannageP2_Chauffageindividuel
+criticalLevel=one workType=corrective resolutionDuration=]2-4] start=True done=True end=True => DÃ©pannageP2_Chauffageindividuel
+criticalLevel=one workType=corrective responseTime=0 processingDuration=0 resolutionDuration=0 start=False done=False planned=True end=False requested=True => DÃ©pannageP2_Chauffageindividuel
+criticalLevel=one workType=corrective processingDuration=]0-1] resolutionDuration=]72--[ start=True done=True planned=True end=True requested=True => RemplacementpiÃ¨ceP3
+criticalLevel=one workType=corrective responseTime=]24-48] processingDuration=]1-2] start=True done=True planned=True end=True requested=True => DÃ©pannage_VMCGaz
+criticalLevel=one workType=corrective responseTime=]24-48] processingDuration=]0-1] start=True done=True planned=True end=True requested=True => DÃ©pannageP2_Chauffageindividuel
+criticalLevel=one workType=corrective responseTime=]24-48] processingDuration=]0-1] start=True done=True planned=True end=True requested=True => RemplacementpiÃ¨ceP3
+criticalLevel=one workType=corrective processingDuration=]0-1] resolutionDuration=]24-48] start=True done=True planned=True end=True requested=True => DÃ©pannageP2_Chauffageindividuel
+workType=corrective responseTime=]4-16] resolutionDuration=]4-16] start=True done=True planned=True end=True requested=True => DÃ©pannageP2_Chauffageindividuel
+workType=corrective responseTime=]4-16] resolutionDuration=]4-16] start=True done=True planned=True end=True requested=True => DÃ©pannage_VMCGaz
+criticalLevel=five workType=corrective processingDuration=]1-2] start=True done=True planned=True end=True requested=True => DÃ©pannage_VMCGaz
+criticalLevel=five workType=corrective processingDuration=]0-1] start=True done=True planned=True end=True requested=True => DÃ©pannageP2_Chauffageindividuel
+workType=corrective processingDuration=]0-1] resolutionDuration=]0-1] start=True done=True planned=True end=True requested=True => DÃ©pannage_VMCGaz
+criticalLevel=one workType=corrective responseTime=0 start=True done=True planned=False end=True requested=False => DÃ©pannageP2_Chauffageindividuel
+criticalLevel=one workType=corrective responseTime=0 start=True done=True planned=False end=True requested=False => DÃ©pannage_VMCGaz
+criticalLevel=one workType=corrective processingDuration=]1-2] resolutionDuration=]1-2] start=True done=True end=True => DÃ©pannage_VMCGaz
+criticalLevel=one processingDuration=]2-4] resolutionDuration=]2-4] start=True done=True end=True => DÃ©pannageP2_Chauffageindividuel
+criticalLevel=one => DÃ©pannageP2_Chauffageindividuel
+resolutionDuration=]2-4] start=True done=True end=True => DÃ©pannage_VMCGaz
+processingDuration=]0-1] start=True done=True end=True => DÃ©pannageP2_Chauffageindividuel
+criticalLevel=one processingDuration=]1-2] start=True done=True end=True => DÃ©pannageP2_Chauffageindividuel
+criticalLevel=one workType=corrective resolutionDuration=]24-48] start=True done=True end=True requested=True => DÃ©pannageP2_Chauffageindividuel
+workType=corrective responseTime=]0-1] start=True done=True planned=True end=True requested=True => DÃ©pannageP2_Chauffageindividuel
+workType=corrective responseTime=]0-1] start=True done=True planned=True end=True requested=True => DÃ©pannage_VMCGaz
+criticalLevel=one workType=corrective resolutionDuration=]1-2] start=True done=True end=True => DÃ©pannage_VMCGaz
+criticalLevel=one processingDuration=]0-1] start=True done=True end=True => DÃ©pannageP2_Chauffageindividuel
+workType=corrective resolutionDuration=]2-4] start=True done=True planned=True end=True requested=True => DÃ©pannageP2_Chauffageindividuel
+workType=corrective resolutionDuration=]2-4] start=True done=True planned=True end=True requested=True => DÃ©pannage_VMCGaz
+criticalLevel=one resolutionDuration=]2-4] start=True done=True end=True => DÃ©pannageP2_Chauffageindividuel
+responseTime=0 processingDuration=0 resolutionDuration=0 start=False done=False end=False => DÃ©pannageP2_Chauffageindividuel
+workType=corrective resolutionDuration=]2-4] start=True done=True end=True => DÃ©pannageP2_Chauffageindividuel
+workType=corrective resolutionDuration=]4-16] start=True done=True planned=True end=True requested=True => DÃ©pannageP2_Chauffageindividuel
+criticalLevel=one workType=corrective responseTime=]16-24] resolutionDuration=]24-48] start=True done=True planned=True end=True requested=True => DÃ©pannageP2_Chauffageindividuel
+criticalLevel=one workType=corrective processingDuration=]1-2] resolutionDuration=]24-48] start=True done=True planned=True end=True requested=True => RemplacementpiÃ¨ceP3
+criticalLevel=one workType=corrective responseTime=]1-2] start=True done=True planned=True end=True requested=True => DÃ©pannageP2_Chauffageindividuel
+criticalLevel=one workType=corrective resolutionDuration=]4-16] start=True done=True planned=True end=True requested=True => DÃ©pannageP2_Chauffageindividuel
+criticalLevel=one workType=corrective resolutionDuration=]4-16] start=True done=True planned=True end=True requested=True => DÃ©pannage_VMCGaz
+criticalLevel=one workType=corrective resolutionDuration=]4-16] start=True done=True planned=True end=True requested=True => RemplacementpiÃ¨ceP3
+criticalLevel=one workType=corrective resolutionDuration=]1-2] start=True done=True planned=True end=True requested=True => DÃ©pannage_VMCGaz
+criticalLevel=one workType=corrective responseTime=]24-48] processingDuration=]0-1] start=True done=True end=True requested=True => DÃ©pannageP2_Chauffageindividuel
+criticalLevel=one workType=corrective processingDuration=]0-1] resolutionDuration=]24-48] start=True done=True end=True requested=True => DÃ©pannageP2_Chauffageindividuel
+criticalLevel=one workType=corrective processingDuration=]0-1] resolutionDuration=]24-48] start=True done=True end=True requested=True => RemplacementpiÃ¨ceP3
+workType=corrective responseTime=]4-16] start=True done=True planned=True end=True requested=True => DÃ©pannage_VMCGaz
+criticalLevel=one responseTime=0 processingDuration=]1-2] resolutionDuration=]1-2] start=True done=True end=True => DÃ©pannageP2_Chauffageindividuel
+criticalLevel=one responseTime=0 processingDuration=]1-2] resolutionDuration=]1-2] start=True done=True end=True => DÃ©pannage_VMCGaz
+criticalLevel=one workType=corrective processingDuration=]0-1] resolutionDuration=]0-1] start=True done=True end=True => DÃ©pannageP2_Chauffageindividuel
+criticalLevel=one workType=corrective start=True done=True planned=False end=True => DÃ©pannageP2_Chauffageindividuel
+criticalLevel=one workType=corrective start=True done=True planned=False end=True => DÃ©pannage_VMCGaz
+criticalLevel=one workType=corrective responseTime=0 planned=False requested=False => DÃ©pannage_VMCGaz
+responseTime=0 => DÃ©pannageP2_Chauffageindividuel
+resolutionDuration=]2-4] start=True done=True end=True => DÃ©pannageP2_Chauffageindividuel
+criticalLevel=one workType=corrective responseTime=]24-48] resolutionDuration=]24-48] start=True done=True end=True requested=True => RemplacementpiÃ¨ceP3
+criticalLevel=one workType=corrective resolutionDuration=]2-4] start=True done=True end=True => DÃ©pannage_VMCGaz
+criticalLevel=one workType=corrective responseTime=0 start=True done=True end=True => DÃ©pannage_VMCGaz
+criticalLevel=one resolutionDuration=]1-2] start=True done=True end=True => DÃ©pannage_VMCGaz

@@ -1,0 +1,11 @@
+Name metric, Value
+Accuracy, 0.0024937655860349127
+Kappa, -0.10571123289559851
+Recall, 0.003787878787878788
+Precision, 6.887052341597796E-4
+F-measure(micro), 0.0024937655860349127
+F-measure(macro), 0.0011655011655011655
+Number rules, 21
+Average number attributes, 2.4285714285714284
+Runtime training (ms),44687
+Runtime test (ms),9

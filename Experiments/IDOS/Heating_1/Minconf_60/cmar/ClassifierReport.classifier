@@ -1,0 +1,155 @@
+Boiler=False Water=False Leak=False criticalLevel=one workType=preventive responseTime=0 processingDuration=]1-2] resolutionDuration=]1-2] start=True done=True planned=False end=True requested=False => VPCaissonsan.
+Boiler=False Fan=True Water=False Leak=False criticalLevel=one workType=preventive processingDuration=]1-2] resolutionDuration=]1-2] start=True done=True planned=False end=True requested=False => VPCaissonsan.
+Fan=True Water=False Leak=False criticalLevel=one workType=preventive responseTime=0 processingDuration=]1-2] resolutionDuration=]1-2] start=True done=True planned=False end=True requested=False => VPCaissonsan.
+Boiler=False Fan=True Water=False Leak=False criticalLevel=one workType=preventive responseTime=0 processingDuration=]1-2] resolutionDuration=]1-2] start=True done=True planned=False requested=False => VPCaissonsan.
+Boiler=False Fan=True Water=False Leak=False criticalLevel=one workType=preventive responseTime=0 processingDuration=]1-2] resolutionDuration=]1-2] start=True planned=False end=True requested=False => VPCaissonsan.
+Boiler=False Fan=True Water=False Leak=False criticalLevel=one workType=preventive responseTime=0 processingDuration=]1-2] resolutionDuration=]1-2] done=True planned=False end=True requested=False => VPCaissonsan.
+Boiler=False Fan=True Water=False Leak=False workType=preventive responseTime=0 processingDuration=]1-2] resolutionDuration=]1-2] start=True done=True planned=False end=True requested=False => VPCaissonsan.
+Boiler=False Fan=True Water=False criticalLevel=one workType=preventive responseTime=0 processingDuration=]1-2] resolutionDuration=]1-2] start=True done=True planned=False end=True requested=False => VPCaissonsan.
+Boiler=False Fan=True Leak=False criticalLevel=one workType=preventive responseTime=0 processingDuration=]1-2] resolutionDuration=]1-2] start=True done=True planned=False end=True requested=False => VPCaissonsan.
+Boiler=False Fan=True Water=False Leak=False criticalLevel=one workType=preventive responseTime=0 processingDuration=]1-2] resolutionDuration=]1-2] start=True done=True planned=False end=True requested=False => VPCaissonsan.
+Boiler=False Fan=True Water=False Leak=False criticalLevel=one responseTime=0 processingDuration=]1-2] resolutionDuration=]1-2] start=True done=True planned=False end=True requested=False => VPCaissonsan.
+Boiler=True Water=False criticalLevel=one responseTime=0 planned=False requested=False => VPP2_Chauffageindivuduel
+Boiler=True Leak=False criticalLevel=one responseTime=0 planned=False requested=False => VPP2_Chauffageindivuduel
+Boiler=True Water=False Leak=False criticalLevel=one responseTime=0 planned=False requested=False => VPP2_Chauffageindivuduel
+Boiler=True Fan=False Water=False criticalLevel=one responseTime=0 planned=False requested=False => VPP2_Chauffageindivuduel
+Boiler=True Fan=False Leak=False criticalLevel=one responseTime=0 planned=False requested=False => VPP2_Chauffageindivuduel
+Boiler=True Fan=False Water=False Leak=False criticalLevel=one responseTime=0 planned=False requested=False => VPP2_Chauffageindivuduel
+Boiler=True planned=False requested=False => VPP2_Chauffageindivuduel
+Boiler=True responseTime=0 planned=False requested=False => VPP2_Chauffageindivuduel
+Boiler=True criticalLevel=one responseTime=0 planned=False requested=False => VPP2_Chauffageindivuduel
+Boiler=True Fan=False responseTime=0 planned=False requested=False => VPP2_Chauffageindivuduel
+Boiler=True Fan=False criticalLevel=one responseTime=0 planned=False requested=False => VPP2_Chauffageindivuduel
+Boiler=True Water=False criticalLevel=one planned=False => VPP2_Chauffageindivuduel
+Boiler=True Leak=False criticalLevel=one planned=False => VPP2_Chauffageindivuduel
+Boiler=True Water=False Leak=False criticalLevel=one planned=False => VPP2_Chauffageindivuduel
+Boiler=True Fan=False Water=False criticalLevel=one planned=False => VPP2_Chauffageindivuduel
+Boiler=True Fan=False Leak=False criticalLevel=one planned=False => VPP2_Chauffageindivuduel
+Boiler=True Fan=False Water=False Leak=False criticalLevel=one planned=False => VPP2_Chauffageindivuduel
+Boiler=True planned=False => VPP2_Chauffageindivuduel
+Boiler=True criticalLevel=one planned=False => VPP2_Chauffageindivuduel
+Boiler=True Fan=False planned=False => VPP2_Chauffageindivuduel
+Boiler=True Fan=False criticalLevel=one planned=False => VPP2_Chauffageindivuduel
+Boiler=False processingDuration=]0-1] resolutionDuration=]72--[ => Bouchehydro_SDB
+Boiler=False Water=False processingDuration=]0-1] resolutionDuration=]72--[ => Bouchehydro_SDB
+Boiler=False Leak=False processingDuration=]0-1] resolutionDuration=]72--[ => Bouchehydro_SDB
+Boiler=False Water=False Leak=False processingDuration=]0-1] resolutionDuration=]72--[ => Bouchehydro_SDB
+Boiler=False Water=False criticalLevel=one processingDuration=]0-1] resolutionDuration=]72--[ => Bouchehydro_SDB
+Boiler=False Leak=False criticalLevel=one processingDuration=]0-1] resolutionDuration=]72--[ => Bouchehydro_SDB
+Boiler=False Water=False Leak=False criticalLevel=one processingDuration=]0-1] resolutionDuration=]72--[ => Bouchehydro_SDB
+Boiler=False Water=False Leak=False processingDuration=]0-1] resolutionDuration=]72--[ start=True => Bouchehydro_SDB
+Boiler=False Water=False criticalLevel=one processingDuration=]0-1] resolutionDuration=]72--[ start=True => Bouchehydro_SDB
+Boiler=False Leak=False criticalLevel=one processingDuration=]0-1] resolutionDuration=]72--[ start=True => Bouchehydro_SDB
+Boiler=False Water=False Leak=False criticalLevel=one processingDuration=]0-1] resolutionDuration=]72--[ start=True => Bouchehydro_SDB
+Boiler=False Water=False Leak=False criticalLevel=one processingDuration=]0-1] resolutionDuration=]72--[ done=True => Bouchehydro_SDB
+Boiler=False Water=False Leak=False processingDuration=]0-1] resolutionDuration=]72--[ start=True done=True => Bouchehydro_SDB
+Boiler=False Water=False criticalLevel=one processingDuration=]0-1] resolutionDuration=]72--[ start=True done=True => Bouchehydro_SDB
+Boiler=False Leak=False criticalLevel=one processingDuration=]0-1] resolutionDuration=]72--[ start=True done=True => Bouchehydro_SDB
+Boiler=False Water=False Leak=False criticalLevel=one processingDuration=]0-1] resolutionDuration=]72--[ start=True done=True => Bouchehydro_SDB
+Boiler=False Water=False Leak=False criticalLevel=one processingDuration=]0-1] resolutionDuration=]72--[ start=True end=True => Bouchehydro_SDB
+Boiler=False Water=False Leak=False criticalLevel=one processingDuration=]0-1] resolutionDuration=]72--[ done=True end=True => Bouchehydro_SDB
+Boiler=False Water=False Leak=False processingDuration=]0-1] resolutionDuration=]72--[ start=True done=True end=True => Bouchehydro_SDB
+Boiler=False Water=False criticalLevel=one processingDuration=]0-1] resolutionDuration=]72--[ start=True done=True end=True => Bouchehydro_SDB
+Boiler=False Leak=False criticalLevel=one processingDuration=]0-1] resolutionDuration=]72--[ start=True done=True end=True => Bouchehydro_SDB
+Boiler=False Water=False Leak=False criticalLevel=one processingDuration=]0-1] resolutionDuration=]72--[ start=True done=True end=True => Bouchehydro_SDB
+Boiler=False Water=False Leak=False criticalLevel=one workType=corrective processingDuration=]0-1] resolutionDuration=]72--[ start=True done=True => Bouchehydro_SDB
+Boiler=False Water=False Leak=False criticalLevel=one workType=corrective processingDuration=]0-1] resolutionDuration=]72--[ start=True end=True => Bouchehydro_SDB
+Boiler=False Water=False Leak=False criticalLevel=one workType=corrective processingDuration=]0-1] resolutionDuration=]72--[ done=True end=True => Bouchehydro_SDB
+Boiler=False Water=False Leak=False workType=corrective processingDuration=]0-1] resolutionDuration=]72--[ start=True done=True end=True => Bouchehydro_SDB
+Boiler=False Water=False criticalLevel=one workType=corrective processingDuration=]0-1] resolutionDuration=]72--[ start=True done=True end=True => Bouchehydro_SDB
+Boiler=False Leak=False criticalLevel=one workType=corrective processingDuration=]0-1] resolutionDuration=]72--[ start=True done=True end=True => Bouchehydro_SDB
+Boiler=False Water=False Leak=False criticalLevel=one workType=corrective processingDuration=]0-1] resolutionDuration=]72--[ start=True done=True end=True => Bouchehydro_SDB
+Boiler=False Water=False Leak=False criticalLevel=one processingDuration=]0-1] resolutionDuration=]72--[ start=True done=True end=True requested=True => Bouchehydro_SDB
+Boiler=False Water=False Leak=False criticalLevel=one workType=corrective processingDuration=]0-1] resolutionDuration=]72--[ start=True done=True requested=True => Bouchehydro_SDB
+Boiler=False Water=False Leak=False criticalLevel=one workType=corrective processingDuration=]0-1] resolutionDuration=]72--[ start=True end=True requested=True => Bouchehydro_SDB
+Boiler=False Water=False Leak=False criticalLevel=one workType=corrective processingDuration=]0-1] resolutionDuration=]72--[ done=True end=True requested=True => Bouchehydro_SDB
+Boiler=False Water=False Leak=False workType=corrective processingDuration=]0-1] resolutionDuration=]72--[ start=True done=True end=True requested=True => Bouchehydro_SDB
+Boiler=False Water=False criticalLevel=one workType=corrective processingDuration=]0-1] resolutionDuration=]72--[ start=True done=True end=True requested=True => Bouchehydro_SDB
+Boiler=False Leak=False criticalLevel=one workType=corrective processingDuration=]0-1] resolutionDuration=]72--[ start=True done=True end=True requested=True => Bouchehydro_SDB
+Boiler=False Water=False Leak=False criticalLevel=one workType=corrective processingDuration=]0-1] resolutionDuration=]72--[ start=True done=True end=True requested=True => Bouchehydro_SDB
+Boiler=False Water=False Leak=False criticalLevel=one workType=corrective processingDuration=]0-1] resolutionDuration=]72--[ start=True done=True planned=True end=True => Bouchehydro_SDB
+Boiler=False Water=False Leak=False criticalLevel=one processingDuration=]0-1] resolutionDuration=]72--[ start=True done=True planned=True end=True requested=True => Bouchehydro_SDB
+Boiler=False Water=False Leak=False criticalLevel=one workType=corrective processingDuration=]0-1] resolutionDuration=]72--[ start=True done=True planned=True requested=True => Bouchehydro_SDB
+Boiler=False Water=False Leak=False criticalLevel=one workType=corrective processingDuration=]0-1] resolutionDuration=]72--[ start=True planned=True end=True requested=True => Bouchehydro_SDB
+Boiler=False Water=False Leak=False criticalLevel=one workType=corrective processingDuration=]0-1] resolutionDuration=]72--[ done=True planned=True end=True requested=True => Bouchehydro_SDB
+Boiler=False Water=False Leak=False workType=corrective processingDuration=]0-1] resolutionDuration=]72--[ start=True done=True planned=True end=True requested=True => Bouchehydro_SDB
+Boiler=False Water=False criticalLevel=one workType=corrective processingDuration=]0-1] resolutionDuration=]72--[ start=True done=True planned=True end=True requested=True => Bouchehydro_SDB
+Boiler=False Leak=False criticalLevel=one workType=corrective processingDuration=]0-1] resolutionDuration=]72--[ start=True done=True planned=True end=True requested=True => Bouchehydro_SDB
+Boiler=False Water=False Leak=False criticalLevel=one workType=corrective processingDuration=]0-1] resolutionDuration=]72--[ start=True done=True planned=True end=True requested=True => Bouchehydro_SDB
+Boiler=False Fan=False Water=False Leak=False criticalLevel=one workType=corrective processingDuration=]0-1] resolutionDuration=]72--[ start=True done=True end=True requested=True => Bouchehydro_SDB
+Boiler=False Fan=False Water=False Leak=False criticalLevel=one workType=corrective processingDuration=]0-1] resolutionDuration=]72--[ start=True done=True planned=True end=True => Bouchehydro_SDB
+Boiler=False Fan=False Water=False Leak=False criticalLevel=one processingDuration=]0-1] resolutionDuration=]72--[ start=True done=True planned=True end=True requested=True => Bouchehydro_SDB
+Boiler=False Fan=False Water=False Leak=False criticalLevel=one workType=corrective processingDuration=]0-1] resolutionDuration=]72--[ start=True done=True planned=True requested=True => Bouchehydro_SDB
+Boiler=False Fan=False Water=False Leak=False criticalLevel=one workType=corrective processingDuration=]0-1] resolutionDuration=]72--[ start=True planned=True end=True requested=True => Bouchehydro_SDB
+Boiler=False Fan=False Water=False Leak=False criticalLevel=one workType=corrective processingDuration=]0-1] resolutionDuration=]72--[ done=True planned=True end=True requested=True => Bouchehydro_SDB
+Boiler=False Fan=False Water=False Leak=False workType=corrective processingDuration=]0-1] resolutionDuration=]72--[ start=True done=True planned=True end=True requested=True => Bouchehydro_SDB
+Boiler=False Fan=False Water=False criticalLevel=one workType=corrective processingDuration=]0-1] resolutionDuration=]72--[ start=True done=True planned=True end=True requested=True => Bouchehydro_SDB
+Boiler=False Fan=False Leak=False criticalLevel=one workType=corrective processingDuration=]0-1] resolutionDuration=]72--[ start=True done=True planned=True end=True requested=True => Bouchehydro_SDB
+Boiler=False Fan=False Water=False Leak=False criticalLevel=one workType=corrective processingDuration=]0-1] resolutionDuration=]72--[ start=True done=True planned=True end=True requested=True => Bouchehydro_SDB
+Boiler=False Water=False Leak=False criticalLevel=one workType=corrective responseTime=]72--[ processingDuration=]0-1] resolutionDuration=]72--[ start=True done=True planned=True end=True requested=True => Bouchehydro_SDB
+Boiler=False Fan=False Water=False Leak=False criticalLevel=one workType=corrective responseTime=]72--[ processingDuration=]0-1] resolutionDuration=]72--[ start=True done=True end=True requested=True => Bouchehydro_SDB
+Boiler=False Fan=False Water=False Leak=False criticalLevel=one workType=corrective responseTime=]72--[ processingDuration=]0-1] resolutionDuration=]72--[ start=True done=True planned=True end=True => Bouchehydro_SDB
+Boiler=False Fan=False Water=False Leak=False criticalLevel=one responseTime=]72--[ processingDuration=]0-1] resolutionDuration=]72--[ start=True done=True planned=True end=True requested=True => Bouchehydro_SDB
+Boiler=False Fan=False Water=False Leak=False criticalLevel=one workType=corrective responseTime=]72--[ processingDuration=]0-1] resolutionDuration=]72--[ start=True done=True planned=True requested=True => Bouchehydro_SDB
+Boiler=False Fan=False Water=False Leak=False criticalLevel=one workType=corrective responseTime=]72--[ processingDuration=]0-1] resolutionDuration=]72--[ start=True planned=True end=True requested=True => Bouchehydro_SDB
+Boiler=False Fan=False Water=False Leak=False criticalLevel=one workType=corrective responseTime=]72--[ processingDuration=]0-1] resolutionDuration=]72--[ done=True planned=True end=True requested=True => Bouchehydro_SDB
+Boiler=False Fan=False Water=False Leak=False workType=corrective responseTime=]72--[ processingDuration=]0-1] resolutionDuration=]72--[ start=True done=True planned=True end=True requested=True => Bouchehydro_SDB
+Boiler=False Fan=False Water=False criticalLevel=one workType=corrective responseTime=]72--[ processingDuration=]0-1] resolutionDuration=]72--[ start=True done=True planned=True end=True requested=True => Bouchehydro_SDB
+Boiler=False Fan=False Leak=False criticalLevel=one workType=corrective responseTime=]72--[ processingDuration=]0-1] resolutionDuration=]72--[ start=True done=True planned=True end=True requested=True => Bouchehydro_SDB
+Boiler=False Fan=False Water=False Leak=False criticalLevel=one workType=corrective responseTime=]72--[ processingDuration=]0-1] resolutionDuration=]72--[ start=True done=True planned=True end=True requested=True => Bouchehydro_SDB
+Boiler=False Fan=False resolutionDuration=]72--[ => Bouchehydro_SDB
+Boiler=False Fan=False Water=False resolutionDuration=]72--[ => Bouchehydro_SDB
+Boiler=False Fan=False Leak=False resolutionDuration=]72--[ => Bouchehydro_SDB
+Boiler=False Fan=False Water=False Leak=False resolutionDuration=]72--[ => Bouchehydro_SDB
+Boiler=False Fan=False Water=False criticalLevel=one resolutionDuration=]72--[ => Bouchehydro_SDB
+Boiler=False Fan=False Leak=False criticalLevel=one resolutionDuration=]72--[ => Bouchehydro_SDB
+Boiler=False Fan=False Water=False Leak=False criticalLevel=one resolutionDuration=]72--[ => Bouchehydro_SDB
+Boiler=False Fan=False Water=False Leak=False resolutionDuration=]72--[ start=True => Bouchehydro_SDB
+Boiler=False Fan=False Water=False criticalLevel=one resolutionDuration=]72--[ start=True => Bouchehydro_SDB
+Boiler=False Fan=False Leak=False criticalLevel=one resolutionDuration=]72--[ start=True => Bouchehydro_SDB
+Boiler=False Fan=False Water=False Leak=False criticalLevel=one resolutionDuration=]72--[ start=True => Bouchehydro_SDB
+Boiler=False Fan=False Water=False Leak=False criticalLevel=one resolutionDuration=]72--[ done=True => Bouchehydro_SDB
+Boiler=False Fan=False Water=False Leak=False resolutionDuration=]72--[ start=True done=True => Bouchehydro_SDB
+Boiler=False Fan=False Water=False criticalLevel=one resolutionDuration=]72--[ start=True done=True => Bouchehydro_SDB
+Boiler=False Fan=False Leak=False criticalLevel=one resolutionDuration=]72--[ start=True done=True => Bouchehydro_SDB
+Boiler=False Fan=False Water=False Leak=False criticalLevel=one resolutionDuration=]72--[ start=True done=True => Bouchehydro_SDB
+Boiler=False Fan=False Water=False Leak=False criticalLevel=one resolutionDuration=]72--[ start=True end=True => Bouchehydro_SDB
+Boiler=False Fan=False Water=False Leak=False criticalLevel=one resolutionDuration=]72--[ done=True end=True => Bouchehydro_SDB
+Boiler=False Fan=False Water=False Leak=False resolutionDuration=]72--[ start=True done=True end=True => Bouchehydro_SDB
+Boiler=False Fan=False Water=False criticalLevel=one resolutionDuration=]72--[ start=True done=True end=True => Bouchehydro_SDB
+Boiler=False Fan=False Leak=False criticalLevel=one resolutionDuration=]72--[ start=True done=True end=True => Bouchehydro_SDB
+Boiler=False Fan=False Water=False Leak=False criticalLevel=one resolutionDuration=]72--[ start=True done=True end=True => Bouchehydro_SDB
+Boiler=False Fan=False Water=False Leak=False criticalLevel=one workType=corrective resolutionDuration=]72--[ start=True done=True => Bouchehydro_SDB
+Boiler=False Fan=False Water=False Leak=False criticalLevel=one workType=corrective resolutionDuration=]72--[ start=True end=True => Bouchehydro_SDB
+Boiler=False Fan=False Water=False Leak=False criticalLevel=one workType=corrective resolutionDuration=]72--[ done=True end=True => Bouchehydro_SDB
+Boiler=False Fan=False Water=False Leak=False workType=corrective resolutionDuration=]72--[ start=True done=True end=True => Bouchehydro_SDB
+Boiler=False Fan=False Water=False criticalLevel=one workType=corrective resolutionDuration=]72--[ start=True done=True end=True => Bouchehydro_SDB
+Boiler=False Fan=False Leak=False criticalLevel=one workType=corrective resolutionDuration=]72--[ start=True done=True end=True => Bouchehydro_SDB
+Boiler=False Fan=False Water=False Leak=False criticalLevel=one workType=corrective resolutionDuration=]72--[ start=True done=True end=True => Bouchehydro_SDB
+Boiler=False Fan=False Water=False Leak=False criticalLevel=one resolutionDuration=]72--[ start=True done=True end=True requested=True => Bouchehydro_SDB
+Boiler=False Fan=False Water=False Leak=False criticalLevel=one workType=corrective resolutionDuration=]72--[ start=True done=True requested=True => Bouchehydro_SDB
+Boiler=False Fan=False Water=False Leak=False criticalLevel=one workType=corrective resolutionDuration=]72--[ start=True end=True requested=True => Bouchehydro_SDB
+Boiler=False Fan=False Water=False Leak=False criticalLevel=one workType=corrective resolutionDuration=]72--[ done=True end=True requested=True => Bouchehydro_SDB
+Boiler=False Fan=False Water=False Leak=False workType=corrective resolutionDuration=]72--[ start=True done=True end=True requested=True => Bouchehydro_SDB
+Boiler=False Fan=False Water=False criticalLevel=one workType=corrective resolutionDuration=]72--[ start=True done=True end=True requested=True => Bouchehydro_SDB
+Boiler=False Fan=False Leak=False criticalLevel=one workType=corrective resolutionDuration=]72--[ start=True done=True end=True requested=True => Bouchehydro_SDB
+Boiler=False Fan=False Water=False Leak=False criticalLevel=one workType=corrective resolutionDuration=]72--[ start=True done=True end=True requested=True => Bouchehydro_SDB
+Boiler=False Fan=False Water=False Leak=False criticalLevel=one workType=corrective resolutionDuration=]72--[ start=True done=True planned=True end=True => Bouchehydro_SDB
+Boiler=False Fan=False Water=False Leak=False criticalLevel=one resolutionDuration=]72--[ start=True done=True planned=True end=True requested=True => Bouchehydro_SDB
+Boiler=False Fan=False Water=False Leak=False criticalLevel=one workType=corrective resolutionDuration=]72--[ start=True done=True planned=True requested=True => Bouchehydro_SDB
+Boiler=False Fan=False Water=False Leak=False criticalLevel=one workType=corrective resolutionDuration=]72--[ start=True planned=True end=True requested=True => Bouchehydro_SDB
+Boiler=False Fan=False Water=False Leak=False criticalLevel=one workType=corrective resolutionDuration=]72--[ done=True planned=True end=True requested=True => Bouchehydro_SDB
+Boiler=False Fan=False Water=False Leak=False workType=corrective resolutionDuration=]72--[ start=True done=True planned=True end=True requested=True => Bouchehydro_SDB
+Boiler=False Fan=False Water=False criticalLevel=one workType=corrective resolutionDuration=]72--[ start=True done=True planned=True end=True requested=True => Bouchehydro_SDB
+Boiler=False Fan=False Leak=False criticalLevel=one workType=corrective resolutionDuration=]72--[ start=True done=True planned=True end=True requested=True => Bouchehydro_SDB
+Boiler=False Fan=False Water=False Leak=False criticalLevel=one workType=corrective resolutionDuration=]72--[ start=True done=True planned=True end=True requested=True => Bouchehydro_SDB
+Boiler=False Fan=False Water=False Leak=False criticalLevel=one workType=corrective responseTime=]72--[ resolutionDuration=]72--[ start=True done=True end=True requested=True => Bouchehydro_SDB
+Boiler=False Fan=False Water=False Leak=False criticalLevel=one workType=corrective responseTime=]72--[ resolutionDuration=]72--[ start=True done=True planned=True end=True => Bouchehydro_SDB
+Boiler=False Fan=False Water=False Leak=False criticalLevel=one responseTime=]72--[ resolutionDuration=]72--[ start=True done=True planned=True end=True requested=True => Bouchehydro_SDB
+Boiler=False Fan=False Water=False Leak=False criticalLevel=one workType=corrective responseTime=]72--[ resolutionDuration=]72--[ start=True done=True planned=True requested=True => Bouchehydro_SDB
+Boiler=False Fan=False Water=False Leak=False criticalLevel=one workType=corrective responseTime=]72--[ resolutionDuration=]72--[ start=True planned=True end=True requested=True => Bouchehydro_SDB
+Boiler=False Fan=False Water=False Leak=False criticalLevel=one workType=corrective responseTime=]72--[ resolutionDuration=]72--[ done=True planned=True end=True requested=True => Bouchehydro_SDB
+Boiler=False Fan=False Water=False Leak=False workType=corrective responseTime=]72--[ resolutionDuration=]72--[ start=True done=True planned=True end=True requested=True => Bouchehydro_SDB
+Boiler=False Fan=False Water=False criticalLevel=one workType=corrective responseTime=]72--[ resolutionDuration=]72--[ start=True done=True planned=True end=True requested=True => Bouchehydro_SDB
+Boiler=False Fan=False Leak=False criticalLevel=one workType=corrective responseTime=]72--[ resolutionDuration=]72--[ start=True done=True planned=True end=True requested=True => Bouchehydro_SDB
+Boiler=False Fan=False Water=False Leak=False criticalLevel=one workType=corrective responseTime=]72--[ resolutionDuration=]72--[ start=True done=True planned=True end=True requested=True => Bouchehydro_SDB

@@ -1,0 +1,23 @@
+Boiler=True => DÃ©pannageP2_Chauffageindividuel
+Water=True => DÃ©pannageP2_Chauffageindividuel
+Leak=True => DÃ©pannageP2_Chauffageindividuel
+criticalLevel=five => DÃ©pannageP2_Chauffageindividuel
+responseTime=]24-48] => DÃ©pannageP2_Chauffageindividuel
+responseTime=]48-72] => DÃ©pannageP2_Chauffageindividuel
+processingDuration=]4-16] => DÃ©pannageP2_Chauffageindividuel
+resolutionDuration=]16-24] => DÃ©pannageP2_Chauffageindividuel
+resolutionDuration=]2-4] => DÃ©pannageP2_Chauffageindividuel
+resolutionDuration=]4-16] => DÃ©pannage_VMCGaz
+resolutionDuration=]48-72] => DÃ©pannageP2_Chauffageindividuel
+Fan=False workType=corrective => DÃ©pannageP2_Chauffageindividuel
+Fan=False start=True => DÃ©pannageP2_Chauffageindividuel
+Fan=False done=True => DÃ©pannageP2_Chauffageindividuel
+Fan=False planned=True => DÃ©pannageP2_Chauffageindividuel
+Fan=False end=True => DÃ©pannageP2_Chauffageindividuel
+Fan=False requested=True => DÃ©pannageP2_Chauffageindividuel
+Fan=True workType=corrective => DÃ©pannage_VMCGaz
+Fan=True planned=True => DÃ©pannage_VMCGaz
+Fan=True requested=True => DÃ©pannage_VMCGaz
+Boiler=False Fan=True start=True => DÃ©pannage_VMCGaz
+Boiler=False Fan=True done=True => DÃ©pannage_VMCGaz
+Boiler=False Fan=True end=True => DÃ©pannage_VMCGaz

@@ -1,0 +1,41 @@
+criticalLevel=five => PanneRobinetterie
+responseTime=]24-48] => PanneRobinetterie
+responseTime=]4-16] => PanneRobinetterie
+responseTime=]48-72] => PanneProductionECS
+resolutionDuration=]24-48] => PanneRobinetterie
+resolutionDuration=]4-16] => PanneRobinetterie
+occupant_absent=True => PanneRobinetterie
+temporary_repair=False => PanneRobinetterie
+Water=False criticalLevel=one => PanneVMCsanitaire
+Leak=False criticalLevel=one => PanneVMCsanitaire
+Leak=True processingDuration=]1-2] => Pannechauffind
+criticalLevel=minus-one resolutionDuration=]48-72] => PanneProductionECS
+criticalLevel=one responseTime=]72--[ => PanneVMCsanitaire
+criticalLevel=one processingDuration=]0-1] => PanneVMCsanitaire
+criticalLevel=one resolutionDuration=]72--[ => PanneVMCsanitaire
+criticalLevel=one occupant_absent=False => PanneVMCsanitaire
+criticalLevel=one temporary_repair=True => PanneVMCsanitaire
+resolutionDuration=]48-72] done=True => PanneProductionECS
+resolutionDuration=]48-72] temporary_repair=False => PanneProductionECS
+Water=False done=True temporary_repair=True => PanneVMCsanitaire
+Leak=False done=True temporary_repair=True => PanneVMCsanitaire
+criticalLevel=minus-one responseTime=]72--[ temporary_repair=False => PanneProductionECS
+criticalLevel=minus-one resolutionDuration=]72--[ temporary_repair=False => PanneProductionECS
+criticalLevel=minus-one replanned=False temporary_repair=True => Pannechauffind
+responseTime=]72--[ done=True temporary_repair=True => PanneVMCsanitaire
+processingDuration=]0-1] done=True temporary_repair=True => PanneVMCsanitaire
+processingDuration=]0-1] done=False occupant_absent=False => Pannechauffind
+processingDuration=]0-1] done=False temporary_repair=True => Pannechauffind
+resolutionDuration=]72--[ done=True temporary_repair=True => PanneVMCsanitaire
+Water=False responseTime=]72--[ processingDuration=]0-1] temporary_repair=True => PanneVMCsanitaire
+Water=False processingDuration=]0-1] resolutionDuration=]72--[ temporary_repair=True => PanneVMCsanitaire
+Water=False criticalLevel=minus-one processingDuration=]0-1] temporary_repair=True => Pannechauffind
+Water=False criticalLevel=minus-one done=False occupant_absent=False => Pannechauffind
+Water=False criticalLevel=minus-one done=False temporary_repair=True => Pannechauffind
+Water=False done=False occupant_absent=False canceled=False => Pannechauffind
+Water=False done=False temporary_repair=True canceled=False => Pannechauffind
+criticalLevel=minus-one done=False replanned=False occupant_absent=False => Pannechauffind
+done=False replanned=False occupant_absent=False canceled=False => Pannechauffind
+done=False replanned=False temporary_repair=True canceled=False => Pannechauffind
+Water=False responseTime=]72--[ processingDuration=]0-1] done=True occupant_absent=False => PanneVMCsanitaire
+Water=False processingDuration=]0-1] resolutionDuration=]72--[ done=True occupant_absent=False => PanneVMCsanitaire

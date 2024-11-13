@@ -1,0 +1,42 @@
+Boiler=False Fan=False Water=False responseTime=]72--[ => EntretienpompesÃ chaleur
+responseTime=]72--[ => EntretienpompesÃ chaleur
+Boiler=False criticalLevel=three => PanneElectrique
+Boiler=False Radiator=True resolutionDuration=]0-1] => PanneElectrique
+responseTime=]72--[ canceled=True => PanneElectrique
+Boiler=False criticalLevel=five canceled=True => PanneProductionECS
+responseTime=]2-4] canceled=True => PanneProductionECS
+resolutionDuration=]4-16] canceled=True => PanneProductionECS
+Boiler=False responseTime=]24-48] => PanneProductionECS
+canceled=True => PanneProductionECS
+Boiler=False Radiator=False Fan=False Water=True criticalLevel=one workType=corrective canceled=False => PanneRobinetterie
+Boiler=False responseTime=]0-1] => PanneRobinetterie
+Boiler=False responseTime=]16-24] => PanneRobinetterie
+Boiler=False responseTime=]24-48] => PanneRobinetterie
+Boiler=False Radiator=False Leak=True => PanneRobinetterie
+Boiler=False => PanneRobinetterie
+processingDuration=]2-4] => PanneRobinetterie
+Boiler=False Water=True resolutionDuration=]16-24] => PanneSolaireThermiqueautresinterventions
+Boiler=False responseTime=]72--[ processingDuration=]1-2] => PanneSolaireThermiqueautresinterventions
+Radiator=True responseTime=]72--[ => PanneVMCgaz
+Fan=True workType=corrective => PanneVMCsanitaire
+Fan=True planned=True => PanneVMCsanitaire
+Fan=True requested=True => PanneVMCsanitaire
+Fan=True => PanneVMCsanitaire
+Boiler=True processingDuration=]0-1] planned=True => Pannechauffind
+Boiler=True Leak=True planned=True => Pannechauffind
+Boiler=True planned=True => Pannechauffind
+Boiler=True canceled=True => Pannechauffind
+Boiler=True => Pannechauffind
+workType=preventive resolutionDuration=]1-2] => VisiteentretienECS
+Boiler=True workType=preventive => VisiteentretienchaudiÃ¨re
+Radiator=True Water=False workType=preventive => Visiteentretienconvecteur
+Radiator=True Leak=False workType=preventive => Visiteentretienconvecteur
+Water=True workType=preventive occupant_absent=True => Visiteentretienrobinetterie
+workType=preventive processingDuration=]0-1] occupant_absent=True => Visiteentretienrobinetterie
+workType=preventive resolutionDuration=]0-1] occupant_absent=True => Visiteentretienrobinetterie
+workType=preventive occupant_absent=True => Visiteentretienrobinetterie
+workType=preventive processingDuration=]0-1] => Visiteentretienventilationcoll
+workType=preventive => Visiteentretienventilationcoll
+Fan=True workType=preventive => Visiteentretienventilationind
+Fan=True planned=False => Visiteentretienventilationind
+Fan=True requested=False => Visiteentretienventilationind

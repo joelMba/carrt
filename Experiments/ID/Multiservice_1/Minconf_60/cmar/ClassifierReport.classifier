@@ -1,0 +1,89 @@
+workType=corrective processingDuration=]1-2] start=True done=True planned=True end=True occupant_absent=False requested=True => Pannechauffage
+workType=corrective processingDuration=]1-2] start=True done=True planned=True occupant_absent=False requested=True missing_item=False => Pannechauffage
+workType=corrective processingDuration=]1-2] done=True planned=True end=True occupant_absent=False requested=True missing_item=False => Pannechauffage
+workType=corrective processingDuration=]1-2] start=True done=True planned=True end=True requested=True missing_item=False => Pannechauffage
+workType=corrective processingDuration=]1-2] start=True planned=True end=True occupant_absent=False requested=True missing_item=False => Pannechauffage
+workType=corrective processingDuration=]1-2] start=True done=True end=True occupant_absent=False requested=True missing_item=False => Pannechauffage
+workType=corrective processingDuration=]1-2] start=True done=True planned=True end=True occupant_absent=False requested=True missing_item=False => Pannechauffage
+workType=preventive responseTime=]72--[ resolutionDuration=]72--[ start=True done=True planned=True end=True occupant_absent=False => Visiteentretienchauffagecollectif
+workType=corrective requested=False missing_item=True => Pannechauffage
+workType=corrective planned=True requested=False missing_item=True => Pannechauffage
+workType=corrective done=True requested=False missing_item=True => Pannechauffage
+workType=corrective done=True planned=True requested=False missing_item=True => Pannechauffage
+workType=corrective planned=True occupant_absent=False requested=False missing_item=True => Pannechauffage
+workType=corrective done=True occupant_absent=False requested=False missing_item=True => Pannechauffage
+workType=corrective done=True planned=True occupant_absent=False requested=False missing_item=True => Pannechauffage
+workType=corrective start=True done=True planned=True requested=False missing_item=True => Pannechauffage
+workType=corrective start=True planned=True occupant_absent=False requested=False missing_item=True => Pannechauffage
+workType=corrective start=True done=True occupant_absent=False requested=False missing_item=True => Pannechauffage
+workType=corrective start=True done=True planned=True occupant_absent=False requested=False missing_item=True => Pannechauffage
+workType=corrective done=True planned=True end=True occupant_absent=False requested=False missing_item=True => Pannechauffage
+workType=corrective start=True done=True planned=True end=True requested=False missing_item=True => Pannechauffage
+workType=corrective start=True planned=True end=True occupant_absent=False requested=False missing_item=True => Pannechauffage
+workType=corrective start=True done=True end=True occupant_absent=False requested=False missing_item=True => Pannechauffage
+workType=corrective start=True done=True planned=True end=True occupant_absent=False requested=False missing_item=True => Pannechauffage
+workType=corrective responseTime=]1-2] resolutionDuration=]2-4] start=True done=True planned=True end=True occupant_absent=False => Pannechauffage
+workType=preventive start=True done=True planned=True end=True occupant_absent=False requested=True missing_item=False => Visiteentretienchauffagecollectif
+workType=preventive start=True done=True planned=True end=True occupant_absent=False requested=False missing_item=False => Visiteentretienchauffagecollectif
+workType=corrective responseTime=]1-2] start=True done=True planned=True end=True occupant_absent=False missing_item=False => Pannechauffage
+workType=corrective processingDuration=]1-2] start=True done=True planned=True end=True occupant_absent=False missing_item=False => Pannechauffage
+processingDuration=]1-2] requested=True => Pannechauffage
+processingDuration=]1-2] planned=True requested=True => Pannechauffage
+processingDuration=]1-2] done=True requested=True => Pannechauffage
+processingDuration=]1-2] done=True planned=True requested=True => Pannechauffage
+processingDuration=]1-2] planned=True occupant_absent=False requested=True => Pannechauffage
+processingDuration=]1-2] done=True occupant_absent=False requested=True => Pannechauffage
+processingDuration=]1-2] done=True planned=True occupant_absent=False requested=True => Pannechauffage
+processingDuration=]1-2] start=True done=True planned=True requested=True => Pannechauffage
+processingDuration=]1-2] start=True planned=True occupant_absent=False requested=True => Pannechauffage
+processingDuration=]1-2] start=True done=True occupant_absent=False requested=True => Pannechauffage
+processingDuration=]1-2] start=True done=True planned=True occupant_absent=False requested=True => Pannechauffage
+processingDuration=]1-2] done=True planned=True end=True occupant_absent=False requested=True => Pannechauffage
+processingDuration=]1-2] start=True done=True planned=True end=True requested=True => Pannechauffage
+processingDuration=]1-2] start=True planned=True end=True occupant_absent=False requested=True => Pannechauffage
+processingDuration=]1-2] start=True done=True end=True occupant_absent=False requested=True => Pannechauffage
+processingDuration=]1-2] start=True done=True planned=True end=True occupant_absent=False requested=True => Pannechauffage
+processingDuration=]1-2] start=True done=True planned=True occupant_absent=False requested=True missing_item=False => Pannechauffage
+processingDuration=]1-2] done=True planned=True end=True occupant_absent=False requested=True missing_item=False => Pannechauffage
+processingDuration=]1-2] start=True done=True planned=True end=True requested=True missing_item=False => Pannechauffage
+processingDuration=]1-2] start=True planned=True end=True occupant_absent=False requested=True missing_item=False => Pannechauffage
+processingDuration=]1-2] start=True done=True end=True occupant_absent=False requested=True missing_item=False => Pannechauffage
+processingDuration=]1-2] start=True done=True planned=True end=True occupant_absent=False requested=True missing_item=False => Pannechauffage
+workType=corrective resolutionDuration=]2-4] start=True done=True planned=True end=True occupant_absent=False requested=False => Pannechauffage
+workType=corrective resolutionDuration=]72--[ done=True planned=True occupant_absent=False missing_item=False => Pannechauffage
+workType=corrective resolutionDuration=]72--[ start=True done=True planned=True missing_item=False => Pannechauffage
+workType=corrective resolutionDuration=]72--[ start=True planned=True occupant_absent=False missing_item=False => Pannechauffage
+workType=corrective resolutionDuration=]72--[ start=True done=True occupant_absent=False missing_item=False => Pannechauffage
+workType=corrective resolutionDuration=]72--[ start=True done=True planned=True occupant_absent=False missing_item=False => Pannechauffage
+workType=corrective resolutionDuration=]72--[ done=True planned=True end=True occupant_absent=False missing_item=False => Pannechauffage
+workType=corrective resolutionDuration=]72--[ start=True done=True planned=True end=True missing_item=False => Pannechauffage
+workType=corrective resolutionDuration=]72--[ start=True planned=True end=True occupant_absent=False missing_item=False => Pannechauffage
+workType=corrective resolutionDuration=]72--[ start=True done=True end=True occupant_absent=False missing_item=False => Pannechauffage
+workType=corrective resolutionDuration=]72--[ start=True done=True planned=True end=True occupant_absent=False missing_item=False => Pannechauffage
+workType=corrective responseTime=]48-72] start=True done=True planned=True end=True occupant_absent=False missing_item=False => Pannechauffage
+workType=preventive processingDuration=]0-1] start=True done=True planned=True end=True occupant_absent=False missing_item=False => Visiteentretienchauffagecollectif
+workType=corrective requested=True => Pannechauffage
+workType=corrective requested=True missing_item=False => Pannechauffage
+workType=corrective planned=True requested=True missing_item=False => Pannechauffage
+workType=corrective done=True requested=True missing_item=False => Pannechauffage
+workType=corrective done=True planned=True requested=True missing_item=False => Pannechauffage
+workType=corrective planned=True occupant_absent=False requested=True missing_item=False => Pannechauffage
+workType=corrective done=True occupant_absent=False requested=True missing_item=False => Pannechauffage
+workType=corrective done=True planned=True occupant_absent=False requested=True missing_item=False => Pannechauffage
+workType=corrective processingDuration=]1-2] start=True done=True planned=True end=True occupant_absent=False requested=False => Pannechauffage
+workType=corrective resolutionDuration=]2-4] missing_item=False => Pannechauffage
+workType=corrective resolutionDuration=]2-4] planned=True missing_item=False => Pannechauffage
+workType=corrective resolutionDuration=]2-4] done=True missing_item=False => Pannechauffage
+workType=corrective resolutionDuration=]2-4] done=True planned=True missing_item=False => Pannechauffage
+workType=corrective resolutionDuration=]2-4] planned=True occupant_absent=False missing_item=False => Pannechauffage
+workType=corrective resolutionDuration=]2-4] done=True occupant_absent=False missing_item=False => Pannechauffage
+workType=corrective resolutionDuration=]2-4] done=True planned=True occupant_absent=False missing_item=False => Pannechauffage
+workType=corrective resolutionDuration=]2-4] start=True done=True planned=True missing_item=False => Pannechauffage
+workType=corrective resolutionDuration=]2-4] start=True planned=True occupant_absent=False missing_item=False => Pannechauffage
+workType=corrective resolutionDuration=]2-4] start=True done=True occupant_absent=False missing_item=False => Pannechauffage
+workType=corrective resolutionDuration=]2-4] start=True done=True planned=True occupant_absent=False missing_item=False => Pannechauffage
+workType=corrective resolutionDuration=]2-4] done=True planned=True end=True occupant_absent=False missing_item=False => Pannechauffage
+workType=corrective resolutionDuration=]2-4] start=True done=True planned=True end=True missing_item=False => Pannechauffage
+workType=corrective resolutionDuration=]2-4] start=True planned=True end=True occupant_absent=False missing_item=False => Pannechauffage
+workType=corrective resolutionDuration=]2-4] start=True done=True end=True occupant_absent=False missing_item=False => Pannechauffage
+workType=corrective resolutionDuration=]2-4] start=True done=True planned=True end=True occupant_absent=False missing_item=False => Pannechauffage

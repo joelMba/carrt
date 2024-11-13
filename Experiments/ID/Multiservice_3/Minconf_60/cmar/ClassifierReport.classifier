@@ -1,0 +1,16 @@
+criticalLevel=five workType=corrective done=True replanned=False occupant_absent=False temporary_repair=False canceled=False => PanneRobinetterie
+criticalLevel=five workType=corrective processingDuration=]0-1] done=True replanned=False temporary_repair=False canceled=False => PanneRobinetterie
+criticalLevel=five workType=corrective processingDuration=]0-1] done=True replanned=False occupant_absent=False temporary_repair=False => PanneRobinetterie
+criticalLevel=five workType=corrective processingDuration=]0-1] done=True occupant_absent=False temporary_repair=False canceled=False => PanneRobinetterie
+criticalLevel=five processingDuration=]0-1] done=True replanned=False occupant_absent=False temporary_repair=False canceled=False => PanneRobinetterie
+criticalLevel=five workType=corrective processingDuration=]0-1] done=True replanned=False occupant_absent=False temporary_repair=False canceled=False => PanneRobinetterie
+criticalLevel=five workType=corrective responseTime=]72--[ resolutionDuration=]72--[ done=True replanned=False occupant_absent=False canceled=False => PanneRobinetterie
+replanned=False canceled=False => PanneRobinetterie
+workType=corrective replanned=False canceled=False => PanneRobinetterie
+done=False replanned=False temporary_repair=True canceled=False => Pannechauffind
+workType=corrective done=False replanned=False temporary_repair=True canceled=False => Pannechauffind
+done=False replanned=False occupant_absent=False temporary_repair=True canceled=False => Pannechauffind
+workType=corrective done=False replanned=False occupant_absent=False temporary_repair=True canceled=False => Pannechauffind
+criticalLevel=minus-one workType=corrective done=False replanned=False temporary_repair=True canceled=False => Pannechauffind
+criticalLevel=minus-one done=False replanned=False occupant_absent=False temporary_repair=True canceled=False => Pannechauffind
+criticalLevel=minus-one workType=corrective done=False replanned=False occupant_absent=False temporary_repair=True canceled=False => Pannechauffind

@@ -1,0 +1,10 @@
+workType=corrective => Pannechauffage
+workType=preventive => Visiteentretienchauffagecollectif
+responseTime=]1-2] => Pannechauffage
+responseTime=]48-72] => Pannechauffage
+processingDuration=]1-2] => Pannechauffage
+processingDuration=]2-4] => Pannechauffage
+resolutionDuration=]2-4] => Pannechauffage
+requested=True => Pannechauffage
+missing_item=True => Pannechauffage
+workType=corrective processingDuration=]0-1] => Pannefuited'eau

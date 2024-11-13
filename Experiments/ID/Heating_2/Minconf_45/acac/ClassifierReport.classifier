@@ -1,0 +1,18 @@
+criticalLevel=minus-one => VisitepÃ©riodique
+criticalLevel=one => DÃ©pannageChauffageindividuel
+workType=corrective => DÃ©pannageChauffageindividuel
+workType=preventive => VisitepÃ©riodique
+responseTime=0 => DÃ©pannageChauffageindividuel
+responseTime=]1-2] => DÃ©pannageChauffageindividuel
+responseTime=]2-4] => DÃ©pannageChauffageindividuel
+processingDuration=]0-1] => DÃ©pannageChauffageindividuel
+processingDuration=]1-2] => DÃ©pannageChauffageindividuel
+resolutionDuration=]4-16] => DÃ©pannageChauffageindividuel
+resolutionDuration=]48-72] => DÃ©pannageChauffageindividuel
+done=False => DÃ©pannageChauffageindividuel
+planned=False => DÃ©pannageChauffageindividuel
+client_planned=True => DÃ©pannageChauffageindividuel
+partial_repair=True => DÃ©pannageChauffageindividuel
+criticalLevel=minus-one workType=corrective => RemplacementChaudiÃ¨reoucaisson
+criticalLevel=minus-one planned=True => RemplacementChaudiÃ¨reoucaisson
+criticalLevel=minus-one client_planned=False => RemplacementChaudiÃ¨reoucaisson

@@ -1,0 +1,15 @@
+criticalLevel=five workType=corrective => Pannechauffind
+criticalLevel=three requested=True workType=corrective planned=True => Pannechauffind
+occupant_absent=True workType=corrective => Pannechauffind
+resolutionDuration=]4-16] => Pannechauffind
+requested=True workType=corrective responseTime=]16-24] planned=True occupant_absent=False => Pannechauffind
+processingDuration=]1-2] workType=corrective occupant_absent=False => Pannechauffind
+workType=corrective planned=False => Pannechauffind
+workType=corrective responseTime=0 => Pannechauffind
+responseTime=]0-1] => PanneRobinetterie
+responseTime=]2-4] => Pannechauffind
+requested=True workType=corrective resolutionDuration=]24-48] planned=True occupant_absent=False => Pannechauffind
+requested=True canceled=False workType=corrective => Pannechauffind
+processingDuration=]1-2] occupant_absent=False => Pannechauffind
+workType=corrective => Pannechauffind
+ => Visiteentretienrobinetterie

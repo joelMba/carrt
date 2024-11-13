@@ -1,0 +1,86 @@
+Boiler=True => DÃ©pannageP2_Chauffageindividuel
+responseTime=]72--[ => Bouchehydro_SDB
+resolutionDuration=]1-2] => VPCaissonsan.
+resolutionDuration=]72--[ => Bouchehydro_SDB
+Boiler=False processingDuration=]1-2] => VPCaissonsan.
+Boiler=True processingDuration=]0-1] => RemplacementpiÃ¨ceP3
+Boiler=True workType=preventive => VPP2_Chauffageindivuduel
+Boiler=True responseTime=0 => VPP2_Chauffageindivuduel
+Boiler=True planned=False => VPP2_Chauffageindivuduel
+Boiler=True requested=False => VPP2_Chauffageindivuduel
+Fan=False workType=corrective => DÃ©pannageP2_Chauffageindividuel
+Fan=False start=True => DÃ©pannageP2_Chauffageindividuel
+Fan=False done=True => DÃ©pannageP2_Chauffageindividuel
+Fan=False planned=True => DÃ©pannageP2_Chauffageindividuel
+Fan=False end=True => DÃ©pannageP2_Chauffageindividuel
+Fan=False requested=True => DÃ©pannageP2_Chauffageindividuel
+Fan=False workType=preventive => VPP2_Chauffageindivuduel
+Fan=False planned=False => VPP2_Chauffageindivuduel
+Fan=False requested=False => VPP2_Chauffageindivuduel
+Fan=False workType=preventive => Visited'entretienannuelle-Ent.DispositifSÃ©curitÃ©Collectif
+Fan=True workType=corrective => DÃ©pannage_VMCGaz
+Fan=True planned=True => DÃ©pannage_VMCGaz
+Fan=True requested=True => DÃ©pannage_VMCGaz
+Fan=True workType=preventive => VPCaissongaz
+Fan=True planned=False => VPCaissongaz
+Fan=True requested=False => VPCaissongaz
+Fan=True workType=preventive => VPCaissonsan.
+Fan=True processingDuration=]1-2] => VPCaissonsan.
+Fan=True planned=False => VPCaissonsan.
+Fan=True requested=False => VPCaissonsan.
+workType=preventive processingDuration=]1-2] => VPCaissonsan.
+responseTime=0 processingDuration=]1-2] => VPCaissonsan.
+processingDuration=]1-2] planned=False => VPCaissonsan.
+processingDuration=]1-2] requested=False => VPCaissonsan.
+Boiler=False Fan=False workType=corrective => Boucheauto_Cuisine
+Boiler=False Fan=False processingDuration=]0-1] => Boucheauto_Cuisine
+Boiler=False Fan=False start=True => Boucheauto_Cuisine
+Boiler=False Fan=False done=True => Boucheauto_Cuisine
+Boiler=False Fan=False planned=True => Boucheauto_Cuisine
+Boiler=False Fan=False end=True => Boucheauto_Cuisine
+Boiler=False Fan=False requested=True => Boucheauto_Cuisine
+Boiler=False workType=corrective responseTime=0 => Boucheauto_SDB
+Boiler=False responseTime=0 planned=True => Boucheauto_SDB
+Boiler=False responseTime=0 requested=True => Boucheauto_SDB
+Boiler=False Fan=False workType=corrective => Bouchehydro_SDB
+Boiler=False Fan=False processingDuration=]0-1] => Bouchehydro_SDB
+Boiler=False Fan=False start=True => Bouchehydro_SDB
+Boiler=False Fan=False done=True => Bouchehydro_SDB
+Boiler=False Fan=False planned=True => Bouchehydro_SDB
+Boiler=False Fan=False end=True => Bouchehydro_SDB
+Boiler=False Fan=False requested=True => Bouchehydro_SDB
+Boiler=False Fan=True workType=corrective => DÃ©pannage_VMCGaz
+Boiler=False Fan=True planned=True => DÃ©pannage_VMCGaz
+Boiler=False Fan=True requested=True => DÃ©pannage_VMCGaz
+Boiler=False workType=preventive start=True => VPCaissonsan.
+Boiler=False workType=preventive done=True => VPCaissonsan.
+Boiler=False workType=preventive end=True => VPCaissonsan.
+Boiler=False start=True planned=False => VPCaissonsan.
+Boiler=False start=True requested=False => VPCaissonsan.
+Boiler=False done=True planned=False => VPCaissonsan.
+Boiler=False done=True requested=False => VPCaissonsan.
+Boiler=False planned=False end=True => VPCaissonsan.
+Boiler=False end=True requested=False => VPCaissonsan.
+Boiler=True Water=False requested=True => RemplacementpiÃ¨ceP3
+Boiler=True Leak=False planned=True => RemplacementpiÃ¨ceP3
+Boiler=True Leak=False requested=True => RemplacementpiÃ¨ceP3
+Boiler=True criticalLevel=one requested=True => RemplacementpiÃ¨ceP3
+Water=False workType=preventive start=True => VPCaissonsan.
+Water=False workType=preventive done=True => VPCaissonsan.
+Water=False workType=preventive end=True => VPCaissonsan.
+Leak=False workType=preventive start=True => VPCaissonsan.
+Leak=False workType=preventive done=True => VPCaissonsan.
+Leak=False workType=preventive end=True => VPCaissonsan.
+Boiler=True Fan=False Water=False planned=True => RemplacementpiÃ¨ceP3
+Boiler=True Fan=False Leak=False workType=corrective => RemplacementpiÃ¨ceP3
+Boiler=True Fan=False criticalLevel=one planned=True => RemplacementpiÃ¨ceP3
+Boiler=True Water=False Leak=False workType=corrective => RemplacementpiÃ¨ceP3
+Boiler=True Water=False criticalLevel=one planned=True => RemplacementpiÃ¨ceP3
+Boiler=True Fan=False Water=False Leak=False workType=corrective => RemplacementpiÃ¨ceP3
+Boiler=True Fan=False Water=False criticalLevel=one workType=corrective => RemplacementpiÃ¨ceP3
+Boiler=True Fan=False Water=False workType=corrective start=True => RemplacementpiÃ¨ceP3
+Boiler=True Fan=False Water=False workType=corrective done=True => RemplacementpiÃ¨ceP3
+Boiler=True Fan=False Water=False workType=corrective end=True => RemplacementpiÃ¨ceP3
+Boiler=True Leak=False criticalLevel=one workType=corrective start=True => RemplacementpiÃ¨ceP3
+Boiler=True Leak=False criticalLevel=one workType=corrective done=True => RemplacementpiÃ¨ceP3
+Boiler=True Leak=False criticalLevel=one workType=corrective end=True => RemplacementpiÃ¨ceP3

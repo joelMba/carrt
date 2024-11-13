@@ -1,0 +1,8 @@
+Boiler=True Water=True planned=True => Pannechauffind
+Boiler=True processingDuration=]0-1] planned=True => Pannechauffind
+Boiler=True responseTime=]72--[ planned=True => Pannechauffind
+Boiler=True workType=preventive => VisiteentretienchaudiÃ¨re
+Boiler=True canceled=True => Pannechauffind
+Boiler=True occupant_absent=True => Pannechauffind
+Boiler=True planned=True => Pannechauffind
+ => PanneRobinetterie

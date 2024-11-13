@@ -1,0 +1,5 @@
+criticalLevel=zero => Pannechauffind
+criticalLevel=minus-one postponed=False partial_repair=True => PanneRobinetterie
+criticalLevel=minus-one client_planned=False partial_repair=True => PanneRobinetterie
+workType=preventive canceled=True => Visiteentretienconvecteur
+ => PanneRobinetterie

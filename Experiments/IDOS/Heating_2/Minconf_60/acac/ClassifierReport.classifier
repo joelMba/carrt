@@ -1,0 +1,76 @@
+workType=preventive => VisitepÃ©riodique
+client_planned=True => DÃ©pannageChauffageindividuel
+partial_repair=True => DÃ©pannageChauffageindividuel
+Fan=False criticalLevel=one => DÃ©pannageChauffageindividuel
+Fan=False workType=corrective => DÃ©pannageChauffageindividuel
+Fan=True processingDuration=]1-2] => Boucheventilation
+Fan=True responseTime=]0-1] => DÃ©pannage_VMCGazousanitaire
+Fan=True processingDuration=]0-1] => DÃ©pannage_VMCGazousanitaire
+criticalLevel=minus-one responseTime=]1-2] => HorsPÃ©rimÃ¨tre
+criticalLevel=minus-one done=False => HorsPÃ©rimÃ¨tre
+criticalLevel=minus-one workType=corrective => RemplacementChaudiÃ¨reoucaisson
+criticalLevel=minus-one responseTime=]2-4] => RemplacementChaudiÃ¨reoucaisson
+criticalLevel=minus-one resolutionDuration=]4-16] => RemplacementChaudiÃ¨reoucaisson
+criticalLevel=minus-one processingDuration=]0-1] => VisitepÃ©riodique
+workType=preventive responseTime=]1-2] => HorsPÃ©rimÃ¨tre
+workType=preventive processingDuration=]1-2] => HorsPÃ©rimÃ¨tre
+workType=preventive resolutionDuration=]2-4] => HorsPÃ©rimÃ¨tre
+workType=preventive done=False => HorsPÃ©rimÃ¨tre
+responseTime=]0-1] processingDuration=]0-1] => DÃ©pannage_VMCGazousanitaire
+responseTime=]0-1] resolutionDuration=]2-4] => DÃ©pannage_VMCGazousanitaire
+responseTime=]1-2] planned=False => HorsPÃ©rimÃ¨tre
+responseTime=]2-4] resolutionDuration=]4-16] => RemplacementChaudiÃ¨reoucaisson
+done=False partial_repair=False => HorsPÃ©rimÃ¨tre
+planned=False client_planned=False => HorsPÃ©rimÃ¨tre
+Fan=False responseTime=]1-2] processingDuration=]1-2] => HorsPÃ©rimÃ¨tre
+Fan=False responseTime=]1-2] done=False => HorsPÃ©rimÃ¨tre
+Fan=False resolutionDuration=]2-4] done=False => HorsPÃ©rimÃ¨tre
+Fan=True resolutionDuration=]2-4] done=True => DÃ©pannage_VMCGazousanitaire
+criticalLevel=minus-one processingDuration=]1-2] resolutionDuration=]2-4] => HorsPÃ©rimÃ¨tre
+criticalLevel=minus-one processingDuration=]1-2] planned=False => HorsPÃ©rimÃ¨tre
+criticalLevel=minus-one resolutionDuration=]2-4] planned=False => HorsPÃ©rimÃ¨tre
+criticalLevel=minus-one resolutionDuration=]2-4] client_planned=False => HorsPÃ©rimÃ¨tre
+criticalLevel=one responseTime=]0-1] planned=True => DÃ©pannage_VMCGazousanitaire
+criticalLevel=one responseTime=]0-1] client_planned=False => DÃ©pannage_VMCGazousanitaire
+criticalLevel=one processingDuration=]0-1] resolutionDuration=]2-4] => DÃ©pannage_VMCGazousanitaire
+responseTime=]1-2] processingDuration=]1-2] done=False => HorsPÃ©rimÃ¨tre
+responseTime=]1-2] resolutionDuration=]2-4] done=False => HorsPÃ©rimÃ¨tre
+processingDuration=]1-2] resolutionDuration=]2-4] done=False => HorsPÃ©rimÃ¨tre
+processingDuration=]1-2] resolutionDuration=]2-4] planned=False => HorsPÃ©rimÃ¨tre
+processingDuration=]1-2] done=False planned=False => HorsPÃ©rimÃ¨tre
+resolutionDuration=]2-4] done=False planned=False => HorsPÃ©rimÃ¨tre
+Fan=False responseTime=]1-2] resolutionDuration=]2-4] client_planned=False => HorsPÃ©rimÃ¨tre
+Fan=False responseTime=]1-2] resolutionDuration=]2-4] partial_repair=False => HorsPÃ©rimÃ¨tre
+Fan=False responseTime=]1-2] client_planned=False partial_repair=False => HorsPÃ©rimÃ¨tre
+Fan=False processingDuration=]1-2] done=False client_planned=False => HorsPÃ©rimÃ¨tre
+Fan=False resolutionDuration=]2-4] planned=False partial_repair=False => HorsPÃ©rimÃ¨tre
+Leak=False processingDuration=]1-2] resolutionDuration=]2-4] planned=True => Boucheventilation
+Leak=False criticalLevel=one responseTime=]0-1] done=True => DÃ©pannage_VMCGazousanitaire
+Leak=False criticalLevel=one responseTime=]0-1] partial_repair=False => DÃ©pannage_VMCGazousanitaire
+Leak=False workType=corrective responseTime=]0-1] planned=True => DÃ©pannage_VMCGazousanitaire
+Leak=False workType=corrective responseTime=]0-1] client_planned=False => DÃ©pannage_VMCGazousanitaire
+Leak=False processingDuration=]1-2] done=False client_planned=False => HorsPÃ©rimÃ¨tre
+criticalLevel=one processingDuration=]1-2] resolutionDuration=]2-4] planned=True => Boucheventilation
+criticalLevel=one processingDuration=]1-2] resolutionDuration=]2-4] client_planned=False => Boucheventilation
+criticalLevel=one processingDuration=]1-2] resolutionDuration=]2-4] partial_repair=False => Boucheventilation
+criticalLevel=one processingDuration=]1-2] done=True planned=True => Boucheventilation
+criticalLevel=one processingDuration=]1-2] done=True client_planned=False => Boucheventilation
+criticalLevel=one processingDuration=]1-2] planned=True partial_repair=False => Boucheventilation
+criticalLevel=one processingDuration=]1-2] client_planned=False partial_repair=False => Boucheventilation
+workType=corrective processingDuration=]1-2] resolutionDuration=]2-4] planned=True => Boucheventilation
+workType=corrective processingDuration=]1-2] resolutionDuration=]2-4] client_planned=False => Boucheventilation
+workType=corrective processingDuration=]1-2] resolutionDuration=]2-4] partial_repair=False => Boucheventilation
+workType=corrective responseTime=]0-1] done=True planned=True => DÃ©pannage_VMCGazousanitaire
+workType=corrective responseTime=]0-1] done=True client_planned=False => DÃ©pannage_VMCGazousanitaire
+workType=corrective responseTime=]0-1] planned=True partial_repair=False => DÃ©pannage_VMCGazousanitaire
+workType=corrective responseTime=]0-1] client_planned=False partial_repair=False => DÃ©pannage_VMCGazousanitaire
+workType=corrective processingDuration=]0-1] resolutionDuration=]2-4] done=True => DÃ©pannage_VMCGazousanitaire
+workType=corrective processingDuration=]0-1] resolutionDuration=]2-4] partial_repair=False => DÃ©pannage_VMCGazousanitaire
+responseTime=]1-2] processingDuration=]1-2] resolutionDuration=]2-4] client_planned=False => HorsPÃ©rimÃ¨tre
+responseTime=]1-2] processingDuration=]1-2] resolutionDuration=]2-4] partial_repair=False => HorsPÃ©rimÃ¨tre
+responseTime=]1-2] processingDuration=]1-2] client_planned=False partial_repair=False => HorsPÃ©rimÃ¨tre
+processingDuration=]0-1] resolutionDuration=]2-4] done=True planned=True => DÃ©pannage_VMCGazousanitaire
+processingDuration=]0-1] resolutionDuration=]2-4] done=True client_planned=False => DÃ©pannage_VMCGazousanitaire
+processingDuration=]1-2] resolutionDuration=]2-4] planned=True partial_repair=False => Boucheventilation
+Fan=False Leak=False processingDuration=]1-2] resolutionDuration=]2-4] client_planned=False => HorsPÃ©rimÃ¨tre
+Fan=False processingDuration=]1-2] resolutionDuration=]2-4] client_planned=False partial_repair=False => HorsPÃ©rimÃ¨tre

@@ -1,0 +1,56 @@
+Leak=False => PanneRobinetterie
+Leak=True => PanneRobinetterie
+criticalLevel= => PanneRobinetterie
+workType=corrective => PanneRobinetterie
+workType=corrective => Pannechauffind
+workType=none => PanneRobinetterie
+workType=preventive => PanneRobinetterie
+responseTime=]24-48] => PanneRobinetterie
+responseTime=]72--[ => PanneRobinetterie
+processingDuration=0 => PanneRobinetterie
+processingDuration=]0-1] => PanneRobinetterie
+processingDuration=]1-2] => PanneRobinetterie
+processingDuration=]2-4] => PanneRobinetterie
+processingDuration=]72--[ => PanneRobinetterie
+resolutionDuration=]24-48] => PanneRobinetterie
+resolutionDuration=]48-72] => PanneRobinetterie
+resolutionDuration=]72--[ => PanneRobinetterie
+planned=False => PanneRobinetterie
+planned=True => PanneRobinetterie
+replanned=False => PanneRobinetterie
+replanned=True => PanneRobinetterie
+postponed=False => PanneRobinetterie
+postponed=True => PanneRobinetterie
+postponed=True => Pannechauffind
+client_planned=False => PanneRobinetterie
+client_planned=True => PanneRobinetterie
+missing_item=False => PanneRobinetterie
+missing_item=True => PanneRobinetterie
+canceled=False => PanneRobinetterie
+canceled=True => PanneRobinetterie
+partial_repair=False => PanneRobinetterie
+partial_repair=True => PanneRobinetterie
+Leak=False canceled=False => Pannechauffind
+Leak=False workType=preventive => Visiteentretienconvecteur
+Leak=False canceled=True => Visiteentretienconvecteur
+workType=preventive responseTime=]72--[ => Visiteentretienconvecteur
+workType=preventive resolutionDuration=]72--[ => Visiteentretienconvecteur
+workType=preventive canceled=True => Visiteentretienconvecteur
+responseTime=]72--[ canceled=True => Visiteentretienconvecteur
+resolutionDuration=]72--[ canceled=True => Visiteentretienconvecteur
+postponed=False canceled=True => Visiteentretienconvecteur
+canceled=True partial_repair=False => Visiteentretienconvecteur
+Leak=False planned=True replanned=False => Pannechauffind
+Leak=False planned=True missing_item=False => Pannechauffind
+Leak=False replanned=False client_planned=False => Pannechauffind
+Leak=False replanned=False partial_repair=False => Pannechauffind
+Leak=False client_planned=False missing_item=False => Pannechauffind
+workType=preventive replanned=False postponed=False => Visiteentretienconvecteur
+workType=preventive replanned=False partial_repair=False => Visiteentretienconvecteur
+workType=preventive postponed=False missing_item=False => Visiteentretienconvecteur
+workType=preventive postponed=False partial_repair=False => Visiteentretienconvecteur
+Leak=False criticalLevel= replanned=False partial_repair=False => Pannechauffind
+Leak=False responseTime=]72--[ replanned=False postponed=False => Visiteentretienconvecteur
+Leak=False responseTime=]72--[ replanned=False partial_repair=False => Visiteentretienconvecteur
+Leak=False resolutionDuration=]72--[ replanned=False postponed=False => Visiteentretienconvecteur
+responseTime=]72--[ replanned=False postponed=False partial_repair=False => Visiteentretienconvecteur

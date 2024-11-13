@@ -1,0 +1,47 @@
+Fan=False Leak=False workType=preventive => Visiteentretienchauffagecollectif
+Fan=False Water=False requested=False workType=preventive => Visiteentretienchauffagecollectif
+Boiler=True start=True Fan=False end=True missing_item=False workType=preventive => Visiteentretienchauffagecollectif
+Boiler=True start=True Fan=False end=True processingDuration=]1-2] workType=corrective => Pannechauffage
+Boiler=True start=True Fan=False end=True requested=False Leak=False workType=corrective => Pannechauffage
+start=True Fan=False end=True Water=False workType=corrective responseTime=]0-1] => Pannechauffage
+start=True Fan=False end=True Leak=False workType=corrective resolutionDuration=]2-4] => Pannechauffage
+Boiler=True start=True end=True Leak=False missing_item=False workType=preventive => Visiteentretienchauffagecollectif
+start=True Fan=False end=True processingDuration=]2-4] workType=corrective => Pannechauffage
+start=True Fan=False end=True Water=False requested=False processingDuration=]1-2] Leak=False workType=corrective => Pannechauffage
+Water=False requested=False Leak=False workType=preventive => Visiteentretienchauffagecollectif
+Fan=False Water=False workType=preventive => Visiteentretienchauffagecollectif
+start=True end=True Water=False processingDuration=]1-2] Leak=False workType=corrective => Pannechauffage
+Boiler=True start=True end=True missing_item=False workType=preventive => Visiteentretienchauffagecollectif
+Boiler=True start=True Fan=False end=True Leak=False workType=corrective => Pannechauffage
+Boiler=True start=True Fan=False end=True requested=False workType=corrective => Pannechauffage
+Leak=False workType=preventive => Visiteentretienchauffagecollectif
+start=True Fan=False end=True Water=False requested=False Leak=False workType=corrective => Pannechauffage
+Fan=False Water=False Leak=False workType=corrective => Pannechauffage
+start=True end=True processingDuration=]1-2] Leak=False workType=corrective => Pannechauffage
+start=True end=True Water=False requested=True processingDuration=]1-2] missing_item=False workType=corrective => Pannechauffage
+start=True Fan=False end=True Water=False workType=corrective resolutionDuration=]2-4] => Pannechauffage
+Boiler=True start=True end=True requested=False Leak=False workType=corrective => Pannechauffage
+Boiler=True start=True Fan=False end=True Water=False workType=corrective => Pannechauffage
+Boiler=False Fan=False requested=True Leak=False missing_item=False workType=corrective => Pannechauffage
+start=True Fan=False end=True processingDuration=]1-2] workType=preventive => Visiteentretienchauffagecollectif
+Fan=False requested=False workType=preventive => Visiteentretienchauffagecollectif
+Boiler=True start=True Fan=False end=True requested=True Water=True missing_item=False workType=corrective => Pannechauffage
+Boiler=True start=True end=True Water=True missing_item=False Leak=True workType=corrective => Pannechauffage
+start=True end=True requested=True processingDuration=]1-2] missing_item=False workType=corrective => Pannechauffage
+Fan=False Leak=False workType=corrective => Pannechauffage
+Water=False requested=True Leak=False missing_item=False workType=corrective => Pannechauffage
+start=True end=True Water=False processingDuration=]1-2] workType=corrective => Pannechauffage
+requested=False workType=preventive => Visiteentretienchauffagecollectif
+start=True Fan=False end=True workType=corrective resolutionDuration=]72--[ => Pannechauffage
+Water=False Leak=False workType=corrective => Pannechauffage
+Fan=False Water=False workType=corrective => Pannechauffage
+start=True Fan=False end=True requested=False missing_item=True workType=corrective => Pannechauffage
+start=True Fan=False end=True workType=corrective resolutionDuration=]2-4] responseTime=]1-2] => Pannechauffage
+start=True end=True processingDuration=]1-2] workType=corrective => Pannechauffage
+start=True Fan=False end=True workType=corrective resolutionDuration=]2-4] => Pannechauffage
+start=True Fan=False end=True missing_item=False workType=corrective responseTime=]1-2] => Pannechauffage
+start=True end=True workType=corrective resolutionDuration=]72--[ => Pannechauffage
+Fan=False requested=True missing_item=False workType=corrective => Pannechauffage
+start=True Fan=False end=True workType=corrective responseTime=]0-1] => Pannechauffage
+Boiler=False start=True end=True processingDuration=]0-1] requested=False Water=True workType=corrective => Pannefuited'eau
+ => Pannechauffage

@@ -1,0 +1,186 @@
+Boiler=False Fan=False Water=False Leak=False workType=corrective responseTime=]72--[ processingDuration=]0-1] start=True end=True requested=True missing_item=False => Pannesdiverses
+Boiler=False Fan=False Leak=False workType=corrective responseTime=]72--[ processingDuration=]0-1] resolutionDuration=]72--[ start=True end=True requested=True missing_item=False => Pannesdiverses
+Boiler=False Fan=False Water=False workType=corrective responseTime=]72--[ processingDuration=]0-1] resolutionDuration=]72--[ start=True end=True requested=True missing_item=False => Pannesdiverses
+Boiler=False Water=False Leak=False workType=corrective responseTime=]72--[ processingDuration=]0-1] resolutionDuration=]72--[ start=True end=True requested=True missing_item=False => Pannesdiverses
+Fan=False Water=False Leak=False workType=corrective responseTime=]72--[ processingDuration=]0-1] resolutionDuration=]72--[ start=True end=True requested=True missing_item=False => Pannesdiverses
+Boiler=False Fan=False Water=False Leak=False workType=corrective responseTime=]72--[ processingDuration=]0-1] resolutionDuration=]72--[ start=True end=True requested=True => Pannesdiverses
+Boiler=False Fan=False Water=False Leak=False workType=corrective responseTime=]72--[ processingDuration=]0-1] resolutionDuration=]72--[ start=True requested=True missing_item=False => Pannesdiverses
+Boiler=False Fan=False Water=False Leak=False workType=corrective responseTime=]72--[ processingDuration=]0-1] resolutionDuration=]72--[ end=True requested=True missing_item=False => Pannesdiverses
+Boiler=False Fan=False Water=False Leak=False workType=corrective responseTime=]72--[ processingDuration=]0-1] resolutionDuration=]72--[ start=True end=True requested=True missing_item=False => Pannesdiverses
+Boiler=False Fan=True Water=False Leak=False workType=preventive responseTime=]72--[ resolutionDuration=]72--[ start=True end=True requested=True missing_item=False => Visiteentretienventilationcoll
+Boiler=False Water=False Leak=False workType=preventive responseTime=]72--[ processingDuration=]0-1] resolutionDuration=]72--[ start=True end=True requested=True missing_item=False => Visiteentretienventilationcoll
+Boiler=False Fan=True Water=False Leak=False responseTime=]72--[ processingDuration=]0-1] resolutionDuration=]72--[ start=True end=True requested=True missing_item=False => Visiteentretienventilationcoll
+Boiler=False Fan=True Water=False Leak=False workType=preventive responseTime=]72--[ processingDuration=]0-1] start=True end=True requested=True missing_item=False => Visiteentretienventilationcoll
+Boiler=False Fan=True Leak=False workType=preventive responseTime=]72--[ processingDuration=]0-1] resolutionDuration=]72--[ start=True end=True requested=True missing_item=False => Visiteentretienventilationcoll
+Boiler=False Fan=True Water=False workType=preventive responseTime=]72--[ processingDuration=]0-1] resolutionDuration=]72--[ start=True end=True requested=True missing_item=False => Visiteentretienventilationcoll
+Fan=True Water=False Leak=False workType=preventive responseTime=]72--[ processingDuration=]0-1] resolutionDuration=]72--[ start=True end=True requested=True missing_item=False => Visiteentretienventilationcoll
+Boiler=False Fan=True Water=False Leak=False workType=preventive responseTime=]72--[ processingDuration=]0-1] resolutionDuration=]72--[ start=True end=True requested=True => Visiteentretienventilationcoll
+Boiler=False Fan=True Water=False Leak=False workType=preventive responseTime=]72--[ processingDuration=]0-1] resolutionDuration=]72--[ start=True requested=True missing_item=False => Visiteentretienventilationcoll
+Boiler=False Fan=True Water=False Leak=False workType=preventive responseTime=]72--[ processingDuration=]0-1] resolutionDuration=]72--[ end=True requested=True missing_item=False => Visiteentretienventilationcoll
+Boiler=False Fan=True Water=False Leak=False workType=preventive responseTime=]72--[ processingDuration=]0-1] resolutionDuration=]72--[ start=True end=True requested=True missing_item=False => Visiteentretienventilationcoll
+Boiler=False Fan=False Water=False Leak=False workType=corrective processingDuration=]0-1] start=True end=True requested=True => Pannesdiverses
+Boiler=False Fan=False Water=False Leak=False workType=corrective processingDuration=]0-1] start=True requested=True missing_item=False => Pannesdiverses
+Boiler=False Fan=False Water=False Leak=False workType=corrective processingDuration=]0-1] end=True requested=True missing_item=False => Pannesdiverses
+Boiler=False Fan=False Water=False Leak=False workType=corrective processingDuration=]0-1] start=True end=True requested=True missing_item=False => Pannesdiverses
+Boiler=False Fan=False Leak=False workType=corrective processingDuration=]0-1] resolutionDuration=]72--[ start=True end=True requested=True missing_item=False => Pannesdiverses
+Boiler=False Fan=False Water=False workType=corrective processingDuration=]0-1] resolutionDuration=]72--[ start=True end=True requested=True missing_item=False => Pannesdiverses
+Boiler=False Water=False Leak=False workType=corrective processingDuration=]0-1] resolutionDuration=]72--[ start=True end=True requested=True missing_item=False => Pannesdiverses
+Boiler=False Fan=False Water=False Leak=False workType=corrective processingDuration=]0-1] resolutionDuration=]72--[ start=True end=True requested=True => Pannesdiverses
+Boiler=False Fan=False Water=False Leak=False workType=corrective processingDuration=]0-1] resolutionDuration=]72--[ start=True requested=True missing_item=False => Pannesdiverses
+Boiler=False Fan=False Water=False Leak=False workType=corrective processingDuration=]0-1] resolutionDuration=]72--[ end=True requested=True missing_item=False => Pannesdiverses
+Boiler=False Fan=False Water=False Leak=False workType=corrective processingDuration=]0-1] resolutionDuration=]72--[ start=True end=True requested=True missing_item=False => Pannesdiverses
+Boiler=False Fan=False Water=False Leak=False workType=corrective responseTime=]72--[ resolutionDuration=]72--[ start=True end=True requested=True missing_item=False => Pannesdiverses
+Boiler=False Fan=False Leak=False workType=corrective processingDuration=]0-1] start=True end=True requested=True => Pannesdiverses
+Boiler=False Fan=False Leak=False workType=corrective processingDuration=]0-1] start=True requested=True missing_item=False => Pannesdiverses
+Boiler=False Fan=False Leak=False workType=corrective processingDuration=]0-1] end=True requested=True missing_item=False => Pannesdiverses
+Boiler=False Fan=False Leak=False workType=corrective processingDuration=]0-1] start=True end=True requested=True missing_item=False => Pannesdiverses
+Boiler=False Water=False Leak=False workType=corrective processingDuration=]0-1] start=True end=True requested=True missing_item=False => Pannesdiverses
+Boiler=False Fan=False Water=False Leak=False workType=corrective start=True end=True requested=True missing_item=False => Pannesdiverses
+Boiler=False Fan=False Water=False Leak=False processingDuration=]0-1] start=True end=True requested=True missing_item=False => Pannesdiverses
+Boiler=False Fan=False workType=corrective processingDuration=]0-1] resolutionDuration=]72--[ start=True end=True requested=True missing_item=False => Pannesdiverses
+Fan=False Leak=False workType=corrective processingDuration=]0-1] resolutionDuration=]72--[ start=True end=True requested=True missing_item=False => Pannesdiverses
+Fan=False Water=False workType=corrective processingDuration=]0-1] resolutionDuration=]72--[ start=True end=True requested=True missing_item=False => Pannesdiverses
+Boiler=False Fan=False Water=False workType=corrective resolutionDuration=]72--[ start=True end=True requested=True missing_item=False => Pannesdiverses
+Water=False Leak=False workType=corrective processingDuration=]0-1] resolutionDuration=]72--[ start=True end=True requested=True missing_item=False => Pannesdiverses
+Fan=False Water=False Leak=False workType=corrective processingDuration=]0-1] resolutionDuration=]72--[ start=True end=True requested=True => Pannesdiverses
+Fan=False Water=False Leak=False workType=corrective processingDuration=]0-1] resolutionDuration=]72--[ start=True requested=True missing_item=False => Pannesdiverses
+Fan=False Water=False Leak=False workType=corrective processingDuration=]0-1] resolutionDuration=]72--[ end=True requested=True missing_item=False => Pannesdiverses
+Fan=False Water=False Leak=False workType=corrective processingDuration=]0-1] resolutionDuration=]72--[ start=True end=True requested=True missing_item=False => Pannesdiverses
+Boiler=False Fan=False Water=False Leak=False workType=corrective resolutionDuration=]72--[ start=True end=True requested=True missing_item=False => Pannesdiverses
+Boiler=False Fan=False Leak=False workType=corrective responseTime=]72--[ resolutionDuration=]72--[ start=True end=True requested=True missing_item=False => Pannesdiverses
+Boiler=False Fan=False Water=False Leak=False workType=corrective responseTime=]72--[ resolutionDuration=]72--[ start=True end=True missing_item=False => Pannesdiverses
+Boiler=False Leak=False workType=corrective processingDuration=]0-1] start=True end=True requested=True => Pannesdiverses
+Boiler=False Leak=False workType=corrective processingDuration=]0-1] start=True requested=True missing_item=False => Pannesdiverses
+Boiler=False Leak=False workType=corrective processingDuration=]0-1] end=True requested=True missing_item=False => Pannesdiverses
+Boiler=False Leak=False workType=corrective processingDuration=]0-1] start=True end=True requested=True missing_item=False => Pannesdiverses
+Boiler=False Fan=False Leak=False processingDuration=]0-1] start=True end=True requested=True missing_item=False => Pannesdiverses
+Fan=False Water=False Leak=False workType=corrective processingDuration=]0-1] start=True end=True requested=True missing_item=False => Pannesdiverses
+Boiler=False Fan=False Leak=False workType=corrective resolutionDuration=]72--[ start=True end=True requested=True missing_item=False => Pannesdiverses
+Fan=False Water=False Leak=False workType=corrective resolutionDuration=]72--[ start=True end=True requested=True missing_item=False => Pannesdiverses
+Boiler=False Fan=False Water=False Leak=False workType=corrective resolutionDuration=]72--[ start=True end=True missing_item=False => Pannesdiverses
+Boiler=False Fan=False Leak=False workType=corrective responseTime=]72--[ resolutionDuration=]72--[ start=True end=True missing_item=False => Pannesdiverses
+Boiler=False Fan=False Water=False workType=corrective responseTime=]72--[ resolutionDuration=]72--[ start=True end=True missing_item=False => Pannesdiverses
+Boiler=False Fan=False Water=False Leak=False responseTime=]72--[ resolutionDuration=]72--[ start=True end=True missing_item=False => Pannesdiverses
+Boiler=False Fan=True Water=False Leak=False workType=preventive responseTime=]72--[ resolutionDuration=]72--[ start=True end=True missing_item=False => Visiteentretienventilationcoll
+Boiler=False Fan=True Water=False Leak=False responseTime=]72--[ processingDuration=]0-1] resolutionDuration=]72--[ start=True end=True missing_item=False => Visiteentretienventilationcoll
+Boiler=False Fan=True Leak=False workType=preventive responseTime=]72--[ processingDuration=]0-1] resolutionDuration=]72--[ start=True end=True missing_item=False => Visiteentretienventilationcoll
+Boiler=False Fan=True Water=False workType=preventive responseTime=]72--[ processingDuration=]0-1] resolutionDuration=]72--[ start=True end=True missing_item=False => Visiteentretienventilationcoll
+Fan=True Water=False Leak=False workType=preventive responseTime=]72--[ processingDuration=]0-1] resolutionDuration=]72--[ start=True end=True missing_item=False => Visiteentretienventilationcoll
+Boiler=False Fan=True Water=False Leak=False workType=preventive responseTime=]72--[ processingDuration=]0-1] resolutionDuration=]72--[ start=True end=True => Visiteentretienventilationcoll
+Boiler=False Fan=True Water=False Leak=False workType=preventive responseTime=]72--[ processingDuration=]0-1] resolutionDuration=]72--[ start=True missing_item=False => Visiteentretienventilationcoll
+Boiler=False Fan=True Water=False Leak=False workType=preventive responseTime=]72--[ processingDuration=]0-1] resolutionDuration=]72--[ end=True missing_item=False => Visiteentretienventilationcoll
+Boiler=False Fan=True Water=False Leak=False workType=preventive responseTime=]72--[ processingDuration=]0-1] resolutionDuration=]72--[ start=True end=True missing_item=False => Visiteentretienventilationcoll
+Boiler=False Fan=False workType=corrective responseTime=]72--[ processingDuration=]0-1] resolutionDuration=]72--[ start=True end=True missing_item=False => Pannesdiverses
+Boiler=False Water=False Leak=False workType=preventive responseTime=]72--[ resolutionDuration=]72--[ start=True end=True missing_item=False => Visiteentretienventilationcoll
+Boiler=False Leak=False workType=preventive responseTime=]72--[ processingDuration=]0-1] resolutionDuration=]72--[ start=True end=True missing_item=False => Visiteentretienventilationcoll
+Boiler=False Water=False workType=preventive responseTime=]72--[ processingDuration=]0-1] resolutionDuration=]72--[ start=True end=True missing_item=False => Visiteentretienventilationcoll
+Water=False Leak=False workType=preventive responseTime=]72--[ processingDuration=]0-1] resolutionDuration=]72--[ start=True end=True missing_item=False => Visiteentretienventilationcoll
+Boiler=False Water=False Leak=False workType=preventive responseTime=]72--[ processingDuration=]0-1] resolutionDuration=]72--[ start=True end=True => Visiteentretienventilationcoll
+Boiler=False Water=False Leak=False workType=preventive responseTime=]72--[ processingDuration=]0-1] resolutionDuration=]72--[ start=True missing_item=False => Visiteentretienventilationcoll
+Boiler=False Water=False Leak=False workType=preventive responseTime=]72--[ processingDuration=]0-1] resolutionDuration=]72--[ end=True missing_item=False => Visiteentretienventilationcoll
+Boiler=False Water=False Leak=False workType=preventive responseTime=]72--[ processingDuration=]0-1] resolutionDuration=]72--[ start=True end=True missing_item=False => Visiteentretienventilationcoll
+Boiler=False Water=True Leak=True workType=preventive resolutionDuration=]1-2] start=True end=True requested=False missing_item=False => VisitedecontrÃ´le/entretien
+Fan=False Leak=False workType=corrective processingDuration=]0-1] start=True end=True requested=True => Pannesdiverses
+Fan=False Leak=False workType=corrective processingDuration=]0-1] start=True requested=True missing_item=False => Pannesdiverses
+Fan=False Leak=False workType=corrective processingDuration=]0-1] end=True requested=True missing_item=False => Pannesdiverses
+Fan=False Leak=False workType=corrective processingDuration=]0-1] start=True end=True requested=True missing_item=False => Pannesdiverses
+Boiler=False Fan=False Leak=False workType=corrective start=True end=True requested=True missing_item=False => Pannesdiverses
+Boiler=False Fan=False Water=False workType=corrective processingDuration=]0-1] start=True end=True requested=True => Pannesdiverses
+Boiler=False Fan=False Water=False workType=corrective processingDuration=]0-1] start=True requested=True missing_item=False => Pannesdiverses
+Boiler=False Fan=False Water=False workType=corrective processingDuration=]0-1] end=True requested=True missing_item=False => Pannesdiverses
+Boiler=False Fan=False Water=False workType=corrective processingDuration=]0-1] start=True end=True requested=True missing_item=False => Pannesdiverses
+Boiler=False Fan=False workType=corrective responseTime=]72--[ resolutionDuration=]72--[ start=True end=True requested=True missing_item=False => Pannesdiverses
+Fan=True Water=False Leak=False workType=preventive responseTime=]72--[ resolutionDuration=]72--[ start=True end=True missing_item=False => Visiteentretienventilationcoll
+Boiler=False Fan=True Water=False Leak=False workType=preventive resolutionDuration=]72--[ start=True end=True missing_item=False => Visiteentretienventilationcoll
+Boiler=False Fan=True Leak=False responseTime=]72--[ processingDuration=]0-1] resolutionDuration=]72--[ start=True end=True missing_item=False => Visiteentretienventilationcoll
+Boiler=False Fan=False Leak=True workType=corrective processingDuration=]0-1] start=True end=True requested=False missing_item=False => PanneECS
+Boiler=False Fan=False Water=True workType=corrective processingDuration=]0-1] start=True end=True requested=False missing_item=False => PanneECS
+Boiler=False Fan=True Water=False Leak=False processingDuration=]0-1] resolutionDuration=]72--[ start=True end=True missing_item=False => Visiteentretienventilationcoll
+Boiler=False Fan=True Leak=False workType=preventive processingDuration=]0-1] resolutionDuration=]72--[ start=True end=True missing_item=False => Visiteentretienventilationcoll
+Boiler=False Fan=True Water=False workType=preventive processingDuration=]0-1] resolutionDuration=]72--[ start=True end=True missing_item=False => Visiteentretienventilationcoll
+Fan=True Water=False Leak=False workType=preventive processingDuration=]0-1] resolutionDuration=]72--[ start=True end=True missing_item=False => Visiteentretienventilationcoll
+Boiler=False Fan=True Water=False Leak=False workType=preventive processingDuration=]0-1] resolutionDuration=]72--[ start=True end=True => Visiteentretienventilationcoll
+Boiler=False Fan=True Water=False Leak=False workType=preventive processingDuration=]0-1] resolutionDuration=]72--[ start=True missing_item=False => Visiteentretienventilationcoll
+Boiler=False Fan=True Water=False Leak=False workType=preventive processingDuration=]0-1] resolutionDuration=]72--[ end=True missing_item=False => Visiteentretienventilationcoll
+Boiler=False Fan=True Water=False Leak=False workType=preventive processingDuration=]0-1] resolutionDuration=]72--[ start=True end=True missing_item=False => Visiteentretienventilationcoll
+Boiler=False Leak=False workType=corrective start=True end=True requested=True missing_item=False => Pannesdiverses
+Fan=False Leak=False processingDuration=]0-1] start=True end=True requested=True missing_item=False => Pannesdiverses
+Boiler=False Fan=False Leak=False start=True end=True requested=True missing_item=False => Pannesdiverses
+Boiler=False Fan=False Water=False processingDuration=]0-1] start=True end=True requested=True missing_item=False => Pannesdiverses
+Boiler=False Fan=False workType=corrective resolutionDuration=]72--[ start=True end=True requested=True missing_item=False => Pannesdiverses
+Boiler=False Fan=False workType=corrective processingDuration=]0-1] resolutionDuration=]72--[ start=True end=True missing_item=False => Pannesdiverses
+Boiler=False Water=True Leak=True workType=preventive resolutionDuration=]1-2] start=True end=True requested=False => VisitedecontrÃ´le/entretien
+Boiler=False Leak=True processingDuration=]0-1] resolutionDuration=]1-2] start=True end=True requested=False missing_item=False => VisitedecontrÃ´le/entretien
+Boiler=False Water=True Leak=True processingDuration=]0-1] resolutionDuration=]1-2] start=True end=True requested=False => VisitedecontrÃ´le/entretien
+Boiler=False Water=True Leak=True processingDuration=]0-1] resolutionDuration=]1-2] start=True requested=False missing_item=False => VisitedecontrÃ´le/entretien
+Boiler=False Water=True Leak=True processingDuration=]0-1] resolutionDuration=]1-2] end=True requested=False missing_item=False => VisitedecontrÃ´le/entretien
+Boiler=False Water=True Leak=True processingDuration=]0-1] resolutionDuration=]1-2] start=True end=True requested=False missing_item=False => VisitedecontrÃ´le/entretien
+Leak=False workType=corrective processingDuration=]0-1] requested=True => Pannesdiverses
+Leak=False workType=corrective processingDuration=]0-1] start=True requested=True => Pannesdiverses
+Leak=False workType=corrective processingDuration=]0-1] end=True requested=True => Pannesdiverses
+Leak=False workType=corrective processingDuration=]0-1] start=True end=True requested=True => Pannesdiverses
+Leak=False workType=corrective processingDuration=]0-1] start=True requested=True missing_item=False => Pannesdiverses
+Leak=False workType=corrective processingDuration=]0-1] end=True requested=True missing_item=False => Pannesdiverses
+Leak=False workType=corrective processingDuration=]0-1] start=True end=True requested=True missing_item=False => Pannesdiverses
+Fan=False Water=False workType=corrective processingDuration=]0-1] start=True end=True requested=True missing_item=False => Pannesdiverses
+Boiler=False Fan=False Water=False workType=corrective start=True end=True requested=True missing_item=False => Pannesdiverses
+Boiler=False workType=corrective responseTime=]72--[ processingDuration=]0-1] resolutionDuration=]72--[ start=True end=True missing_item=False => Pannesdiverses
+Boiler=False Fan=False responseTime=]72--[ processingDuration=]0-1] resolutionDuration=]72--[ start=True end=True missing_item=False => Pannesdiverses
+Boiler=False workType=preventive responseTime=]72--[ processingDuration=]0-1] resolutionDuration=]72--[ start=True end=True missing_item=False => Visiteentretienventilationcoll
+Boiler=False Fan=True responseTime=]72--[ processingDuration=]0-1] resolutionDuration=]72--[ start=True end=True missing_item=False => Visiteentretienventilationcoll
+Boiler=False Fan=True Leak=False responseTime=]72--[ processingDuration=]0-1] resolutionDuration=]72--[ start=True end=True => Visiteentretienventilationcoll
+Boiler=False Leak=False workType=preventive processingDuration=]0-1] resolutionDuration=]72--[ start=True end=True missing_item=False => Visiteentretienventilationcoll
+Boiler=False Water=False workType=preventive processingDuration=]0-1] resolutionDuration=]72--[ start=True end=True missing_item=False => Visiteentretienventilationcoll
+Water=False Leak=False workType=preventive processingDuration=]0-1] resolutionDuration=]72--[ start=True end=True missing_item=False => Visiteentretienventilationcoll
+Boiler=False Water=False Leak=False workType=preventive processingDuration=]0-1] resolutionDuration=]72--[ start=True end=True => Visiteentretienventilationcoll
+Boiler=False Water=False Leak=False workType=preventive processingDuration=]0-1] resolutionDuration=]72--[ start=True missing_item=False => Visiteentretienventilationcoll
+Boiler=False Water=False Leak=False workType=preventive processingDuration=]0-1] resolutionDuration=]72--[ end=True missing_item=False => Visiteentretienventilationcoll
+Boiler=False Water=False Leak=False workType=preventive processingDuration=]0-1] resolutionDuration=]72--[ start=True end=True missing_item=False => Visiteentretienventilationcoll
+Fan=False Water=True Leak=True workType=corrective processingDuration=]0-1] start=True end=True requested=False missing_item=False => PanneECS
+Water=True Leak=True processingDuration=]0-1] resolutionDuration=]1-2] start=True end=True requested=False missing_item=False => VisitedecontrÃ´le/entretien
+Boiler=False Water=True Leak=True processingDuration=]0-1] resolutionDuration=]1-2] start=True end=True missing_item=False => VisitedecontrÃ´le/entretien
+Boiler=False Water=False workType=corrective processingDuration=]0-1] start=True end=True requested=True => Pannesdiverses
+Boiler=False Water=False workType=corrective processingDuration=]0-1] start=True requested=True missing_item=False => Pannesdiverses
+Boiler=False Water=False workType=corrective processingDuration=]0-1] end=True requested=True missing_item=False => Pannesdiverses
+Boiler=False Water=False workType=corrective processingDuration=]0-1] start=True end=True requested=True missing_item=False => Pannesdiverses
+Boiler=False Fan=False workType=corrective processingDuration=]0-1] start=True requested=False missing_item=False => PanneECS
+Boiler=False Fan=False workType=corrective processingDuration=]0-1] end=True requested=False missing_item=False => PanneECS
+Boiler=False Fan=False workType=corrective processingDuration=]0-1] start=True end=True requested=False missing_item=False => PanneECS
+Boiler=False Water=True Leak=True workType=corrective processingDuration=]0-1] start=True end=True requested=False => PanneECS
+Boiler=False Water=True Leak=True workType=corrective processingDuration=]0-1] start=True requested=False missing_item=False => PanneECS
+Boiler=False Water=True Leak=True workType=corrective processingDuration=]0-1] end=True requested=False missing_item=False => PanneECS
+Boiler=False Water=True Leak=True workType=corrective processingDuration=]0-1] start=True end=True requested=False missing_item=False => PanneECS
+Boiler=False processingDuration=]0-1] resolutionDuration=]1-2] start=True end=True requested=False missing_item=False => VisitedecontrÃ´le/entretien
+Boiler=False Water=True processingDuration=]0-1] resolutionDuration=]1-2] start=True requested=False missing_item=False => VisitedecontrÃ´le/entretien
+Boiler=False Water=True processingDuration=]0-1] resolutionDuration=]1-2] end=True requested=False missing_item=False => VisitedecontrÃ´le/entretien
+Boiler=False Water=True processingDuration=]0-1] resolutionDuration=]1-2] start=True end=True requested=False missing_item=False => VisitedecontrÃ´le/entretien
+Leak=False workType=preventive responseTime=]72--[ resolutionDuration=]72--[ start=True end=True missing_item=False => Visiteentretienventilationcoll
+Water=False Leak=False workType=preventive responseTime=]72--[ resolutionDuration=]72--[ start=True end=True => Visiteentretienventilationcoll
+Water=False Leak=False workType=preventive responseTime=]72--[ resolutionDuration=]72--[ start=True missing_item=False => Visiteentretienventilationcoll
+Water=False Leak=False workType=preventive responseTime=]72--[ resolutionDuration=]72--[ end=True missing_item=False => Visiteentretienventilationcoll
+Water=False Leak=False workType=preventive responseTime=]72--[ resolutionDuration=]72--[ start=True end=True missing_item=False => Visiteentretienventilationcoll
+Boiler=False Fan=False Water=True Leak=True workType=corrective processingDuration=]0-1] start=True end=True => PanneECS
+Boiler=False Fan=False Water=True Leak=True workType=corrective processingDuration=]0-1] start=True missing_item=False => PanneECS
+Boiler=False Fan=False Water=True Leak=True workType=corrective processingDuration=]0-1] end=True missing_item=False => PanneECS
+Boiler=False Fan=False Water=True Leak=True workType=corrective processingDuration=]0-1] start=True end=True missing_item=False => PanneECS
+Fan=False Leak=False workType=corrective requested=True => Pannesdiverses
+Fan=False Leak=False workType=corrective requested=True missing_item=False => Pannesdiverses
+Fan=False Leak=False workType=corrective start=True requested=True missing_item=False => Pannesdiverses
+Fan=False Leak=False workType=corrective end=True requested=True missing_item=False => Pannesdiverses
+Fan=False Leak=False workType=corrective start=True end=True requested=True missing_item=False => Pannesdiverses
+Fan=False Water=False workType=corrective start=True end=True requested=True missing_item=False => Pannesdiverses
+Boiler=False Fan=False Water=False start=True end=True requested=True missing_item=False => Pannesdiverses
+Boiler=False workType=corrective processingDuration=]0-1] resolutionDuration=]72--[ start=True end=True missing_item=False => Pannesdiverses
+Boiler=False Fan=False processingDuration=]0-1] resolutionDuration=]72--[ start=True end=True missing_item=False => Pannesdiverses
+Fan=False Leak=False workType=corrective processingDuration=]0-1] start=True end=True missing_item=False => Pannesdiverses
+Boiler=False workType=preventive processingDuration=]0-1] resolutionDuration=]72--[ start=True end=True missing_item=False => Visiteentretienventilationcoll
+Fan=False Water=True workType=corrective processingDuration=]0-1] start=True requested=False missing_item=False => PanneECS
+Fan=False Water=True workType=corrective processingDuration=]0-1] end=True requested=False missing_item=False => PanneECS
+Fan=False Water=True workType=corrective processingDuration=]0-1] start=True end=True requested=False missing_item=False => PanneECS
+Water=True Leak=True processingDuration=]0-1] resolutionDuration=]1-2] => VisitedecontrÃ´le/entretien
+Water=True Leak=True processingDuration=]0-1] resolutionDuration=]1-2] start=True => VisitedecontrÃ´le/entretien
+Water=True Leak=True processingDuration=]0-1] resolutionDuration=]1-2] end=True => VisitedecontrÃ´le/entretien
+Water=True Leak=True processingDuration=]0-1] resolutionDuration=]1-2] start=True end=True => VisitedecontrÃ´le/entretien
+Water=True Leak=True processingDuration=]0-1] resolutionDuration=]1-2] start=True missing_item=False => VisitedecontrÃ´le/entretien
+Water=True Leak=True processingDuration=]0-1] resolutionDuration=]1-2] end=True missing_item=False => VisitedecontrÃ´le/entretien
+Water=True Leak=True processingDuration=]0-1] resolutionDuration=]1-2] start=True end=True missing_item=False => VisitedecontrÃ´le/entretien

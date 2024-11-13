@@ -1,0 +1,21 @@
+Fan=True responseTime=]4-16] done=True => Boucheventilation
+Fan=True processingDuration=]1-2] done=True => Boucheventilation
+Fan=True done=True => Boucheventilation
+Fan=True => Boucheventilation
+Fan=False criticalLevel=one done=False => DÃ©pannageChauffageindividuel
+Fan=False criticalLevel=one partial_repair=True => DÃ©pannageChauffageindividuel
+Fan=False criticalLevel=one resolutionDuration=]4-16] => DÃ©pannageChauffageindividuel
+Fan=False criticalLevel=one => DÃ©pannageChauffageindividuel
+resolutionDuration=]0-1] => DÃ©pannageChauffageindividuel
+responseTime=]16-24] => DÃ©pannageChauffageindividuel
+resolutionDuration=]16-24] => DÃ©pannageChauffageindividuel
+Fan=True processingDuration=]0-1] => DÃ©pannage_VMCGazousanitaire
+Fan=True responseTime=]1-2] => DÃ©pannage_VMCGazousanitaire
+Fan=True => DÃ©pannage_VMCGazousanitaire
+workType=preventive processingDuration=]1-2] done=False => HorsPÃ©rimÃ¨tre
+workType=preventive resolutionDuration=]2-4] done=False => HorsPÃ©rimÃ¨tre
+workType=preventive done=False client_planned=True => HorsPÃ©rimÃ¨tre
+criticalLevel=zero => HorsPÃ©rimÃ¨tre
+criticalLevel=minus-one workType=corrective => RemplacementChaudiÃ¨reoucaisson
+workType=preventive done=True => VisitepÃ©riodique
+workType=preventive => VisitepÃ©riodique

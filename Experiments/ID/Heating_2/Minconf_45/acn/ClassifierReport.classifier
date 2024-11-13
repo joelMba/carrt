@@ -1,0 +1,357 @@
+criticalLevel=minus-one workType=corrective planned=True client_planned=False => RemplacementChaudiÃ¨reoucaisson
+criticalLevel=minus-one workType=corrective planned=True => RemplacementChaudiÃ¨reoucaisson
+criticalLevel=minus-one workType=corrective client_planned=False => RemplacementChaudiÃ¨reoucaisson
+criticalLevel=minus-one workType=corrective => RemplacementChaudiÃ¨reoucaisson
+workType=preventive done=True partial_repair=False => VisitepÃ©riodique
+workType=preventive done=True => VisitepÃ©riodique
+criticalLevel=minus-one workType=corrective done=True planned=True client_planned=False partial_repair=False => RemplacementChaudiÃ¨reoucaisson
+criticalLevel=minus-one workType=corrective done=True planned=True client_planned=False => RemplacementChaudiÃ¨reoucaisson
+criticalLevel=minus-one workType=corrective done=True planned=True partial_repair=False => RemplacementChaudiÃ¨reoucaisson
+criticalLevel=minus-one workType=corrective done=True client_planned=False partial_repair=False => RemplacementChaudiÃ¨reoucaisson
+criticalLevel=minus-one workType=corrective planned=True client_planned=False partial_repair=False => RemplacementChaudiÃ¨reoucaisson
+criticalLevel=minus-one workType=corrective done=True planned=True => RemplacementChaudiÃ¨reoucaisson
+criticalLevel=minus-one workType=corrective done=True client_planned=False => RemplacementChaudiÃ¨reoucaisson
+criticalLevel=minus-one workType=corrective done=True partial_repair=False => RemplacementChaudiÃ¨reoucaisson
+criticalLevel=minus-one workType=corrective planned=True partial_repair=False => RemplacementChaudiÃ¨reoucaisson
+criticalLevel=minus-one workType=corrective client_planned=False partial_repair=False => RemplacementChaudiÃ¨reoucaisson
+criticalLevel=minus-one workType=corrective done=True => RemplacementChaudiÃ¨reoucaisson
+criticalLevel=minus-one workType=corrective partial_repair=False => RemplacementChaudiÃ¨reoucaisson
+criticalLevel=minus-one workType=preventive done=True partial_repair=False => VisitepÃ©riodique
+criticalLevel=minus-one workType=preventive done=True => VisitepÃ©riodique
+criticalLevel=minus-one workType=preventive partial_repair=False => VisitepÃ©riodique
+criticalLevel=minus-one workType=preventive planned=True => VisitepÃ©riodique
+workType=preventive planned=True => VisitepÃ©riodique
+criticalLevel=minus-one workType=preventive planned=True client_planned=False => VisitepÃ©riodique
+criticalLevel=minus-one workType=preventive client_planned=False => VisitepÃ©riodique
+workType=preventive planned=True client_planned=False => VisitepÃ©riodique
+workType=preventive processingDuration=]0-1] => VisitepÃ©riodique
+criticalLevel=minus-one workType=preventive done=True planned=True partial_repair=False => VisitepÃ©riodique
+criticalLevel=minus-one workType=preventive done=True planned=True => VisitepÃ©riodique
+criticalLevel=minus-one workType=preventive planned=True partial_repair=False => VisitepÃ©riodique
+workType=preventive done=True planned=True partial_repair=False => VisitepÃ©riodique
+criticalLevel=minus-one workType=preventive processingDuration=]0-1] => VisitepÃ©riodique
+workType=preventive done=True planned=True => VisitepÃ©riodique
+workType=preventive planned=True partial_repair=False => VisitepÃ©riodique
+criticalLevel=minus-one workType=corrective resolutionDuration=]4-16] planned=True client_planned=False => RemplacementChaudiÃ¨reoucaisson
+criticalLevel=minus-one workType=corrective resolutionDuration=]4-16] planned=True => RemplacementChaudiÃ¨reoucaisson
+criticalLevel=minus-one workType=corrective resolutionDuration=]4-16] client_planned=False => RemplacementChaudiÃ¨reoucaisson
+criticalLevel=minus-one workType=corrective resolutionDuration=]4-16] => RemplacementChaudiÃ¨reoucaisson
+criticalLevel=minus-one workType=preventive done=True planned=True client_planned=False partial_repair=False => VisitepÃ©riodique
+criticalLevel=minus-one workType=preventive done=True planned=True client_planned=False => VisitepÃ©riodique
+criticalLevel=minus-one workType=preventive done=True client_planned=False partial_repair=False => VisitepÃ©riodique
+criticalLevel=minus-one workType=preventive planned=True client_planned=False partial_repair=False => VisitepÃ©riodique
+workType=preventive done=True planned=True client_planned=False partial_repair=False => VisitepÃ©riodique
+criticalLevel=minus-one workType=preventive done=True client_planned=False => VisitepÃ©riodique
+criticalLevel=minus-one workType=preventive client_planned=False partial_repair=False => VisitepÃ©riodique
+workType=preventive processingDuration=]0-1] done=True partial_repair=False => VisitepÃ©riodique
+workType=preventive done=True planned=True client_planned=False => VisitepÃ©riodique
+workType=preventive done=True client_planned=False partial_repair=False => VisitepÃ©riodique
+workType=preventive done=True client_planned=True partial_repair=False => VisitepÃ©riodique
+workType=preventive planned=True client_planned=False partial_repair=False => VisitepÃ©riodique
+workType=preventive processingDuration=]0-1] done=True => VisitepÃ©riodique
+workType=preventive processingDuration=]0-1] partial_repair=False => VisitepÃ©riodique
+workType=preventive done=True client_planned=False => VisitepÃ©riodique
+workType=preventive done=True client_planned=True => VisitepÃ©riodique
+workType=preventive client_planned=True partial_repair=False => VisitepÃ©riodique
+criticalLevel=minus-one workType=preventive processingDuration=]0-1] done=True partial_repair=False => VisitepÃ©riodique
+criticalLevel=minus-one workType=preventive done=True client_planned=True partial_repair=False => VisitepÃ©riodique
+workType=preventive done=True planned=False client_planned=True partial_repair=False => VisitepÃ©riodique
+criticalLevel=minus-one workType=preventive processingDuration=]0-1] done=True => VisitepÃ©riodique
+criticalLevel=minus-one workType=preventive processingDuration=]0-1] partial_repair=False => VisitepÃ©riodique
+criticalLevel=minus-one workType=preventive done=True client_planned=True => VisitepÃ©riodique
+criticalLevel=minus-one workType=preventive client_planned=True partial_repair=False => VisitepÃ©riodique
+criticalLevel=minus-one done=True client_planned=True partial_repair=False => VisitepÃ©riodique
+workType=preventive done=True planned=False client_planned=True => VisitepÃ©riodique
+workType=preventive done=True planned=False partial_repair=False => VisitepÃ©riodique
+workType=preventive planned=False client_planned=True partial_repair=False => VisitepÃ©riodique
+criticalLevel=minus-one done=True client_planned=True => VisitepÃ©riodique
+criticalLevel=minus-one client_planned=True partial_repair=False => VisitepÃ©riodique
+workType=preventive done=True planned=False => VisitepÃ©riodique
+criticalLevel=minus-one workType=preventive done=True planned=False client_planned=True partial_repair=False => VisitepÃ©riodique
+criticalLevel=minus-one workType=preventive done=True planned=False client_planned=True => VisitepÃ©riodique
+criticalLevel=minus-one workType=preventive done=True planned=False partial_repair=False => VisitepÃ©riodique
+criticalLevel=minus-one workType=preventive planned=False client_planned=True partial_repair=False => VisitepÃ©riodique
+criticalLevel=minus-one done=True planned=False client_planned=True partial_repair=False => VisitepÃ©riodique
+criticalLevel=minus-one workType=preventive done=True planned=False => VisitepÃ©riodique
+criticalLevel=minus-one workType=preventive planned=False partial_repair=False => VisitepÃ©riodique
+criticalLevel=minus-one done=True planned=False client_planned=True => VisitepÃ©riodique
+criticalLevel=minus-one done=True planned=False partial_repair=False => VisitepÃ©riodique
+criticalLevel=minus-one planned=False client_planned=True partial_repair=False => VisitepÃ©riodique
+criticalLevel=minus-one done=True planned=False => VisitepÃ©riodique
+criticalLevel=minus-one planned=False partial_repair=False => VisitepÃ©riodique
+workType=preventive processingDuration=]0-1] done=True client_planned=True partial_repair=False => VisitepÃ©riodique
+workType=preventive processingDuration=]0-1] done=True client_planned=True => VisitepÃ©riodique
+workType=preventive processingDuration=]0-1] client_planned=True partial_repair=False => VisitepÃ©riodique
+workType=preventive processingDuration=]0-1] client_planned=True => VisitepÃ©riodique
+criticalLevel=minus-one workType=preventive processingDuration=]0-1] done=True client_planned=True partial_repair=False => VisitepÃ©riodique
+workType=preventive processingDuration=]0-1] done=True planned=False client_planned=True partial_repair=False => VisitepÃ©riodique
+criticalLevel=minus-one workType=preventive processingDuration=]0-1] done=True client_planned=True => VisitepÃ©riodique
+criticalLevel=minus-one workType=preventive processingDuration=]0-1] client_planned=True partial_repair=False => VisitepÃ©riodique
+criticalLevel=minus-one workType=preventive processingDuration=]1-2] done=True partial_repair=False => VisitepÃ©riodique
+criticalLevel=minus-one processingDuration=]0-1] done=True client_planned=True partial_repair=False => VisitepÃ©riodique
+workType=preventive processingDuration=]0-1] done=True planned=False client_planned=True => VisitepÃ©riodique
+workType=preventive processingDuration=]0-1] done=True planned=False partial_repair=False => VisitepÃ©riodique
+workType=preventive processingDuration=]0-1] planned=False client_planned=True partial_repair=False => VisitepÃ©riodique
+criticalLevel=minus-one workType=preventive processingDuration=]0-1] planned=True => VisitepÃ©riodique
+criticalLevel=minus-one workType=preventive processingDuration=]0-1] client_planned=True => VisitepÃ©riodique
+criticalLevel=minus-one workType=preventive processingDuration=]1-2] done=True => VisitepÃ©riodique
+criticalLevel=minus-one workType=preventive processingDuration=]1-2] partial_repair=False => VisitepÃ©riodique
+criticalLevel=minus-one processingDuration=]0-1] done=True client_planned=True => VisitepÃ©riodique
+criticalLevel=minus-one processingDuration=]0-1] client_planned=True partial_repair=False => VisitepÃ©riodique
+workType=preventive processingDuration=]0-1] done=True planned=False => VisitepÃ©riodique
+workType=preventive processingDuration=]0-1] planned=False client_planned=True => VisitepÃ©riodique
+workType=preventive processingDuration=]0-1] planned=False partial_repair=False => VisitepÃ©riodique
+workType=preventive processingDuration=]1-2] done=True partial_repair=False => VisitepÃ©riodique
+criticalLevel=minus-one processingDuration=]0-1] client_planned=True => VisitepÃ©riodique
+workType=preventive processingDuration=]0-1] planned=False => VisitepÃ©riodique
+workType=preventive processingDuration=]0-1] planned=True => VisitepÃ©riodique
+workType=preventive processingDuration=]1-2] done=True => VisitepÃ©riodique
+workType=preventive processingDuration=]1-2] partial_repair=False => VisitepÃ©riodique
+criticalLevel=one workType=corrective processingDuration=]0-1] client_planned=True => DÃ©pannageChauffageindividuel
+workType=corrective processingDuration=]0-1] client_planned=True => DÃ©pannageChauffageindividuel
+criticalLevel=one workType=corrective processingDuration=]0-1] planned=False client_planned=True => DÃ©pannageChauffageindividuel
+criticalLevel=one workType=corrective processingDuration=]0-1] planned=False => DÃ©pannageChauffageindividuel
+workType=corrective processingDuration=]0-1] planned=False client_planned=True => DÃ©pannageChauffageindividuel
+workType=corrective processingDuration=]0-1] planned=False => DÃ©pannageChauffageindividuel
+criticalLevel=one workType=corrective done=False client_planned=True partial_repair=True => DÃ©pannageChauffageindividuel
+criticalLevel=one workType=corrective done=False client_planned=True => DÃ©pannageChauffageindividuel
+criticalLevel=one workType=corrective client_planned=True partial_repair=True => DÃ©pannageChauffageindividuel
+criticalLevel=one done=False client_planned=True partial_repair=True => DÃ©pannageChauffageindividuel
+workType=corrective done=False client_planned=True partial_repair=True => DÃ©pannageChauffageindividuel
+criticalLevel=one done=False client_planned=True => DÃ©pannageChauffageindividuel
+criticalLevel=one client_planned=True partial_repair=True => DÃ©pannageChauffageindividuel
+workType=corrective done=False client_planned=True => DÃ©pannageChauffageindividuel
+workType=corrective client_planned=True partial_repair=True => DÃ©pannageChauffageindividuel
+criticalLevel=one workType=corrective processingDuration=]0-1] done=True client_planned=True partial_repair=False => DÃ©pannageChauffageindividuel
+criticalLevel=one workType=corrective processingDuration=]0-1] done=True client_planned=True => DÃ©pannageChauffageindividuel
+criticalLevel=one workType=corrective processingDuration=]0-1] client_planned=True partial_repair=False => DÃ©pannageChauffageindividuel
+workType=corrective processingDuration=]0-1] done=True client_planned=True partial_repair=False => DÃ©pannageChauffageindividuel
+workType=corrective processingDuration=]0-1] done=True client_planned=True => DÃ©pannageChauffageindividuel
+workType=corrective processingDuration=]0-1] client_planned=True partial_repair=False => DÃ©pannageChauffageindividuel
+criticalLevel=one workType=corrective processingDuration=]0-1] done=True planned=False client_planned=True partial_repair=False => DÃ©pannageChauffageindividuel
+criticalLevel=one workType=corrective processingDuration=]0-1] done=True planned=False client_planned=True => DÃ©pannageChauffageindividuel
+criticalLevel=one workType=corrective processingDuration=]0-1] done=True planned=False partial_repair=False => DÃ©pannageChauffageindividuel
+criticalLevel=one workType=corrective processingDuration=]0-1] planned=False client_planned=True partial_repair=False => DÃ©pannageChauffageindividuel
+criticalLevel=one workType=corrective done=False planned=False client_planned=True partial_repair=True => DÃ©pannageChauffageindividuel
+workType=corrective processingDuration=]0-1] done=True planned=False client_planned=True partial_repair=False => DÃ©pannageChauffageindividuel
+criticalLevel=one workType=corrective processingDuration=]0-1] done=True planned=False => DÃ©pannageChauffageindividuel
+criticalLevel=one workType=corrective processingDuration=]0-1] planned=False partial_repair=False => DÃ©pannageChauffageindividuel
+criticalLevel=one workType=corrective processingDuration=]1-2] done=False partial_repair=True => DÃ©pannageChauffageindividuel
+criticalLevel=one workType=corrective done=False planned=False client_planned=True => DÃ©pannageChauffageindividuel
+criticalLevel=one workType=corrective done=False planned=False partial_repair=True => DÃ©pannageChauffageindividuel
+criticalLevel=one workType=corrective planned=False client_planned=True partial_repair=True => DÃ©pannageChauffageindividuel
+criticalLevel=one done=False planned=False client_planned=True partial_repair=True => DÃ©pannageChauffageindividuel
+workType=corrective processingDuration=]0-1] done=True planned=False client_planned=True => DÃ©pannageChauffageindividuel
+workType=corrective processingDuration=]0-1] done=True planned=False partial_repair=False => DÃ©pannageChauffageindividuel
+workType=corrective processingDuration=]0-1] planned=False client_planned=True partial_repair=False => DÃ©pannageChauffageindividuel
+workType=corrective done=False planned=False client_planned=True partial_repair=True => DÃ©pannageChauffageindividuel
+criticalLevel=one workType=corrective processingDuration=]1-2] done=False => DÃ©pannageChauffageindividuel
+criticalLevel=one workType=corrective processingDuration=]1-2] partial_repair=True => DÃ©pannageChauffageindividuel
+criticalLevel=one workType=corrective done=False planned=False => DÃ©pannageChauffageindividuel
+criticalLevel=one workType=corrective planned=False partial_repair=True => DÃ©pannageChauffageindividuel
+criticalLevel=one processingDuration=]1-2] done=False partial_repair=True => DÃ©pannageChauffageindividuel
+criticalLevel=one done=False planned=False client_planned=True => DÃ©pannageChauffageindividuel
+criticalLevel=one done=False planned=False partial_repair=True => DÃ©pannageChauffageindividuel
+criticalLevel=one planned=False client_planned=True partial_repair=True => DÃ©pannageChauffageindividuel
+workType=corrective processingDuration=]0-1] done=True planned=False => DÃ©pannageChauffageindividuel
+workType=corrective processingDuration=]0-1] planned=False partial_repair=False => DÃ©pannageChauffageindividuel
+workType=corrective processingDuration=]1-2] done=False partial_repair=True => DÃ©pannageChauffageindividuel
+workType=corrective done=False planned=False client_planned=True => DÃ©pannageChauffageindividuel
+workType=corrective done=False planned=False partial_repair=True => DÃ©pannageChauffageindividuel
+workType=corrective planned=False client_planned=True partial_repair=True => DÃ©pannageChauffageindividuel
+criticalLevel=one processingDuration=]1-2] done=False => DÃ©pannageChauffageindividuel
+criticalLevel=one processingDuration=]1-2] partial_repair=True => DÃ©pannageChauffageindividuel
+criticalLevel=one done=False planned=False => DÃ©pannageChauffageindividuel
+criticalLevel=one planned=False partial_repair=True => DÃ©pannageChauffageindividuel
+workType=corrective processingDuration=]1-2] done=False => DÃ©pannageChauffageindividuel
+workType=corrective processingDuration=]1-2] partial_repair=True => DÃ©pannageChauffageindividuel
+workType=corrective planned=False partial_repair=True => DÃ©pannageChauffageindividuel
+criticalLevel=one workType=corrective responseTime=]2-4] planned=False client_planned=True => DÃ©pannageChauffageindividuel
+criticalLevel=one workType=corrective responseTime=]2-4] planned=False => DÃ©pannageChauffageindividuel
+criticalLevel=one workType=corrective responseTime=]2-4] client_planned=True => DÃ©pannageChauffageindividuel
+criticalLevel=one responseTime=]2-4] planned=False client_planned=True => DÃ©pannageChauffageindividuel
+workType=corrective responseTime=]2-4] planned=False client_planned=True => DÃ©pannageChauffageindividuel
+criticalLevel=one responseTime=]2-4] planned=False => DÃ©pannageChauffageindividuel
+criticalLevel=one responseTime=]2-4] client_planned=True => DÃ©pannageChauffageindividuel
+workType=corrective responseTime=]2-4] planned=False => DÃ©pannageChauffageindividuel
+workType=corrective responseTime=]2-4] client_planned=True => DÃ©pannageChauffageindividuel
+responseTime=]2-4] planned=False client_planned=True => DÃ©pannageChauffageindividuel
+responseTime=]2-4] planned=False => DÃ©pannageChauffageindividuel
+responseTime=]2-4] client_planned=True => DÃ©pannageChauffageindividuel
+criticalLevel=one workType=corrective processingDuration=]0-1] done=False client_planned=True partial_repair=True => DÃ©pannageChauffageindividuel
+criticalLevel=one workType=corrective responseTime=]1-2] done=False partial_repair=True => DÃ©pannageChauffageindividuel
+criticalLevel=one workType=corrective processingDuration=]0-1] done=False client_planned=True => DÃ©pannageChauffageindividuel
+criticalLevel=one workType=corrective processingDuration=]0-1] client_planned=True partial_repair=True => DÃ©pannageChauffageindividuel
+criticalLevel=one workType=corrective resolutionDuration=]2-4] planned=False client_planned=True => DÃ©pannageChauffageindividuel
+criticalLevel=one processingDuration=]0-1] done=False client_planned=True partial_repair=True => DÃ©pannageChauffageindividuel
+workType=corrective processingDuration=]0-1] done=False client_planned=True partial_repair=True => DÃ©pannageChauffageindividuel
+criticalLevel=one workType=corrective responseTime=]1-2] done=False => DÃ©pannageChauffageindividuel
+criticalLevel=one workType=corrective responseTime=]1-2] partial_repair=True => DÃ©pannageChauffageindividuel
+criticalLevel=one workType=corrective resolutionDuration=]2-4] planned=False => DÃ©pannageChauffageindividuel
+criticalLevel=one workType=corrective resolutionDuration=]2-4] client_planned=True => DÃ©pannageChauffageindividuel
+criticalLevel=one responseTime=]1-2] done=False partial_repair=True => DÃ©pannageChauffageindividuel
+criticalLevel=one processingDuration=]0-1] done=False client_planned=True => DÃ©pannageChauffageindividuel
+criticalLevel=one processingDuration=]0-1] client_planned=True partial_repair=True => DÃ©pannageChauffageindividuel
+criticalLevel=one resolutionDuration=]2-4] planned=False client_planned=True => DÃ©pannageChauffageindividuel
+workType=corrective responseTime=]1-2] done=False partial_repair=True => DÃ©pannageChauffageindividuel
+workType=corrective processingDuration=]0-1] done=False client_planned=True => DÃ©pannageChauffageindividuel
+workType=corrective processingDuration=]0-1] client_planned=True partial_repair=True => DÃ©pannageChauffageindividuel
+workType=corrective resolutionDuration=]2-4] planned=False client_planned=True => DÃ©pannageChauffageindividuel
+processingDuration=]0-1] done=False client_planned=True partial_repair=True => DÃ©pannageChauffageindividuel
+criticalLevel=one responseTime=]1-2] done=False => DÃ©pannageChauffageindividuel
+criticalLevel=one responseTime=]1-2] partial_repair=True => DÃ©pannageChauffageindividuel
+criticalLevel=one resolutionDuration=]2-4] planned=False => DÃ©pannageChauffageindividuel
+criticalLevel=one resolutionDuration=]2-4] client_planned=True => DÃ©pannageChauffageindividuel
+workType=corrective responseTime=]1-2] done=False => DÃ©pannageChauffageindividuel
+workType=corrective responseTime=]1-2] partial_repair=True => DÃ©pannageChauffageindividuel
+workType=corrective resolutionDuration=]2-4] planned=False => DÃ©pannageChauffageindividuel
+workType=corrective resolutionDuration=]2-4] client_planned=True => DÃ©pannageChauffageindividuel
+processingDuration=]0-1] done=False client_planned=True => DÃ©pannageChauffageindividuel
+processingDuration=]0-1] client_planned=True partial_repair=True => DÃ©pannageChauffageindividuel
+criticalLevel=one workType=corrective client_planned=True => DÃ©pannageChauffageindividuel
+workType=corrective client_planned=True => DÃ©pannageChauffageindividuel
+workType=preventive partial_repair=False => VisitepÃ©riodique
+criticalLevel=one workType=corrective planned=False client_planned=True => DÃ©pannageChauffageindividuel
+criticalLevel=one workType=corrective planned=False => DÃ©pannageChauffageindividuel
+workType=corrective planned=False client_planned=True => DÃ©pannageChauffageindividuel
+criticalLevel=minus-one workType=preventive => VisitepÃ©riodique
+criticalLevel=one processingDuration=]0-1] client_planned=True => DÃ©pannageChauffageindividuel
+workType=preventive client_planned=False => VisitepÃ©riodique
+criticalLevel=one workType=corrective done=True client_planned=True partial_repair=False => DÃ©pannageChauffageindividuel
+criticalLevel=one workType=corrective done=True client_planned=True => DÃ©pannageChauffageindividuel
+criticalLevel=one workType=corrective client_planned=True partial_repair=False => DÃ©pannageChauffageindividuel
+workType=corrective done=True client_planned=True partial_repair=False => DÃ©pannageChauffageindividuel
+workType=corrective done=True client_planned=True => DÃ©pannageChauffageindividuel
+workType=corrective client_planned=True partial_repair=False => DÃ©pannageChauffageindividuel
+criticalLevel=one workType=corrective done=True planned=False client_planned=True partial_repair=False => DÃ©pannageChauffageindividuel
+criticalLevel=one workType=corrective done=True planned=False client_planned=True => DÃ©pannageChauffageindividuel
+criticalLevel=one workType=corrective done=True planned=False partial_repair=False => DÃ©pannageChauffageindividuel
+criticalLevel=one workType=corrective planned=False client_planned=True partial_repair=False => DÃ©pannageChauffageindividuel
+workType=corrective done=True planned=False client_planned=True partial_repair=False => DÃ©pannageChauffageindividuel
+criticalLevel=one workType=corrective done=True planned=False => DÃ©pannageChauffageindividuel
+criticalLevel=one workType=corrective planned=False partial_repair=False => DÃ©pannageChauffageindividuel
+criticalLevel=one processingDuration=]0-1] planned=False client_planned=True => DÃ©pannageChauffageindividuel
+workType=corrective done=True planned=False client_planned=True => DÃ©pannageChauffageindividuel
+workType=corrective done=True planned=False partial_repair=False => DÃ©pannageChauffageindividuel
+workType=corrective planned=False client_planned=True partial_repair=False => DÃ©pannageChauffageindividuel
+criticalLevel=one processingDuration=]0-1] planned=False => DÃ©pannageChauffageindividuel
+workType=corrective done=True planned=False => DÃ©pannageChauffageindividuel
+criticalLevel=one client_planned=True => DÃ©pannageChauffageindividuel
+workType=preventive => VisitepÃ©riodique
+workType=preventive client_planned=False partial_repair=False => VisitepÃ©riodique
+workType=corrective planned=False => DÃ©pannageChauffageindividuel
+workType=preventive planned=False partial_repair=False => VisitepÃ©riodique
+criticalLevel=one planned=False client_planned=True => DÃ©pannageChauffageindividuel
+criticalLevel=one planned=False => DÃ©pannageChauffageindividuel
+done=False client_planned=True partial_repair=True => DÃ©pannageChauffageindividuel
+done=False client_planned=True => DÃ©pannageChauffageindividuel
+client_planned=True partial_repair=True => DÃ©pannageChauffageindividuel
+workType=preventive client_planned=True => VisitepÃ©riodique
+criticalLevel=one processingDuration=]0-1] done=True client_planned=True partial_repair=False => DÃ©pannageChauffageindividuel
+criticalLevel=one processingDuration=]0-1] done=True client_planned=True => DÃ©pannageChauffageindividuel
+criticalLevel=one processingDuration=]0-1] client_planned=True partial_repair=False => DÃ©pannageChauffageindividuel
+workType=corrective done=False planned=False => DÃ©pannageChauffageindividuel
+criticalLevel=minus-one workType=preventive client_planned=True => VisitepÃ©riodique
+workType=preventive planned=False client_planned=True => VisitepÃ©riodique
+criticalLevel=minus-one client_planned=True => VisitepÃ©riodique
+criticalLevel=one processingDuration=]0-1] done=True planned=False client_planned=True partial_repair=False => DÃ©pannageChauffageindividuel
+criticalLevel=one workType=corrective resolutionDuration=]4-16] done=False partial_repair=True => DÃ©pannageChauffageindividuel
+criticalLevel=one processingDuration=]0-1] done=True planned=False client_planned=True => DÃ©pannageChauffageindividuel
+criticalLevel=one processingDuration=]0-1] done=True planned=False partial_repair=False => DÃ©pannageChauffageindividuel
+criticalLevel=one processingDuration=]0-1] planned=False client_planned=True partial_repair=False => DÃ©pannageChauffageindividuel
+criticalLevel=one workType=corrective resolutionDuration=]4-16] done=False => DÃ©pannageChauffageindividuel
+criticalLevel=one workType=corrective resolutionDuration=]4-16] partial_repair=True => DÃ©pannageChauffageindividuel
+criticalLevel=one processingDuration=]0-1] done=True planned=False => DÃ©pannageChauffageindividuel
+criticalLevel=one processingDuration=]0-1] planned=False partial_repair=False => DÃ©pannageChauffageindividuel
+criticalLevel=one resolutionDuration=]4-16] done=False partial_repair=True => DÃ©pannageChauffageindividuel
+done=False planned=False client_planned=True partial_repair=True => DÃ©pannageChauffageindividuel
+criticalLevel=one resolutionDuration=]4-16] done=False => DÃ©pannageChauffageindividuel
+criticalLevel=one resolutionDuration=]4-16] partial_repair=True => DÃ©pannageChauffageindividuel
+processingDuration=]1-2] done=False partial_repair=True => DÃ©pannageChauffageindividuel
+done=False planned=False client_planned=True => DÃ©pannageChauffageindividuel
+done=False planned=False partial_repair=True => DÃ©pannageChauffageindividuel
+planned=False client_planned=True partial_repair=True => DÃ©pannageChauffageindividuel
+processingDuration=]1-2] done=False => DÃ©pannageChauffageindividuel
+processingDuration=]1-2] partial_repair=True => DÃ©pannageChauffageindividuel
+planned=False partial_repair=True => DÃ©pannageChauffageindividuel
+criticalLevel=one workType=corrective done=False partial_repair=True => DÃ©pannageChauffageindividuel
+criticalLevel=one workType=corrective done=False => DÃ©pannageChauffageindividuel
+criticalLevel=one workType=corrective partial_repair=True => DÃ©pannageChauffageindividuel
+criticalLevel=one done=False partial_repair=True => DÃ©pannageChauffageindividuel
+criticalLevel=one done=False => DÃ©pannageChauffageindividuel
+criticalLevel=one partial_repair=True => DÃ©pannageChauffageindividuel
+criticalLevel=minus-one workType=preventive planned=False client_planned=True => VisitepÃ©riodique
+criticalLevel=minus-one workType=preventive planned=False => VisitepÃ©riodique
+criticalLevel=minus-one planned=False client_planned=True => VisitepÃ©riodique
+criticalLevel=minus-one planned=False => VisitepÃ©riodique
+criticalLevel=one workType=corrective responseTime=]2-4] resolutionDuration=]4-16] => DÃ©pannageChauffageindividuel
+criticalLevel=one workType=corrective processingDuration=]0-1] resolutionDuration=]4-16] => DÃ©pannageChauffageindividuel
+criticalLevel=one workType=corrective resolutionDuration=]4-16] client_planned=True => DÃ©pannageChauffageindividuel
+criticalLevel=one responseTime=]2-4] resolutionDuration=]4-16] => DÃ©pannageChauffageindividuel
+criticalLevel=one processingDuration=]0-1] resolutionDuration=]4-16] => DÃ©pannageChauffageindividuel
+criticalLevel=one resolutionDuration=]4-16] client_planned=True => DÃ©pannageChauffageindividuel
+workType=corrective resolutionDuration=]4-16] client_planned=True => DÃ©pannageChauffageindividuel
+resolutionDuration=]4-16] client_planned=True => DÃ©pannageChauffageindividuel
+criticalLevel=one done=True client_planned=True partial_repair=False => DÃ©pannageChauffageindividuel
+criticalLevel=one done=True client_planned=True => DÃ©pannageChauffageindividuel
+criticalLevel=one client_planned=True partial_repair=False => DÃ©pannageChauffageindividuel
+workType=corrective planned=False partial_repair=False => DÃ©pannageChauffageindividuel
+criticalLevel=one done=True planned=False client_planned=True partial_repair=False => DÃ©pannageChauffageindividuel
+criticalLevel=one done=True planned=False client_planned=True => DÃ©pannageChauffageindividuel
+criticalLevel=one done=True planned=False partial_repair=False => DÃ©pannageChauffageindividuel
+criticalLevel=one planned=False client_planned=True partial_repair=False => DÃ©pannageChauffageindividuel
+criticalLevel=one done=True planned=False => DÃ©pannageChauffageindividuel
+criticalLevel=one planned=False partial_repair=False => DÃ©pannageChauffageindividuel
+criticalLevel=minus-one workType=preventive processingDuration=]1-2] => VisitepÃ©riodique
+workType=preventive processingDuration=]1-2] => VisitepÃ©riodique
+criticalLevel=one workType=corrective done=False planned=True partial_repair=True => DÃ©pannageChauffageindividuel
+criticalLevel=one workType=corrective done=False planned=True => DÃ©pannageChauffageindividuel
+criticalLevel=one workType=corrective planned=True partial_repair=True => DÃ©pannageChauffageindividuel
+criticalLevel=one done=False planned=True partial_repair=True => DÃ©pannageChauffageindividuel
+criticalLevel=one done=False planned=True => DÃ©pannageChauffageindividuel
+criticalLevel=one planned=True partial_repair=True => DÃ©pannageChauffageindividuel
+workType=preventive planned=False => VisitepÃ©riodique
+workType=corrective done=False partial_repair=True => DÃ©pannageChauffageindividuel
+workType=corrective partial_repair=True => DÃ©pannageChauffageindividuel
+criticalLevel=one workType=corrective done=False planned=True client_planned=False partial_repair=True => DÃ©pannageChauffageindividuel
+criticalLevel=one workType=corrective processingDuration=]0-1] done=False partial_repair=True => DÃ©pannageChauffageindividuel
+criticalLevel=one workType=corrective done=False planned=True client_planned=False => DÃ©pannageChauffageindividuel
+criticalLevel=one workType=corrective done=False client_planned=False partial_repair=True => DÃ©pannageChauffageindividuel
+criticalLevel=one workType=corrective planned=True client_planned=False partial_repair=True => DÃ©pannageChauffageindividuel
+criticalLevel=one done=False planned=True client_planned=False partial_repair=True => DÃ©pannageChauffageindividuel
+criticalLevel=one workType=corrective processingDuration=]0-1] done=False => DÃ©pannageChauffageindividuel
+criticalLevel=one workType=corrective processingDuration=]0-1] partial_repair=True => DÃ©pannageChauffageindividuel
+criticalLevel=one workType=corrective done=False client_planned=False => DÃ©pannageChauffageindividuel
+criticalLevel=one workType=corrective client_planned=False partial_repair=True => DÃ©pannageChauffageindividuel
+criticalLevel=one processingDuration=]0-1] done=False partial_repair=True => DÃ©pannageChauffageindividuel
+criticalLevel=one done=False planned=True client_planned=False => DÃ©pannageChauffageindividuel
+criticalLevel=one done=False client_planned=False partial_repair=True => DÃ©pannageChauffageindividuel
+criticalLevel=one planned=True client_planned=False partial_repair=True => DÃ©pannageChauffageindividuel
+criticalLevel=one processingDuration=]0-1] done=False => DÃ©pannageChauffageindividuel
+criticalLevel=one processingDuration=]0-1] partial_repair=True => DÃ©pannageChauffageindividuel
+criticalLevel=one done=False client_planned=False => DÃ©pannageChauffageindividuel
+criticalLevel=one client_planned=False partial_repair=True => DÃ©pannageChauffageindividuel
+workType=corrective done=False => DÃ©pannageChauffageindividuel
+criticalLevel=one workType=corrective processingDuration=]0-1] => DÃ©pannageChauffageindividuel
+workType=corrective processingDuration=]0-1] done=False partial_repair=True => DÃ©pannageChauffageindividuel
+workType=corrective processingDuration=]0-1] done=False => DÃ©pannageChauffageindividuel
+workType=corrective processingDuration=]0-1] partial_repair=True => DÃ©pannageChauffageindividuel
+criticalLevel=one workType=corrective processingDuration=]0-1] done=False planned=True partial_repair=True => DÃ©pannageChauffageindividuel
+criticalLevel=one workType=corrective processingDuration=]0-1] done=False planned=True => DÃ©pannageChauffageindividuel
+criticalLevel=one workType=corrective processingDuration=]0-1] planned=True partial_repair=True => DÃ©pannageChauffageindividuel
+criticalLevel=one processingDuration=]0-1] done=False planned=True partial_repair=True => DÃ©pannageChauffageindividuel
+criticalLevel=one processingDuration=]0-1] done=False planned=True => DÃ©pannageChauffageindividuel
+criticalLevel=one processingDuration=]0-1] planned=True partial_repair=True => DÃ©pannageChauffageindividuel
+criticalLevel=one processingDuration=]0-1] => DÃ©pannageChauffageindividuel
+workType=corrective done=False planned=True partial_repair=True => DÃ©pannageChauffageindividuel
+workType=corrective done=False planned=True => DÃ©pannageChauffageindividuel
+workType=corrective planned=True partial_repair=True => DÃ©pannageChauffageindividuel
+criticalLevel=one workType=corrective responseTime=]1-2] => DÃ©pannageChauffageindividuel
+criticalLevel=one responseTime=]1-2] => DÃ©pannageChauffageindividuel
+done=False partial_repair=True => DÃ©pannageChauffageindividuel
+partial_repair=True => DÃ©pannageChauffageindividuel
+criticalLevel=one workType=corrective processingDuration=]0-1] done=True partial_repair=False => DÃ©pannageChauffageindividuel
+criticalLevel=one workType=corrective processingDuration=]0-1] done=True => DÃ©pannageChauffageindividuel
+criticalLevel=one workType=corrective processingDuration=]0-1] partial_repair=False => DÃ©pannageChauffageindividuel
+workType=corrective done=False planned=True client_planned=False partial_repair=True => DÃ©pannageChauffageindividuel
+ => DÃ©pannageChauffageindividuel

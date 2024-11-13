@@ -1,0 +1,18 @@
+Boiler=True => Pannechauffind
+occupant_absent=True => Pannechauffind
+Boiler=True Leak=True => VisiteentretienchaudiÃ¨re
+Boiler=True workType=preventive => VisiteentretienchaudiÃ¨re
+Boiler=True responseTime=0 => VisiteentretienchaudiÃ¨re
+Boiler=True planned=False => VisiteentretienchaudiÃ¨re
+Boiler=True requested=False => VisiteentretienchaudiÃ¨re
+Fan=True Water=False => PanneVMCsanitaire
+Fan=True workType=corrective => PanneVMCsanitaire
+Fan=True planned=True => PanneVMCsanitaire
+Fan=True requested=True => PanneVMCsanitaire
+Leak=True workType=preventive => VisiteentretienchaudiÃ¨re
+Leak=True responseTime=0 => VisiteentretienchaudiÃ¨re
+Leak=True planned=False => VisiteentretienchaudiÃ¨re
+Leak=True requested=False => VisiteentretienchaudiÃ¨re
+Boiler=True Water=True criticalLevel=one => VisiteentretienchaudiÃ¨re
+Boiler=True Water=True occupant_absent=False => VisiteentretienchaudiÃ¨re
+Boiler=True Water=True canceled=False => VisiteentretienchaudiÃ¨re

@@ -1,0 +1,33 @@
+workType=preventive planned=False => TMH-visiteentretienappareilgaz
+Boiler=False criticalLevel=three responseTime=]24-48] => ALTEAL-dÃ©pannagechauffage
+Boiler=False Water=False criticalLevel=one responseTime=]2-4] => OPH31dÃ©pannagechauffage
+Water=False responseTime=]16-24] start=False => TMH-visiteentretienballonsolaire
+workType=preventive postponed=True => TMH-visiteentretienappareilgaz
+Water=False workType=corrective planned=False replanned=True => TMH-dÃ©pannagechauffage
+Boiler=False workType=corrective planned=True replanned=True => TMH-dÃ©pannagechauffage
+criticalLevel=zero occupant_absent=True => TMH-visiteentretienappareilgaz
+workType=preventive start=True requested=True => TMH-visiteentretienappareilgaz
+workType=corrective planned=False replanned=True postponed=False => TMH-dÃ©pannagechauffage
+start=False planned=True replanned=False requested=False => TMH-visiteentretienballonsolaire
+Water=False criticalLevel=one resolutionDuration=]72--[ replanned=True => TMH-dÃ©pannagechauffage
+Water=False criticalLevel=one resolutionDuration=]72--[ postponed=False => TMH-dÃ©pannagechauffage
+Water=False workType=corrective resolutionDuration=]72--[ replanned=True postponed=False => TMH-dÃ©pannagechauffage
+workType=corrective processingDuration=]72--[ resolutionDuration=]72--[ => TMH-dÃ©pannagechauffage
+Water=False criticalLevel=one replanned=True postponed=False => TMH-dÃ©pannagechauffage
+Water=False criticalLevel=one replanned=True => TMH-dÃ©pannagechauffage
+Boiler=False criticalLevel=one start=True planned=True => TMH-dÃ©pannagechauffage
+Boiler=False criticalLevel=one planned=True => TMH-dÃ©pannagechauffage
+Water=True replanned=True => TMH-dÃ©pannagechauffage
+Water=False criticalLevel=one start=True planned=True postponed=False => TMH-dÃ©pannagechauffage
+workType=preventive requested=True => TMH-visiteentretienappareilgaz
+criticalLevel=zero responseTime=]16-24] resolutionDuration=]16-24] => TMH-visiteentretienballonsolaire
+Boiler=True Water=False criticalLevel=one => TMH-dÃ©pannagechauffage
+Boiler=False workType=corrective resolutionDuration=]72--[ => TMH-dÃ©pannagechauffage
+workType=preventive start=True replanned=False occupant_absent=False => TMH-visiteentretienappareilgaz
+workType=corrective replanned=True => TMH-dÃ©pannagechauffage
+Boiler=True Water=False => TMH-dÃ©pannagechauffage
+Boiler=True criticalLevel=one => TMH-dÃ©pannagechauffage
+Boiler=True => TMH-dÃ©pannagechauffage
+Water=False criticalLevel=one => TMH-dÃ©pannagechauffage
+Water=False workType=corrective => TMH-dÃ©pannagechauffage
+ => TMH-visiteentretienappareilgaz

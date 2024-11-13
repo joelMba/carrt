@@ -1,0 +1,28 @@
+Boiler=True => Pannechauffind
+Leak=True => Pannechauffind
+criticalLevel=five => Pannechauffind
+criticalLevel=three => Pannechauffind
+responseTime=]16-24] => Pannechauffind
+Boiler=False Radiator=False Fan=False canceled=False => PanneRobinetterie
+Boiler=False Radiator=False workType=corrective canceled=False => PanneRobinetterie
+Boiler=False Radiator=False processingDuration=]0-1] canceled=False => PanneRobinetterie
+Boiler=False Radiator=False planned=True canceled=False => PanneRobinetterie
+Boiler=False Radiator=False requested=True canceled=False => PanneRobinetterie
+Boiler=False Fan=False criticalLevel=one workType=corrective => PanneRobinetterie
+Boiler=False Fan=False criticalLevel=one planned=True => PanneRobinetterie
+Boiler=False Fan=False criticalLevel=one requested=True => PanneRobinetterie
+Boiler=False Fan=False workType=corrective canceled=False => PanneRobinetterie
+Boiler=False Fan=False planned=True canceled=False => PanneRobinetterie
+Boiler=False Fan=False requested=True canceled=False => PanneRobinetterie
+Boiler=False Water=False processingDuration=]0-1] canceled=False => PanneRobinetterie
+Boiler=False Water=False planned=True canceled=False => PanneRobinetterie
+Boiler=False Water=False requested=True canceled=False => PanneRobinetterie
+Boiler=False criticalLevel=one workType=corrective canceled=False => PanneRobinetterie
+Boiler=False criticalLevel=one planned=True canceled=False => PanneRobinetterie
+Boiler=False criticalLevel=one requested=True canceled=False => PanneRobinetterie
+Boiler=False Radiator=False criticalLevel=one occupant_absent=False canceled=False => PanneRobinetterie
+Boiler=False Fan=False criticalLevel=one processingDuration=]0-1] canceled=False => PanneRobinetterie
+Boiler=False Fan=False criticalLevel=one occupant_absent=False canceled=False => PanneRobinetterie
+Boiler=False Leak=False criticalLevel=one processingDuration=]0-1] canceled=False => PanneRobinetterie
+Boiler=False criticalLevel=one processingDuration=]0-1] occupant_absent=False canceled=False => PanneRobinetterie
+Boiler=False Radiator=False Fan=False criticalLevel=one processingDuration=]0-1] occupant_absent=False => PanneRobinetterie
