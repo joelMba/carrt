@@ -2,104 +2,121 @@
 # coding: utf-8
 
 """
-Ce module contient des fonctions pour la préparation des données, afin de les adapter au format d'entrée de l'algorithme d'apprentissage
+This module contains functions for preparing data and converting it into the SPMF input format for machine learning algorithms.
 """
 
-def dataConversionToSpmfTxt(df,chemin):
-    """ Cette fonction prend en entrée les opération/interventions prétraitées et les transforme en au format spmf.
-    - La fonction prends également en entrée le chemin d'acces au fichier sauvergarde les données transformées """
-    for item in df.columns.tolist() :
-        df[item] = [item + "=" + str(elt) for elt in df[item].values]
-    chemin = chemin
-    liste = listOfDistinctElt(df)
-    dico = recodification(liste)
-    df1 = dataCodification (df, dico)
-    exportDataToSPMFTxt(df1, dico, chemin)
+def data_conversion_to_spmf_txt(df, output_path):
+    """
+    Converts preprocessed intervention/operation data into SPMF format.
+    Arguments:
+        df : DataFrame - The preprocessed data.
+        output_path : str - The file path to save the transformed data.
+    """
+    # Format each value as "column=value"
+    for column in df.columns:
+        df[column] = df[column].apply(lambda x: f"{column}={x}")
+
+    # Generate a list of distinct elements and their encoded mapping
+    distinct_elements = get_distinct_elements(df)
+    encoding_dict = encode_elements(distinct_elements)
+
+    # Encode data using the generated mapping
+    encoded_df = encode_data(df, encoding_dict)
+
+    # Export the encoded data to an SPMF-compatible text file
+    export_data_to_spmf_txt(encoded_df, encoding_dict, output_path)
 
 
-# In[4]:
+def get_distinct_elements(df):
+    """
+    Creates a list of unique elements from the DataFrame.
+    Arguments:
+        df : DataFrame - The data.
+    Returns:
+        list - A list of distinct elements across all columns.
+    """
+    unique_elements = []
+    for column in df.columns:
+        unique_elements.extend(df[column].unique())
+    return unique_elements
 
 
-def listOfDistinctElt (df):
-    listColumns = df.columns.tolist()
-    resultList = []
-    for item in listColumns:
-        resultList += df[item].unique().tolist()
-    return resultList
+def encode_elements(elements):
+    """
+    Encodes events into numeric format.
+    Arguments:
+        elements : list - A list of events to encode.
+    Returns:
+        dict - A dictionary mapping each event to a unique numeric code.
+    """
+    return {element: idx for idx, element in enumerate(elements, start=1)}
 
 
-# In[5]:
-
-
-def recodification(liste):
-    """Fonction de codification des évènements
-    La fonction prends en entrée une liste (évenements de la base) et retourne un dictionnaire comportant 
-    les évènements codifiés"""
-    return {k: v for v, k in enumerate(liste,1)}
-
-
-# In[6]:
-
-
-def dataCodification (df, dico):
-    for item in df.columns.tolist():
-        df = df.replace({item:dico})
+def encode_data(df, encoding_dict):
+    """
+    Replaces values in the DataFrame with their corresponding codes.
+    Arguments:
+        df : DataFrame - The data to encode.
+        encoding_dict : dict - The mapping of events to codes.
+    Returns:
+        DataFrame - The encoded DataFrame.
+    """
+    for column in df.columns:
+        df[column] = df[column].replace(encoding_dict)
     return df
 
 
-# In[7]:
+def export_data_to_spmf_txt(df, encoding_dict, output_path):
+    """
+    Exports encoded data to an SPMF-compatible text file.
+    Arguments:
+        df : DataFrame - The encoded data.
+        encoding_dict : dict - The mapping of events to codes.
+        output_path : str - The path to save the SPMF file.
+    """
+    # Convert DataFrame to a list of records
+    records = df.apply(lambda row: [str(val) for val in row], axis=1).tolist()
+
+    with open(output_path, 'w') as file:
+        file.write("@CONVERTED_FROM_TEXT\n")
+
+        # Write encoded item mapping
+        for event, code in encoding_dict.items():
+            file.write(f"@ITEM={code}={event}\n")
+
+        # Write sequences
+        for record in records:
+            file.write(" ".join(record) + "\n")
 
 
-def exportDataToSPMFTxt(df, dico, chemin):
-        records = []
-        for i in range(0,len(df)):
-            records.append([str(df.values[i,j]) for j in range(0, len(df.columns.tolist()))])
-
-        #with open(r'Donnees/test.txt', 'w') as fp:
-        with open(chemin, 'w') as fp:
-            fp.write("%s\n" % "@CONVERTED_FROM_TEXT") 
-            for elt in dico:
-                param = ""
-                param = "@ITEM=" + str(dico[elt]) + "=" + elt
-                fp.write("%s\n" % param)
-            for elt in records:
-                sequence = ""
-                for item in elt:
-                    sequence = sequence + item + " "
-                sequence = "".join(sequence.rstrip()) #delete a space at the end of string
-                    # write each item on a new line
-                fp.write("%s\n" % sequence)
-
-
-# In[ ]:
-
-
-def delete_False_Item (file_path) :
+def remove_false_items(file_path):
+    """
+    Removes "False" items from the SPMF file by updating both item definitions and sequences.
+    Arguments:
+        file_path : str - The path to the SPMF file to modify.
+    """
     items_to_remove = []
 
-    with open(file_path, "r") as input_file:
-        contents = input_file.read()
-        lines = contents.splitlines()
+    # Identify items labeled as "False"
+    with open(file_path, "r") as file:
+        for line in file:
+            if line.startswith("@"):
+                parts = line.split("=")
+                if parts[-1] == "False":
+                    items_to_remove.append(parts[1])
 
-        for i in range(len(lines)):
-            # Check if the line starts with "@"
-            if lines[i].startswith("@"):
-                items = lines[i].split("=")
-                if items[-1]=="False":
-                    items_to_remove.append(items[1])
+    # Remove "False" items from sequences
+    with open(file_path, "r") as file:
+        lines = file.readlines()
 
+    updated_lines = []
+    for line in lines:
+        if line.startswith("@"):
+            updated_lines.append(line)
+        else:
+            items = line.split()
+            updated_lines.append(" ".join(item for item in items if item not in items_to_remove))
 
-    with open(file_path, "r") as input_file:
-        contents = input_file.read()
-        lines = contents.splitlines()
-
-        for i in range(len(lines)):
-            # Check if the line starts with "@"
-            if not lines[i].startswith("@"):
-                items = lines[i].split(" ")
-                items = [item for item in items if item not in items_to_remove]
-                lines[i] = " ".join(items)
-
-    with open(file_path, "w") as output_file:
-        output_file.write("\n".join(lines))
-
+    # Write the cleaned file
+    with open(file_path, "w") as file:
+        file.write("\n".join(updated_lines))
